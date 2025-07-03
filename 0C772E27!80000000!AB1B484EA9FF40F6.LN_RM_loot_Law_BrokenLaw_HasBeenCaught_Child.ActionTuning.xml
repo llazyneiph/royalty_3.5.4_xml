@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Law_BrokenLaw_HasBeenCaught_Child" s="12329527907553591542">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">10149516921946092568<!--LN_RM:buff_HasBrokenLaw_Notif_Child--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9855110880599355240<!--LN_RM:buff_HasBrokenLaw_FineSchedule--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

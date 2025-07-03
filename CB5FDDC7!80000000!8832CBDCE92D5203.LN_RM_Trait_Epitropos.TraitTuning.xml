@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:Trait_Epitropos" s="9814130687659037187">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x5D74685C<!--Epitropos--></T>
+  <T n="display_name_gender_neutral">0x5D74685C<!--Epitropos--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:7F479F3412B31E84</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x0C4BF17C<!--Handpicked by the Emperor as a trusted guardian of the realm, Sims with the Epitropos Trait bear a heavy mantle. In the event of the Emperor's passing, should the heir be too young to rule, they are destined to step forward, ensuring stability and continuity. Their leadership, both a privilege and a duty, is a testament to the Emperor's faith in their wisdom and capability.--></T>
+  <T n="trait_origin_description">0xC1618F89<!--(From Being Entrusted By The Emperor)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

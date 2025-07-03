@@ -1,0 +1,21 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="14606127424841428713" i="trait" m="traits.traits" n="LN_RM_Addon_RoyalPartner">
+  <T n="display_name">0xD6E47C23<!--hidden_royalpartner_addon--></T>
+  <T n="display_name_gender_neutral">0xD6E47C23<!--hidden_royalpartner_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11146941233450290857<!--llazyneiph_RoyaltyMod_Buff_hidden_royalpartner_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">14150947991440052756<!--llazyneiph_RoyaltyModUpdateV1_Trait4/1972070460--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

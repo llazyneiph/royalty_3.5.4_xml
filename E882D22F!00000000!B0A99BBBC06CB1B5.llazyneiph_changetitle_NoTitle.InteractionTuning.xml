@@ -1,0 +1,85 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ImmediateSuperInteraction" s="12729877052428956085" i="interaction" m="interactions.base.immediate_interaction" n="llazyneiph_changetitle_NoTitle">
+  <T n="display_name">0x937627A1<!--No Title--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="pie_menu_icon" t="enabled">
+    <V n="enabled" t="resource_key">
+      <U n="resource_key">
+        <T n="key">2f7d0004:00000000:e8abb0cbe84020bf</T>
+      </U>
+    </V>
+  </V>
+  <L n="test_globals">
+    <V t="trait">
+      <U n="trait">
+        <L n="whitelist_traits">
+          <T>12373540430843966807<!--LN_RM_Hidden_Addon_CrownRoyal--></T>
+        </L>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>15511560455897925314<!--llazyneiph_RoyaltyMod_Trait_Prince_Hidden--></T>
+          <T>17720945735548741827</T>
+          <T>9437464450040797160</T>
+          <T>15315546828978851958<!--llazyneiph_RoyaltyMod_Trait_Dauphine_Hidden--></T>
+          <T>12027593555040890316<!--llazyneiph_RoyaltyMod_Trait_Princeps_Hidden--></T>
+          <T>14623442269841319157</T>
+          <T>15285553651821387525<!--llazyneiph_RoyaltyMod_Trait_Taizi_Hidden--></T>
+          <T>15387790217496604639<!--llazyneiph_RoyaltyMod_Trait_CrownPrince_Hidden--></T>
+          <T>10751091348654291991</T>
+          <T>9580269385560078514</T>
+          <T>13369394490284160877<!--llazyneiph_RoyaltyMod_Trait_PrincessDowager_Hidden--></T>
+          <T>10691496033935768685<!--llazyneiph_RoyaltyMod_Trait_PrincessRoyal_Hidden--></T>
+          <T>14259999118734218466<!--llazyneiph_RoyaltyMod_Trait_Tsarevna_Hidden--></T>
+          <T>14126865190374137930</T>
+        </L>
+      </U>
+    </V>
+    <V t="identity">
+      <U n="identity">
+        <T n="subjects_match">True</T>
+      </U>
+    </V>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>15880161191107921226<!--llazyneiph_crownroyaladdon_Trait/2687158676--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <T n="category">10156949626888772922<!--llazyneiph_crownroyaladdon_Trait/3273438446--></T>
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+</I>

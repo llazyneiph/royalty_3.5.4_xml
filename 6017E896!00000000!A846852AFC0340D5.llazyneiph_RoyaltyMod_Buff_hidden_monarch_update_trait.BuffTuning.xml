@@ -1,0 +1,13 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="12125525466404831445" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_hidden_monarch_update_trait">
+  <T n="visible">False</T>
+  <T n="buff_name">0xEDCFDB6E<!--hidden_monarch_update_trait--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>15346512878201145642<!--llazyneiph_INT_AnnouceAsHeir--></T>
+      </L>
+    </U>
+  </L>
+</I>

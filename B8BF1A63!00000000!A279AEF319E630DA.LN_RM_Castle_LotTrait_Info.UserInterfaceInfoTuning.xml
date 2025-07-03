@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ZoneModifierDisplayInfo" s="11707581065461117146" i="user_interface_info" m="zone_modifier.zone_modifier_display_info" n="LN_RM:Castle_LotTrait_Info">
+  <T n="zone_modifier_description">0xA556DC77</T>
+  <T n="zone_modifier_name">0xF346F0B3</T>
+  <T n="zone_modifier_icon">2f7d0004:00000000:76e759f5567402a4</T>
+  <T n="zone_modifier_reference">17243466582651169863</T>
+</I>

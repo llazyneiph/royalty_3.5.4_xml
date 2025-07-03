@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="15491714663190347220" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Dame_Hidden">
+  <T n="display_name">0xDD505AC5<!--Dame--></T>
+  <T n="display_name_gender_neutral">0xDD505AC5<!--Dame--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0x812AED3C<!--Change Title to Dame--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">9762678777585759419<!--llazyneiph_nobilityrunon_Trait/3270574351--></T>
+    </U>
+    <U>
+      <T n="buff_type">12200941110884482011</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

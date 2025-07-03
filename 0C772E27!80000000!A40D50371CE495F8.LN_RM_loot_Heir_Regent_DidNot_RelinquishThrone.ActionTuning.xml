@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Heir_Regent_DidNot_RelinquishThrone" s="11821192794555586040">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:858E0378E2812968</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB7340C3B<!--Things are going as smoothly as planned, {0.SimFirstName} told the Regent of {0.SimPronounPossessiveDependent} plans to take the throne but the Regent isn't letting go of the crown that easily! Gather support amongst the Nobility to oust the Regent!--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x193ACB2A<!--Not Going to Plan...--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">12985326292178063475<!--LN_RM:trait_Hidden_Heir_Regent_DeniedThrone--></T>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="relationship_change">
+        <U n="relationship_change">
+          <T n="amount">-50</T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <L n="target_participant_type">
+            <E>TargetSim</E>
+          </L>
+          <T n="track">16650<!--LTR_Friendship_Main--></T>
+          <U n="track_range">
+            <T n="lower_bound">0</T>
+            <T n="upper_bound">100</T>
+          </U>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="relationship_set_max">
+        <U n="relationship_set_max">
+          <L n="subject">
+            <E>TargetSim</E>
+          </L>
+          <L n="target_participant_type">
+            <E>Actor</E>
+          </L>
+          <T n="track">17856080727592755667<!--LN_RM:sentimentTrack_Furious_Regent_Denied--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

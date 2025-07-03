@@ -1,0 +1,6 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17641793838242396457" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Marquis">
+  <T n="visible">False</T>
+  <T n="buff_description">0xE4615CDC<!--{0.SimFirstName} has worked hard for the highest of Noble titles - Marquis!--></T>
+  <T n="buff_name">0xF207407F<!--Marquis--></T>
+  <T n="icon">2f7d0004:00000000:a0877f63ca04cadc</T>
+</I>

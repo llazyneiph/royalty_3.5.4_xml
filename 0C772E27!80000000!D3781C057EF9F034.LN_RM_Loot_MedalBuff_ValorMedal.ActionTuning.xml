@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_MedalBuff_ValorMedal" s="15237960149138796596">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

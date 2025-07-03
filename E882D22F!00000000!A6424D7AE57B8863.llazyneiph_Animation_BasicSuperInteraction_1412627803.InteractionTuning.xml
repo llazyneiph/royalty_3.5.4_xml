@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="MixerInteraction" s="11980223148990367843" i="interaction" m="interactions.base.mixer_interaction" n="llazyneiph_Animation_BasicSuperInteraction/1412627803">
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <V n="animation_ref" t="enabled">
+          <U n="enabled">
+            <T n="factory">16104380166057238634</T>
+            <U n="overrides">
+              <V n="balloons" t="enabled">
+                <L n="enabled">
+                  <U>
+                    <L n="balloon_choices">
+                      <U>
+                        <V n="item" t="balloon_category">
+                          <T n="balloon_category">17852983216825985168</T>
+                        </V>
+                      </U>
+                    </L>
+                    <L n="balloon_target">
+                      <E>Actor</E>
+                    </L>
+                  </U>
+                </L>
+              </V>
+            </U>
+          </U>
+        </V>
+      </U>
+    </U>
+  </V>
+  <U n="sub_action">
+    <T n="base_weight">2</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <T n="visible">False</T>
+  <T n="allow_user_directed">False</T>
+  <V n="lock_out_time" t="enabled">
+    <U n="enabled">
+      <U n="interval">
+        <T n="lower_bound">2</T>
+        <T n="upper_bound">2</T>
+      </U>
+    </U>
+  </V>
+  <L n="interaction_category_tags">
+    <E>Interaction_Mixer</E>
+    <E>Interaction_All</E>
+  </L>
+</I>

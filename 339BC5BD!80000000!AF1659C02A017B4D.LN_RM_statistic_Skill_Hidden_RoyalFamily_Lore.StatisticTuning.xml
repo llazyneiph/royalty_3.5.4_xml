@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Skill" i="statistic" m="statistics.skill" n="LN_RM:statistic_Skill_Hidden_RoyalFamily_Lore" s="12616370087998356301">
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>TEEN</E>
+    <E>CHILD</E>
+  </L>
+  <T n="icon" p="InSP18\UI\Icons\Skill\Skill_MediumSkill.png">2f7d0004:00000000:d801c89b07d0c2f2</T>
+  <T n="initial_value">100</T>
+  <L n="level_data">
+    <U>
+      <T n="key">1</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="text" t="single">
+            <T n="single">0x048E1EF7<!--{0.SimFirstName} has started {M0.his}{F0.her} delve in the history of the nations royal family. I wonder what secrets {M0.he}{F0.she} will discover...--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xD95759E7<!--Acquired the Royal Family Lore Skill--></T>
+          </V>
+        </U>
+      </U>
+    </U>
+    <U>
+      <T n="key">2</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x632FD746<!--{0.SimFirstName} is uncovering some truly facinating history that {M0.he}{F0.she} didn't know before... and more dates are lining up and things are falling into place!--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xDED21F1E<!--Reached Royal Family Lore Level 2--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">9979303796134080373<!--LN_RM:screenSlam_Skill_RFL_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">3</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x431237A5<!--{0.SimFirstName} has learnt some interesting and mostly unknown facts about the royal family! This research has just been the nail in the coffin and has all but confirmed {M0.his}{F0.her} suspisions!--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x945CC039<!--Maxed the Royal Family Lore Skill!--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">12261933074634658744<!--LN_RM:screenSlam_Skill_RFL_MaxLevel--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+        </L>
+      </U>
+    </U>
+  </L>
+  <T n="mood_id">14639<!--Mood_Focused--></T>
+  <T n="skill_description">0x4F087185<!--Delving into the rich history of the current royal family will help to strengthen your theory that you are in fact, the missing royal! \n\nThe Royal Family Lore Skill is increased by reading the Royal Family Lore book.--></T>
+  <E n="skill_level_type">MINOR</E>
+  <U n="stat_asm_param">
+    <T n="asm_param_name">skillLevel</T>
+    <L n="level_ranges">
+      <U>
+        <T n="key">high</T>
+        <U n="value">
+          <T n="lower_bound">5</T>
+          <T n="upper_bound">100</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">low</T>
+        <U n="value">
+          <T n="lower_bound">0</T>
+          <T n="upper_bound">1</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">medium</T>
+        <U n="value">
+          <T n="lower_bound">3</T>
+          <T n="upper_bound">3</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">mediumHigh</T>
+        <U n="value">
+          <T n="lower_bound">4</T>
+          <T n="upper_bound">4</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">mediumLow</T>
+        <U n="value">
+          <T n="lower_bound">2</T>
+          <T n="upper_bound">2</T>
+        </U>
+      </U>
+    </L>
+    <T n="use_effective_skill_level">False</T>
+  </U>
+  <T n="stat_name">0x0D4BEEEF<!--Royal Family Lore--></T>
+  <L n="tags">
+    <E>Skill_All</E>
+    <E>Skill_All_Visible</E>
+    <E>Skill_Mental</E>
+  </L>
+  <L n="tooltip_icon_list">
+    <T p="InSP18\UI\Icons\Headlines\Headline_MediumSkill.png">2f7d0004:00000000:d801c89b07d0c2f2</T>
+  </L>
+</I>

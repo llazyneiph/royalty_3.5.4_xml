@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="13006575272737781359" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_DespisedTyrant">
+  <T n="buff_description">0xBF9856BA<!--{0.SimFirstName} will go down in the history books as the most hated ruler to ever claim the throne!--></T>
+  <T n="buff_name">0xA113C1F4<!--Despised Tyrant--></T>
+  <T n="icon">2f7d0004:00000000:e5edc4da729dbc9a</T>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <T n="mood_weight">1</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>14083714453443253290<!--llazyneiph_INT_DemandSimoleans--></T>
+      </L>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:role_Officiator_Coronation_Phase3" s="15779703298626273576">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">135703<!--buff_Festival_Blossom_Autonomy_ThrowPetals--></T>
+    </U>
+    <U>
+      <T n="buff_type">32463<!--buff_AutonomyMod_PlayMusicalInstruments--></T>
+    </U>
+    <U>
+      <T n="buff_type">32209<!--buff_AutonomyMod_BirthdayGuestCelebrate--></T>
+    </U>
+    <U>
+      <T n="buff_type">33931<!--buff_AutonomyMod_SocialMore--></T>
+    </U>
+    <U>
+      <T n="buff_type">35368<!--Buff_Role_Appropriateness_NoBathing--></T>
+    </U>
+    <U>
+      <T n="buff_type">35390<!--Buff_Role_Appropriateness_NoSleeping--></T>
+    </U>
+    <U>
+      <T n="buff_type">35365<!--Buff_Role_Appropriateness_NoCooking--></T>
+    </U>
+    <U>
+      <T n="buff_type">35370<!--Buff_Role_Appropriateness_NoCleaning--></T>
+    </U>
+    <U>
+      <T n="buff_type">117187</T>
+    </U>
+    <U>
+      <T n="buff_type">74343<!--buff_PreventRunning--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="autonomy_ping" />
+  <L n="role_affordances">
+    <T>13002<!--ask_toLeaveLot--></T>
+  </L>
+  <L n="tags">
+    <E>Role_Guest</E>
+  </L>
+</I>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Military_MountainAmbush_Begin" s="9279306101881435069">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="advertise">True</T>
+          <T n="stat">10182953970481808072<!--LN_RM:commodity_Military_MountainAmbush--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

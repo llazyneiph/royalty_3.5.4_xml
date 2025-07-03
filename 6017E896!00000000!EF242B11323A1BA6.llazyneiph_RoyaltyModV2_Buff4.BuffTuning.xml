@@ -1,0 +1,6 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17231945427083467686" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModV2_Buff4">
+  <T n="visible">False</T>
+  <L n="_loot_on_addition">
+    <T>15978165276020261041<!--llazyneiph_RoyaltyModV2_Buff4/2010718676--></T>
+  </L>
+</I>

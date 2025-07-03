@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="11559419902110447179" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModV2_Trait18/1577268127">
+  <T n="visible">False</T>
+  <T n="buff_description">0xDF856EA9<!--Description--></T>
+  <T n="buff_name">0xAD247465<!--Name--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="_loot_on_addition">
+    <T>9298971288245332365<!--llazyneiph_RoyaltyModV2_Trait18/2387162403--></T>
+    <T>17866690196071633498<!--llazyneiph_RoyaltyModV2_Trait18/249082846--></T>
+    <T>10518198856935613565<!--llazyneiph_RoyaltyModV2_Trait18/2054167069--></T>
+    <T>15729076262323115998<!--llazyneiph_RoyaltyModV2_Trait18/241867616--></T>
+    <T>14884132584631853527<!--llazyneiph_RoyaltyModV2_Trait18/3252117979--></T>
+    <T>14563802271110009188<!--llazyneiph_RoyaltyModV2_Trait18/18251358--></T>
+    <T>14137277611968610366<!--llazyneiph_RoyaltyModV2_Trait18/3798656566--></T>
+  </L>
+</I>

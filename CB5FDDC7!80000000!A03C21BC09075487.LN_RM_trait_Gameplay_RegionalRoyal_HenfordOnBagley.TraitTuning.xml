@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_HenfordOnBagley" s="11546140636160152711">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x6190E986<!--Henford-on-Bagley Royal--></T>
+  <T n="display_name_gender_neutral">0x6190E986<!--Henford-on-Bagley Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:B7ABAA9B9EE14CF4</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xDCEE930C<!--{0.SimFirstName} belongs to the ruling family of Henford-on-Bagley.--></T>
+  <T n="trait_origin_description">0x4B9A8669<!--(From Ruling Over Henford-on-Bagley)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Servant_Household_AddRelBits_Maid" s="9603863191676030786">
+  <L n="loot_actions">
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">15803<!--has_met--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">LotOwners</E>
+            <E n="targets">Actor</E>
+          </U>
+          <U>
+            <T n="bit">1445074908<!--LN_RM:relationshipBit_Servant_Maid--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">LotOwners</E>
+            <E n="targets">Actor</E>
+          </U>
+          <U>
+            <T n="bit">1881020026<!--LN_RM:relationshipBit_ServantsEmployer--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">Actor</E>
+            <E n="targets">LotOwners</E>
+          </U>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">14591125807934349459<!--LN_RM:trait_Hidden_ExistingMaid--></T>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="relationship_change">
+        <U n="relationship_change">
+          <T n="amount">1</T>
+          <T n="track">16650<!--LTR_Friendship_Main--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

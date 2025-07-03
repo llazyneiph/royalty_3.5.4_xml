@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_WillowCreek" s="17802413420560545536">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xCEC91661<!--Willow Creek Royal--></T>
+  <T n="display_name_gender_neutral">0xCEC91661<!--Willow Creek Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:155D0E18F7BBAB2B</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xA4F930DB<!--{0.SimFirstName} belongs to the ruling family of Willow Creek.--></T>
+  <T n="trait_origin_description">0x4D68B066<!--(From Ruling Over Willow Creek)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

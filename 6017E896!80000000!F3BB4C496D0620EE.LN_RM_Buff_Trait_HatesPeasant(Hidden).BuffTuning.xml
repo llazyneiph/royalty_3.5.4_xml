@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Trait_HatesPeasant(Hidden)" s="17562715050106822894">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="continuous_statistic_modifier">
+        <U n="continuous_statistic_modifier">
+          <T n="modifier_value">1</T>
+          <T n="statistic">11758771657377310106<!--LN_RM:commodity_trait_NearPeasant--></T>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+       <V t="trait">
+          <U n="trait">
+          <E n="subject">TargetSim</E>
+            <L n="whitelist_traits">
+              <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+            </L>
+          </U>
+        </V>
+        <V t="test_set_reference">
+          <T n="test_set_reference">17586196423756589485<!--LN_RM:testSet_isGoodRoyalOrNoble_Actor--></T>
+        </V>
+        <V t="test_set_reference">
+          <T n="test_set_reference">18153824111629086111<!--LN_RM:testSet_isNot_RoyalOrNoble_TargetSim--></T>
+        </V>
+      </L>
+    </L>
+  </V>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+</I>

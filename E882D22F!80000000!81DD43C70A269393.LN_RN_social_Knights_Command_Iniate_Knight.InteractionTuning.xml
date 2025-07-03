@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RN:social_Knights_Command_Iniate_Knight" s="9357710122893611923">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="circle">
+            <U n="circle">
+              <T n="ideal_radius">0</T>
+              <T n="radius">1.25</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="posture">
+            <U n="posture">
+              <L n="posture_manifest_tuning">
+                <U>
+                  <V n="posture_type" t="enabled">
+                    <T n="enabled">15537<!--posture_Stand--></T>
+                  </V>
+                  <V n="surface" t="None" />
+                </U>
+              </L>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_icon" t="participant">
+    <U n="participant">
+      <L n="participant_type">
+        <E>TargetSim</E>
+      </L>
+    </U>
+  </V>
+  <V n="_saveable" t="enabled" />
+  <T n="allow_autonomous">False</T>
+  <T n="attention_cost">0.5</T>
+  <V n="basic_content" t="one_shot">
+    <U n="one_shot">
+      <U n="animation_ref">
+        <T n="factory">24413<!--Social_Responses_Compassion_UnderstandingNod--></T>
+      </U>
+    </U>
+  </V>
+  <V n="basic_reserve_object" t="disabled" />
+  <T n="category">12138091985676420975<!--LN_RM:pieMenuCategory_Knights--></T>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xF6ADAFC8<!--Bestow Knighthood--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>11672613137047957963<!--LN_RM:loot_AddTrait_Knight--></T>
+        </L>
+        <L n="parameterized_autonomy" />
+        <V n="response" t="enabled">
+          <V n="enabled" t="individual">
+            <U n="individual">
+              <L n="animations">
+                <U>
+                  <E n="target">TargetSim</E>
+                  <U n="animation">
+                    <T n="factory">17900645190449239248<!--LN_RM:Knights_Salute--></T>
+                  </U>
+                </U>
+              </L>
+            </U>
+          </V>
+        </V>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <L n="blacklist">
+          <T>17024695138969511409<!--LN_RM:buff_Hidden_PersonalGuard_Knight--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+        
+      </U>
+    </V>
+     <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="whitelist_traits">
+          <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+          <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>17971435267957576713<!--LN_RM:trait_Hidden_Knight--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0x27462FCD<!--This Sim is Already a Knight.--></T>
+        </V>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>14696518045046305264<!--LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0x27998675<!--This Sim is Already a Personal Guard.--></T>
+        </V>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>17971435267957576713<!--LN_RM:trait_Hidden_Knight--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>34317<!--Child--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">30</T>
+</I>

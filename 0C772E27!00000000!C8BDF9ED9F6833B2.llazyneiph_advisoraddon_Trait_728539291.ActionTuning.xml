@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14464992377160872882" i="action" m="interactions.utils.loot" n="llazyneiph_advisoraddon_Trait/728539291">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14526583973603269619</T>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>14526583973603269619</T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

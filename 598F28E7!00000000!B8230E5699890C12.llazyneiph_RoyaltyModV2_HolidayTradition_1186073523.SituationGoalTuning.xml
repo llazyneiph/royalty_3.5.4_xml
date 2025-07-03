@@ -1,0 +1,28 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SituationGoalObjectInteraction" s="13268464692269485074" i="situation_goal" m="situations.situation_goal_object_interaction" n="llazyneiph_RoyaltyModV2_HolidayTradition/1186073523">
+  <T n="_iterations">1</T>
+  <T n="_score">100</T>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x92C687D4<!--It's time to give thanks and celebrate the sim who currently precides over you! --></T>
+      </V>
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled">2f7d0004:00000000:f25f05faf1155353</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0xC409C173<!--Monarch's Birthday--></T>
+      </V>
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>15007020541470724514<!--llazyneiph_INT_PraiseTheMonarch--></T>
+      <T>15007020541470724515<!--llazyneiph_INT_TalkAboutPastMonarchs--></T>
+      <T>14585<!--cake_Grab--></T>
+      <T>105065<!--guitar_SingSongs--></T>
+      <T>138595<!--piano_Sing_Song--></T>
+    </L>
+    <E n="test_event">InteractionStart</E>
+  </U>
+  <T n="audio_sting_on_complete">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

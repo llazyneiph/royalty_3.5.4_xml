@@ -1,0 +1,73 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="11384585722053531340" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait2/2126564343">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13612221741533328130<!--llazyneiph_RoyaltyMod_Buff_WorldRenownedGardens--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xA3F0B536<!--(From Being a Servant)--></T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <U n="chance">
+          <T n="base_chance">55</T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="user_running_interaction">
+              <U n="user_running_interaction">
+                <L n="affordances">
+                  <T>76153<!--Gardening_Tend_Continuation_spray--></T>
+                  <T>36199<!--Gardening_Tend_Continuation_water--></T>
+                  <T>101265<!--Gardening_Water_Alien_display--></T>
+                  <T>8258<!--Gardening_Water_All_low--></T>
+                  <T>183148<!--Gardening_Water_All_Area--></T>
+                  <T>8416<!--Gardening_Water_Continuation--></T>
+                  <T>38940<!--Gardening_Weed_Unit_autonomous--></T>
+                  <T>76152<!--Gardening_Tend_Continuation_weed--></T>
+                  <T>38464<!--Gardening_Weed_All--></T>
+                  <T>38465<!--Gardening_Weed_Continuation--></T>
+                  <T>97820<!--Gardening_Weed_Unit_Planter_autonomous--></T>
+                  <T>98047<!--Gardening_Tend_Continuation_weed_Planter--></T>
+                  <T>97822<!--Gardening_Weed_All_Planter--></T>
+                  <T>183295<!--Gardening_Weed_All_Area--></T>
+                  <T>97823<!--Gardening_Weed_Planter_Continuation--></T>
+                  <T>39826<!--Gardening_Harvest_Unit_autonomous--></T>
+                  <T>77770<!--Gardening_Harvest_Unit_autonomous_low--></T>
+                  <T>34995<!--Gardening_KillWild_All--></T>
+                  <T>34996<!--Gardening_KillWild_Continuation--></T>
+                  <T>36197<!--Gardening_Tend_All--></T>
+                  <T>117875<!--Gardening_Tend_Start--></T>
+                  <T>13413<!--Gardening_Harvest--></T>
+                  <T>100776<!--Gardening_Harvest_All--></T>
+                  <T>100782<!--Gardening_Harvest_Continuation--></T>
+                  <T>190139<!--Gardening_Weed_Area_Continuation--></T>
+                  <T>190140<!--Gardening_Weed_Planter_Area_Continuation--></T>
+                  <T>9532<!--Gardening_Revive_Cowplant--></T>
+                  <T>9245<!--Gardening_Revive_Generic--></T>
+                  <T>13408<!--GardeningFruit_Plant--></T>
+                  <T>76308<!--GardeningFruit_Plant_All--></T>
+                  <T>98587<!--GardeningFruit_Plant_All_Pot--></T>
+                  <T>76309<!--GardeningFruit_Plant_Continuation--></T>
+                  <T>100876<!--GardeningFruit_Plant_Inventory_fake--></T>
+                  <T>77070<!--GardeningFruit_Plant_Planter--></T>
+                  <T>97297<!--GardeningFruit_Plant_Planter_continuation--></T>
+                  <T>77327<!--GardeningFruit_Plant_Pot--></T>
+                  <T>97268<!--GardeningFruit_Plant_Pot_continuation--></T>
+                </L>
+                <E n="participant">Actor</E>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>13612221741533328130<!--llazyneiph_RoyaltyMod_Buff_WorldRenownedGardens--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

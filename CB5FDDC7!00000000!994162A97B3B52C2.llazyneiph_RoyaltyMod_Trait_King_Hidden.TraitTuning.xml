@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="11043216241345647298" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_King_Hidden">
+  <T n="display_name">0xCEC78D2F<!--King--></T>
+  <T n="display_name_gender_neutral">0xCEC78D2F<!--King--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xF6E96C51<!--Change Tooltip to King--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18085964642404697693<!--llazyneiph_RoyaltyModUpdateV1_Trait/3467481466--></T>
+    </U>
+    <U>
+      <T n="buff_type">9372485864463173589</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

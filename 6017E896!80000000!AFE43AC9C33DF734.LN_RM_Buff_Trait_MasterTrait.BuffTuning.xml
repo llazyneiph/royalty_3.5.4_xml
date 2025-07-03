@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Trait_MasterTrait" s="12674319889565873972">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+  <V n="walkstyle" t="disabled" />
+  <L n="_loot_on_addition">
+    <T>11471211964751669852<!--LN_RM:loot_buff_ClassCheck--></T>
+    <T>12037072965777413241<!--LN_RM:Loot_Notification_StartUp--></T>
+  </L>
+  <L n="_loot_on_instance">
+    <T>16742406661891333480<!--LN_RM:loot_Statistic_Add_Law_Fine--></T>
+    <T>15812302489956005882<!--LN_RM:loot_AddTrait_isMonarch--></T>
+    <T>11471211964751669852<!--LN_RM:loot_buff_ClassCheck--></T>
+</L>
+  <L n="_loot_on_removal">
+    <T>17266639185504487267<!--LN_RM:loot_AutoClasses_RemoveTraits--></T>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">11167700406202157509<!--LN_RM:si_Monarch_GiveTitle_Noble--></T>
+    </U>
+    <U>
+      <T n="affordance">14269674950887526293<!--LN_RM:si_Monarch_GiveTitle_Advisor--></T>
+    </U>
+    <U>
+      <T n="affordance">15086859085136021161<!--LN_RM:si_Monarch_GiveTitle_CourtWizard--></T>
+    </U>
+    <U>
+      <T n="affordance">12230879158504970325<!--LN_RM:si_Monarch_GiveTitle_CrownRoyal--></T>
+    </U>
+    <U>
+      <T n="affordance">11372187796861573082<!--LN_RM:si_Monarch_GiveTitle_RoyalPartner--></T>
+    </U>
+    <U>
+      <T n="affordance">9800679465914060254<!--LN_RM:si_Monarch_GiveTitle_Legitimize--></T>
+    </U>
+    <U>
+      <T n="affordance">10366142732770474669<!--LN_RM:si_Monarch_GiveTitle_Recognize--></T>
+    </U>
+    <U>
+      <T n="affordance">9508696648827184326<!--LN_RM:si_Monarch_GiveTitle_DungeonGuard--></T>
+    </U>
+     <U>
+      <T n="affordance">10537907609970956025<!--LN_RM:superInteraction_Investiture--></T>
+    </U>
+     <U>
+      <T n="affordance">16054581504741633838<!--LN_RM:superInteraction_Investiture_ServiceMedal--></T>
+    </U>
+    <U>
+      <T n="affordance">11090064966275424182<!--LN_RM:superInteraction_Investiture_CrownMedal--></T>
+    </U>
+    <U>
+      <T n="affordance">14465417054668303571<!--LN_RM:superInteraction_Investiture_ValorMedal--></T>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <T>9587804384086030709<!--LN_RM:Picker_Base_Sim--></T>
+   <!--Rabbit Holes-->
+    <T>15633825142581317136<!--LN_RM:super_Emperor_RabbitHole_Ekklesia--></T>
+    <T>12901307536956226329<!--LN_RM:super_Emperor_RabbitHole_Symposium--></T>
+    <T>10365606688945205385<!--LN_RM:super_Emperor_RabbitHole_Oracle--></T>
+    <T>14866060372013409606<!--LN_RM:super_Emperor_RabbitHole_OlympicTraining--></T>
+    <T>9985675410122471897<!--LN_RM:super_Emperor_RabbitHole_DiplomaticBanquet--></T>
+    <T>17104670212184596448<!--LN_RM:super_Emperor_RabbitHole_Theatre--></T>
+    <T>10849623146053864087<!--LN_RM:super_Greek_RabbitHole_Lecture--></T>
+
+	<T>14293052239370639121<!--LN_RM:SuperInteraction_Meditate_GreekIdeals--></T>
+	
+	<!--<T>12999381973984742652LN_RM:immediate_Cheat_StartRevolution</T>-->
+  </L>
+</I>

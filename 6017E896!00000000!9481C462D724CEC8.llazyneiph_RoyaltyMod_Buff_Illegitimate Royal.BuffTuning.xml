@@ -1,0 +1,43 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10701050118404361928" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Illegitimate Royal">
+  <T n="visible">False</T>
+  <T n="buff_description">0xEEF67497<!--{0.SimFirstName} has been recognised as an illegitimate child of the Monarch. --></T>
+  <T n="buff_name">0xCCDC5FB6<!--Illegitimate Royal--></T>
+  <T n="icon">2f7d0004:00000000:8e377acccc94c5ba</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>15734992512185296748<!--llazyneiph_INT_InsistOnRoyalLineage--></T>
+        <T>11058978434923797988<!--llazyneiph_INT_BadMouthRoyalParent--></T>
+        <T>14295089746805880438<!--llazyneiph_INT_AnnounceIntentionsForCrown--></T>
+        <T>11212281416511282896<!--LN_RM:mixer_social_DiscreditHeir--></T>
+        <T>13869997516375424612<!--LN_RM:mixer_social_SpeculateFuture--></T>
+        <T>16654821094995800643<!--LN_RM:mixer_social_BragAboutLineage--></T>
+      </L>
+    </U>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">DECREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>9810511526710688288<!--llazyneiph_RoyaltyModV2_Trait13/947343471--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

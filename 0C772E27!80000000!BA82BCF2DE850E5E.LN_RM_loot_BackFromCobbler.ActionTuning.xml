@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_BackFromCobbler" s="13439511989328350814">
+  <L n="loot_actions">
+  <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>13421730749815569665<!--LN_RM:buff_TatteredShoes_Uncomfortable_AdultFemale--></T>
+          <T>11722260777814687450<!--LN_RM:buff_TatteredShoes_Uncomfortable_AdultMale--></T>
+          <T>18368519973886174483<!--LN_RM:buff_TatteredShoes_Uncomfortable_Child--></T>
+          <T>17880426210096946727<!--LN_RM:buff_Has_WornOutShoes_Hidden--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9397442046930640831<!--LN_RM:Buff_Hidden_PeasantRabbitHoles_HasBeenToRecently_Cobbler--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">11147484185678456341<!--LN_RM:buff_Cobbler_NewShoes--></T>
+        </U>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_babyrattle.png">2f7d0004:00000000:1da2e5ada5375158</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xCBCFA477<!--{0.SimFirstName} has returned home from from the cobbler and their shoes are as good as new!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type">
+                      <V n="objects" t="from_participant">
+                        <U n="from_participant">
+                          <E n="participant">Actor</E>
+                        </U>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

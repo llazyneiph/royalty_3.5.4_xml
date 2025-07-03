@@ -1,0 +1,28 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="17236701915244569894" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/116993267">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">11771487784209328127<!--llazyneiph_RoyaltyMod_Buff_No Longer in Line--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xB4DFAC67<!--(From Being Disowned as Heir)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>11361185401056155812</T>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18164583978991418627</T>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

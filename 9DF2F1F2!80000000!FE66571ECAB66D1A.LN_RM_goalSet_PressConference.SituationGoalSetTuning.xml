@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="LN_RM:goalSet_PressConference" s="18331435123019771162">
+ <L n="chained_goal_sets">
+    <T>11720747888906205489<!--LN_RM:goalSet_PressConference_2--></T>
+  </L>
+ <L n="goals">
+    <U>
+      <T n="goal">33440<!--Goal_HostsChatWithGuests--></T>
+    </U>
+    <U>
+      <T n="goal">23873<!--goal_ThankGuests--></T>
+    </U>
+    <U>
+      <T n="goal">33393<!--Goal_MakeHappy--></T>
+    </U>
+     <U>
+      <T n="goal">15977<!--Goal_AskAboutDayNew--></T>
+    </U>
+    <U>
+      <T n="goal">15994<!--Goal_ChatWithSimAny--></T>
+      <T n="weight">2</T>
+    </U>
+    <U>
+      <T n="goal">15993<!--Goal_ChatWithHost--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">15981<!--Goal_BecomeFriends--></T>
+    </U>
+    <U>
+      <T n="goal">15999<!--Goal_ComplimentOutFitSame--></T>
+    </U>
+    <U>
+      <T n="goal">15991<!--Goal_ChatWithFriend--></T>
+    </U>
+    <U>
+      <T n="goal">15989<!--Goal_CatchUpWithFriend--></T>
+    </U>
+    <U>
+      <T n="goal">15992<!--Goal_ChatWithGuest--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">16173324949502709401<!--LN_RM:goal_GiveInterview--></T>
+      <T n="weight">5</T>
+    </U>
+  </L>
+</I>

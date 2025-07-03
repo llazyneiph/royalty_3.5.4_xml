@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/Cobbler" s="3146224115">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xBBFA02D3</T>
+  <T n="career_name">0x894B92A6<!--Cobbler--></T>
+  <T n="career_name_gender_neutral">0x894B92A6</T>
+  <T n="icon">2f7d0004:00000000:1da2e5ada5375158</T>
+  <T n="icon_high_res">2f7d0004:00000000:FCA7662D888961F8</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>4021293604</T>
+    <T>3011733680</T>
+    <T>2653480802</T>
+    <T>3111287054</T>
+  </L>
+</I>

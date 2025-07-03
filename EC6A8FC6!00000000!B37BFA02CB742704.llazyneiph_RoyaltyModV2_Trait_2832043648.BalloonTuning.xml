@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="BalloonCategory" s="12933205644834776836" i="balloon" m="balloon.balloon_category" n="llazyneiph_RoyaltyModV2_Trait/2832043648">
+  <L n="balloons">
+    <U>
+      <V n="item" t="balloon_icon">
+        <U n="balloon_icon">
+          <V n="icon" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:9db57159e7bf8c9e</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </U>
+  </L>
+  <E n="balloon_type">SPEECH</E>
+</I>

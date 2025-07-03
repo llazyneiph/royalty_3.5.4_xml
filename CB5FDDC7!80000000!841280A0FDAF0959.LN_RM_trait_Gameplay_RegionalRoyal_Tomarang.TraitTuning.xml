@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_Tomarang" s="9516810391526508889">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xAD7AAB5A<!--Tomarang Royal--></T>
+  <T n="display_name_gender_neutral">0xAD7AAB5A<!--Tomarang Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:6E982CF36FE84551</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xDA055CEB<!--{0.SimFirstName} belongs to the ruling family of Tomarang.--></T>
+  <T n="trait_origin_description">0xD05013F3<!--(From Ruling Over Tomarang)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testSet_DeadlySwordFight_Max_Skill_Fitness" s="9804463776519231002">
+  <L n="test">
+    <L>
+      <V t="statistic">
+        <U n="statistic">
+          <T n="stat">16659<!--skill_Fitness--></T>
+          <V n="threshold" t="value_threshold">
+            <U n="value_threshold">
+              <T n="value">100</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

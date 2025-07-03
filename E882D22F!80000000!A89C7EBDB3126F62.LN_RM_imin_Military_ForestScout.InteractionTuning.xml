@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="LN_RM:imin_Military_ForestScout" s="12149725247957004130">
+  <V n="_saveable" t="disabled" />
+  <L n="basic_extras">
+  <V t="payment">
+    <U n="payment">
+      <V n="payment" t="literal">
+        <U n="literal">
+          <V n="payment_cost" t="amount">
+            <U n="amount">
+              <T n="amount">5000</T>
+            </U>
+          </V>
+          <V n="payment_source" t="statistic">
+            <U n="statistic">
+              <E n="participant">Actor</E>
+              <T n="require_full_amount">True</T>
+              <T n="statistic">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V n="timing" t="at_beginning">
+        <U n="at_beginning" />
+      </V>
+    </U>
+  </V>
+  <V t="payment">
+      <U n="payment">
+      <T n="display_only">True</T>
+        <U n="insufficient_funds_behavior">
+          <T n="allow_payment_succeed">False</T>
+        </U>
+        <V n="payment" t="literal">
+          <U n="literal">
+            <V n="payment_cost" t="amount">
+              <U n="amount">
+                <T n="amount">4500</T>
+              </U>
+            </V>
+            <V n="payment_source" t="statistic">
+              <U n="statistic">
+                <E n="participant">Actor</E>
+                <T n="statistic">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+              </U>
+            </V>
+          </U>
+        </V>
+        <V n="timing" t="at_end" />
+      </U>
+    </V>
+</L>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xE01E9B53<!--Valley Blockade--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="basic_extras">
+          <V t="notification">
+            <U n="notification">
+              <V n="dialog" t="single">
+                <V n="single" t="literal">
+                  <U n="literal">
+                    <V n="icon" t="enabled">
+                      <V n="enabled" t="resource_key">
+                        <U n="resource_key">
+                          <T n="key">2f7d0004:00000000:44255FAF3F2AED29<!--Forest--></T>
+                        </U>
+                      </V>
+                    </V>
+                    <V n="text" t="single">
+                      <T n="single">0x914C9CF8<!--Stealthily, your troops move through the dense forests, gathering intelligence and looking for opportunities to strike. Their skills will be tested against both nature and foe. Await their report upon return.--></T>
+                    </V>
+                    <V n="title" t="enabled">
+                      <T n="enabled">0x0FD5EAA7<!--Forest Reconnaissance Underway!--></T>
+                    </V>
+                    <E n="visual_type">INFORMATION</E>
+                  </U>
+                </V>
+              </V>
+            </U>
+          </V>
+        </L>
+        <L n="loot_list">
+          <T>15547312061990806807<!--LN_RM:loot_Military_ForestScout_Begin--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+            <E>TODDLER</E>
+            <E>BABY</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">PickedSim</E>
+      </U>
+    </V>
+  </L>
+</I>

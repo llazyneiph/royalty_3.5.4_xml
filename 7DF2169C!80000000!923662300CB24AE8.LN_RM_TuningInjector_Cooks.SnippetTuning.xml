@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_Cooks" s="10535716336790817512">
+  <L n="inject_to_buffs">
+    <U>
+      <T n="buff">10090<!--buff_Sim_IsCooking--></T>
+      <L n="loot_on_addition">
+        <T>15110251728373900966<!--LN_RM:Loot_Buff_Servant_Cooking_Cooldown--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_by_affordance">
+  <U>
+    <T n="query">13388<!--fridge_CookAutonomously--></T>
+    <L n="affordances">
+      <T>11448320796048472997<!--LN_RM:fridge_CookGroupMeal_Autonomously_GrandMeal--></T>
+        <T>15418504684494620689<!--LN_RM:fridge_CookGroupMeal_Autonomously_Gourmet--></T>
+        <T>13259815616374920886<!--LN_RM:fridge_CookGroupMeal_Autonomously_WeddingCake--></T>
+        <T>14120756149068352420<!--LN_RM:fridge_CookGroupMeal_Autonomously_Baking--></T>
+        <T>15213160702842120159<!--LN_RM:fridge_CookGroupMeal_Autonomously_LactoseIntolerant--></T>
+        <T>17298226465948891834<!--LN_RM:fridge_CookGroupMeal_Autonomously_Vegetarian--></T>
+        <T>10836777898114860976<!--LN_RM:fridge_CookGroupMeal_Autonomously_Dessert--></T>
+        <T>14546905598142962477<!--LN_RM:fridge_CookGroupMeal_Autonomously_HealthNut--></T>
+        <!--LBB Recipes-->
+        <T>14922654087774463502<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_RoastedDinners--></T>
+        <T>10564784419714481391<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_PiesAndQuiches--></T>
+        <T>17848940252505152412<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_PantryFoods--></T>
+        <T>16752818104052260914<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_SoupsAndStews--></T>
+        <T>14548875677793946176<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_Drinks--></T>
+        <T>17939506105259972107<!--LN_RM:fridge_CookGroupMeal_Autonomously_LBB_Puddings--></T>
+    </L>
+  </U>
+  <U>
+    <T n="query">14366<!--teaMaker_MakeRecipe_Start_OneShot_Basic--></T>
+    <L n="affordances">
+     <T>10808991884888575500<!--LN_RM:coffeeTea_StartGroupCrafting_Autonomously_Tea--></T>
+    </L>
+  </U>
+  <U>
+    <T n="query">13166<!--coffeeMaker_MakeRecipe_Start_OneShot_Basic--></T>
+    <L n="affordances">
+     <T>9577680206608173058<!--LN_RM:situation_Servant_Order_Cook_Coffee--></T>
+    </L>
+  </U>
+</L>
+</I>

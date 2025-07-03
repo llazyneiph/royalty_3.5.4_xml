@@ -1,0 +1,135 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="11890847392815827367" i="action" m="interactions.utils.loot" n="llazyneiph_crownroyaladdon_Trait/1549130763">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17720945735548741827</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9437464450040797160</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15315546828978851958<!--llazyneiph_RoyaltyMod_Trait_Dauphine_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12027593555040890316<!--llazyneiph_RoyaltyMod_Trait_Princeps_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14623442269841319157</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15285553651821387525<!--llazyneiph_RoyaltyMod_Trait_Taizi_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15387790217496604639<!--llazyneiph_RoyaltyMod_Trait_CrownPrince_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10751091348654291991</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9580269385560078514</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13369394490284160877<!--llazyneiph_RoyaltyMod_Trait_PrincessDowager_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10691496033935768685<!--llazyneiph_RoyaltyMod_Trait_PrincessRoyal_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14259999118734218466<!--llazyneiph_RoyaltyMod_Trait_Tsarevna_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14126865190374137930</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15511560455897925314<!--llazyneiph_RoyaltyMod_Trait_Prince_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">15315546828978851958<!--llazyneiph_RoyaltyMod_Trait_Dauphine_Hidden--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9759490177915974461" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_buff_Stepping Down...">
+  <T n="buff_description">0xFF391CAA<!--{0.SimFirstName} is removing their lot from the race to be Monarch!--></T>
+  <T n="buff_name">0xCFC83FB1<!--Stepping Down...--></T>
+  <T n="icon">2f7d0004:00000000:a77751eedb3713c0</T>
+  <T n="mood_type">14643<!--Mood_Sad--></T>
+  <T n="mood_weight">3</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Sad_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

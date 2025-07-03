@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Notification_EmpireHappiness_Minus_100" s="13585760032774840920">
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>3490462410<!--LN_RM:trait_Emperor--></T>
+            <T>10819084224781985071<!--LN_RM_Update_Monarch--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-5000</T>
+          <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP14\UI\Icons\Notifications\notification_HorseFear.png">2f7d0004:00000000:9CEBE7806E23C838</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x61638C26<!--The Empire is in turmoil! The people are deeply unhappy, and the situation is dire. Immediate action is needed to restore order and happiness.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

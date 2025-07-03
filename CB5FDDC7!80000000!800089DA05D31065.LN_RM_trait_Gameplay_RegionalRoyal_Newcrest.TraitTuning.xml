@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_Newcrest" s="9223523606348370021">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xF2ABDB30<!--Newcrest Royal--></T>
+  <T n="display_name_gender_neutral">0xF2ABDB30<!--Newcrest Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:20F53BF8BDD32ABE</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x26E11BE2<!--{0.SimFirstName} belongs to the ruling family of Newcrest.--></T>
+  <T n="trait_origin_description">0x8CAE8397<!--(From Ruling Over Newcrest)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="18103293151996973951" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Monarch01">
+  <T n="visible">False</T>
+  <T n="buff_description">0x869721E6<!--{0.SimFirstName} is the current reigning leader of the land! {0.SimPronounSubjective|xxUpper} has thousands of subjects to carefully rule over, will {0.SimPronounSubjective} go down in history as a benevolent and beloved monarch or as a feared iron-fisted ruler?--></T>
+  <T n="buff_name">0xAE0252CE<!--Monarch--></T>
+  <T n="icon">2f7d0004:00000000:d801c89b07d0c2f2</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>16669822577058274050<!--llazyneiph_RoyaltyModV2_Trait/3775259345--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

@@ -1,0 +1,31 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="14158741262910465150" i="reward" m="rewards.reward" n="llazyneiph_reward_joinroyalfamily">
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0x8D63623E<!--{0.SimFirstName} is now officially part of the Royal Family!--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:30f0846c783606f9</T>
+            </U>
+          </V>
+        </V>
+        <V n="secondary_icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x82DB8CFA<!--Recognized!--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+</I>

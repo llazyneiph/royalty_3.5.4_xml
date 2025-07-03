@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_KillMe_Buff" s="13775831329858775980">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">10222112601663823415<!--LN_RM:buff_KillMe_Hidden_Broadcaster--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+          <V n="dialog" t="notification">
+            <U n="notification">
+              <V n="icon" t="enabled">
+                <V n="enabled" t="participant">
+                  <U n="participant">
+                    <L n="participant_type">
+                      <E>TargetSim</E>
+                    </L>
+                  </U>
+                </V>
+              </V>
+              <V n="text" t="single">
+                <T n="single">0xEF2F19CE<!--{1.SimFirstName} has been marked for death. {0.SimFirstName} needs to ask a Lady-in-Waiting for deliver the apple.--></T>
+              </V>
+            </U>
+          </V>
+        </U>
+    </V>
+  </L>
+</I>

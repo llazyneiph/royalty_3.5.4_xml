@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalMultipleSimsWithBuff" i="situation_goal" m="situations.situation_goal_multi_sim" n="LN_RM:SituationGoalMultipleSimsWithBuff_WatchExecution" s="10110503044081364825">
+  <T n="_cooldown">600</T>
+  <U n="_goal_test">
+    <T n="buff_type">16671700797682998613<!--LN_RM:buff_Death_Hidden_ExecutionSuccessful--></T>
+    <V n="sim_count" t="fixed" />
+  </U>
+  <T n="_score">100</T>
+  <T n="is_visible">True</T>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGP10\UI\Icons\Events\EventGoal_Checklist.png">2f7d0004:00000000:9AEF756D9D83F666</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x1DD65E6F<!--Have Multiple Sims Watching Execution--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x06F14A09<!--Have 5 Sims watching the execution at once.--></T>
+      </V>
+    </U>
+  </V>
+</I>

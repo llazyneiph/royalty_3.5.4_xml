@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_AddToTreasury" s="17207642401813126741">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">250</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">500</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">750</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">873</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">156</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">1023</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">1478</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="statistics">
+        <V n="statistics" t="statistic_change">
+          <U n="statistic_change">
+            <T n="advertise">True</T>
+            <T n="amount">2103</T>
+            <T n="exclusive_to_owning_si">True</T>
+            <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          </U>
+        </V>
+      </V>
+    </U>
+  </L>
+</I>

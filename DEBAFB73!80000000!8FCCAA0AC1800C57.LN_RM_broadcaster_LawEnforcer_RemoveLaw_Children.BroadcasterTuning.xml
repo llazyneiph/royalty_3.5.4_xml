@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_LawEnforcer_RemoveLaw_Children" s="10361843805845458007">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5000</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>13880020576783170797<!--LN_RM:Loot_Law_Children_RemoveTrait--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">10</T>
+    </U>
+  </V>
+</I>

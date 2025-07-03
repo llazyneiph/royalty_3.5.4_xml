@@ -1,0 +1,20 @@
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_buff_DontEatRemoval" s="15279321539398893631">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>11994996071028997160<!--LN_RM:loot_buff_servantdonteat--></T>
+        </L>
+        <E n="subject">ActiveHousehold</E>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10245245209760105249<!--LN_RM:Buff_ServantDontEat--></T>
+        </L>
+        <E n="subject">LotOwners</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="LN_RM:MainGoal_Investiture_GiveMedal" s="12298153067800047949">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Whims\whim_Gregarious.png">2f7d0004:00000000:998104F41200DFC2</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x91B59C60<!--Bestow a Medal--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x6527BB96<!--Click on a Sim and select any 'Bestow with Medal' interaction from the Medals category.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_goal_loot_list">
+    <T>272907<!--goalLoot_WantFear_Fulfillment_Gain--></T>
+    <T>291795<!--goalLoot_Want_Fulfilled_BuffGain_Happy--></T>
+  </L>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>10537907609970956025<!--LN_RM:superInteraction_Investiture--></T>
+      <T>11090064966275424182<!--LN_RM:superInteraction_Investiture_CrownMedal--></T>
+      <T>16054581504741633838<!--LN_RM:superInteraction_Investiture_ServiceMedal--></T>
+      <T>14465417054668303571<!--LN_RM:superInteraction_Investiture_ValorMedal--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <L n="_pre_tests">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="_score">120</T>
+  <T n="_select_all_instantiated_sims">True</T>
+  <L n="_target_tests">
+    <V t="situation_job">
+      <U n="situation_job">
+        <L n="situation_jobs">
+          <T>10445762094450307897<!--LN_RM:job_MedalRecipients_Investiture--></T>
+        </L>
+      </U>
+    </V>
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

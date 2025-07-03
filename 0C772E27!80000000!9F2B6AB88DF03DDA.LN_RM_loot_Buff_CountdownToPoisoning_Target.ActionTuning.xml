@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_CountdownToPoisoning_Target" s="11469378216916958682">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10222112601663823415<!--LN_RM:buff_KillMe_Hidden_Broadcaster--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">16962517887986917366<!--LN_RM:buff_HasBeenPoisoned--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="text" t="single">
+              <T n="single">0x90CB435A<!--The target has eaten the poison. It's simply just a matter of time now.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="11781579554570902479" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/4238943224">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14124154054043858031<!--llazyneiph_RoyaltyMod_Buff_Banished!--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xE380C249<!--(From Being Banished!)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

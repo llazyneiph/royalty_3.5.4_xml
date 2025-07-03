@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="LN_RM:goalSet_Ball_2_2" s="15247047143775755956">
+  <L n="goals">
+    <U>
+      <T n="goal">33395<!--Goal_MakeSimsFlirty--></T>
+    </U>
+  </L>
+</I>

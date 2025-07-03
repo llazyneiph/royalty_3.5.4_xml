@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Cheating_RemoveTrait" s="10161177159414427495">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10622853659510224065<!--LN_RM:trait_Hidden_Law_Cheating--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Trait_Grandduke" s="16688658052663271181">
+<L n="_loot_on_instance">
+    <T>11344532849969812834<!--LN:loot_trait_Grandduke--></T>
+  </L>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">10590420504928922123<!--LN_RM:situationJob_BasicTrait_Grandduke--></T>
+      </V>
+      <T n="situation">16716278359629639231<!--LN_RM:basicTraitSituation_Grandduke--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="refresh_on_add">True</T>
+  <T n="show_timeout">False</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+</I>

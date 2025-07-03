@@ -1,0 +1,10 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Aspiration" s="18368007525396257120" i="aspiration" m="aspirations.aspiration_tuning" n="LN_RM:Succession_achievement">
+  <L n="objectives">
+    <T>12367439021864088230<!--LN_RM:Succession_ObjSet--></T>
+  </L>
+  <V n="screen_slam" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">10292535573672233272<!--LN_RM:Succession_Screenslam--></T>
+    </V>
+  </V>
+</I>

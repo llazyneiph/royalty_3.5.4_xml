@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Windenburg_Add" s="11699689843316804322">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14173425402441011111<!--LN_RM:trait_Gameplay_RegionalRoyal_Windenburg--></T>
+      </U>
+    </V>
+  </L>
+</I>

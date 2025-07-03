@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectStateValue" i="object_state" m="objects.components.state" n="LN_RM:Throne_Ownership_NotClaimed" s="18413936145039673274">
+
+  <L n="super_affordances">
+    <T>14516364585800527394<!--LN_RM:si_Throne_ClaimOwnership--></T>
+  </L>
+</I>

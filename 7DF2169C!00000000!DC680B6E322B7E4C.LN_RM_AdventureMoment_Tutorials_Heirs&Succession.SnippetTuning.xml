@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_Heirs&amp;Succession" s="15881956653838073420">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x162C04AF<!--<b>Heirs</b> \n\nYour Monarch can name an heir by choosing one of their Crown Royals or Royal Partners and navigating to the titles menu. \n\n <b>Succession</b> \n\nTo succeed the throne, Heirs must throw a coronation event where they will be able to accept the crown by using the <b>[LN] Coronation Podium</b> object, which can be found in buy mode.\nIf your Monarch has died unexpectedly, your Heir can inherit the throne by talking to the Royal Advisor.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Cheating_Cheated" s="14431762059091095329">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:69e44bd977ed3f93</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x232C3A48<!--Cheating is currently outlawed in this Kingdom, so {0.SimFirstName} will be fined for their promiscuous behaviour!--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x5F503271<!--Cheating is Outlawed!--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="home_region">
+        <U n="home_region">
+          <E n="participant">Actor</E>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>10622853659510224065<!--LN_RM:trait_Hidden_Law_Cheating--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

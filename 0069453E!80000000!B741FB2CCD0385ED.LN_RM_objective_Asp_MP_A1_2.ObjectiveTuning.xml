@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_MP_A1_2" s="13205111752263697901">
+  <T n="display_text">0x9FF04FB7<!--Reach Level 3 of the Charisma Skill--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+  <V n="objective_test" t="statistic">
+        <U n="statistic">
+            <T n="must_have_stat">True</T>
+            <T n="stat">16699<!--statistic_Skill_AdultMajor_Charisma--></T>
+            <V n="threshold" t="value_threshold">
+                <U n="value_threshold">
+                    <E n="comparison">EQUAL</E>
+                    <T n="value">3</T>
+                </U>
+            </V>
+        </U>
+    </V>
+  <T n="satisfaction_points">75</T>
+  <T n="tooltip">0x247F1EED<!--Prep yourself for public speaking, a skill you'll need when convincing people you truly are a royal.--></T>
+</I>

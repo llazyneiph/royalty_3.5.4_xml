@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_SpoilsOfWar" s="13257201341321944331">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">11885720837577707537<!--LN_RM:randomWeightedLoot_SpoilsofWar--></T>
+    </V>
+  </L>
+</I>

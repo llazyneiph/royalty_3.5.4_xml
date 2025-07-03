@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Relationship_Married_Royal_Marries_Royal" s="17638185023235488492">
+    <V n="_add_test_set" t="tests_set">
+        <L n="tests_set">
+            <L>
+                <V t="trait">
+                    <U n="trait">
+                        <T n="num_whitelist_required">1</T>
+                        <E n="subject">Actor</E>
+                        <L n="whitelist_traits">
+                            <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+                        </L>
+                    </U>
+                </V>
+            </L>
+        </L>
+    </V>
+
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+      <T n="max_duration">2880</T>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x16DDAA7D<!--A union of regal hearts and royal bloodlines. This marriage elevates not just their status, but their spirits too.--></T>
+  <T n="buff_name">0x8A3D4AB8<!--Royal Union--></T>
+  <T n="icon" p="InGame\UI\Icons\Buffs\buffs_justmarried.png">2f7d0004:00000000:9c8538e60cd2cd26</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">3</T>
+  <T n="visible">True</T>
+</I>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_TraitRemove_PersonalKnight" s="12761388780436706186">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14696518045046305264<!--LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18093841812020944492<!--LN_RM:trait_Hidden_PersonalGuard_Knigh--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP03\UI\Icons\headlines\headline_gremlin.png">2f7d0004:00000000:7892CB6B3804AA5E</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB57BA900<!--{1.SimFirstName} has been removed from personal guard duties.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

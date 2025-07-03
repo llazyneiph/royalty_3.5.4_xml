@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Investiture_Medal_Confidant_ServiceMedal" s="13476739050355443353">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x4FDE5BBF<!--Honored for {0.SimPronounPossessiveDependent} dedication and loyalty, {0.SimFirstName} feels a renewed sense of duty and respect from {0.SimPronounPossessiveDependent} peers. {0.SimPronounPossessiveDependent|capitalize} commitment has not gone unnoticed.--></T>
+  <T n="buff_name">0xA4E1F673<!--Honoured with Medal of Service--></T>
+  <T n="icon" p="InEP06\UI\Icons\Buffs\buffs_FanFavorite.png">2f7d0004:00000000:362174D0D565BE55</T>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">2</T>
+  <T n="visible">True</T>
+</I>

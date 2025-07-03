@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_trait_Hidden_isRoyal" s="15027261355134666193">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+      </U>
+    </V>
+  </L>
+</I>

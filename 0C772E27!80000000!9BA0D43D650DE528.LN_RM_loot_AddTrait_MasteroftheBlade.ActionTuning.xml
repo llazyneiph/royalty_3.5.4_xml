@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_MasteroftheBlade" s="11214196432306038056">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14465104005689465782<!--LN_RM:trait_MasteroftheBlade--></T>
+      </U>
+    </V>
+  </L>
+</I>

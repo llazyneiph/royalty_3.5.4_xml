@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_StopFollowingMe" s="11066836709820829445">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17699167620328815714<!--LN_RM:trait_Hidden_Being_Following--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18137332847401041450<!--LN_RM:trait_Hidden_Knight_Following--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+<V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <L n="dialog_options">
+              <E>DISABLE_CLOSE_BUTTON</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x72CB0BC3<!--Yes {F0.Mistress}{M0.Masters}, I will stop following you now.--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

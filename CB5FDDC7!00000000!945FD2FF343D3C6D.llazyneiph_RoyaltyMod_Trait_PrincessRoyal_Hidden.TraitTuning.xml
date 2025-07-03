@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="10691496033935768685" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_PrincessRoyal_Hidden">
+  <T n="display_name">0xF6B50517<!--Princess Royal--></T>
+  <T n="display_name_gender_neutral">0xF6B50517<!--Princess Royal--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xECEBBFCD<!--Change Title to Princess Royal--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">12377165526097029844<!--llazyneiph_crownroyaladdon_Trait/901257668--></T>
+    </U>
+    <U>
+      <T n="buff_type">17350336690371461131</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

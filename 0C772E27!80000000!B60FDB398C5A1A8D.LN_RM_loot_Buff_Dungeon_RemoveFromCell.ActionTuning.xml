@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_Dungeon_RemoveFromCell" s="13118945279767878285">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-1</T>
+          <T n="stat">16532695615139372079<!--LN_RM:commodity_HoldingCell_capacity--></T>
+          <L n="subject">
+            <E>Object</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="trait_remove">
+    <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+            <U n="specific_trait">
+                <T n="specific_trait">11665619136029415169<!--LN_RM:trait_Hidden_IsImprisoned--></T>
+            </U>
+        </V>
+    </U>
+</V>
+    <V t="buff_removal">
+            <U n="buff_removal">
+                <L n="buffs_to_remove">
+                    <T>16350113963717258444<!--LN_RM:buff_Dungeon_Sad--></T>
+                </L>
+                <E n="subject">TargetSim</E>
+            </U>
+        </V>
+        <V t="buff_removal">
+            <U n="buff_removal">
+                <L n="buffs_to_remove">
+                    <T>12551653076470181098<!--LN_RM:buff_Sad_LockedUpBrokeLaw--></T>
+                </L>
+                <E n="subject">TargetSim</E>
+            </U>
+        </V>
+      <V t="buff_removal">
+            <U n="buff_removal">
+                <L n="buffs_to_remove">
+                    <T>9466805609489501075<!--LN_RM:buff_LockedUp_Hidden--></T>
+                </L>
+                <E n="subject">TargetSim</E>
+            </U>
+        </V>
+  </L>
+</I>

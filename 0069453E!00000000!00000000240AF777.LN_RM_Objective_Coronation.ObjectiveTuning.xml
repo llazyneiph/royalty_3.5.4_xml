@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:Objective_Coronation" s="9754583609934951639">
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">1</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>10017118465346393395<!--LN_RM:superInteraction_Coronation_Crown--></T>
+        <T>11780489202194712170<!--LN_RM:superInteraction_Coronation_Crown_Korean--></T>
+        <T>17555398857850165621<!--LN_RM:superInteraction_Coronation_Crown_Aztec--></T>
+        <T>10901797599757121198<!--LN_RM:superInteraction_Coronation_Crown_Byzantine--></T>
+        <T>14440045117170156445<!--LN_RM:superInteraction_Coronation_Crown_Egyptian--></T>
+        <T>18384150306699137403<!--LN_RM:superInteraction_Coronation_Crown_Kokoshnik--></T>
+        <T>14528516302790237985<!--LN_RM:superInteraction_Coronation_Crown_Russian--></T>
+      </L>
+    </U>
+  </V>
+</I>

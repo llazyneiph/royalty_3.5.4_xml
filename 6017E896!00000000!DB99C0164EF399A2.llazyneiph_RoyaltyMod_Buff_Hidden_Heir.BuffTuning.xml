@@ -1,0 +1,33 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15823889967789349282" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Heir">
+  <T n="visible">False</T>
+  <T n="buff_description">0x846F158C<!--{0.SimFirstName} is the next in the line to the throne.--></T>
+  <T n="buff_name">0xB7C7CF68<!--Heir--></T>
+  <T n="icon">2f7d0004:00000000:e0b242efef632ace</T>
+  <L n="_loot_on_instance">
+    <T>13637446922987882105</T>
+    <T>18044577381765332150</T>
+  </L>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">13349234882631438464</T>
+      </V>
+      <T n="situation">15816125707756507620</T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>10947899861844329012<!--llazyneiph_INT_CantWaitToBeKing--></T>
+        <T>10929359935706665389<!--LN_RM:Heir_InheritThrone_INT--></T>
+      </L>
+    </U>
+  </L>
+</I>

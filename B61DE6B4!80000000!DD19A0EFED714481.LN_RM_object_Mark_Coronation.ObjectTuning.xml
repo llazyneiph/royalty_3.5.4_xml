@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="GameObject" i="object" m="objects.game_object" n="LN_RM:object_Mark_Coronation" s="15931942109141091457">
+  <U n="_components">
+    <V n="focus" t="enabled">
+      <U n="enabled">
+        <V n="_focus_score" t="globally">
+          <U n="globally">
+            <E n="base">LOW</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V n="state" t="enabled">
+      <U n="enabled">
+        <L n="states">
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">190408<!--state_StageMark_Visibility_On--></T>
+              </U>
+              <U>
+                <T n="key">190409<!--state_StageMark_Visibility_Off--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">190408<!--state_StageMark_Visibility_On--></T>
+            </V>
+            <T n="reset_to_default">True</T>
+          </U>
+        </L>
+      </U>
+    </V>
+  </U>
+  <L n="_super_affordances">
+    <T>13328<!--debug_Reset--></T>
+    <T>13326<!--debug_ObjectDestroy--></T>
+    <T>103888<!--cheat_set_as_head--></T>
+    <T>13983<!--sim-stand--></T>
+    <T>17035938841342034928<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown--></T>
+    <T>9474211110365291187<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown_Korean--></T>
+    <T>13115281754094588336<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown_Egyptian--></T>
+    <T>10836113067561124341<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown_Byzantine--></T>
+    <T>13650737901310068686<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown_Aztec--></T>
+    <T>11733054697871707418<!--LN_RM:Mark_Socials_Picker_Coronation_GenericCrown_Russian--></T>
+  </L>
+  <V n="override_multi_surface_constraints" t="enabled">
+    <T n="enabled">True</T>
+  </V>
+  <U n="recycling_data">
+    <L n="recycling_values">
+      <U>
+        <E n="Bucks Type">RecycleBitsBucks</E>
+        <T n="Value">0.5</T>
+      </U>
+      <U>
+        <E n="Bucks Type">RecyclePiecesBucks</E>
+        <T n="Value">0.5</T>
+      </U>
+    </L>
+  </U>
+</I>

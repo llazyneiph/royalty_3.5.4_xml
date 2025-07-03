@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveTrait_Marquis" s="11978000851895410953">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

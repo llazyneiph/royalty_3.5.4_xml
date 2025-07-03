@@ -1,0 +1,24 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="18164583978991418631" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant">
+  <T n="display_name">0x80F87015<!--Royal Servant--></T>
+  <T n="display_name_gender_neutral">0x80F87015<!--Royal Servant--></T>
+  <T n="icon">2f7d0004:00000000:82cc76200dbd227f</T>
+  <T n="trait_description">0xAE267599<!--{0.SimFirstName} is serving the current Royal Family as a trusted servant. --></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17533978858798112405<!--llazyneiph_RoyaltyMod_Buff_RoyalServant--></T>
+    </U>
+    <U>
+      <T n="buff_type">14574163559697629774<!--llazyneiph_RoyaltyMod_Buff_Servant--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">11376073172749428351<!--llazyneiph_RoyaltyModV2_Trait2/1196222185--></T>
+  </V>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

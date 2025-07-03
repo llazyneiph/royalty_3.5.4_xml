@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_HiddenCooldown_ShareImagePromoteImage" s="11856897719372554755">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">137771<!--buff_Career_SocialMedia_HiddenCooldown_ShareImagePromoteImage--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

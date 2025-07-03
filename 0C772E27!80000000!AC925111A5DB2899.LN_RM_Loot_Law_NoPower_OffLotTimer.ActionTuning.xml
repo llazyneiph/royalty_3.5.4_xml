@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_NoPower_OffLotTimer" s="12435090657362258073">
+  <L n="loot_actions">
+
+    <V t="statistics">
+
+        <V n="statistics" t="statistic_add">
+
+            <U n="statistic_add">
+                <T n="advertise">True</T>
+
+                <T n="stat">14512101823927969398<!--LN_RM:Commodity_Law_NoPower_OffLotTimer--></T>
+
+                <L n="subject">
+                    <E>Actor</E>
+                </L>
+            </U>
+        </V>
+    </V>
+
+    <V t="statistics">
+
+        <V n="statistics" t="statistic_set_max">
+
+            <U n="statistic_set_max">
+                <T n="advertise">True</T>
+
+                <T n="stat">14512101823927969398<!--LN_RM:Commodity_Law_NoPower_OffLotTimer--></T>
+
+                <L n="subject">
+                    <E>Actor</E>
+                </L>
+            </U>
+        </V>
+    </V>
+</L>
+
+</I>

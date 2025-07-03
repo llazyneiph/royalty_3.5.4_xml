@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:Heir_AcceptCrown_Card_4" s="9733483113103802179">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results">
+          <U>
+            <L n="next_moments">
+            </L>
+          </U>
+        </L>
+        <V n="display_text" t="single">
+          <T n="single">0x541C69B0<!--Become Monarch--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="text" t="single">
+          <T n="single">0x19C26DC2<!--Today every citizen in the land will rejoice, as Monarch {0.SimFirstName} takes the throne!--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x2DBD75B4<!--Coronation--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

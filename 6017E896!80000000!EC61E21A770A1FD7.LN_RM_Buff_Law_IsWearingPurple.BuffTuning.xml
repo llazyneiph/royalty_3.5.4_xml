@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Law_IsWearingPurple" s="17033143868986105815">
+<V n="_add_test_set" t="tests_set">
+    <L n="tests_set">
+        <L>
+            <V t="in_home_region">
+                <U n="in_home_region">
+                    <E n="participant">Actor</E>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <V n="broadcaster" t="enabled">
+    <U n="enabled">
+      <L n="broadcaster_types">
+        <U>
+          <T n="item">11929250442322563338<!--LN_RM:broadcaster_Law_isCurrentlyBreakingLaw--></T>
+        </U>
+      </L>
+    </U>
+  </V>
+</I>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AspirationCategory" i="aspiration_category" m="aspirations.aspiration_tuning" n="LN_RM:Asp_Cat_Royalty" s="14587260163588633399">
+  <T n="display_text">0x9E5A2BA5<!--Royalty--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Aspirations\Aspiration_CreativityMain.png">2f7d0004:00000000:3FC411AE5C15A294</T>
+  <T n="ui_sort_order">10</T>
+</I>

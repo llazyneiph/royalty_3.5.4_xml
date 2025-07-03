@@ -1,0 +1,40 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="15032830700348142479" i="reward" m="rewards.reward" n="llazyneiph_reward_passeddowncrown">
+  <T n="icon">2f7d0004:00000000:fb37d78a93a5aac3</T>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0xA3A22AC0<!--{0.SimFirstName} has been recognised as the new Monarch of the Royal Family.--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x84B3BF85<!--The Sun Rises on a New Monarch--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+</I>

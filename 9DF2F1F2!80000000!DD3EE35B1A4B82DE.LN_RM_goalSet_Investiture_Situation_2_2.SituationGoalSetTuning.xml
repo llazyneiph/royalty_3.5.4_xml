@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="LN_RM:goalSet_Investiture_Situation_2_2" s="15942429711360819934">
+  <L n="chained_goal_sets">
+    <T>15942429711360819934<!--LN_RM:goalSet_Investiture_Situation_2_2--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">32121<!--goal_GiveToast--></T>
+    </U>
+    <U>
+      <T n="goal">23873<!--goal_ThankGuests--></T>
+    </U>
+    <U>
+      <T n="goal">15992<!--Goal_ChatWithGuest--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">15998<!--Goal_Compliment--></T>
+    </U>
+  </L>
+</I>

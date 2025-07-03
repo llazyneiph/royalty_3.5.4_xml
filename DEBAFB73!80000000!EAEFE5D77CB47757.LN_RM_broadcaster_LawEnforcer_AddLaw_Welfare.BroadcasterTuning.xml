@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_LawEnforcer_AddLaw_Welfare" s="16929002237981914967">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5000</T>
+      </U>
+    </V>
+  </L>
+  <V n="allow_sim_test" t="enabled">
+    <L n="enabled">
+        <L>
+        <V t="trait">
+    <U n="trait">
+        <L n="blacklist_traits">
+            <T>9844623432462585834<!--LN_RM:trait_Hidden_Law_Welfare--></T>
+        </L>
+    </U>
+</V>
+            <V t="trait">
+                <U n="trait">
+                    <T n="num_whitelist_required">1</T>
+                    <L n="whitelist_traits">
+                        <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+                    </L>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+  <L n="effects">
+    <V t="loot">
+        <U n="loot">
+            <L n="loot_list">
+                <T>11880521572901354917<!--LN_RM:Loot_Law_Welfare_AddTrait--></T>
+            </L>
+        </U>
+    </V>
+</L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">10</T>
+    </U>
+  </V>
+</I>

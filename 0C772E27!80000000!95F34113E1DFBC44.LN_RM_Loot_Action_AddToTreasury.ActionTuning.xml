@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Action_AddToTreasury" s="10805051484641672260">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">17207642401813126741<!--LN_RM:randomWeightedLoot_AddToTreasury--></T>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="advertise">True</T>
+          <T n="stat">14872343298129030480<!--LN_RM:Commodity_AddToTreasury--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

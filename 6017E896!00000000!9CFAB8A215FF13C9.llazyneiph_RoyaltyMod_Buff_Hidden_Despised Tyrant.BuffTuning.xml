@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="11311556420387673033" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Despised Tyrant">
+  <T n="visible">False</T>
+  <L n="_loot_on_addition">
+    <T>12068660553133751882<!--llazyneiph_RoyaltyModV2_Trait7/937025784--></T>
+  </L>
+  <T n="buff_description">0xBF9856BA<!--{0.SimFirstName} will go down in the history books as the most hated ruler to ever claim the throne!--></T>
+  <T n="buff_name">0xA113C1F4<!--Despised Tyrant--></T>
+  <T n="icon">2f7d0004:00000000:e5edc4da729dbc9a</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">DECREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

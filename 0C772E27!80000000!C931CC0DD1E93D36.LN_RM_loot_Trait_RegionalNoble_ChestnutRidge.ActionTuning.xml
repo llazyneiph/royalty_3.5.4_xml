@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Trait_RegionalNoble_ChestnutRidge" s="14497593035210702134">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">13602837580180721942<!--LN_RM:trait_Gameplay_RegionalNoble_ChestnutRidge--></T>
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16384394099113428444<!--LN_RM:trait_Gameplay_RegionalNoble_Nodhaven--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15271422258958789438<!--LN_RM:trait_Gameplay_RegionalNoble_Ravenwood--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15222630183638883799<!--LN_RM:trait_Gameplay_RegionalNoble_Enamorada--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11169297784978944182<!--LN_RM:trait_Gameplay_RegionalNoble_Tomarang--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10697094807666182272<!--LN_RM:trait_Gameplay_RegionalNoble_SanSequoia--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17964296791800256747<!--LN_RM:trait_Gameplay_RegionalNoble_MoonwoodMill--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14626190445165827552<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_BrindletonBay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17740514494657625159<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Britechester--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14508045219038410595<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_DelSolValley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14175300689503749547<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_EvergreenHarbour--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9594449640437245698<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_ForgottonHollow--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10253098092884505214<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Henford-On-Bagley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11534279211417906380<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MagProm--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17101822610265904767<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MtKorembi--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10347643485507072274<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Newcrest--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10431174495731291666<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_OasisSprings--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13838524943721669770<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_SanMyshuno--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16654156739913003289<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_StrangerVille--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13216143709010502771<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Sulani--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12334795676045552109<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_WillowCreek--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">13148308345703634499<!--LN_RM:testSet_RegionalNoble_ChestnutRidge--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11569768314501697744<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Windenburg--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

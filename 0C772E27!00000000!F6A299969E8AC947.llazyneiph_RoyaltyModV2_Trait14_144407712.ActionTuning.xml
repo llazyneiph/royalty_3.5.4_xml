@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="17771935951741438279" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait14/144407712">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14625499927602460130<!--llazyneiph_RoyaltyMod_Buff_Favourable--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x88D8BB34<!--(From Getting a Favour)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>14625499927602460130<!--llazyneiph_RoyaltyMod_Buff_Favourable--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,36 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="11761963873363939471" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModUpdateV1_Trait5/2395580949">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14237402745320341174</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13195232519067315692<!--llazyneiph_RoyaltyMod_Trait_Princess_Hidden--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14635118455827426365</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">13195232519067315692<!--llazyneiph_RoyaltyMod_Trait_Princess_Hidden--></T>
+      </U>
+    </V>
+  </L>
+</I>

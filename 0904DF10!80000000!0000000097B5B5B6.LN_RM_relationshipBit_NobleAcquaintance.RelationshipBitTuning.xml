@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="LN_RM:relationshipBit_NobleAcquaintance" s="10806388303354546710">
+  <T n="bit_description">0xF6996413<!--Friends in High Places!--></T>
+  <E n="directionality">BIDIRECTIONAL</E>
+  <T n="display_name">0x9E1376B6<!--Noble Acquaintance--></T>
+  <T n="display_priority">10</T>
+  <T n="icon" p="InGame\UI\Icons\Relationships\icon_r_acquaintance.png">2f7d0004:00000000:38E042BB5C4BBC70</T>
+  <T n="priority">200</T>
+  <T n="visible">True</T>
+</I>

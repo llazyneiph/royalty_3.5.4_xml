@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Shackled_Sad" s="17257395247284930151">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x6DBAA945<!--{0.SimFirstName} must have gotten on someone's bade side, because {0.SimPronounSubjective} finds {0.SimPronounReflexive} shackled against {0.SimPronounPossessiveDependent} will!--></T>
+  <T n="buff_name">0x97635A57<!--Shackled--></T>
+  <T n="flip_arrow_for_progress_update">False</T>
+  <T n="icon" p="InGame\UI\Icons\Buffs\buffs_chores_neg.png">2f7d0004:00000000:20D0AE4227554277</T>
+  <T n="mood_type">14645<!--Mood_Stressed--></T>
+  <T n="mood_weight">5</T>
+</I>

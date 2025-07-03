@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_SituationCreate_Philanthropy" s="16866911614144032039">
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <E n="subject">Actor</E>
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>15750600115178807227<!--LN_RM:Buff_Hidden_BeginDuties--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">15885947608921985726<!--LN_RM:trait_Hidden_CanCheckDailyDuties--></T>
+      </U>
+    </V>
+    <V t="create_situation">
+      <U n="create_situation">
+        <U n="create_situation">
+          <T n="invite_actor">False</T>
+          <T n="invite_picked_sims">False</T>
+          <T n="invite_target_sim">False</T>
+          <T n="situation">13377024181350247598<!--LN_RM:situationSimple_Philanthropy--></T>
+          <T n="user_facing">False</T>
+        </U>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x33AA75A5<!--You are expected to attend a philanthropic event today, you can do this by choosing from the Charity rabbitholes avaliable under the Royalty Mod pie menu when clicking on your sim. You can check your duties by clicking on your sim and choosing the 'Check Daily Duty' option.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

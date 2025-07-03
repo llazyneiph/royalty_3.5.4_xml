@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_Britechester" s="13012145460761811200">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x02731F9C<!--Britechester Royal--></T>
+  <T n="display_name_gender_neutral">0x02731F9C<!--Britechester Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:117AD47FE2E63212</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x7E760676<!--{0.SimFirstName} belongs to the ruling family of Britechester.--></T>
+  <T n="trait_origin_description">0xF34CE3D3<!--(From Ruling Over Britechester)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

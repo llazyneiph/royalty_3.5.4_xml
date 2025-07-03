@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_SanSequoia" s="9692745544399636279">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x83FDD38B<!--San Sequoia Royal--></T>
+  <T n="display_name_gender_neutral">0x83FDD38B<!--San Sequoia Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:501079C47151A85A</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xDFC8F3DD<!--{0.SimFirstName} belongs to the ruling family of San Sequoia.--></T>
+  <T n="trait_origin_description">0x8C4F35CD<!--(From Ruling Over San Sequoia)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_DailyDuties_MorningStart_Notification" s="12316934639025090518">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="dialog_icon">
+          <U n="dialog_icon">
+            <L n="content_icons">
+              <U>
+                <T n="icon">2f7d0004:00000000:ABE61604AF170D09</T>
+              </U>
+            </L>
+            <L n="dialog_options">
+              <E>DISABLE_CLOSE_BUTTON</E>
+            </L>
+            <V n="text" t="single">
+              <T n="single">0x777B5DE8<!--Another sun rises on your vast kingdom, and there are several topics of concern that need your attention today. \nWill you proceed with your duties today or shall I dismiss them for another day?--></T>
+            </V>
+            
+            <V n="title" t="enabled">
+              <T n="enabled">0x78FA49A3<!--Your Daily Duties, Your Grace...--></T>
+            </V>
+            <L n="ui_responses">
+              <U>
+                <V n="loots_for_response" t="enabled">
+                  <U n="enabled">
+                    <L n="loots">
+                      <T>10453253582116077074<!--LN_RM:Loot_AddBuff_BeginDuties--></T>
+                    </L>
+                  </U>
+                </V>
+                <T n="text">0x7574B7E7<!--Proceed with Duties--></T>
+              </U>
+              <U>
+                <T n="text">0x5EC68198<!--Cancel Duties for the Day--></T>
+                <E n="ui_request">NO_REQUEST</E>
+              </U>
+            </L>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

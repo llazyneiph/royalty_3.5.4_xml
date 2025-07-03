@@ -1,0 +1,87 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SituationJob" s="16015132567165550063" i="situation_job" m="situations.situation_job" n="llazyneiph_job_banquethost">
+  <T n="display_name">0xC5AA0C7E<!--Royal Host--></T>
+  <T n="icon">2f7d0004:00000000:f916388109ad1557</T>
+  <T n="job_description">0xD1DA399C<!--Choose which Royal is hosting the banquet.--></T>
+  <T n="tooltip_name">0xC5AA0C7E<!--Royal Host--></T>
+  <U n="sim_count">
+    <T n="lower_bound">1</T>
+    <T n="upper_bound">1</T>
+  </U>
+  <T n="filter">9908252827404202798<!--llazyneiph_RoyaltyModV2_Situation3/4107276590--></T>
+  <T n="goal_scoring">10</T>
+  <T n="confirm_leave_situation_for_work">True</T>
+  <T n="participating_npcs_should_ignore_work">True</T>
+  <T n="elevated_importance">True</T>
+  <E n="no_show_action">REPLACE_THEM</E>
+  <L n="commodities">
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16652<!--motive_Bladder--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16654<!--motive_Energy--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16655<!--motive_Fun--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16656<!--motive_Hunger--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16657<!--motive_Hygiene--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <L n="sim_spawner_tags">
+    <E>Spawn_VisitorArrival</E>
+  </L>
+  <T n="can_be_hired">False</T>
+</I>

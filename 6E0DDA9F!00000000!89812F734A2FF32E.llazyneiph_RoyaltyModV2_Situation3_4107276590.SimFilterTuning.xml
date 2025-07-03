@@ -1,0 +1,110 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="TunableSimFilter" s="9908252827404202798" i="sim_filter" m="filters.tunable" n="llazyneiph_RoyaltyModV2_Situation3/4107276590">
+  <L n="_filter_terms">
+    <V t="age">
+      <U n="age">
+        <E n="ideal_value">YOUNGADULT</E>
+        <E n="max_value">ELDER</E>
+        <E n="min_value">TEEN</E>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">16851<!--trait_isGrimReaper--></T>
+      </U>
+    </V>
+    <V t="sim_info_lod" />
+    <V t="species" />
+    <V t="is_ghost">
+      <U n="is_ghost">
+        <T n="invert_score">True</T>
+        <T n="require_npc">False</T>
+      </U>
+    </V>
+    <V t="is_busy">
+      <U n="is_busy">
+        <T n="invert_score">True</T>
+      </U>
+    </V>
+    <V t="can_be_outside" />
+    <V t="is_hidden">
+      <U n="is_hidden">
+        <T n="invert_score">True</T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">187088<!--trait_Scarecrow--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">177810<!--trait_Hidden_Skeleton_ServiceSkeleton--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">178437<!--trait_Hidden_Skeleton_TempleSkeleton--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">186785<!--trait_FlowerBunny--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">183343<!--trait_HolidayTradition_FatherWinter--></T>
+      </U>
+    </V>
+    <V t="in_compatible_region" />
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">16851<!--trait_isGrimReaper--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">133798<!--trait_Hidden_IsEventNPC_Challenge--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">147121<!--trait_isButler--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">112688<!--trait_isAlienPollinator--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">116487<!--trait_DetectiveCareer_PoliceStationCriminalNPC--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">202424<!--trait_SpecialNPCs_BabyAriel--></T>
+      </U>
+    </V>
+  </L>
+  <V n="_household_templates_override" t="enabled">
+    <L n="enabled">
+      <T>98542<!--HH_template_NPC_adult_single--></T>
+    </L>
+  </V>
+  <T n="_template_chooser">16745<!--adult_template_chooser--></T>
+  <T n="use_weighted_random">True</T>
+</I>

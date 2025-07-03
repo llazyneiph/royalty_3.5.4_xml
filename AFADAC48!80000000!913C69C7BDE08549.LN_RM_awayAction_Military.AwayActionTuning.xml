@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AwayAction" i="away_action" m="away_actions.away_actions" n="LN_RM:awayAction_Military" s="10465355940707206473">
+  <L n="_apply_on_load_tags">
+    <E>Interaction_Skill_Charisma</E>
+  </L>
+  <U n="_periodic_stat_changes">
+    <L n="operations">
+      <V t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">100</T>
+          <E n="periodic_change_behavior">APPLY_AT_INTERVAL_ONLY</E>
+          <T n="stat">16656<!--motive_Hunger--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+      <V t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">100</T>
+          <E n="periodic_change_behavior">APPLY_AT_INTERVAL_ONLY</E>
+          <T n="stat">16657<!--motive_Hygiene--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+      <V t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">100</T>
+          <E n="periodic_change_behavior">APPLY_AT_INTERVAL_ONLY</E>
+          <T n="stat">16652<!--motive_Bladder--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+      <V t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">100</T>
+          <E n="periodic_change_behavior">APPLY_AT_INTERVAL_ONLY</E>
+          <T n="stat">16655<!--motive_Fun--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+      <V t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">100</T>
+          <E n="periodic_change_behavior">APPLY_AT_INTERVAL_ONLY</E>
+          <T n="stat">16654<!--motive_Energy--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="_preroll_commodities">
+    <T>16699<!--statistic_Skill_AdultMajor_Charisma--></T>
+  </L>
+  <L n="_tests">
+    <L>
+      <V t="at_work">
+        <U n="at_work">
+          <T n="is_at_work">False</T>
+        </U>
+      </V>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>CHILD</E>
+              <E>TEEN</E>
+              <E>YOUNGADULT</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="icon_data" t="enabled">
+    <U n="enabled">
+      <T n="icon" p="InGame\UI\Icons\AwayActions\AwayAction_General.png">2f7d0004:00000000:FA54892337B6D69E</T>
+    </U>
+  </V>
+</I>

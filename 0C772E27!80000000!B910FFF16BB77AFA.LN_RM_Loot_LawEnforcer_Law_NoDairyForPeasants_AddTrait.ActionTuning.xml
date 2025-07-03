@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_NoDairyForPeasants_AddTrait" s="13335439909003426554">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">12936193211705129802<!--LN_RM:trait_Hidden_LawEnforcer_NoDairyForPeasants--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14349048008246023973<!--LN_RM:trait_Hidden_LawEnforcer_NoDairyForPeasants_Remove--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

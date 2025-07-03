@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN:loot_HuntedLoot" s="13393350147595116362">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">3</T>
+          <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E />
+                  <E>SPRING</E>
+                </L>
+                <V n="time_of_season" t="disabled" />
+              </U>
+            </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">2</T>
+          <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E />
+                  <E>SPRING</E>
+                </L>
+                <V n="time_of_season" t="disabled" />
+              </U>
+            </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+ 		 <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>        
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+          <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>WINTER</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">2</T>
+ 		 <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>SUMMER</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>        
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+          <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>SUMMER</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+ 		 <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>FALL</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>        
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">2</T>
+          <L n="tests">
+          <L>
+            <V t="season">
+              <U n="season">
+                <L n="seasons">
+                  <E>FALL</E>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

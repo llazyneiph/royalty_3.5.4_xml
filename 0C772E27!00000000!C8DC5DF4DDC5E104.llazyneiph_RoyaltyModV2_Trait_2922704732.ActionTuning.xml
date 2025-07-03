@@ -1,0 +1,35 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14473546608736067844" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/2922704732">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="stat">15104496803810123400<!--llazyneiph_RoyaltyModV2_Trait/2257430979--></T>
+          <L n="tests">
+            <L>
+              <V t="day_and_time">
+                <U n="day_and_time">
+                  <V n="days_available" t="enabled">
+                    <U n="enabled">
+                      <T n="1 MONDAY">True</T>
+                      <T n="4 THURSDAY">True</T>
+                    </U>
+                  </V>
+                  <V n="time_range" t="enabled">
+                    <U n="enabled">
+                      <U n="begin_time">
+                        <T n="hour">9</T>
+                      </U>
+                      <U n="duration">
+                        <T n="hour">1</T>
+                      </U>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

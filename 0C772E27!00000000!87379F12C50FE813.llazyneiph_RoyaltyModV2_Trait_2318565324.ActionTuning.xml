@@ -1,0 +1,29 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="9743431221803739155" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/2318565324">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18164583978991418625<!--LN_RM_trait_Heir--></T>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>18164583978991418627</T>
+                  <T>18164583978991418624</T>
+                </L>
+                <E n="subject">TargetSim</E>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">12433464320959832038<!--LN_RM_trait_HasHeir--></T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

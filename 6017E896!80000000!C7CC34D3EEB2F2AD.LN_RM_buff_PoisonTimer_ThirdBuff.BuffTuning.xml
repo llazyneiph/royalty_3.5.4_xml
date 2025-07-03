@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_PoisonTimer_ThirdBuff" s="14396940193644081837">
+  <V n="appearance_modifier" t="enabled">
+    <U n="enabled">
+      <L n="appearance_modifiers">
+        <L>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">11749033232449098696<!--Poisoned Skin Overlay--></T>
+              </U>
+            </V>
+          </U>
+        </L>
+      </L>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x93CF3DED<!--My body feels like it's on fire and I can't see straight! It feels like the end!--></T>
+  <T n="buff_name">0x0F406EB7<!--Am I Dying??--></T>
+  <T n="icon" p="InGP06\UI\Icons\Buffs\Buff_PoisonVial_neg.png">2f7d0004:00000000:603436F077D4D614</T>
+  <V n="interactions" t="enabled">
+    <U n="enabled">
+      <L n="interaction_items">
+        <T>105813<!--idle_Buff_SickessSystem_Symptom_SeeingThings_severe--></T>
+      </L>
+    </U>
+  </V>
+  <T n="mood_type">14646<!--Mood_Uncomfortable--></T>
+  <T n="mood_weight">10</T>
+  <V n="walkstyle" t="enabled">
+    <U n="enabled">
+      <E n="priority">MOTIVE_HIDDEN</E>
+      <T n="walkstyle" p="InGame\Locomotion\WalkSleepy.walkstyle">27c01d95:00000000:000000002fe73564</T>
+    </U>
+  </V>
+</I>

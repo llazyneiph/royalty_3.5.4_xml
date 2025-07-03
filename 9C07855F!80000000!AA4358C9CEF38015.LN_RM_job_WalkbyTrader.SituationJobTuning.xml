@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationJob" i="situation_job" m="situations.situation_job" n="LN_RM:job_WalkbyTrader" s="12268747433671098389">
+  <T n="can_be_hired">False</T>
+  <L n="commodities">
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16654<!--motive_Energy--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16655<!--motive_Fun--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">25</T>
+              <T n="upper_bound">50</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16656<!--motive_Hunger--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">25</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16657<!--motive_Hygiene--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="goal_scoring">10</T>
+  <L n="location_based_filter_terms">
+    <V t="reference">
+      <T n="reference">260612<!--locationBasedFilterTerm_Village--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">203033<!--Keep_Strangeville_Npcs_In_Strangerville--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">217238<!--LocationBasedFilterTerm_MagicWorlds--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">246389<!--LocationBasedFilterTerm_Summit--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">212643<!--LocationBasedFilterTerm_Islander--></T>
+    </V>
+  </L>
+  <U n="sim_auto_invite">
+    <T n="lower_bound">1</T>
+    <T n="upper_bound">1</T>
+  </U>
+  <V n="sim_spawn_action" t="affordance">
+    <U n="affordance">
+      <T n="spawn_affordance">11656639115502584054<!--LN_RM:si_Trader_GoTo_ArrivalSpawn_NoDoorTNS--></T>
+    </U>
+  </V>
+  <T n="display_name">0x3F326450<!--Trader--></T>
+   <T n="filter">17558608783273044758<!--LN_RM:filter_Trader--></T>
+  <T n="tooltip_name">0x3F326450<!--Trader--></T>
+  <U n="tooltip_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type" />
+    </L>
+  </U> 
+  <E n="sim_auto_invite_allow_priority">BACKGROUND_MEDIUM</E>
+  <T n="spawn_at_lot">True</T>
+  <U n="tooltip_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type" />
+    </L>
+  </U>
+  <T n="user_facing_sim_headline_display_override">True</T>
+</I>

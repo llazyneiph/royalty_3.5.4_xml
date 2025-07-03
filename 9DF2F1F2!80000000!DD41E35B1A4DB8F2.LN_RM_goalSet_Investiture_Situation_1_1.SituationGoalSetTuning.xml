@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="LN_RM:goalSet_Investiture_Situation_1_1" s="15943274136291096818">
+  <L n="chained_goal_sets">
+    <T>15943274136291096817<!--LN_RM:goalSet_Investiture_Situation_1_2--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">33402<!--goal_HaveSimsListeningtoMusic--></T>
+    </U>
+    <U>
+      <T n="goal">33401<!--goal_HaveSimsSocializing--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">15991<!--Goal_ChatWithFriend--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">15998<!--Goal_Compliment--></T>
+      <T n="weight">3</T>
+    </U>
+  </L>
+</I>

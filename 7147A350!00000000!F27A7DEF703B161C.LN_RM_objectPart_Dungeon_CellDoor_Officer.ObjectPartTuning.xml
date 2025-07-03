@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="LN_RM:objectPart_Dungeon_CellDoor_Officer" s="17472416171670836764">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>109803<!--generic_CellDoor--></T>
+              <T>10198393363789714406<!--LN_RM:Dungeons_LockUp_Officer--></T>
+              <T>16536382724129760950<!--LN_RM:holdingcell_ReleaseFromCellOfficer--></T>
+              <T>12081994042516166970<!--LN_RM:Dungeon_Social_LockUp--></T>
+              <T>9370925893318362163<!--LN_RM:Dungeon_Social_Release--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

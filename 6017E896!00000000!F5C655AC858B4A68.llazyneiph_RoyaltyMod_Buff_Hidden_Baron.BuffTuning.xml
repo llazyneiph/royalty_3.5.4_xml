@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17709936784144288360" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Baron">
+  <T n="visible">False</T>
+  <T n="buff_description">0xDB836923<!--{0.SimFirstName} has become part of the elite, a Noble!--></T>
+  <T n="buff_name">0xECAB13A6<!--Baron--></T>
+  <T n="icon">2f7d0004:00000000:f54adf4999f13665</T>
+  <L n="_loot_on_removal">
+    <T>15491755375892875007</T>
+  </L>
+  <L n="_loot_on_instance">
+    <T>11702150607931975964</T>
+  </L>
+  <L n="_loot_on_addition">
+    <T>11702150607931975964</T>
+  </L>
+</I>

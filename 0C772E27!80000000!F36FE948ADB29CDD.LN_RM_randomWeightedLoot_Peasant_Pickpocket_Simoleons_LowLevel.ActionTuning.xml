@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_Peasant_Pickpocket_Simoleons_LowLevel" s="17541495571992452317">
+  <L n="random_loot_actions">
+  	<U>
+      <V n="action" t="money_loot">
+        <U n="money_loot">
+          <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">2</T>
+            <T n="upper_bound">25</T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>14412217846097036844<!--LN_RM:buff_LowLevel_Pickpocket_Hidden--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="money_loot">
+        <U n="money_loot">
+          <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">25</T>
+            <T n="upper_bound">50</T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>12340148127834551888<!--LN_RM:buff_MidLevel_Pickpocket_Hidden--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+	<U>
+      <V n="action" t="money_loot">
+        <U n="money_loot">
+          <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">50</T>
+            <T n="upper_bound">100</T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>12192881214826594056<!--LN_RM:buff_HighLevel_Pickpocket_Hidden--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+          </L>
+        </L>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

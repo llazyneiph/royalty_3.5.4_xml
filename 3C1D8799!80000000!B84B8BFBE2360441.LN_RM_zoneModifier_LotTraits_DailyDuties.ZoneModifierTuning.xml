@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ZoneModifier" i="zone_modifier" m="zone_modifier.zone_modifier" n="LN_RM:zoneModifier_LotTraits_DailyDuties" s="13279861840180282433">
+  <U n="schedule">
+    <L n="schedule_entries">
+      <U>
+        <L n="actions">
+          <V t="literal">
+            <V n="literal" t="loot">
+              <U n="loot">
+                <V n="loot_distribution" t="active_sim_only" />
+                <L n="loots">
+                  <T>12316934639025090518<!--LN_RM:Loot_DailyDuties_MorningStart_Notification--></T>
+                </L>
+              </U>
+            </V>
+          </V>
+        </L>
+        <U n="days_available">
+          <T n="0 SUNDAY">True</T>
+          <T n="1 MONDAY">True</T>
+          <T n="2 TUESDAY">True</T>
+          <T n="3 WEDNESDAY">True</T>
+          <T n="4 THURSDAY">True</T>
+          <T n="5 FRIDAY">True</T>
+          <T n="6 SATURDAY">False</T>
+        </U>
+        <T n="duration">1</T>
+        <U n="start_time">
+          <T n="hour">9</T>
+          <T n="minute">0</T>
+        </U>
+      </U>
+      <U>
+        <L n="actions">
+          <V t="literal">
+            <V n="literal" t="loot">
+              <U n="loot">
+                <V n="loot_distribution" t="all_sims_on_lot" />
+                <L n="loots">
+                  <T>10696683868262255243<!--LN_RM:randomWeightedLoot_DailyDuties--></T>
+                </L>
+              </U>
+            </V>
+          </V>
+        </L>
+        <U n="days_available">
+          <T n="0 SUNDAY">True</T>
+          <T n="1 MONDAY">True</T>
+          <T n="2 TUESDAY">True</T>
+          <T n="3 WEDNESDAY">True</T>
+          <T n="4 THURSDAY">True</T>
+          <T n="5 FRIDAY">True</T>
+          <T n="6 SATURDAY">False</T>
+        </U>
+        <T n="duration">1</T>
+        <U n="start_time">
+          <T n="hour">9</T>
+          <T n="minute">15</T>
+        </U>
+      </U>
+    </L>
+  </U>
+  <L n="enter_lot_loot" />
+  <L n="exit_lot_loot">
+    <T>145784<!--loot_Buff_zoneMods_exitLot_RemoveAll--></T>
+  </L>
+  <L n="interaction_triggers" />
+</I>

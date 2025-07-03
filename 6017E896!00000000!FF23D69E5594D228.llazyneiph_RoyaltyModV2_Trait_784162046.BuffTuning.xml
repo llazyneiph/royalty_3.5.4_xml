@@ -1,0 +1,22 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="18384774079385489960" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModV2_Trait/784162046">
+  <T n="visible">False</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>14603162401592163636<!--llazyneiph_RoyaltyModV2_Trait/2323257097--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>16729061662574280154</T>
+      </L>
+    </U>
+  </L>
+</I>

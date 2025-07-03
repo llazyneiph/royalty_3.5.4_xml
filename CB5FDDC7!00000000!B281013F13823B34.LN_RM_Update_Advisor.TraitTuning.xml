@@ -1,0 +1,20 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12862563381168716596" i="trait" m="traits.traits" n="LN_RM_Update_Advisor">
+  <T n="display_name">0xE4F45BD9<!--hidden_advisor_addon--></T>
+  <T n="display_name_gender_neutral">0xE4F45BD9<!--hidden_advisor_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">9360013178506804621<!--llazyneiph_RoyaltyMod_Buff_hidden_advisor_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">14526583973603269619</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

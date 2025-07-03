@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9587612486157183651" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Magically Nourished">
+  <T n="buff_description">0xEC82B105<!--Thanks to a quick, handy spell, {0.SimFirstName} is no longer hungry!--></T>
+  <T n="buff_name">0xFC4F5E30<!--Magically Nourished--></T>
+  <T n="icon">2f7d0004:00000000:e86d196893831a23</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

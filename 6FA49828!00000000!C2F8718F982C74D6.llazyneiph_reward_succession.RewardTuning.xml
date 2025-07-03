@@ -1,0 +1,40 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="14049103899129574614" i="reward" m="rewards.reward" n="llazyneiph_reward_succession">
+  <T n="icon">2f7d0004:00000000:9880577feb29bd01</T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0xCE51AF45<!--The Monarch has passed but no heir has been named, {0.SimFirstName} is now being considered for the throne! A good enough reputation will ensure the people chose {0.SimPronounObjective}!--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:9880577feb29bd01</T>
+            </U>
+          </V>
+        </V>
+        <V n="secondary_icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xAF327815<!--Vying for the Throne--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">10675457705093319064<!--llazyneiph_RoyaltyMod_Succession_HiddenTrait--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

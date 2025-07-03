@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM_trait_RoyalPartner" s="18164583978991418624">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10002762336129823721<!--RP Trait Buff--></T>
+    </U>
+  </L>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">12840831718248924885</T>
+  </V>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>5027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+      <T>192942<!--Loot_Reputation_Huge--></T>
+      <T>10982984109007018193<!--LN_RM:loot_WooHooExcl_RoyalPartner--></T>
+    </L>
+  </V>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0xCF4F3528<!--Royal Partner--></T>
+  <T n="display_name_gender_neutral">0xCF4F3528<!--Royal Partner--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SpeedCleaner.png">2f7d0004:00000000:8950908664378c99</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xE77EEB40<!----></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

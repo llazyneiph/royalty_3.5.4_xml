@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="13874016113137882405" i="trait" m="traits.traits" n="llazyneiph_nobilityrunon_Trait/3014907728">
+  <T n="display_name">0xCBDB0580<!--Archduke--></T>
+  <T n="display_name_gender_neutral">0xCBDB0580<!--Archduke--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xC7E57002<!--Change Title to Archduke--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18283942930684668433</T>
+    </U>
+    <U>
+      <T n="buff_type">9762678777585759419<!--llazyneiph_nobilityrunon_Trait/3270574351--></T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

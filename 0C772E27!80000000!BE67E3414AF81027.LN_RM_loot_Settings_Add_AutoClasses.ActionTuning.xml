@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Settings_Add_AutoClasses" s="13720184659377655847">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>9308720347304360495<!--LN_RM:Buff_AutoClasses_TurnedOff_Hidden--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

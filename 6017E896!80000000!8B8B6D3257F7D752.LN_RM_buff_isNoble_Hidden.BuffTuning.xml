@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_isNoble_Hidden" s="10055250656026416978">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="_loot_on_instance">
+      <T>15160759727190315021<!--LN_RM:loot_Trait_RegionalNoble_WillowCreek--></T>
+      <T>17630869193870264498<!--LN_RM:loot_Trait_RegionalNoble_OasisSprings--></T>
+      <T>14819728083388403824<!--LN_RM:loot_Trait_RegionalNoble_Windenburg--></T>
+      <T>15382265942459132202<!--LN_RM:loot_Trait_RegionalNoble_SanMyshuno--></T>
+      <T>10799815975494560927<!--LN_RM:loot_Trait_RegionalNoble_MtKorembi--></T>
+      <T>10721477743054845459<!--LN_RM:loot_Trait_RegionalNoble_Sulani--></T>
+      <T>15379931896216308043<!--LN_RM:loot_Trait_RegionalNoble_EvergreenHarbour--></T>
+      <T>17142017064824588800<!--LN_RM:loot_Trait_RegionalNoble_BrindletonBay--></T>
+      <T>12727572882202448103<!--LN_RM:loot_Trait_RegionalNoble_Britechester--></T>
+      <T>12615525276852284419<!--LN_RM:loot_Trait_RegionalNoble_DelSolValley--></T>
+      <T>10144565343063949548<!--LN_RM:loot_Trait_RegionalNoble_MagProm--></T>
+      <T>13007580931723416498<!--LN_RM:loot_Trait_RegionalNoble_Newcrest--></T>
+      <T>10780796588227564322<!--LN_RM:loot_Trait_RegionalNoble_ForgottonHollow--></T>
+      <T>16968708597528183097<!--LN_RM:loot_Trait_RegionalNoble_StrangerVille--></T>
+      <T>18013523051584144286<!--LN_RM:loot_Trait_RegionalNoble_Henford-On-Bagley--></T>
+      <T>12407071800981745915<!--LN_RM:loot_Trait_RegionalNoble_GlimmerBrook--></T>
+      <T>14497593035210702134<!--LN_RM:loot_Trait_RegionalNoble_ChestnutRidge--></T>
+      <T>12096110971803254304<!--LN_RM:loot_Trait_RegionalNoble_SanSequoia--></T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>18270842763493651499<!--LN_RM:loot_RemoveAll_RegionalTraits_Noble--></T>
+  </L>
+  <L n="super_affordances">
+    <!--Rabbit Holes-->
+    <T>15083703152548147297<!--LN_RM:super_Nobles_ReputationRabbitHole_GoToCourt--></T>
+    <T>16232843359580278944<!--LN_RM:super_Nobles_ReputationRabbitHole_GoHunting--></T>
+    <T>9969412650696064297<!--LN_RM:super_Nobles_ReputationRabbitHole_SocalizeintheOrchards--></T>
+    <T>18023062898896550935<!--LN_RM:super_Nobles_ReputationRabbitHole_VisitTailor--></T>
+    <T>18409046721611963340<!--LN_RM:super_Nobles_ReputationRabbitHole_GoHorsebackRiding--></T>
+    <T>10503053575117345711<!--LN_RM:super_Nobles_ReputationRabbitHole_AfternoonTea--></T>
+    <T>12621229257367318178<!--LN_RM:super_Nobles_ReputationRabbitHole_Opera--></T>
+    <T>17491924833506589741<!--LN_RM:super_Nobles_ReputationRabbitHole_Gardens--></T>
+    <T>17849886768619789581<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_BlanketsForUnhoused--></T>
+<T>17983002490480531457<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_FlowerShow--></T>
+<T>13541148722190385650<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_Gala--></T>
+<T>15208636670790194897<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_InvictusGames--></T>
+<T>9601966275032782718<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_MusicForMarines--></T>
+<T>11448752049544967279<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_PoloForPoverty--></T>
+<T>13747915374351427745<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_VisitHospitals--></T>
+  </L>
+</I>

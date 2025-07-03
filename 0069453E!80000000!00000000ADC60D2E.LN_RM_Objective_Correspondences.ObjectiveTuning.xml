@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:Objective_Correspondences" s="15310635710338955246">
+    <L n="additional_tests">
+        <L>
+            <V t="situation_running_test">
+                <U n="situation_running_test">
+                    <V n="situation_whitelist" t="enabled">
+                        <L n="enabled">
+                        <T>12547011808344689193<!--LN_RM:situationSimple_Correspondences--></T>
+                        </L>
+                    </V>
+                </U>
+            </V>
+        </L>
+    </L>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">3</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>14810442038958094246<!--LN_RM:book_Correspondences_Write--></T>
+        <T>17384980639897318176<!--LN_RM:simPicker_Correpondences_SpecificSim_Noble--></T>
+        <T>12419502468391693461<!--LN_RM:simPicker_Correpondences_SpecificSim_Royal--></T>
+        <T>11477957989455862603<!--LN_RM:Picker_Relations_Good_SendGestureOfGoodFaith--></T>
+        <T>15884374474825975502<!--LN_RM:Picker_Relations_Good_AskForMoney--></T>
+        <T>13932676560149626426<!--LN_RM:Picker_Relations_Good_SendGift--></T>
+        <T>9247877337906119891<!--LN_RM:Picker_Relations_Good_ComplimentExports--></T>
+        <T>10535033386879559448<!--LN_RM:Picker_Relations_Good_ComplimentLands--></T>
+        <T>9969254727865161002<!--LN_RM:Picker_Relations_Good_SendGiftForBirth--></T>
+        <T>12008192056840959990<!--LN_RM:Picker_Relations_Bad_ThreatenMilitaryAction--></T>
+        <T>14052120060068824218<!--LN_RM:Picker_Relations_Bad_PoorCulture--></T>
+        <T>13191859539553051649<!--LN_RM:Picker_Relations_Bad_StrongLetter--></T>
+      </L>
+    </U>
+  </V>
+</I>

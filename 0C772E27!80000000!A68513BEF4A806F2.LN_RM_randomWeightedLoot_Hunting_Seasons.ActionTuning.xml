@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_Hunting_Seasons" s="11999018493067921138">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">14595316977314427767<!--LN_RM:randomWeightedLoot_Hunting_Winter--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">3</T>
+        <L n="multipliers">
+          <U>
+            <T n="multiplier">10</T>
+            <L n="tests">
+              <L>
+                <V t="season">
+                  <U n="season">
+                    <L n="seasons">
+                      <E />
+                      <E>WINTER</E>
+                    </L>
+                    <V n="time_of_season" t="disabled" />
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">11741094881899587923<!--LN_RM:randomWeightedLoot_Hunting_Spring--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">3</T>
+        <L n="multipliers">
+          <U>
+            <T n="multiplier">10</T>
+            <L n="tests">
+              <L>
+                <V t="season">
+                  <U n="season">
+                    <L n="seasons">
+                      <E />
+                      <E>SPRING</E>
+                    </L>
+                    <V n="time_of_season" t="disabled" />
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">17397215611238028923<!--LN_RM:randomWeightedLoot_Hunting_Summer--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">3</T>
+        <L n="multipliers">
+          <U>
+            <T n="multiplier">10</T>
+            <L n="tests">
+              <L>
+                <V t="season">
+                  <U n="season">
+                    <L n="seasons">
+                      <E />
+                      <E>SPRING</E>
+                    </L>
+                    <V n="time_of_season" t="disabled" />
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">17028226040039937055<!--LN_RM:randomWeightedLoot_Hunting_Fall--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">3</T>
+        <L n="multipliers">
+          <U>
+            <T n="multiplier">10</T>
+            <L n="tests">
+              <L>
+                <V t="season">
+                  <U n="season">
+                    <L n="seasons">
+                      <E />
+                      <E>FALL</E>
+                    </L>
+                    <V n="time_of_season" t="disabled" />
+                  </U>
+                </V>
+              </L>
+            </L>
+          </U>
+        </L>
+      </U>
+    </U>
+  </L>
+</I>

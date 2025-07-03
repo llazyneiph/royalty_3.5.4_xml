@@ -1,0 +1,66 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17533978858798112405" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_RoyalServant">
+  <T n="visible">False</T>
+  <T n="buff_description">0xAE267599<!--{0.SimFirstName} is serving the current Royal Family as a trusted servant. --></T>
+  <T n="buff_name">0x80F87015<!--Royal Servant--></T>
+  <T n="icon">2f7d0004:00000000:82cc76200dbd227f</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>29114<!--commodity_Trait_Autonomy_Neat--></T>
+            <T>14928366857702276432<!--llazyneiph_RoyaltyModV2_Trait2/3478404741--></T>
+            <T>29084<!--commodity_Trait_Autonomy_Foodie--></T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">16701<!--statistic_Skill_AdultMajor_GourmetCooking--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16695<!--statistic_Skill_AdultMajor_Bartending--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16705<!--statistic_Skill_AdultMajor_HomestyleCooking--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16704<!--statistic_Skill_AdultMajor_Handiness--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16700<!--statistic_Skill_AdultMajor_Gardening--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value" />
+    </U>
+  </L>
+</I>

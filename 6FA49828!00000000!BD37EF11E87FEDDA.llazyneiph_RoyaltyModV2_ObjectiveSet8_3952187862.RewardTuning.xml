@@ -1,0 +1,28 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="13634629257081646554" i="reward" m="rewards.reward" n="llazyneiph_RoyaltyModV2_ObjectiveSet8/3952187862">
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0xA43E9CB8</T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:30f0846c783606f9</T>
+            </U>
+          </V>
+        </V>
+        <V n="secondary_icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+      </U>
+    </V>
+  </V>
+</I>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_LawEnforcer_AddLaw_Water" s="14862653630001009842">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5000</T>
+      </U>
+    </V>
+  </L>
+  <V n="allow_sim_test" t="enabled">
+    <L n="enabled">
+        <L>
+            <V t="trait">
+                <U n="trait">
+                    <L n="blacklist_traits">
+                        <T>17050370168175221683<!--LN_RM:trait_Hidden_Law_Water--></T>
+                    </L>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+  <L n="effects">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>13824631399188547530<!--LN_RM:Loot_Law_Water_AddTrait--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">10</T>
+    </U>
+  </V>
+</I>

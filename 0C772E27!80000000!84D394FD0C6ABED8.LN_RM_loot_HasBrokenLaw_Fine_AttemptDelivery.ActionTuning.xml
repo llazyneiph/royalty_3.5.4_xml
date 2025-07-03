@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_HasBrokenLaw_Fine_AttemptDelivery" s="9571157447648394968">
+  <L n="loot_actions">
+  <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9698419572197023425<!--LN_RM:buff_PayFine--></T>
+        </U>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP12\UI\Icons\Notifications\notification_GraduatewithHonors.png">2f7d0004:00000000:5ce5608ec9deb5aa</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x8CBFA761<!--{0.SimFirstName} has received their fine, they can pay it through the mailbox.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x765B6161<!--Caught Red Handed!--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

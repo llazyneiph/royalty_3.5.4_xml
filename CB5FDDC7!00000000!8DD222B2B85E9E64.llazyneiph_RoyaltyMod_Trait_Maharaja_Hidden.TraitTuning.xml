@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="10219268655449808484" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Maharaja_Hidden">
+  <T n="display_name">0xEB4BEC15<!--Maharaja--></T>
+  <T n="display_name_gender_neutral">0xEB4BEC15<!--Maharaja--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xD688AC68<!--Change Title to Maharaja--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18085964642404697693<!--llazyneiph_RoyaltyModUpdateV1_Trait/3467481466--></T>
+    </U>
+    <U>
+      <T n="buff_type">9815459436730440683</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,12 @@
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_buff_servantdonteat" s="11994996071028997160">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">10245245209760105249<!--LN_RM:Buff_ServantDontEat--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

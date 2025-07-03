@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ServantsEnabled_TraitAdd" s="9566280853134229203">
+  <L n="loot_actions">
+      <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE1AA2700<!--{0.SimFirstName}'s has called for {M0.his}{F0.her} servants.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

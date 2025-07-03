@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_GlimmerBrook" s="17035809236588526171">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xE9BEC9D6<!--Glimmerbrook Noble--></T>
+  <T n="display_name_gender_neutral">0xE9BEC9D6<!--Glimmerbrook Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:0CC131B31C4E63C9</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x85BA763C<!--{0.SimFirstName} is apart of Glimmerbrook Nobility.--></T>
+  <T n="trait_origin_description">0x35297AC9<!--(From Belonging to Glimmerbrook Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

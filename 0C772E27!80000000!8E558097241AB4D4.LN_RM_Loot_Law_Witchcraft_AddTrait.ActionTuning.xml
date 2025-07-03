@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Witchcraft_AddTrait" s="10256245113040319700">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">11587918131414838779<!--LN_RM:trait_Hidden_Law_Witchcraft--></T>
+      </U>
+    </V>
+  </L>
+</I>

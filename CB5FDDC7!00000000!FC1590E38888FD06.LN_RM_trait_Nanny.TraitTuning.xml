@@ -1,0 +1,21 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="18164583978991418630" i="trait" m="traits.traits" n="LN_RM_trait_Nanny">
+  <T n="display_name">0xEAFE667C<!--Royal Nanny--></T>
+  <T n="display_name_gender_neutral">0xEAFE667C<!--Royal Nanny--></T>
+  <T n="icon">2f7d0004:00000000:e45ad35d242bc29c</T>
+  <T n="trait_description">0xAADA365F<!--{0.SimFirstName} is serving the current Royal Family as a trusted nanny. --></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">9793194488723546732<!--llazyneiph_RoyaltyMod_Buff_Royal Nanny--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">16812596826130767575<!--llazyneiph_RoyaltyModV2_Trait3/3361324215--></T>
+  </V>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

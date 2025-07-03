@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:Objective_Philanthropy" s="9223419689705661299">
+  <L n="additional_tests">
+    <L>
+      <V t="situation_running_test">
+        <U n="situation_running_test">
+          <V n="situation_whitelist" t="enabled">
+            <L n="enabled">
+              <T>13377024181350247598<!--LN_RM:situationSimple_Philanthropy--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">1</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>17849886768619789581<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_BlanketsForUnhoused--></T>
+        <T>17983002490480531457<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_FlowerShow--></T>
+        <T>13541148722190385650<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_Gala--></T>
+        <T>15208636670790194897<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_InvictusGames--></T>
+        <T>9601966275032782718<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_MusicForMarines--></T>
+        <T>11448752049544967279<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_PoloForPoverty--></T>
+        <T>13747915374351427745<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_VisitHospitals--></T>
+      </L>
+    </U>
+  </V>
+</I>

@@ -1,0 +1,25 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517948" i="trait" m="traits.traits" n="LN_RM_trait_TrustedAdvisor_Gameplay">
+  <T n="display_name">0xE4D813D5<!--Trusted Advisor--></T>
+  <T n="display_name_gender_neutral">0xE4D813D5<!--Trusted Advisor--></T>
+  <T n="icon">2f7d0004:00000000:8ca6595cbeda23dc</T>
+  <T n="trait_description">0x813D7FB4<!--The Monarch trusts {0.SimFirstName} implicitly to be their right hand sim. {0.SimFirstName} is now responsible for the lands taxes, edicts and making sure the Monarch gets what the Monarch wants.--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17805010825158766986<!--llazyneiph_RoyaltyMod_Buff_Hidden_TrustedAdvisor--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">13325227542422208083<!--llazyneiph_RoyaltyModV2_Trait10/4032804111--></T>
+  </V>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>17324545443562381497<!--llazyneiph_RoyaltyModV2_Trait10/4083587199--></T>
+    </L>
+  </V>
+</I>

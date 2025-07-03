@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Role_ForeignDignitary" s="15606415729595614129">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13260820770617536728<!--LN_RM:mixer_social_Greet_Dignitary--></T>
+        <T>15530665002559473008<!--LN_RM:mixer_Social_ForeignDignitary_DiscussStateAffairs--></T>
+        <T>12762230991339290653<!--LN_RM:mixer_Social_ForeignDignitary_ExchangeIntelligence--></T>
+        <T>16541049421164120395<!--LN_RM:mixer_Social_ForeignDignitary_DiscussMutualThreat--></T>
+        <T>16533754258948232259<!--LN_RM:mixer_Social_ForeignDignitary_DiscussCulturalDifferences--></T>
+        <T>11453742548174041243<!--LN_RM:mixer_Social_ForeignDignitary_Compliment--></T>
+      </L>
+    </U>
+  </L>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13260820770617536728<!--LN_RM:mixer_social_Greet_Dignitary--></T>
+        <T>15530665002559473008<!--LN_RM:mixer_Social_ForeignDignitary_DiscussStateAffairs--></T>
+        <T>12762230991339290653<!--LN_RM:mixer_Social_ForeignDignitary_ExchangeIntelligence--></T>
+        <T>16541049421164120395<!--LN_RM:mixer_Social_ForeignDignitary_DiscussMutualThreat--></T>
+        <T>16533754258948232259<!--LN_RM:mixer_Social_ForeignDignitary_DiscussCulturalDifferences--></T>
+        <T>11453742548174041243<!--LN_RM:mixer_Social_ForeignDignitary_Compliment--></T>
+      </L>
+    </U>
+  </L>
+</I>

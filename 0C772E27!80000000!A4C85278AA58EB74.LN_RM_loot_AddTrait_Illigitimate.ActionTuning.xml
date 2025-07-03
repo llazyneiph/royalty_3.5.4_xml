@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Illigitimate" s="11873831095769820020">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+      </U>
+    </V>
+  </L>
+</I>

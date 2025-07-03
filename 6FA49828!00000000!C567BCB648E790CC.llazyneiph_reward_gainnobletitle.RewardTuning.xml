@@ -1,0 +1,40 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="14224545439166206156" i="reward" m="rewards.reward" n="llazyneiph_reward_gainnobletitle">
+  <T n="icon">2f7d0004:00000000:a0877f63ca04cadc</T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0x97CFACF9<!--{0.SimFirstName} has gained a new noble title!--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:a0877f63ca04cadc</T>
+            </U>
+          </V>
+        </V>
+        <V n="secondary_icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x96C51088<!--Rising in Rank!--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

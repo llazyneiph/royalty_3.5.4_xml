@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ScreenSlam" s="13048528212741644311" i="snippet" m="snippets" n="llazyneiph_screenslam_beloved">
+  <U n="value">
+    <V n="text" t="enabled">
+      <T n="enabled">0xD1601F6F<!--{0.SimFirstName} is completely loved by everyone in the land!--></T>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x9A6F2A50<!--Beloved Ruler!--></T>
+    </V>
+    <V n="icon" t="enabled">
+      <T n="enabled">2f7d0004:00000000:d644fd3d88beeb8a</T>
+    </V>
+    <V n="audio_sting" t="enabled">
+      <U n="enabled">
+        <T n="audio">39b2aa4a:00000000:ea1687e36b0b32f3</T>
+      </U>
+    </V>
+    <V n="display_type" t="size_based">
+      <U n="size_based">
+        <E n="screen_slam_size">MEDIUM</E>
+      </U>
+    </V>
+  </U>
+</I>

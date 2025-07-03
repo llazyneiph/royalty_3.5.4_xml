@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="16146956666262320038" i="action" m="interactions.utils.loot" n="llazyneiph_LetterWriter_Career/3290988099">
+  <L n="loot_actions">
+    <V t="career_loot">
+      <U n="career_loot">
+        <V n="career" t="career_reference">
+          <U n="career_reference">
+            <T n="reference">2561583300</T>
+          </U>
+        </V>
+        <L n="operations">
+          <V t="pto">
+            <U n="pto">
+              <T n="amount">-1</T>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V t="career_loot">
+      <U n="career_loot">
+        <V n="career" t="career_reference">
+          <U n="career_reference">
+            <T n="reference">2561583300</T>
+          </U>
+        </V>
+        <L n="operations">
+          <V t="take_day_off">
+            <U n="take_day_off">
+              <E n="reason">PTO</E>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

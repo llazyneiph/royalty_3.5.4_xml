@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000100" u="0x00000000">
+  <Instances>
+    <I name="aspiration_Diplomat_Diplomat_Level6" schema="AspirationCareer" type="Object">
+      <T name="disabled">0</T>
+      <L name="objectives">
+        <T type="TableSetReference">26468</T>
+        <T type="TableSetReference">15136769791391846117</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="AspirationCareer" schema_hash="0x4E53725B">
+      <Columns>
+        <Column name="disabled" type="Boolean" flags="0x00000000" />
+        <Column name="objectives" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

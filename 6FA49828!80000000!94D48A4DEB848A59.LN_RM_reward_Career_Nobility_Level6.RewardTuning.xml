@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="LN_RM:reward_Career_Nobility_Level6" s="10724348679944440409">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_desk.png">2f7d0004:00000000:5b2bb10f1068cc57</T>
+  <T n="name">0xE3DC2032<!--Nobility Promotion!--></T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0xE3DC2032<!--Congratulations on rising through the Court ranks! {0.SimFirstName} has been given {0.Money} & {0.Influence} as a token of appreciation.--></T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">1684</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

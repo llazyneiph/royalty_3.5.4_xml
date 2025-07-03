@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="LN_RM:Animation_BeBoiled" s="17129782101693214278">
+  <T n="asm_key" p="InGame\Sage\spookyCandyBowl_eatCandy.interactionasm">02d5df13:00000000:69F3DEF8B68D282E</T>
+  <L n="begin_states">
+    <T>Be Boiled</T>
+  </L>
+  <L n="end_states">
+    <T>exit</T>
+  </L>
+</I>

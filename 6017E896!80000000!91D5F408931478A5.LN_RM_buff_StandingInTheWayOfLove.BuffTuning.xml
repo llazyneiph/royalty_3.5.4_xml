@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_StandingInTheWayOfLove" s="10508573623203428517">
+  <T n="buff_description">0x801F2007<!--Even if {M0.he}{F0.she} is Monarch, who is {M0.he}{F0.she} to deny true love?!--></T>
+  <T n="buff_name">0x9A83135C<!--Standing in the way of Love--></T>
+  <T n="icon">2f7d0004:00000000:b11c98716bc5afb9</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Uncomfortable_Buffs</E>
+      </L>
+    </U>
+  </V>
+  <T n="mood_type">14646</T>
+  <T n="mood_weight">1</T>
+</I>

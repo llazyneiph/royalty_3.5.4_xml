@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="14574163559697629774" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Servant">
+  <T n="buff_description">0xAE267599<!--{0.SimFirstName} is serving the current Royal Family as a trusted servant. --></T>
+  <T n="buff_name">0x80F87015<!--Royal Servant--></T>
+  <T n="icon">2f7d0004:00000000:82cc76200dbd227f</T>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <T n="mood_weight">1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add" />
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

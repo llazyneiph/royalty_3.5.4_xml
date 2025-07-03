@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:si_Trader_GoTo_ArrivalSpawn_NoDoorTNS" s="11656639115502584054">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="front_door">
+            <U n="front_door">
+              <T n="fallback_to_anywhere_on_lot">True</T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="value" t="posture">
+            <U n="posture">
+              <L n="posture_manifest_tuning">
+                <U>
+                  <V n="posture_type" t="enabled">
+                    <T n="enabled">15537<!--posture_Stand--></T>
+                  </V>
+                </U>
+              </L>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_saveable" t="enabled" />
+  <T n="attention_cost">0.5</T>
+  <V n="basic_content" t="one_shot" />
+  <V n="content_score" t="disabled" />
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <L n="_static_commodities">
+    <U>
+      <T n="static_commodity">204299<!--commodity_RoleAutonomy_WelcomeWagon_GoToFrontDoor--></T>
+    </U>
+  </L>
+  <L n="basic_extras">
+    <V t="camera_focus">
+      <U n="camera_focus">
+        <T n="follow">True</T>
+        <V n="timing" t="at_beginning" />
+      </U>
+    </V>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="basic_extras">
+          <V t="loot">
+            <U n="loot">
+              <L n="loot_list">
+                <T>16653534617557966881<!--LN_RM:loot_Notification_Trader_Introduction--></T>
+              </L>
+            </U>
+          </V>
+        </L>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <T n="time_overhead">30</T>
+  <T n="visible">False</T>
+</I>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_WillowCreek_Remove" s="18358312408173412962">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17802413420560545536<!--LN_RM:trait_Gameplay_RegionalRoyal_WillowCreek--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

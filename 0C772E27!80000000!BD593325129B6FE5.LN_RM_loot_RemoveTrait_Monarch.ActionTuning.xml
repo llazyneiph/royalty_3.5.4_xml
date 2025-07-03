@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveTrait_Monarch" s="13643992780414611429">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418636<!--Inherited Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

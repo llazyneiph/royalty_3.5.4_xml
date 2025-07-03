@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="12799316296010223762" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Trusted Adivsor_Visable">
+  <T n="buff_description">0xE58E2D0C<!--The Monarch trusts {0.SimFirstName} implicitly to be their right hand sim!--></T>
+  <T n="buff_name">0xE8BD2A29<!--Trusted Adivsor--></T>
+  <T n="icon">2f7d0004:00000000:defc691b3a65ec02</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

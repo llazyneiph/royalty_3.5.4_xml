@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="15739270531515193727" i="action" m="interactions.utils.loot" n="llazyneiph_advisoraddon_Trait/2111792581">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="stat">12756483975959707799<!--llazyneiph_advisoraddon_Trait/2625812414--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

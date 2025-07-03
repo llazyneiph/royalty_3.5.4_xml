@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RabbitHole" i="rabbit_hole" m="rabbit_hole.rabbit_hole" n="LN:rabbitHole_Hunting" s="10109620261554786269">
+  <T n="affordance">16743933071427031549<!--LN:goHomeAndAttendRabbitHole_GoScavanging--></T>
+  <V n="away_action" t="enabled">
+    <T n="enabled">9461820136067743144<!--LN:awayAction_Survivalist_Hunting--></T>
+  </V>
+</I>

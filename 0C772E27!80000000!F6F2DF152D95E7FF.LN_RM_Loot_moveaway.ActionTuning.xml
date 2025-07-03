@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_moveaway" s="17794530359746357247">
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="si_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">11880185504149885421<!--LN_RM:si_moveAwayCircle_RingBell--></T>
+            <E n="affordance_priority">Critical</E>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+        <V t="buff">
+            <U n="buff">
+                <L n="blacklist">
+                    <T>11367166729686626522<!--LN_RM:buff_Reaction_Break_FollowMe--></T>
+                </L>
+            </U>
+        </V>
+    </L>
+</L>
+</I>

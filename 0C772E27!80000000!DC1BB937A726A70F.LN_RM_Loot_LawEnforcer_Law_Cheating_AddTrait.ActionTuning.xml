@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_Cheating_AddTrait" s="15860474161394001679">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">12868296012805992861<!--LN_RM:trait_Hidden_LawEnforcer_Cheating--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15521797511413754736<!--LN_RM:trait_Hidden_LawEnforcer_Cheating_Remove--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

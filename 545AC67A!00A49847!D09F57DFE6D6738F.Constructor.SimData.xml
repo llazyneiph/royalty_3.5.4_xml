@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000019">
+  <Instances>
+    <I name="Constructor" schema="SimReward" type="Object">
+      <T name="icon">2F7D0004-00000000-FB37D78A93A5AAC3</T>
+      <T name="name">0x00000000</T>
+      <T name="reward_description">0x00000000</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="SimReward" schema_hash="0xEEE438EF">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="reward_description" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

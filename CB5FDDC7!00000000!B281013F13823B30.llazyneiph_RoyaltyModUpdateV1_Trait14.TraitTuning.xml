@@ -1,0 +1,20 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12862563381168716592" i="trait" m="traits.traits" n="llazyneiph_RoyaltyModUpdateV1_Trait14">
+  <T n="display_name">0x8AC37F88</T>
+  <T n="display_name_gender_neutral">0x8AC37F88</T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11576995749032554379<!--llazyneiph_RoyaltyModUpdateV1_Trait14/856271849--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>BABY</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:Trait_Hidden_Medal_ServiceMedal" s="9702304223350011499">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>9419074537605528458<!--LN_RM:mixer_social_BoastAboutMedal_targeted_Friendly_alwaysOn--></T>
+        <T>15368545008081021306<!--LN_RM:mixer_social_TellTaleofMedal_targeted_Friendly_alwaysOn--></T>
+      </L>
+    </U>
+  </L>
+  <L n="provided_mixers">
+  <U>
+    <T n="key">13998<!--sim_Chat--></T>
+    <L n="value">
+      <T>10417483436821947575<!--LN_RM:mixer_social_ExpressEnvyOfMedal_targeted_Friendly_alwaysOn--></T>
+      <T>16818576687421444825<!--LN_RM:mixer_social_PromisetoEarnToo_targeted_Friendly_alwaysOn--></T>
+      <T>10060609398291979513<!--LN_RM:mixer_social_CongratulateMedal--></T>
+    </L>
+  </U>
+</L>
+  <E n="trait_type">HIDDEN</E>
+   <L n="super_affordances">
+    <T>18414838537696253726<!--LN_RM:Immediate_StripofMedal_ServiceMedal--></T>
+    <T>13337073684042997886<!--LN_RM:Immediate_TakeOffMedal--></T>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">13878871862624248765<!--LN_RM:Buff_Investiture_ServiceMedal_Female--></T>
+    </U>
+    <U>
+      <T n="buff_type">12291697789198811398<!--LN_RM:Buff_Investiture_ServiceMedal_Male--></T>
+    </U>
+  </L>
+</I>

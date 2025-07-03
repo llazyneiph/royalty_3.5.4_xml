@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Role_Council" s="11286703441832556713">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13260820770617536728<!--LN_RM:mixer_social_Greet_Dignitary--></T>
+        <T>12439818576963425747<!--LN_RM:mixer_Social_Council_AddressInternalDisputes--></T>
+        <T>16560095445000494963<!--LN_RM:mixer_Social_Council_AllocateResources--></T>
+        <T>14119442505806845726<!--LN_RM:mixer_Social_Council_DiscussKingdomPolicies--></T>
+        <T>15075201414640982684<!--LN_RM:mixer_Social_Council_DiscussSuccession--></T>
+        <T>13358271740591486665<!--LN_RM:mixer_Social_Council_EvaluateReports--></T>
+        <T>9666001041313963580<!--LN_RM:mixer_Social_Council_GaugeLoyalty--></T>
+        <T>9678269221183299162<!--LN_RM:mixer_Social_Council_SeekCouncil--></T>
+      </L>
+    </U>
+  </L>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13260820770617536728<!--LN_RM:mixer_social_Greet_Dignitary--></T>
+        <T>12439818576963425747<!--LN_RM:mixer_Social_Council_AddressInternalDisputes--></T>
+        <T>16560095445000494963<!--LN_RM:mixer_Social_Council_AllocateResources--></T>
+        <T>14119442505806845726<!--LN_RM:mixer_Social_Council_DiscussKingdomPolicies--></T>
+        <T>15075201414640982684<!--LN_RM:mixer_Social_Council_DiscussSuccession--></T>
+        <T>13358271740591486665<!--LN_RM:mixer_Social_Council_EvaluateReports--></T>
+        <T>9666001041313963580<!--LN_RM:mixer_Social_Council_GaugeLoyalty--></T>
+        <T>9678269221183299162<!--LN_RM:mixer_Social_Council_SeekCouncil--></T>
+      </L>
+    </U>
+  </L>
+</I>

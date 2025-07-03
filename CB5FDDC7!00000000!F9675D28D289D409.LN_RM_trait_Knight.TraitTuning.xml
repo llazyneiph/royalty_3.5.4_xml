@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Knight" s="17971435267957576713">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11799765953617227962<!--LN_RM:buff_Knight--></T>
+    </U>
+  </L>
+  <T n="display_name">0x6BD41AC8<!--Knight--></T>
+  <T n="display_name_gender_neutral">0x6BD41AC8<!--Knight--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:859aaedca38d9518</T>
+  <L n="species">
+    <E />
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>11672613137047957963<!--LN_RM:loot_AddTrait_Knight--></T>
+    </L>
+  </V>
+  <T n="trait_description">0x0C273E61<!--Knights were A-List celebs in their day! {0.SimFirstName} has been honoured with the title of Knight.--></T>
+  <T n="trait_origin_description">0x2F66CC3A<!--(From Being Knighted)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveBuff_ExecutionersOutfit_Female" s="12692071499822802930">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>12560778884462808911<!--LN_RM:buff_ExecutionersOutift_Female--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

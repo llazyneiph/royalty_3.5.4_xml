@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Buff_RecentlyCrowned" s="16343303944101437198">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x2F5C4100<!--(From Being Crowned)--></T>
+          </V>
+          <T n="buff_type">13470958406941229058<!--LN_RM:buff_Confidence_RecentlyCrowned--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

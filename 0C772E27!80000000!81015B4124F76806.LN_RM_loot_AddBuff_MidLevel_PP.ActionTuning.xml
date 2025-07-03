@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddBuff_MidLevel_PP" s="9295811441220610054">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">12340148127834551888<!--LN_RM:buff_MidLevel_Pickpocket_Hidden--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>14412217846097036844<!--LN_RM:buff_LowLevel_Pickpocket_Hidden--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

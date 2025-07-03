@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/LocoSmith" s="2489489142">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xEAD11209</T>
+  <T n="career_name">0xB96339D1<!--Locomotion Smith--></T>
+  <T n="career_name_gender_neutral">0xB96339D1</T>
+  <T n="icon">2f7d0004:00000000:304ff71504fffd89</T>
+  <T n="icon_high_res">2f7d0004:00000000:3196A219FFB9B1F4</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>3138362726</T>
+    <T>3826227767</T>
+    <T>2670988716</T>
+    <T>3330728850</T>
+  </L>
+</I>

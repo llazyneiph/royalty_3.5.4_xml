@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="LN_RM:relationshipBit_Regent" s="16757891220007102866">
+  <T n="bit_description">0x7EE83735<!--The almighty button presser. Giver of electrons.--></T>
+  <E n="directionality">UNIDIRECTIONAL</E>
+  <T n="display_name">0x118EFA1D<!--Creator--></T>
+  <T n="icon" p="InEP08\UI\Icons\RelationshipBits\icon_r_creator.png">2f7d0004:00000000:3017a06bd02df2ec</T>
+  <T n="visible">True</T>
+     <L n="bit_added_loot_list">
+    <T>12377567549727646573<!--LN_RM:Loot_AddRelBits_Heir_To_Regent--></T>
+    </L>
+</I>

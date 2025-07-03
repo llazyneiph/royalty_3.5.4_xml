@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimPickerInteraction" i="interaction" m="interactions.base.picker_interaction" n="LN_RM:social_Picker_ExistingServants_Maid" s="17103731080174797349">
+  <V n="_icon" t="resource_key">
+    <U n="resource_key">
+      <T n="key" p="InGame\UI\Icons\InteractionQueue\IconQueueTravelTo.png">2f7d0004:00000000:447671045d978994</T>
+    </U>
+  </V>
+  <T n="category">3821853360<!--LN_RM:pieMenuCategory_Servants_Maids--></T>
+  <V n="_saveable" t="disabled" />
+  <L n="actor_continuation">
+    <U>
+      <T n="affordance">11804179465044189463<!--LN_RM:servant_CallForExisting_Maid--></T>
+      <E n="target">TargetSim</E>
+    </U>
+  </L>
+  <T n="allow_while_save_locked">False</T>
+  <V n="content_score" t="disabled" />
+  <V n="default_selection_tests" t="enabled">
+    <L n="enabled">
+      <L>
+        <V t="identity">
+          <U n="identity">
+            <E n="subject_a">TargetSim</E>
+            <E n="subject_b">PickedSim</E>
+            <T n="subjects_match">True</T>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+  <T n="default_selections_sort_to_front">True</T>
+  <T n="display_name">0x451BCF73<!--Call For Existing Maid--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <T n="include_target_sim">True</T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <V n="picker_dialog" t="sim_picker">
+    <U n="sim_picker">
+      <V n="max_selectable" t="static_count">
+        <U n="static_count">
+          <T n="number_selectable">1</T>
+        </U>
+      </V>
+      <T n="min_selectable">0</T>
+      <V n="text" t="enabled">
+        <V n="enabled" t="single">
+          <T n="single">0x78DE546B<!--Call 1 Maid At a Time.--></T>
+        </V>
+      </V>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <V n="sim_filter" t="sim_filter_selected">
+    <T n="sim_filter_selected">11028517002745998839<!--LN_RM:filter_Existing_Servant_Maid--></T>
+  </V>
+  <L n="sim_tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>16851<!--trait_isGrimReaper--></T>
+            <T>141854<!--trait_isNanny--></T>
+            <T>147121<!--trait_isButler--></T>
+          </L>
+          <E n="subject">PickedSim</E>
+        </U>
+      </V>
+      <V t="test_set_reference">
+        <T n="test_set_reference">102948<!--testSet_PickedSimIsNotGhost_Or_InHousehold--></T>
+      </V>
+    </L>
+  </L>
+  <E n="target_type">TARGET</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

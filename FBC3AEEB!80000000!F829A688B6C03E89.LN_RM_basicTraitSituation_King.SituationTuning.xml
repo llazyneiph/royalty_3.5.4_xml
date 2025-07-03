@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BasicTraitSitaution" i="situation" m="situations.complex.basic_trait_situation" n="LN_RM:basicTraitSituation_King" s="17882006901563080329">
+  <T n="duration">0</T>
+  <T n="job">15392026332250121965<!--LN_RM:basicTraitSituation_King--></T>
+  <T n="role">10905296707508452948<!--LN_RM:roleState_BasicTrait_General--></T>
+  <T n="_survives_active_household_change">True</T>
+</I>

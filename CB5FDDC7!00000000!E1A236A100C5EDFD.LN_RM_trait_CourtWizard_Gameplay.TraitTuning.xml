@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517949" i="trait" m="traits.traits" n="LN_RM_trait_CourtWizard_Gameplay">
+  <T n="display_name">0xF2E9ED97<!--Court Wizard--></T>
+  <T n="display_name_gender_neutral">0xF2E9ED97<!--Court Wizard--></T>
+  <T n="icon">2f7d0004:00000000:b4e798513f5500da</T>
+  <T n="trait_description">0x9513E71C<!--{0.SimFirstName} is the most magically talented sim in all the land, and has earnt {0.SimPronounPossessiveDependent} place at the royal court.--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10266810231311886078<!--llazyneiph_RoyaltyMod_Buff_Court Wizard--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

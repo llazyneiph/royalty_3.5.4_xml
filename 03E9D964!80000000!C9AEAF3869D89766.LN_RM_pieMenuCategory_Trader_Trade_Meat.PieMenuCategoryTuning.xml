@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="LN_RM:pieMenuCategory_Trader_Trade_Meat" s="14532745704400000870">
+  <T n="_display_name">0x2F5EFA06<!--Meat--></T>
+  <T n="_parent">17026930142534437800<!--LN_RM:pieMenuCategory_Trader_Trade--></T>
+  <T n="_icon" p="InEP08\UI\Icons\PieMenu\Careers\Career_Law_piemenu.png">2f7d0004:00000000:C28647042BA16546</T>
+</I>

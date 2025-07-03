@@ -1,0 +1,8 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Aspiration" s="17984827013808476574" i="aspiration" m="aspirations.aspiration_tuning" n="llazyneiph_RoyaltyModV2_ObjectiveSet4">
+  <L n="objectives">
+    <T>18084747967551768353<!--llazyneiph_RoyaltyModV2_ObjectiveSet4/4060010582--></T>
+    <T>14404188248283100440<!--llazyneiph_RoyaltyModV2_ObjectiveSet4/3409650679--></T>
+    <T>11466311343513477284<!--llazyneiph_RoyaltyModV2_ObjectiveSet4/1426828714--></T>
+  </L>
+  <T n="reward">14049103899129574614<!--llazyneiph_reward_succession--></T>
+</I>

@@ -1,0 +1,13 @@
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testset_AutoFoodGrab" s="11504313507089101581">
+  <L n="test">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>11994996071028997160<!--LN_RM:loot_buff_servantdonteat--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

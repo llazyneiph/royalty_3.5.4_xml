@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_PurpleForRoyals_RemoveTrait" s="11669724642259143168">
+  <L n="loot_actions">
+    <V t="buff_removal">
+    <U n="buff_removal">
+        <L n="buffs_to_remove">
+            <T>17033143868986105815<!--LN_RM:Buff_Law_IsWearingPurple--></T>
+        </L>
+    </U>
+</V>
+    <V t="statistics">
+    <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+            <T n="stat">11839062382904695937<!--LN_RM:commodity_PurpleCheck_Timer--></T>
+            <L n="tests">
+                <L>
+                    <V t="statistic">
+                        <U n="statistic">
+                            <T n="must_have_stat">True</T>
+                            <T n="stat">11839062382904695937<!--LN_RM:commodity_PurpleCheck_Timer--></T>
+                        </U>
+                    </V>
+                </L>
+            </L>
+        </U>
+    </V>
+</V>
+  </L>
+</I>

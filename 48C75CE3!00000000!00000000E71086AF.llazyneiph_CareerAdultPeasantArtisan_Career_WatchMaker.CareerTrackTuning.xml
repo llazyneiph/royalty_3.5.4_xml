@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/WatchMaker" s="3876619951">
+    <T n="career_description">0xAFDC3B90</T>
+    <L n="career_levels">
+        <T>2982095791</T>
+        <T>2501169114</T>
+        <T>2473245394</T>
+        <T>3141646013</T>
+    </L>
+    <T n="career_name">0xEC212693<!--Watch Maker--></T>
+    <T n="career_name_gender_neutral">0xEC212693</T>
+    <V n="goodbye_notification" t="reference">
+        <T n="reference">110655<!--notification_GoToWorkGoodbye_Generic--></T>
+    </V>
+    <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+    <T n="icon_high_res">2f7d0004:00000000:e47d091702f12030</T>
+    <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+    <V n="knowledge_notification" t="enabled">
+        <V n="enabled" t="reference">
+            <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+        </V>
+    </V>
+</I>

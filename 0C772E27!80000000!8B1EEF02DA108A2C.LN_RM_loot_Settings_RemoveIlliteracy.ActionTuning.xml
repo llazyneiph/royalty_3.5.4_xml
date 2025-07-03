@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Settings_RemoveIlliteracy" s="10024712616100792876">
+  <L n="loot_actions">
+  <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">15253693791221356708<!--LN_RM:trait_Literate--></T>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>12642172311328263515<!--LN_RM:buff_illiterate_hidden--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10842790330279256851<!--LN_RM:buff_add_illiterate_hidden--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10425995534747652241<!--LN_RM:buff_Add_illiteracy--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

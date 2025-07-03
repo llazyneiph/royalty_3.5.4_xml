@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ASizeableBooty" s="16410960172317206893">
+  <L n="loot_actions">
+    <V n="action" t="create_object">
+      <U n="create_object">
+        <V n="creation_data" t="definition">
+          <U n="definition">
+            <T n="definition">30527<!--Map--></T>
+          </U>
+        </V>
+        <V t="inventory" n="location" />
+        <T n="quantity">1</T>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="text" t="single">
+              <T n="single">0x616832F0<!--{1.SimFirstName} has given {0.SimFirstName} a rather soggy map. {0.SimFirstName} can find it in their inventory.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V t="enabled" n="icon">
+              <V t="participant" n="enabled">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V t="enabled" n="secondary_icon">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x3C690E1C<!--Well... not like I was looking forward to an adventure or anything... just take it...--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

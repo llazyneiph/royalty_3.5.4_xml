@@ -1,0 +1,9 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517945" i="trait" m="traits.traits" n="llazyneiph_RoyaltyModV2_Trait15">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,12 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="16711410674742771552" i="objective" m="event_testing.objective_tuning" n="llazyneiph_nobilityrunon_ObjectiveSet/1337754885">
+  <V n="objective_test" t="trait">
+    <U n="trait">
+      <L n="whitelist_traits">
+        <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+      </L>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="iterations" />
+</I>

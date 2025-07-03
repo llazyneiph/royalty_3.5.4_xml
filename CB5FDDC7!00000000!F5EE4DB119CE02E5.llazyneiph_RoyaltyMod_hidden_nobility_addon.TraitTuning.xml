@@ -1,0 +1,24 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="17721187006786962149" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_hidden_nobility_addon">
+  <T n="display_name">0xC1E5F2C1<!--hidden_nobility_addon--></T>
+  <T n="display_name_gender_neutral">0xC1E5F2C1<!--hidden_nobility_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17118657846450627927<!--llazyneiph_RoyaltyMod_hidden_nobility_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">16761004859413114222<!--llazyneiph_nobilityrunon_Trait/1828878978--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>BABY</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="super_affordances"></L>
+  <E n="trait_type">HIDDEN</E>
+</I>

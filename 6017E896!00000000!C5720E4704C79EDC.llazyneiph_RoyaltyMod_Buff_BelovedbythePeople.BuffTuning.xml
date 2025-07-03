@@ -1,0 +1,9 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="14227449871002476252" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_BelovedbythePeople">
+  <T n="visible">False</T>
+  <T n="buff_description">0xCAE762B2<!--{0.SimFirstName} has proven {0.SimPronounReflexive} to be completely adored by {0.SimPronounPossessiveDependent} subjects!--></T>
+  <T n="buff_name">0xC535BEEC<!--Beloved by the People--></T>
+  <T n="icon">2f7d0004:00000000:d644fd3d88beeb8a</T>
+  <L n="_loot_on_addition">
+    <T>17094751016833370107<!--llazyneiph_RoyaltyModV2_Reward/3843696407--></T>
+  </L>
+</I>

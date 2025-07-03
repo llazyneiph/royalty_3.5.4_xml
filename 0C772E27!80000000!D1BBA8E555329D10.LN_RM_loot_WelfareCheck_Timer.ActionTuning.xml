@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_WelfareCheck_Timer" s="15112858677502188816">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

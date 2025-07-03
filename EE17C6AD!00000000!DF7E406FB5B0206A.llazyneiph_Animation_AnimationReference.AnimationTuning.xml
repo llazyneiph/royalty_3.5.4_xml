@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="AnimationElement" s="16104380166057238634" i="animation" m="animation.animation_element" n="llazyneiph_Animation_AnimationReference">
+  <T n="asm_key">02d5df13:00000000:C65A7CACDC57A646</T>
+  <L n="begin_states">
+    <T>Succeed</T>
+  </L>
+  <T n="target_name" />
+</I>

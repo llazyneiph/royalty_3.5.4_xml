@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_KnightWalkstyle_Off" s="16524074853506204501">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">29594<!--trait_WalkStyleTough--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

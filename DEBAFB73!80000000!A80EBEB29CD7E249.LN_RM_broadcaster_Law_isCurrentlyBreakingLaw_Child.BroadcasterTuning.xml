@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_Law_isCurrentlyBreakingLaw_Child" s="12109826122390692425">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="affordance">
+      <U n="affordance">
+        <E n="affordance_priority">High</E>
+        <L n="affordances">
+          <U>
+            <T n="affordance">9420242421104307783<!--LN_RM:Laws_Reaction_BreakingLaw_Child--></T>
+          </U>
+        </L>
+        <V n="excluded_participants" t="enabled" />
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_enter" />
+  <T n="immediate">True</T>
+</I>

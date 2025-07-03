@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_MagnoliaPromenade_Add_Noble" s="10306966660193165059">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">11534279211417906380<!--LN_RM:trait_Gameplay_RegionalNoble_MagProm--></T>
+      </U>
+    </V>
+  </L>
+</I>

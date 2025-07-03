@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9411498593557259851" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_No Troubles in the Treasury">
+  <T n="buff_description">0xF583B779<!--It's always nice to hear from the big sim themselves that the kingdom has enough in the treasury to keep everyone fed!--></T>
+  <T n="buff_name">0xAB31441F<!--No Troubles in the Treasury--></T>
+  <T n="icon">2f7d0004:00000000:aafd066147575bf4</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

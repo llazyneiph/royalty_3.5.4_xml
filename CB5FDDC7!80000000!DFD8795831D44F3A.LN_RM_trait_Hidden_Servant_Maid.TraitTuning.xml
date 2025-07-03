@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_Servant_Maid" s="16129775485127511866">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>10832602924591486120<!--LN_RM:loot_Servant_Skills_Cooking_SetMax--></T>
+    </L>
+  </V>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_servantleave" s="9512979971568026766">
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="si_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">24309<!--npc_leave_lot_now_must_run--></T>
+            <E n="affordance_priority">Critical</E>
+            <V n="affordance_target" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16108775966881651088<!--LN_RM:trait_Hidden_Servant--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x2AA92871<!--{0.SimFirstName}'s has dismissed this servant.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">9959689872694722805<!--LN_RM:trait_Hidden_HasBeenPickedAsServantBefore--></T>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">1881020026<!--LN_RM:relationshipBit_ServantsEmployer--></T>
+            <E n="operation">REMOVE</E>
+            <E n="recipients">Actor</E>
+            <E n="targets">TargetSim</E>
+          </U>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

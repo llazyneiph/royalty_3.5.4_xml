@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_PersonalGuard_Knight" s="14696518045046305264">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17024695138969511409<!--LN_RM:buff_Hidden_PersonalGuard_Knight-->--></T>
+    </U>
+  </L>
+  
+  <L n="actor_mixers">
+    <U>
+      <T n="key">10820959585646503178<!--LN_RM:pieMenuCategory_Squire--></T>
+      <L n="value">
+        <T>13569423284736704571<!--int_AsktoBecomeSquire--></T>
+      </L>
+    </U>
+    <U>
+      <T n="key">10820959585646503178<!--LN_RM:pieMenuCategory_Squire--></T>
+      <L n="value">
+        <T>11693792528335550337<!--LN_RM_INT_DismissSquire--></T>
+      </L>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x900F7406<!--Personal Knight--></T>
+  <T n="display_name_gender_neutral">0x900F7406<!--Personal Knight--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:859aaedca38d9518</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x040F5961<!--{0.SimFirstName} has been honoured with the important position of being their Masters personal guard.--></T>
+  <T n="trait_origin_description">0x2F66CC3A<!--(From Being Knighted)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

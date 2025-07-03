@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="13837920574950190714" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModUpdateV1_Trait13/3709990175">
+  <T n="visible">False</T>
+  <T n="buff_name">0xD19463EB</T>
+  <T n="icon">2f7d0004:00000000:5a51080fda41e1f1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>15819311088622311430<!--llazyneiph_RoyaltyModUpdateV1_Trait13/2626459662--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

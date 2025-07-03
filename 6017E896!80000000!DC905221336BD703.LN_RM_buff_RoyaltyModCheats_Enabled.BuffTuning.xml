@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_RoyaltyModCheats_Enabled" s="15893293387540584195">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="visible">False</T>
+  <L n="super_affordances">
+    <T>16253574950911973305<!--LN_RM:immediate_Cheats_Toggle_InheritedMonarch--></T>
+    <T>12613736288999775736<!--LN_RM:immediate_Cheats_Toggle_RoyalPartner--></T>
+    <T>17583588783389286563<!--LN_RM:immediate_Cheats_Toggle_CrownRoyal--></T>
+    <T>17531874304624060569<!--LN_RM:immediate_Cheats_Toggle_Heir--></T>
+    <T>14168602368707614213<!--LN_RM:immediate_Cheats_Toggle_Illigitimate--></T>
+    <T>18349933707943913411<!--LN_RM:immediate_Cheats_Toggle_DespisedRoyal--></T>
+    <T>14913241899020222916<!--LN_RM:immediate_Cheats_Toggle_BelovedMonarch--></T>
+    <T>13344291940762386659<!--LN_RM:immediate_Cheats_Toggle_Baron--></T>
+    <T>10722545287231496743<!--LN_RM:immediate_Cheats_Toggle_LIW--></T>
+    <T>15978172590245647910<!--LN_RM:immediate_Cheats_Toggle_Knight--></T>
+    <T>11009313030849743542<!--LN_RM:immediate_Cheats_Toggle_PersonalKnight--></T>
+    <T>13698273653331998656<!--LN_RM:immediate_Cheats_Toggle_Squire--></T>
+    <T>16527422852337705819<!--LN_RM:immediate_Cheats_Toggle_Peasant--></T>
+    <T>16442427811745714405<!--LN_RM:immediate_Cheats_Toggle_Marquis--></T>
+    <T>16010441560894548210<!--LN_RM:LN_RM:immediate_Cheats_Toggle_Count--></T>
+  </L>
+</I>

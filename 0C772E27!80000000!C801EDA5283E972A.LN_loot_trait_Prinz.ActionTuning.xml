@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:loot_trait_Prinz" s="14412061576162875178">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">15529301421419959156<!--LN_RM:trait_Hidden_Prinz--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">9924040348108735124<!--Trait: LN_RM:trait_Hidden_Archduke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16810029626734468778<!--Trait: LN_RM:trait_Hidden_Dame--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">17033988011084298300<!--Trait: LN_RM:trait_Hidden_Duchess--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16829176522224350632<!--Trait: LN_RM:trait_Hidden_Duke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16310066296364158633<!--Trait: LN_RM:trait_Hidden_Earl--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12157269179800510575<!--Trait: LN_RM:trait_Hidden_Emperor--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">9941998441858403264<!--Trait: LN_RM:trait_Hidden_Empress--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13810350763406394496<!--Trait: LN_RM:trait_Hidden_Grandduke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">17703743174726349840<!--Trait: LN_RM:trait_Hidden_Kaiser--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16280935011384036437<!--Trait: LN_RM:trait_Hidden_Kaiserin--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13336157823915216652<!--Trait: LN_RM:trait_Hidden_King--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">18412808794588270870<!--Trait: LN_RM:trait_Hidden_KingR--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11918002117868191934<!--Trait: LN_RM:trait_Hidden_Knight--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12763579447097348725<!--Trait: LN_RM:trait_Hidden_Lady--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12776841756354180524<!--Trait: LN_RM:trait_Hidden_Lord--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14440357583819299474<!--Trait: LN_RM:trait_Hidden_Maharaja--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12750517017989183662<!--Trait: LN_RM:trait_Hidden_Maharajni--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14303339802050465041<!--Trait: LN_RM:trait_Hidden_Monarch--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13828613032790567564<!--Trait: LN_RM:trait_Hidden_Pharaoh--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16749650935157260882<!--Trait: LN_RM:trait_Hidden_Prince--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16061442085815665068<!--Trait: LN_RM:trait_Hidden_Princess--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14813281179583026976<!--Trait: LN_RM:trait_Hidden_PrincessD--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16615332987895793809<!--Trait: LN_RM:trait_Hidden_Queen--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">10935868003130661703<!--Trait: LN_RM:trait_Hidden_QueenConsort--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16357753839886964787<!--Trait: LN_RM:trait_Hidden_Sovereign--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">17569674487618373912<!--Trait: LN_RM:trait_Hidden_Sultan--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16829176522224350632<!--Trait: LN_RM:trait_Hidden_Tsar--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">18091705340579174886<!--Trait: LN_RM:trait_Hidden_Tsarevich--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11217529147669917549<!--Trait: LN_RM:trait_Hidden_Tsarevna--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">10200594998973391847<!--Trait: LN_RM:trait_Hidden_Tsarina--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13894052093350217268<!--Trait: LN_RM:trait_Hidden_Vicomte--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428756<!--Trait: LN_RM:trait_hidden_CustomTitle_01--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428759<!--Trait: LN_RM:trait_hidden_CustomTitle_02--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428758<!--Trait: LN_RM:trait_hidden_CustomTitle_03--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428753<!--Trait: LN_RM:trait_hidden_CustomTitle_04--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428752<!--Trait: LN_RM:trait_hidden_CustomTitle_05--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428755<!--Trait: LN_RM:trait_hidden_CustomTitle_06--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428754<!--Trait: LN_RM:trait_hidden_CustomTitle_07--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428765<!--Trait: LN_RM:trait_hidden_CustomTitle_08--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429469886043428764<!--Trait: LN_RM:trait_hidden_CustomTitle_09--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800514<!--Trait: LN_RM:trait_hidden_CustomTitle_10--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800515<!--Trait: LN_RM:trait_hidden_CustomTitle_11--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800512<!--Trait: LN_RM:trait_hidden_CustomTitle_12--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800513<!--Trait: LN_RM:trait_hidden_CustomTitle_13--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800518<!--Trait: LN_RM:trait_hidden_CustomTitle_14--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15429468786531800519<!--Trait: LN_RM:trait_hidden_CustomTitle_15--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15738919763295227770<!--Trait: LN_RM:trait_Hidden_Archon--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16998620950635617218<!--Trait: LN_RM:trait_Hidden_Augustus--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15210926673450622207<!--Trait: LN_RM:trait_Hidden_Autokrator--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15776437934071848287<!--Trait: LN_RM:trait_Hidden_Basileus--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13897043618040842082<!--Trait: LN_RM:trait_Hidden_Basilissa--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12701388312784331768<!--Trait: LN_RM:trait_Hidden_Caesar--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14231110917919298168<!--Trait: LN_RM:trait_Hidden_Despotes--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12467103901299026980<!--Trait: LN_RM:trait_Hidden_Praetor--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16138607680093707062<!--Trait: LN_RM:trait_Hidden_Rex--></T>
+      </U>
+    </V>
+  </U>
+</V>
+  </L>
+</I>

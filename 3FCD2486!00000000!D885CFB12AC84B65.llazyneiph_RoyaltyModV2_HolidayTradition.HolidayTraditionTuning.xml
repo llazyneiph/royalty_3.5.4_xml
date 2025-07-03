@@ -1,0 +1,49 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="HolidayTradition" s="15602104843928882021" i="holiday_tradition" m="holidays.holiday_tradition" n="llazyneiph_RoyaltyModV2_HolidayTradition">
+  <V n="_display_data" t="optional_display_mixin">
+    <U n="optional_display_mixin">
+      <V n="instance_display_description" t="enabled_display_description">
+        <T n="enabled_display_description">0x92C687D4<!--It's time to give thanks and celebrate the sim who currently precides over you! --></T>
+      </V>
+      <V n="instance_display_icon" t="enabled_display_icon">
+        <T n="enabled_display_icon">2f7d0004:00000000:f25f05faf1155353</T>
+      </V>
+      <V n="instance_display_name" t="enabled_display_name">
+        <T n="enabled_display_name">0xC409C173<!--Monarch's Birthday--></T>
+      </V>
+    </U>
+  </V>
+  <T n="situation_goal">13268464692269485074<!--llazyneiph_RoyaltyModV2_HolidayTradition/1186073523--></T>
+  <L n="preference">
+    <U>
+      <E n="preference">DOES_NOT_CARE</E>
+      <V n="reason" t="enabled">
+        <T n="enabled">0x175B27F3<!--(From Being a Toddler)--></T>
+      </V>
+      <L n="tests">
+        <V t="sim_info">
+          <U n="sim_info">
+            <V n="ages" t="specified">
+              <L n="specified">
+                <E>TODDLER</E>
+              </L>
+            </V>
+          </U>
+        </V>
+      </L>
+    </U>
+    <U>
+      <E n="preference">DOES_NOT_CARE</E>
+      <L n="tests">
+        <V t="sim_info">
+          <U n="sim_info">
+            <V n="ages" t="specified">
+              <L n="specified">
+                <E>BABY</E>
+              </L>
+            </V>
+          </U>
+        </V>
+      </L>
+    </U>
+  </L>
+</I>

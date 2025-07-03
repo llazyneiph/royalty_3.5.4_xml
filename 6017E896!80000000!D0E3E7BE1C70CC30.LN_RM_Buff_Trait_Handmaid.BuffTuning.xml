@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Trait_Handmaid" s="15052129183309286448">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add" />
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">9907162122537926062<!--LN_RM:situationJob_BasicTrait_LadyInWaiting--></T>
+      </V>
+      <T n="situation">11772099193362628974<!--LN_RM:basicTraitSituation_LadiesInWaiting--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13991<!--sim_BeAffectionate--></T>
+      <L n="value">
+        <T>17735170832143325645<!--LN_RM:mixer_social_InsultClothing_targeted_mean_alwaysOn_LIW--></T>
+      </L>
+      <L n="value">
+        <T>10383452506355128149<!--LN_RM:balloonCategory_LIW_AboutTarget_Mock_LackofPower--></T>
+      </L>
+      <L n="value">
+        <T>16252012494244527730<!--LN_RM:mixer_social_GossipAboutLIWs--></T>
+      </L>
+      <L n="value">
+        <T>12984938183672113783<!--LN_RM:mixer_social_Jeer_targeted_mean_LIW--></T>
+      </L>
+    </U>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+  <V n="walkstyle" t="disabled" />
+</I>

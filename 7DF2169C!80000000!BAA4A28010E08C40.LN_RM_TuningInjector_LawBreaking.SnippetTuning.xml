@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_LawBreaking" s="13449053058157808704">
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">13539<!--mailbox_GetMail--></T>
+      <L n="affordances">
+        <T>14025205396366909184<!--LN_RM:mailbox_PayFine--></T>
+        <T>9880070715950180775<!--LN_RM:mailbox_PayFine_Child--></T>
+      </L>
+    </U>
+  </L>
+</I>

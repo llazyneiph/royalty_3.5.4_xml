@@ -1,0 +1,294 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SuperInteraction" s="17599748959401878580" i="interaction" m="interactions.base.super_interaction" n="llazyneiph_RMSituations_Career/3068713772">
+  <V n="_saveable" t="enabled" />
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <T n="allow_autonomous">False</T>
+  <V n="_affordance_key_override_for_autonomy" t="enabled">
+    <T n="enabled">Phone_Fun</T>
+  </V>
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="circle">
+            <U n="circle">
+              <T n="radius">3</T>
+              <T n="require_los">False</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_icon" t="resource_key">
+    <U n="resource_key">
+      <T n="key">2f7d0004:00000000:6189ced9570b8609</T>
+    </U>
+  </V>
+  <T n="attention_cost">1.24</T>
+  <V n="basic_content" t="flexible_length">
+    <U n="flexible_length">
+      <L n="conditional_actions">
+        <V t="list_reference">
+          <T n="list_reference">40705<!--ExitConditionList_MotivesNearFail--></T>
+        </V>
+        <V t="literal">
+          <U n="literal">
+            <L n="conditions">
+              <V t="time_based">
+                <U n="time_based">
+                  <T n="max_time">7</T>
+                  <T n="min_time">5</T>
+                </U>
+              </V>
+            </L>
+            <E n="interaction_action">EXIT_NATURALLY</E>
+          </U>
+        </V>
+      </L>
+      <V n="content" t="looping_content">
+        <U n="looping_content">
+          <U n="animation_ref">
+            <T n="factory">11702<!--Phone_Chat--></T>
+            <U n="overrides">
+              <V n="balloons" t="enabled">
+                <L n="enabled">
+                  <U>
+                    <L n="balloon_choices">
+                      <U>
+                        <V n="item" t="balloon_category">
+                          <T n="balloon_category">2f7d0004:00000000:5a51080fda41e1f1</T>
+                        </V>
+                      </U>
+                    </L>
+                    <T n="balloon_delay">2</T>
+                    <L n="balloon_target">
+                      <E>Actor</E>
+                    </L>
+                  </U>
+                </L>
+              </V>
+              <L n="props">
+                <U>
+                  <T n="key">cellphone</T>
+                  <U n="value">
+                    <T n="definition">145433<!--gadgetSmlPhoneCellGEN_01 (Cell Phone)--></T>
+                    <T n="from_actor">x</T>
+                    <L n="states_to_override">
+                      <T>149289<!--Phone_Color_States--></T>
+                      <T>149290<!--Phone_UseType_States--></T>
+                    </L>
+                  </U>
+                </U>
+              </L>
+            </U>
+          </U>
+        </U>
+      </V>
+      <T n="start_autonomous_inertial">False</T>
+    </U>
+  </V>
+  <L n="basic_extras">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>149368<!--loot_Phone_Text--></T>
+        </L>
+        <V n="timing" t="at_beginning" />
+      </U>
+    </V>
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>163544<!--loot_Grounded_Give_BuffReward_NoPhone--></T>
+        </L>
+        <V n="timing" t="at_beginning" />
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">163474<!--buff_Grounded_Breaking--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>161757<!--buff_Grounded_Controllers_No_Phone--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="display_name_overrides" t="testable">
+    <U n="testable">
+      <L n="overrides">
+        <U>
+          <V n="new_display_name" t="disabled" />
+          <V n="new_pie_menu_icon" t="enabled">
+            <V n="enabled" t="resource_key">
+              <U n="resource_key">
+                <T n="key">2f7d0004:00000000:1bcafb280c1f78cd</T>
+              </U>
+            </V>
+          </V>
+          <V n="parent_name" t="enabled">
+            <T n="enabled">0xB882229F<!--{1.String} Stealthily--></T>
+          </V>
+          <L n="test">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>161757<!--buff_Grounded_Controllers_No_Phone--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </L>
+    </U>
+  </V>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="basic_extras">
+          <V t="notification">
+            <U n="notification">
+              <V n="dialog" t="single">
+                <V n="single" t="literal">
+                  <U n="literal">
+                    <V n="icon" t="enabled">
+                      <V n="enabled" t="resource_key">
+                        <U n="resource_key">
+                          <T n="key">2f7d0004:00000000:5a51080fda41e1f1</T>
+                        </U>
+                      </V>
+                    </V>
+                    <V n="secondary_icon" t="enabled">
+                      <V n="enabled" t="participant" />
+                    </V>
+                    <V n="text" t="single">
+                      <T n="single">0x7D0457C4<!--{0.SimFirstName} has taken a vacation day. Enjoy the day off!--></T>
+                    </V>
+                  </U>
+                </V>
+              </V>
+            </U>
+          </V>
+        </L>
+        <L n="loot_list">
+          <T>10176037823696353009<!--llazyneiph_RMSituations_Career/3765949666--></T>
+          <T>111106<!--loot_Career_PTO_Reset--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <V n="super_affordance_compatibility" t="reference">
+    <T n="reference">76447<!--af_PhoneCompatability_QuickUse--></T>
+  </V>
+  <E n="target_type">ACTOR</E>
+  <L n="test_autonomous">
+    <L>
+      <V t="location">
+        <U n="location">
+          <U n="location_tests">
+            <V n="is_venue_type" t="enabled">
+              <U n="enabled">
+                <T n="negate">True</T>
+                <T n="venue_type">111611<!--venue_HiddenAlienWorld--></T>
+              </U>
+            </V>
+          </U>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="test_globals">
+    <V t="career_test">
+      <U n="career_test">
+        <V n="test_type" t="career_reference">
+          <U n="career_reference">
+            <V n="career" t="specific_career">
+              <T n="specific_career">4259244091</T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="career_test">
+      <U n="career_test">
+        <V n="test_type" t="time_until_work">
+          <U n="time_until_work">
+            <T n="career">4259244091</T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="career_test">
+      <U n="career_test">
+        <T n="negate">False</T>
+        <V n="test_type" t="time_off" />
+      </U>
+    </V>
+    <V t="test_set_reference">
+      <T n="test_set_reference">111347<!--testSet_NotWorkLocation--></T>
+    </V>
+    <V t="career_test">
+      <U n="career_test">
+        <V n="test_type" t="pto_amount">
+          <U n="pto_amount">
+            <T n="career">4259244091</T>
+            <U n="required_pto_available">
+              <T n="value">1</T>
+            </U>
+          </U>
+        </V>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0xB9CD9707<!--{0.SimFirstName} does not have any vacation days!--></T>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">30</T>
+  <T n="category">193209<!--phoneCategories_Work--></T>
+  <T n="display_name">0xFAD0F10E<!--Take Vacation Day (Monarch of the Land)--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

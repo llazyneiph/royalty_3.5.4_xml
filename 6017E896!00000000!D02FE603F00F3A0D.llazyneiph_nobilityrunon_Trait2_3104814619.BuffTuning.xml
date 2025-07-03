@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15001461788381231629" i="buff" m="buffs.buff" n="llazyneiph_nobilityrunon_Trait2/3104814619">
+  <T n="buff_name">0xEFC19B3C</T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>12012901202397992546<!--llazyneiph_nobilityrunon_Trait2/2961475028--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

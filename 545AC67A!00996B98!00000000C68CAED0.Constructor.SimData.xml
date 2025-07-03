@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="Constructor" schema="Career" type="Object">
+      <T name="career_category">4</T>
+      <T name="show_ideal_mood">0</T>
+      <T name="start_track">3172164734</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Career" schema_hash="0x36E49BED">
+      <Columns>
+        <Column name="career_category" type="Int64" flags="0x00000000" />
+        <Column name="show_ideal_mood" type="Boolean" flags="0x00000000" />
+        <Column name="start_track" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

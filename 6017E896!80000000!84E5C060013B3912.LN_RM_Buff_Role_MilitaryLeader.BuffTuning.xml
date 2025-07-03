@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Role_MilitaryLeader" s="9576271701243279634">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>17500771690096015007<!--LN_RM:mixer_Social_MilitaryOfficial_EvaluateMilitaryReports--></T>
+        <T>14474916571674572310<!--LN_RM:mixer_Social_MilitaryOfficial_MilitaryStrats--></T>
+        <T>16577091257356893760<!--LN_RM:mixer_Social_MilitaryOfficial_PlanCampaigns--></T>
+        <T>13386652043790202158<!--LN_RM:mixer_Social_MilitaryOfficial_AllocateResources--></T>
+        <T>11658413789375712210<!--LN_RM:mixer_Social_MilitaryOfficial_AssessLoyalty--></T>
+        <T>14135392110535191282<!--LN_RM:mixer_Social_MilitaryOfficial_DiscussAlliances--></T>
+        <T>10441176497809771668<!--LN_RM:mixer_Social_MilitaryOfficial_ImplementTrainingPrograms--></T>
+        <T>16577091257356893760<!--LN_RM:mixer_Social_MilitaryOfficial_PlanCampaigns--></T>
+        <T>17559409534637158138<!--LN_RM:mixer_Social_MilitaryOfficial_PlanDefenceStrategies--></T>
+        <T>15345597559230958289<!--LN_RM:mixer_Social_MilitaryOfficial_TalkBattleTactics--></T>
+      </L>
+    </U>
+  </L>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+      <T>17500771690096015007<!--LN_RM:mixer_Social_MilitaryOfficial_EvaluateMilitaryReports--></T>
+        <T>14474916571674572310<!--LN_RM:mixer_Social_MilitaryOfficial_MilitaryStrats--></T>
+        <T>16577091257356893760<!--LN_RM:mixer_Social_MilitaryOfficial_PlanCampaigns--></T>
+        <T>13386652043790202158<!--LN_RM:mixer_Social_MilitaryOfficial_AllocateResources--></T>
+        <T>11658413789375712210<!--LN_RM:mixer_Social_MilitaryOfficial_AssessLoyalty--></T>
+        <T>14135392110535191282<!--LN_RM:mixer_Social_MilitaryOfficial_DiscussAlliances--></T>
+        <T>10441176497809771668<!--LN_RM:mixer_Social_MilitaryOfficial_ImplementTrainingPrograms--></T>
+        <T>16577091257356893760<!--LN_RM:mixer_Social_MilitaryOfficial_PlanCampaigns--></T>
+        <T>17559409534637158138<!--LN_RM:mixer_Social_MilitaryOfficial_PlanDefenceStrategies--></T>
+        <T>15345597559230958289<!--LN_RM:mixer_Social_MilitaryOfficial_TalkBattleTactics--></T>
+      </L>
+    </U>
+  </L>
+</I>

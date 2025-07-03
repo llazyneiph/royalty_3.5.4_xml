@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_RoyalRomance_A3_3" s="13056466711462851087">
+  <L n="additional_tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">TargetSim</E>
+          <L n="whitelist_traits">
+            <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+    <T>357714<!--loot_PivotalMoment_AspirationGoalComplete--></T>
+  </L>
+  <T n="display_text">0x601850BB<!--Successfully Flirt with a Royal 10 Times--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">10</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordance_lists">
+        <T>18080216363313640776<!--LN_RM:affordanceList_Royals_Flirtation--></T>
+      </L>
+      <V n="interaction_outcome" t="enabled">
+        <E n="enabled">SUCCESS</E>
+      </V>
+    </U>
+  </V>
+  <T n="satisfaction_points">50</T>
+  <T n="tooltip">0xCE132389<!--Click on a sim and choose 'Give Gift'!--></T>
+</I>

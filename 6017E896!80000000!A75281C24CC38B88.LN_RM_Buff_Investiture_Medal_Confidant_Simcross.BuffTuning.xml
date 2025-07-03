@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Investiture_Medal_Confidant_Simcross" s="12056841823935761288">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x16D476C0<!--Receiving the prestigious Simcross has filled {0.SimFirstName} with pride and purpose. {0.SimPronounSubjective} now carry the weight of {0.SimPronounPossessiveDependent} noble title, inspiring those around {0.SimPronounObjective}.--></T>
+  <T n="buff_name">0x45C78A2C<!--Honoured with Simcross--></T>
+  <T n="icon" p="InEP06\UI\Icons\Buffs\buffs_FanFavorite.png">2f7d0004:00000000:362174D0D565BE55</T>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">2</T>
+  <T n="visible">True</T>
+</I>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/Blacksmith" s="4029667555">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xE84F79B1</T>
+  <T n="career_name">0xC33B1BBA<!--Blacksmith--></T>
+  <T n="career_name_gender_neutral">0xC33B1BBA</T>
+  <T n="icon">2f7d0004:00000000:d592aa90805547f9</T>
+  <T n="icon_high_res">2f7d0004:00000000:57BE51F9B1C9BA1A</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>4047022606</T>
+    <T>4099739455</T>
+    <T>3843640370</T>
+    <T>2916078839</T>
+  </L>
+</I>

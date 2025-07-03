@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_Welfare_RemoveTrait" s="17714976513734361615">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12876738561903640070<!--LN_RM:trait_Hidden_LawEnforcer_Welfare--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">15495685352714548601<!--LN_RM:trait_Hidden_LawEnforcer_Welfare_Remove--></T>
+      </U>
+    </V>
+    <V t="statistics">
+    <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+            <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+            <L n="tests">
+                <L>
+                    <V t="statistic">
+                        <U n="statistic">
+                            <T n="must_have_stat">True</T>
+                            <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+                        </U>
+                    </V>
+                </L>
+            </L>
+        </U>
+    </V>
+</V>
+  </L>
+</I>

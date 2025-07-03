@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="FrankkPackTestSetInstance" i="snippet" m="fkpt.pack_tests" n="LN_RM:Snippet_PackTestDungeons" s="15269129325500603893">
+  <V t="pack_test">
+    <U n="pack_test">
+      <E n="pack">EP06</E>
+      <E n="test_type">INSTALLED</E>
+    </U>
+  </V>
+</I>

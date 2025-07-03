@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Tutorial" i="tutorial" m="tutorials.tutorial" n="LN_RM:tutorial_OtherTraits" s="16351261446027352587">
+  <T n="category">9376958405663089733<!--LN_RM:tutorial_Category_RoyaltyMod--></T>
+  <T n="name">0x18C824B0<!--Other Traits--></T>
+  <L n="slides">
+    <U>
+      <T n="image" p="InEP11\UI\Lessons\EP10_AnimalCare_1.png">2f7d0004:00000000:419d2dc6b906bc3f</T>
+      <T n="text">0x19F6D8B6<!--All other traits in the mod can be given by the Monarch. \nWith your Monarch selected, click on the sims you would like to bestow a title on. \nChoose ‘Titles’ and here you can choose which trait you would like to give the sim.--></T>
+    </U>
+  </L>
+  <L n="tags">
+    <E>Lesson_EP11_CottageLiving</E>
+  </L>
+  <T n="ui_sort_order">45</T>
+</I>

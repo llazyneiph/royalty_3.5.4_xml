@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testSet_RegionalNoble_Ravenwood" s="17467114065159913203">
+  <L n="test">
+    <L>
+      <V t="region">
+        <U n="region">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>372551<!--region_Residential_EP17World--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+      <V t="in_home_region" />
+    </L>
+  </L>
+</I>

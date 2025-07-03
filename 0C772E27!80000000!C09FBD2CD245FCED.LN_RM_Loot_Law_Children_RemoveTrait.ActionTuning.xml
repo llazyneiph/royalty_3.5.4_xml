@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Children_RemoveTrait" s="13880020576783170797">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13354451570462018835<!--LN_RM:trait_Hidden_Law_Children--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

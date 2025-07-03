@@ -1,0 +1,13 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="10062383411115103453" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/834202521">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>11700162028951527937</T>
+          <T>14077103315687219234</T>
+        </L>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

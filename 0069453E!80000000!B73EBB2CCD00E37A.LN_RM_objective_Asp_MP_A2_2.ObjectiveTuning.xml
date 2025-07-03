@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_MP_A2_2" s="13204196958589215610">
+  <T n="display_text">0x3BE7A3D2<!--Have 10 or More Friends.--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+  <V n="objective_test" t="total_relationship_bit">
+    <U n="total_relationship_bit">
+      <U n="num_relations">
+        <E n="comparison">EQUAL</E>
+        <T n="value">10</T>
+      </U>
+      <L n="relationship_bits">
+        <T>15797<!--friendship-friend--></T>
+      </L>
+    </U>
+  </V>
+  <T n="satisfaction_points">250</T>
+  <T n="tooltip">0x8B6EF824<!--You'll need friends to back you up, and so you don't look <i>totally</i> crazy.--></T>
+</I>

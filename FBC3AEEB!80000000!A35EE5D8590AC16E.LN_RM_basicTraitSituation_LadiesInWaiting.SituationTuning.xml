@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BasicTraitSitaution" i="situation" m="situations.complex.basic_trait_situation" n="LN_RM:basicTraitSituation_LadiesInWaiting" s="11772099193362628974">
+  <T n="duration">0</T>
+  <T n="job">9907162122537926062<!--LN_RM:situationJob_BasicTrait_LadyInWaiting--></T>
+  <T n="role">15358918517758309398<!--LN_RM:roleState_BasicTrait_LadiesInWaiting--></T>
+</I>

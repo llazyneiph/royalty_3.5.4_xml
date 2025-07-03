@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="LN_S:Freshness_Preserved" s="9740840827507808027">
+  <L n="_values">
+    <T>16067626577367948018<!--LN_S:Preserved_Freshness_Fresh--></T>
+    <T>17449905135168052530<!--LN_S:Preserved_Freshness_Spoiled--></T>
+    <T>18005228504218139415<!--LN_S:Preserved_Freshness_Untouched--></T>
+  </L>
+  <T n="linked_stat">9457211614598911233<!--LN_S:commodity_preserved_freshness--></T>
+</I>

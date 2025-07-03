@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Notification_Regent_TemporaryThrone" s="13619274992259483437">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_cellphoneold.png">2f7d0004:00000000:32FB88DDCB5F1DCF</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xD125040A<!--{0.SimFirstName} now shoulders the resposibilities of keeping the kingdom safe and happy as Regent until the heir is old enough to take the throne for themselves.--></T>
+            </V>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

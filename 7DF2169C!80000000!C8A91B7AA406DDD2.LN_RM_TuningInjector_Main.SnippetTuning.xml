@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_Main" s="14459118292201561554">
+  <!--<L n="inject_by_affordance">
+    <U>
+      <T n="query">13136chair_Nap</T>
+      <L n="states">
+        <U>
+          <L n="client_states">
+            <U>
+              <T n="key">16848779787673790435LN_RM:Throne_Ownership_Claimed</T>
+            </U>
+            <U>
+              <T n="key">18413936145039673274LN_RM:Throne_Ownership_NotClaimed</T>
+            </U>
+          </L>
+          <V n="default_value" t="reference">
+            <T n="reference">18413936145039673274LN_RM:Throne_Ownership_NotClaimed</T>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>-->
+  <L n="custom_death_types">
+  <U>
+    <T n="death_type_key">stake</T>
+    <T n="death_type_id">1130812221</T>
+    <T n="affordance">12890195808775769558<!--LN_RM:death_Stake--></T>
+  </U>
+</L>
+</I>

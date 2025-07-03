@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_TradeRoute" s="18231721472321378185">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="advertise">True</T>
+          <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="must_have_stat">False</T>
+                  <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-200</T>
+          <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-1000</T>
+          <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="advertise">True</T>
+          <T n="stat">14702416325629313568<!--LN_RM:commodity_EmpireTreasury_TradeRoutePayout--></T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-2</T>
+          <T n="stat">11852459670164686137<!--LN_RM:commodity_Empire_Happiness--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP14\UI\Icons\Notifications\notification_HorseFear.png">2f7d0004:00000000:FA54892337B6D69E</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x2CFC7245<!--Enemy forces, overpowering our soldiers, have taken control of vital trade routes. This disruption threatens the steady flow of drachmas and goods into the Empire's markets.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="participant" t="enabled">
+              <E n="enabled">Actor</E>
+            </V>
+            <V n="text" t="variation">
+              <U n="variation">
+                <L n="variations">
+                  <T>0x42366E5C<!--{0.SimFirstName} has {1.Number} {S1.coin}{P1.coins} in the royal treasury. It's a modest sum, but {0.SimFirstName} should consider ways to increase the kingdom's wealth.--></T>
+                  <T>0x314F30EF<!--{0.SimFirstName} has {1.Number} {S1.coin}{P1.coins} in the royal treasury. Impressive! Yet, a wise ruler knows there's always room for more.--></T>
+                  <T>0xEA81ABF6<!--{0.SimFirstName} has {1.Number} {S1.coin}{P1.coins} in the royal treasury. With such wealth, {0.SimFirstName} can fund grand projects or seek lucrative investments.--></T>
+                </L>
+              </U>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type" />
+                  <V t="statistic_value">
+                    <U n="statistic_value">
+                      <T n="statistic">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+                    </U>
+                  </V>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

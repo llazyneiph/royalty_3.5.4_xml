@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Buff_LIW_DoNotEatDrink" s="17487469076300953863">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">10312218374905603686<!--LN_RM:buff_Hidden_LIW_DoNotEatorDrink--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

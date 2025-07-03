@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimPickerInteraction" i="interaction" m="interactions.base.picker_interaction" n="LN_RM:simPickerInteraction_SendToTower" s="12916656972480824597">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xA66FF7F0<!--Send Sim to the Tower!--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">PickedSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="pie_menu_test_tooltip" t="enabled">
+    <T n="enabled">0x9337B7D2<!--There are no nearby sims to send to the tower.--></T>
+  </V>
+  <T n="include_uninstantiated_sims">False</T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <L n="picked_continuation">
+    <U>
+      <T n="affordance">11486723357070632091<!--LN_RM:superInteraction_SendToTower_PickedSim_Continuation--></T>
+    </U>
+  </L>
+  <V n="picker_dialog" t="sim_picker">
+    <U n="sim_picker">
+      <V n="max_selectable" t="static_count">
+        <U n="static_count">
+          <T n="number_selectable">1</T>
+        </U>
+      </V>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <L n="sim_tests">
+    <L>
+    <V t="trait">
+      <U n="trait">
+        <L n="whitelist_traits">
+          <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+          <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+        </L>
+        <E n="subject">PickedSim</E>
+      </U>
+    </V>
+      <V t="location">
+        <U n="location">
+          <U n="location_tests">
+            <V n="is_on_active_lot" t="Is_or_is_not_on_active_lot" />
+          </U>
+          <E n="subject">PickedSim</E>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>12206992243428024344<!--LN_RM:buff_Tower--></T>
+          </L>
+          <E n="subject">PickedSim</E>
+        </U>
+      </V>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+            <E>CHILD</E>
+              <E>TEEN</E>
+              <E>YOUNGADULT</E>
+              <E>ADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E />
+              </L>
+            </U>
+          </V>
+          <E n="who">PickedSim</E>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="test_globals"> 
+    <V t="trait">
+      <U n="trait">
+        <L n="whitelist_traits">
+          <T>2522365735<!--LN_RM_trait_Monarch--></T>
+          <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+          <T>16816439335000103909<!--LN_RM:trait_Hidden_Regent_Active--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+  <E n="target_type">OBJECT</E>
+</I>

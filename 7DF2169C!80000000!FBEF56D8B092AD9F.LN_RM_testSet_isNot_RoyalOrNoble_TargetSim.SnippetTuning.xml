@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testSet_isNot_RoyalOrNoble_TargetSim" s="18153824111629086111">
+  <L n="test">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+            <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+            <T>16108775966881651088<!--LN_RM:trait_Hidden_Servant--></T>
+          </L>
+          <E n="subject">TargetSim</E>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

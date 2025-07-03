@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Tutorial" i="tutorial" m="tutorials.tutorial" n="LN_RM:tutorial_Monarchs" s="14892542941365337583">
+  <T n="category">9376958405663089733<!--LN_RM:tutorial_Category_RoyaltyMod--></T>
+  <T n="name">0x523A2D3A<!--Monarchs--></T>
+  <L n="slides">
+    <U>
+      <T n="image" p="InEP11\UI\Lessons\EP10_AnimalCare_1.png">2f7d0004:00000000:419d2dc6b906bc3f</T>
+      <T n="text">0x0BCCA05E<!--Monarchs are your main focus in this mod, and you require a Monarch to use much of the mods features. \nMonarchs are responsible for bestowing the in-game traits to other sims, such as; Crown Royals, Nobles, Heirs, and more. \nThey work best when paired with another sim who has been given the ‘Royal Advisor’ trait.\nMonarchs also have a small career (a 10am-3pm rabbithole) available to only them, which can be found under the careers menu.\nThey also have a cute little custom plumbob with a crown, to make them feel really special!--></T>
+    </U>
+  </L>
+  <L n="tags">
+    <E>Lesson_EP11_CottageLiving</E>
+  </L>
+  <T n="ui_sort_order">45</T>
+</I>

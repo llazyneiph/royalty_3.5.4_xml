@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Servant_TraitAdd" s="12493900127178258613">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16108775966881651088<!--LN_RM:trait_Hidden_Servant--></T>
+      </U>
+    </V>
+    <V t="create_object">
+      <U n="create_object">
+        <V n="creation_data" t="definition">
+          <U n="definition">
+            <T n="definition">10421764994546768572<!--Broom--></T>
+          </U>
+        </V>
+        <V n="location" t="inventory">
+          <U n="inventory">
+            <E n="location_target">Actor</E>
+          </U>
+        </V>
+        <T n="quantity">1</T>
+      </U>
+    </V>
+  </L>
+</I>

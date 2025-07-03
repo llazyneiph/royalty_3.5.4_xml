@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BasicTraitSitaution" i="situation" m="situations.complex.basic_trait_situation" n="LN_RM:basicTraitSituation_PersonalGaurd_Knight" s="17894842875643847857">
+  <T n="duration">0</T>
+  <T n="job">15213596547143625413<!--LN_RM:situationJob_BasicTrait_PersonalGuard_Knight--></T>
+  <T n="role">17071602830028961601<!--LN_RM:roleState_BasicTrait_PersonalGuard_Knight--></T>
+</I>

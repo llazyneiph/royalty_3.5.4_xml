@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalActor" i="situation_goal" m="situations.situation_goal_actor" n="LN_RM:goal_Execution_ExecuteSim" s="13270539749462962856">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP08\UI\Icons\Events\EventGoal_KegParty.png">2f7d0004:00000000:c7c12ed9acb0a54c</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x019D507D<!--Main Goal: Execute a Sim!--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x4CD25E40<!--It's what everyone came for after all!--></T>
+      </V>
+    </U>
+  </V>
+  <V n="_goal_test" t="buff">
+    <U n="buff">
+      <V n="whitelist" t="enabled">
+        <L n="enabled">
+          <T>16671700797682998613<!--LN_RM:buff_Death_Hidden_ExecutionSuccessful--></T>
+        </L>
+      </V>
+    </U>
+  </V>
+  <T n="_score">300</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

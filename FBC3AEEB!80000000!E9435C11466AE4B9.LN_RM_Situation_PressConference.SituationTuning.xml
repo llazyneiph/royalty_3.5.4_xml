@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationSimple" i="situation" m="situations.situation_simple" n="LN_RM:Situation_PressConference" s="16808379463542432953">
+  <T n="_cost">100</T>
+  <T n="_default_job">18011318023877711692<!--LN_RM:job_PressConference_Journalist--></T>
+  <T n="_display_name">0x95F2FBAA<!--Press Conference--></T>
+  <T n="_icon" p="InEP08\UI\Icons\Events\Event_Screenshots\Keg_Party.png">2f7d0004:00000000:FFDD604A4697E4C8</T>
+  <T n="_implies_greeted_status">True</T>
+  <U n="_level_data">
+    <U n="bronze">
+      <T n="level_description">0x9224E9B0<!--Bronze--></T>
+      <T n="reward">18338344239861106519<!--LN_RM:reward_Bronze--></T>
+      <T n="score_delta">100</T>
+    </U>
+    <U n="gold">
+      <T n="level_description">0x82AD9EEA<!--Gold--></T>
+      <T n="reward">18042622925936904085<!--LN_RM:reward_Gold--></T>
+    </U>
+    <U n="silver">
+      <T n="level_description">0x20CAEAD3<!--Silver--></T>
+      <T n="reward">14217588224547571356<!--LN_RM:reward_Silver--></T>
+    </U>
+  </U>
+  <L n="_phases">
+    <U>
+      <T n="duration">270</T>
+      <L n="job_list">
+        <U>
+          <T n="job">16760618134819211950<!--LN_RM:job_paparazzi_Paparazzi--></T>
+          <T n="role">196397<!--paparazzi_roles_Paparazzi--></T>
+        </U>
+        <U>
+          <T n="job">18011318023877711692<!--LN_RM:job_PressConference_Journalist--></T>
+          <T n="role">12840226779245282057<!--LN_RM:Role_PressConference_Journalist--></T>
+        </U>
+        <U>
+          <T n="job">17923612260742760618<!--LN_RM:job_PressConference_MissingRoyal--></T>
+          <T n="role">15275089867955605521<!--LN_RM:role_Heir_Phase1--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="duration">0</T>
+      <L n="job_list">
+        <U>
+          <T n="job">16760618134819211950<!--LN_RM:job_paparazzi_Paparazzi--></T>
+          <T n="role">196397<!--paparazzi_roles_Paparazzi--></T>
+        </U>
+        <U>
+          <T n="job">18011318023877711692<!--LN_RM:job_PressConference_Journalist--></T>
+          <T n="role">12840226779245282057<!--LN_RM:Role_PressConference_Journalist--></T>
+        </U>
+        <U>
+          <T n="job">17923612260742760618<!--LN_RM:job_PressConference_MissingRoyal--></T>
+          <T n="role">15930509299373259545<!--LN_RM:role_Heir_Coronation_Phase2--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <T n="_resident_job">17923612260742760618<!--LN_RM:job_PressConference_MissingRoyal--></T>
+  <T n="audio_sting_on_start" p="InGame\Audio\Bumper\bumper_event_start.propx">39b2aa4a:00000000:78b903461d47e4fc</T>
+  <T n="blocks_super_speed_three">True</T>
+  <T n="calendar_icon" p="InEP08\UI\Icons\Events\Holidays\holidays_kegParty.png">2f7d0004:00000000:4ca1eb882d1701d0</T>
+  <E n="category">Social Events</E>
+  <L n="compatible_venues">
+    <T>28614<!--venue_residential--></T>
+    <T>9279<!--venue_generic--></T>
+    <T>144206<!--venue_artscenter--></T>
+    <T>16874<!--venue_library--></T>
+    <T>16876<!--venue_museum--></T>
+    <T>138380<!--venue_MyshunoMeadows--></T>
+    <T>25847<!--venue_park--></T>
+    <T>98817<!--venue_VisitorsAllowed--></T>
+  </L>
+  <T n="duration">360</T>
+  <T n="force_invite_only">True</T>
+  <V n="job_display_ordering" t="enabled">
+    <L n="enabled">
+      <T>17923612260742760618<!--LN_RM:job_PressConference_MissingRoyal--></T>
+      <T>18011318023877711692<!--LN_RM:job_PressConference_Journalist--></T>
+      <T>16760618134819211950<!--LN_RM:job_paparazzi_Paparazzi--></T>
+    </L>
+  </V>
+  <T n="main_goal">14211755545816594434<!--LN_RM:goal_Main_PressConference--></T>
+  <T n="main_goal_audio_sting" p="InGame\Audio\Bumper\bumper_event_major_complete.propx">39b2aa4a:00000000:10b476550150a33f</T>
+  <T n="max_participants">20</T>
+  <L n="minor_goal_chains">
+    <T>18331435123019771162<!--LN_RM:goalSet_PressConference--></T>
+    <T>11720747888906205489<!--LN_RM:goalSet_PressConference_2--></T>
+  </L>
+  <U n="recommended_job_object_notification">
+    <E n="information_level">PLAYER</E>
+  </U>
+  <T n="recommended_job_object_text">0x7E73F37A<!--Some tips for a more successful event:\n{0.String}--></T>
+  <V n="screen_slam_bronze" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75362<!--EventOutcome_Bronze--></T>
+    </V>
+  </V>
+  <V n="screen_slam_gold" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75364<!--EventOutcome_Gold--></T>
+    </V>
+  </V>
+  <V n="screen_slam_no_medal" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75361<!--EventOutcome_Tin--></T>
+    </V>
+  </V>
+  <V n="screen_slam_silver" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75363<!--EventOutcome_Silver--></T>
+    </V>
+  </V>
+  <T n="situation_description">0x2203A998<!--Start a Press Conference to let the world know who you really are! (Part of the Missing Princess feature of Royalty Mod)--></T>
+  <L n="tags">
+    <E>Situation_PlayerFacing_CanHost</E>
+  </L>
+  <V n="travel_request_behavior" t="allow">
+    <U n="allow">
+      <V n="dialog" t="enabled">
+        <U n="enabled">
+          <V n="icon" t="enabled">
+            <V n="enabled" t="resource_key">
+              <U n="resource_key">
+                <T n="key" p="InEP08\UI\Icons\Headlines\headline_kegParty.png">2f7d0004:00000000:509c22ba28917ed9</T>
+              </U>
+            </V>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xE8A540E3<!--Are you sure that you would like to leave the current event and travel to another lot? All progress toward your goal will be lost.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xFECDCF71<!--Event In Progress!--></T>
+          </V>
+        </U>
+      </V>
+    </U>
+  </V>
+</I>

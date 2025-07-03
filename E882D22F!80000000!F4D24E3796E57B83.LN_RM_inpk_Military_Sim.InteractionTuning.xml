@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="InteractionPickerSuperInteraction" i="interaction" m="interactions.picker.interaction_picker" n="LN_RM:inpk_Military_Sim" s="17641248691025443715">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xB62E8C8C<!--Open Military Overview--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">TargetSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="picker_dialog">
+    <L n="dialog_options">
+      <E>SMALL_TITLE</E>
+    </L>
+    <V n="icon" t="enabled">
+      <V n="enabled" t="participant">
+        <U n="participant">
+          <L n="participant_type">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V n="icon_override_participant" t="enabled">
+      <E n="enabled">TargetSim</E>
+    </V>
+    <V n="max_selectable" t="static_count">
+      <U n="static_count">
+        <T n="exclude_previously_selected">False</T>
+        <T n="number_selectable">1</T>
+      </U>
+    </V>
+    <T n="min_selectable">1</T>
+    <V n="text" t="enabled">
+      <V n="enabled" t="single">
+        <T n="single">0xC8426DC1<!--Information About Army--></T>
+      </V>
+    </V>
+    <V n="text_tokens" t="enabled">
+      <U n="enabled">
+        <L n="tokens">
+          <V t="participant_type">
+            <U n="participant_type">
+              <V n="objects" t="from_participant">
+                <U n="from_participant">
+                  <E n="participant">TargetSim</E>
+                </U>
+              </V>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x23DA443C<!--Choose Action to Take--></T>
+    </V>
+  </U>
+  <L n="possible_actions">
+    <V t="literal">
+      <!--Check Soldiers-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14732548712993497096<!--LN_RM:imin_Military_CheckSoldiers--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:89299798A39B1A57</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x821BA7CD<!--Check the number of soldiers currently at your disposal.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xE66F4684<!--Check Soldiers--></T>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Fund Training-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12113164348995882712<!--LN_RM:imin_Military_FundTraining--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8C2B1701D8BC0F63</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0xD413AB09<!--<i>2500 Required in Royal Treasury.</i> Invest in new equipment, higher quality food and architecture in order to support more troops.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8E583903<!--Fund Military Training--></T>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Coastal Raid-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12141068361562966484<!--LN_RM:imin_Military_CoastalRaid--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:2A33C7DBA122610C</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x58F7A4DA<!--Lead a swift raid along the coast, targeting vulnerable settlements and merchant vessels. While the rewards can be plentiful, be wary of local defenses and potential counterattacks.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x05D3F375<!--Coastal Raid--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">1500</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Mountain Ambush-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11938105186657487486<!--LN_RM:imin_Military_MountainAmbush--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:7DE13C735169F9D3</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x95E471AC<!--<i>2500 in Royal Treasury & 1500 Soldiers Required .</i> Utilize the high ground to set up an ambush against passing enemy troops or trade caravans. The element of surprise can yield great rewards, but the rugged terrain can also pose challenges.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xEF674D2A<!--Mountain Ambush--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">1500</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Valley Blockade-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11422658693138024611<!--LN_RM:imin_Military_ValleyBlockade--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8FDE51B4FC424054</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x2BE30E23<!--<i>3500 in Royal Treasury & 3000 Soldiers Required .</i>Set up a blockade in a strategic valley, cutting off enemy supply routes and demanding tolls from passing merchants. This can bring in resources, but prolonged blockades might draw larger enemy forces.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xE01E9B53<!--Valley Blockade--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">3000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+	<V t="literal">
+      <!--Island Exp-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13336040214002107989<!--LN_RM:imin_Military_IslandExpedition--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F2CE7F1466A5E25E</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x24B37B6B<!--<i>4000 in Royal Treasury & 3500 Soldiers Required .</i> Venture to a nearby island rumored to have hidden treasures or enemy outposts. The isolation of islands can make them easy targets, but escape routes are limited.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1180475D<!--Island Expedition--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">3500</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Forest Scout-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12149725247957004130<!--LN_RM:imin_Military_ForestScout--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:44255FAF3F2AED29</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x2FE57DC6<!--<i>5000 in Royal Treasury & 4500 Soldiers Required .</i>Send scouts deep into the forest to gather intelligence, disrupt enemy activities, or locate hidden resources. The dense woods can provide cover, but they also harbor their own dangers.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xB04D4F94<!--Forest Scout--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">4500</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--River Patrol-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13632719699155622625<!--LN_RM:imin_Military_RiverPatrol--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:D8B0FA9F2B692F0C</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0xFBBCB25A<!--<i>6000 in Royal Treasury & 5000 Soldiers Required .</i>Patrol the major rivers, ensuring safe passage for friendly vessels and challenging any potential threats. Control of the waterways can be crucial for trade and strategic movements.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x34F700C6<!--River Patrol--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">5000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Direct the Siege in Peloponnesus-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16203184473877987360<!--LN_RM:imin_Military_Siege--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:63A55E5F570C1D12</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0xFBBCB25A<!--<i>20,000 in Royal Treasury & 25,000 Soldiers Required .</i>Lead your forces in a strategic siege against the fortified cities of Peloponnesus.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x755038D3<!--Direct the Siege in Peloponnesus--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">25000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Command the Naval Battle Near Crete-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10150036745852672171<!--LN_RM:imin_Military_NavalBattle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:2A33C7DBA122610C</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x095F6860<!--<i>30,000 in Royal Treasury & 35,000 Soldiers Required .</i>Take to the seas and command your fleet in a pivotal naval battle near Crete.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xA857ECC1<!--Command the Naval Battle Near Crete--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">35000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Command the Naval Battle Near Crete-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14062512544353749459<!--LN_RM:imin_Military_Skirmish--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:1E80D5B150493491</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x2EB9CBD1<!--<i>10,000 in Royal Treasury & 15,000 Soldiers Required .</i>Engage in swift and tactical skirmishes against the forces in Thessaly.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xDDCB0F8B<!--Oversee the Skirmishes in Thessaly--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">10000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Lead the Defense against the Persians-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12695360701064587237<!--LN_RM:imin_Military_Defense--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:FA54892337B6D69E</T>
+            </U>
+          </V>
+        </V>
+        <V n="item_description" t="enabled">
+          <T n="enabled">0x9D7BFF1E<!--<i>20,000 in Royal Treasury & 25,000 Soldiers Required .</i>Stand firm against the mighty Persian Empire. Your leadership will be crucial in repelling their advances.--></T>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xD9716DFA<!--Lead the Defense against the Persians--></T>
+        </V>
+        <V n="enable_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">11618118284054665065<!--LN_RM:statistic_Military_Soldiers--></T>
+                  <V n="threshold" t="value_threshold">
+                    <U n="value_threshold">
+                      <E n="comparison">GREATER_OR_EQUAL</E>
+                      <T n="value">25000</T>
+                    </U>
+                  </V>
+                  <E n="who">Actor</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals" />
+</I>

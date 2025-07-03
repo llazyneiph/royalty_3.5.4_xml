@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="LN_RM:pieMenuCategory_RoM_Spells" s="13535221399503137183">
+  <T n="_display_name">0x45D0CE56<!--Realm of Magic Spells--></T>
+  <T n="_parent">11608176765380413857<!--pieMenuCategory_CourtWizard--></T>
+</I>

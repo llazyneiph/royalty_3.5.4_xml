@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_PutOnMedal_Crown" s="14279351240057639603">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <T n="num_whitelist_required">1</T>
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>10970836007897362613<!--LN_RM:Trait_Hidden_Medal_OFF_CrownMedal--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">17644885438243539251<!--LN_RM:Trait_Hidden_Medal_CrownMedal--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10970836007897362613<!--LN_RM:Trait_Hidden_Medal_OFF_CrownMedal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="12723040178021983719" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait17/821597971">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">16627698797514768624<!--llazyneiph_RoyaltyMod_Buff_YouCanCountonMe!--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xA3002B2F<!--(From Rising in Rank)--></T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>16627698797514768624<!--llazyneiph_RoyaltyMod_Buff_YouCanCountonMe!--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

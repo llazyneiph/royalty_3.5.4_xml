@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_TraitTracker" s="14142680805315304593">
+  <U n="trait_tracker">
+    <L n="trait_inheritance">
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16382714984454194490<!--LN_RM:trait_Blessed_Dionysus_VinesDelight--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>13023252392784176511<!--LN_RM:trait_Hidden_BlessedPregnancy_Dionysus--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16898869782030512088<!--LN_RM:trait_Blessed_Demeter_NaturesOffspring--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>15894965510595639975<!--LN_RM:trait_Hidden_BlessedPregnancy_Demeter--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16643363510355151502<!--LN_RM:trait_Blessed_Hera_HerasFavour--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>15922632683915067735<!--LN_RM:trait_Hidden_BlessedPregnancy_Hera--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">13866347307272053852<!--LN_RM:trait_Blessed_Poseidon_OceansChosen--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>14531178321758745834<!--LN_RM:trait_Hidden_BlessedPregnancy_Poseidon--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16825707348164194083<!--LN_RM:trait_Blessed_Ares_WarriorsSpirit--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>11147728562982705956<!--LN_RM:trait_Hidden_BlessedPregnancy_Ares--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16631721671760493124<!--LN_RM:trait_Blessed_Hephaestus_ForgesProdigy--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>14747462535836762347<!--LN_RM:trait_Hidden_BlessedPregnancy_Hephaestus--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">17459089342445858350<!--LN_RM:trait_Blessed_Hades_Netherborn--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16375766610326394036<!--LN_RM:trait_Hidden_BlessedPregnancy_Hades--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">12337779558334888318<!--LN_RM:trait_Blessed_Apollo_SunlitMuse--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>15978653355136504124<!--LN_RM:trait_Hidden_BlessedPregnancy_Apollo--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">15152233626561573355<!--LN_RM:trait_Blessed_Athena_WisdomsHeir--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>12911604285447243044<!--LN_RM:trait_Hidden_BlessedPregnancy_Athena--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">11831641760773779226<!--LN_RM:trait_Blessed_Aphrodite_HeartsEnchantment--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>17929213505041065315<!--LN_RM:trait_Hidden_BlessedPregnancy_Aphrodite--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">13607882503907694027<!--LN_RM:trait_Blessed_Artemis_WildingGrace--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>15298508824853682218<!--LN_RM:trait_Hidden_BlessedPregnancy_Artemis--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">11498868370916479786<!--LN_RM:trait_Blessed_Zeus_Thunderborn--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>15559904898599950082<!--LN_RM:trait_Hidden_BlessedPregnancy_Zeus--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16058742822404812509<!--LN_RM:trait_HouseofLastName_Ancient--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>13142979771255742454<!--LN_RM:trait_HouseofLastName_Strong--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">13142979771255742454<!--LN_RM:trait_HouseofLastName_Strong--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>12027857112022914747<!--LN_RM:trait_HouseofLastName_Weak--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">12027857112022914747<!--LN_RM:trait_HouseofLastName_Weak--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">12027857112022914747<!--LN_RM:trait_HouseofLastName_Weak--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--CrownRoyal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>2522365735<!--LN_RM_trait_Monarch--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>18164583978991418624<!--LN_RM_trait_RoyalPartner--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--CrownRoyal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>18164583978991418624<!--LN_RM_trait_RoyalPartner--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--CrownRoyal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--Crown Royal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--Crown Royal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>18164583978991418627<!--Crown Royal--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">18164583978991418627<!--Crown Royal--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+        </L>
+      </U>
+      <U>
+        <L n="outcomes">
+          <U>
+            <T n="trait">16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+          </U>
+        </L>
+        <L n="parent_a_whitelist">
+          <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+        </L>
+        <L n="parent_b_whitelist">
+          <T>16378111786717022814<!--LN_RM:trait_Concubine--></T>
+        </L>
+      </U>
+    </L>
+  </U>
+</I>

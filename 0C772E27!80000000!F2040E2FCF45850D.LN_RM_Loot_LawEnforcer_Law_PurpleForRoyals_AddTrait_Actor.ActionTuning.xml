@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_PurpleForRoyals_AddTrait_Actor" s="17439079255589094669">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+      </U>
+    </V>
+  </L>
+</I>

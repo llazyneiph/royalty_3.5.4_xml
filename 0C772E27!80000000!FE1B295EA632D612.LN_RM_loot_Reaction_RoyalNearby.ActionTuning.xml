@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Reaction_RoyalNearby" s="18310274196496897554">
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="mixer_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">17344851652619276451<!--LN_RM:reaction_Mixers_Royal_Reaction_Male--></T>
+            <V n="affordance_target" t="enabled">
+              <E n="enabled">TargetSim</E>
+            </V>
+          </U>
+        </V> 
+        <L n="tests">
+          <L>
+            <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>136877<!--trait_GenderOptions_Frame_Masculine--></T>
+          </L>
+        </U>
+      </V>
+      <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="reaction">
+      <U n="reaction">
+        <V n="mixer_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">11651679978225473366<!--LN_RM:reaction_Mixers_Royal_Reaction_Child--></T>
+            <V n="affordance_target" t="enabled">
+              <E n="enabled">TargetSim</E>
+            </V>
+          </U>
+        </V> 
+        <L n="tests">
+          <L>
+      <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>CHILD</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="reaction">
+      <U n="reaction">
+        <V n="mixer_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">16524838247946610148<!--LN_RM:reaction_Mixers_Royal_Reaction_Female--></T>
+            <V n="affordance_target" t="enabled">
+              <E n="enabled">TargetSim</E>
+            </V>
+          </U>
+        </V> 
+        <L n="tests">
+          <L>
+            <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>136878<!--trait_GenderOptions_Frame_Feminine--></T>
+          </L>
+        </U>
+      </V>
+      <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Sad_LockedUpBrokeLaw" s="12551653076470181098">
+<V n="_add_test_set" t="tests_set">
+    <L n="tests_set">
+        <L>
+            <V t="trait">
+                <U n="trait">
+                    <L n="whitelist_traits">
+                        <T>10868060660232291802<!--LN_RM:Trait_Hidden_NeedsSentencing--></T>
+                    </L>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <L n="categories">
+        <E>Social_Buffs</E>
+        <E>Sad_Buffs</E>
+      </L>
+      <T n="max_duration">240</T>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x00251F70<!--{0.SimFirstName} was caught breaking the law and now it's time to face the music!--></T>
+  <T n="buff_name">0x4FC90675<!--Paying The Price--></T>
+  <T n="icon" p="InGame\UI\Icons\Buffs\Buffs_TombstoneSkull_neg.png">2f7d0004:00000000:dd416cf804a6f65c</T>
+  <T n="mood_type">251719<!--Mood_Scared--></T>
+  <T n="mood_weight">2</T>
+</I>

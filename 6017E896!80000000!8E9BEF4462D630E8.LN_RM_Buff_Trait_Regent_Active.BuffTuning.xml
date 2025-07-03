@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Trait_Regent_Active" s="10276070051770937576">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="refresh_on_add">True</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+  <V n="walkstyle" t="disabled" />
+      <L n="_loot_on_instance">
+    <T>13471474927398398654<!--LN_RM:loot_Statistic_EmpireTreasury_Gain_Small--></T>
+    </L>
+     <L n="super_affordances">
+    <!--Rabbit Holes-->
+    <T>15633825142581317136<!--LN_RM:super_Emperor_RabbitHole_Ekklesia--></T>
+    <T>12901307536956226329<!--LN_RM:super_Emperor_RabbitHole_Symposium--></T>
+    <T>10365606688945205385<!--LN_RM:super_Emperor_RabbitHole_Oracle--></T>
+    <T>14866060372013409606<!--LN_RM:super_Emperor_RabbitHole_OlympicTraining--></T>
+    <T>9985675410122471897<!--LN_RM:super_Emperor_RabbitHole_DiplomaticBanquet--></T>
+    <T>17104670212184596448<!--LN_RM:super_Emperor_RabbitHole_Theatre--></T>
+    <T>10849623146053864087<!--LN_RM:super_Greek_RabbitHole_Lecture--></T>
+    <T>17861578445945449672<!--LN_RM:imin_Military_Sim--></T>
+  </L>
+</I>

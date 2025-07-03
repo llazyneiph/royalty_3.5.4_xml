@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_WeatherController_ChangeWeather_RainStorm_WitchDeath" s="16606162179735956507">
+  <L n="loot_actions">
+    <V t="weather_start_event">
+      <U n="weather_start_event">
+        <U n="duration">
+          <T n="lower_bound">6</T>
+          <T n="upper_bound">8</T>
+        </U>
+        <T n="weather_event">182332<!--weather_Rain_Storm_Cool--></T>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+        <V t="test_set_reference">
+            <T n="test_set_reference">11093848173309594911<!--LN_RM:WitchDeath_PackTest_Seasons--></T>
+        </V>
+    </L>
+</L>
+</I>

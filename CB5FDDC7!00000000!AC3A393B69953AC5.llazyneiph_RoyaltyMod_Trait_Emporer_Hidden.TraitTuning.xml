@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12410294650510064325" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Emporer_Hidden">
+  <T n="display_name">0xE39A9996<!--Emporer--></T>
+  <T n="display_name_gender_neutral">0xE39A9996<!--Emporer--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xAC55D2DF<!--Change Title to Emporer--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18085964642404697693<!--llazyneiph_RoyaltyModUpdateV1_Trait/3467481466--></T>
+    </U>
+    <U>
+      <T n="buff_type">9820427327071616498</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

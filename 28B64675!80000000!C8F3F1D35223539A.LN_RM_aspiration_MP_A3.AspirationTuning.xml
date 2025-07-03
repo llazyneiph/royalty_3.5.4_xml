@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Aspiration" i="aspiration" m="aspirations.aspiration_tuning" n="LN_RM:aspiration_MP_A3" s="14480183116844716954">
+  <T n="display_name">0xED934EF6<!--Now They're Listening!--></T>
+  <T n="do_not_register_events_on_load">True</T>
+  <L n="objectives">
+    <T>13203352533658938688<!--LN_RM:objective_Asp_MP_A3_1--></T>
+    <T>13203352533658938691<!--LN_RM:objective_Asp_MP_A3_2--></T>
+  </L>
+  <V n="screen_slam" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">11993526934835861153<!--LN_RM:MP_ISwearIam_MilestoneComplete--></T>
+    </V>
+  </V>
+  <L n="on_complete_loot_actions">
+        <T>13297880659983966186<!--LN_RM:loot_AddTrait_MissingRoyal_CanHavePressConference_Hidden--></T>
+    </L>
+</I>

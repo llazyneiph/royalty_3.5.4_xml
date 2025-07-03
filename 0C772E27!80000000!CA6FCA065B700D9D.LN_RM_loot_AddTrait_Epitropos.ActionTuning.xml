@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Epitropos" s="14587099846729010589">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:32FB88DDCB5F1DCF</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB3570D93<!--By the Emperor's decree and with the blessings of the gods, {0.SimFirstName} has been chosen as the Epitropos of our great empire. Entrusted with the weighty responsibility of stewardship, they stand ready to guide and govern should the heir be too young to ascend. \nThis noble designation is a testament to their wisdom, loyalty, and the unwavering faith the Emperor places in them. Let the realm rejoice and find solace in this divine appointment, for our empire's future remains in steadfast hands.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x8D1E6D18<!--Designation of Divine Duty--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x8284A1C7<!--(From Naming a Regent)--></T>
+          </V>
+          <T n="buff_type">13789960016238701832<!--LN_RM:buff_Monarch_Heir_PeaceofMind--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">9730910459891574270<!--LN_RM:trait_Hidden_HasRegent--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">17302184219044920570<!--LN_RM:trait_Hidden_Epitropos_Inactive--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">9814130687659037187<!--LN_RM:Trait_Epitropos--></T>
+      </U>
+    </V>
+  </L>
+</I>

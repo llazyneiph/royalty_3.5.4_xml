@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_StandGuardKnights" s="11752703852891506168">
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">14410<!--terrain-gohere--></T>
+      <L n="affordances">
+        <T>9421272522214028608<!--LN_RM:terrain-Knight_StandWatch--></T>
+        <T>15609744367105411428<!--LN_RM:Knights_StandGuard_Picker--></T>
+      </L>
+    </U>
+  </L>
+</I>

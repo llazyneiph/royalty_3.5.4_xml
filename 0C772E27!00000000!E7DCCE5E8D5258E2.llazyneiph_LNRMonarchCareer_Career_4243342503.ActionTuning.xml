@@ -1,0 +1,36 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="16707455623130929378" i="action" m="interactions.utils.loot" n="llazyneiph_LNRMonarchCareer_Career/4243342503">
+  <L n="loot_actions">
+    <V t="career_loot">
+      <U n="career_loot">
+        <V n="career" t="career_reference">
+          <U n="career_reference">
+            <T n="reference">4088308335<!--llazyneiph_LN_MonarchCareer_Adult--></T>
+          </U>
+        </V>
+        <L n="operations">
+          <V t="pto">
+            <U n="pto">
+              <T n="amount">-1</T>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V t="career_loot">
+      <U n="career_loot">
+        <V n="career" t="career_reference">
+          <U n="career_reference">
+            <T n="reference">4088308335<!--llazyneiph_LN_MonarchCareer_Adult--></T>
+          </U>
+        </V>
+        <L n="operations">
+          <V t="take_day_off">
+            <U n="take_day_off">
+              <E n="reason">PTO</E>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

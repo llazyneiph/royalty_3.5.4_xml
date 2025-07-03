@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/Artisan" s="3549964903">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xD265F612<!--Artisan--></T>
+  <T n="career_name">0xE78936F6</T>
+  <T n="career_name_gender_neutral">0xE78936F6</T>
+  <T n="icon">2f7d0004:00000000:e198c552cf15ac52</T>
+  <T n="icon_high_res">2f7d0004:00000000:95B5516F73CF1585</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>2634481722</T>
+  </L>
+  <L n="branches">
+    <T>3146224115</T>
+    <T>4029667555</T>
+    <T>2515071565</T>
+    <T>3607677404</T>
+    <T>2489489142</T>
+    <T>3876619951</T>
+  </L>
+</I>

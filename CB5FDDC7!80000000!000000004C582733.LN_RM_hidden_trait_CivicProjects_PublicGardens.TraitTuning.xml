@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:hidden_trait_CivicProjects_PublicGardens" s="12929694369839292051">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+      <L n="buffs">
+        <U>
+            <T n="buff_type">10510744615806753484<!--LN_RM:Buff_Trait_CivicProjects_PublicGardens--></T>
+        </U>
+    </L>
+  <E n="min_lod_value">MINIMUM</E>
+  <E n="trait_type">HIDDEN</E>
+</I>

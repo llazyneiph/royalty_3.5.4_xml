@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="InteractionPickerSuperInteraction" i="interaction" m="interactions.picker.interaction_picker" n="LN_RM:Picker_ManualRegionalTraits_Sim" s="18413910147560292724">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x004125BE<!--Change Regional Royal Traits--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">TargetSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="picker_dialog">
+    <L n="dialog_options">
+      <E>SMALL_TITLE</E>
+    </L>
+    <V n="icon" t="enabled">
+      <V n="enabled" t="participant">
+        <U n="participant">
+          <L n="participant_type">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V n="icon_override_participant" t="enabled">
+      <E n="enabled">TargetSim</E>
+    </V>
+    <V n="max_selectable" t="static_count">
+      <U n="static_count">
+        <T n="exclude_previously_selected">False</T>
+        <T n="number_selectable">1</T>
+      </U>
+    </V>
+    <T n="min_selectable">1</T>
+    <V n="text" t="enabled">
+      <V n="enabled" t="single">
+        <T n="single">0xE6E0C723<!--Manually change the regional royal traits the sim has.--></T>
+      </V>
+    </V>
+    <V n="text_tokens" t="enabled">
+      <U n="enabled">
+        <L n="tokens">
+          <V t="participant_type">
+            <U n="participant_type">
+              <V n="objects" t="from_participant">
+                <U n="from_participant">
+                  <E n="participant">TargetSim</E>
+                </U>
+              </V>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x004125BE<!--Change Regional Traits--></T>
+    </V>
+  </U>
+  <L n="possible_actions">
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13248559649740870745<!--LN_RM:immediate_ManualRegionalTraits_Windenburg--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:ECA5A3B597677A3C</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x9A42EA2D<!--Windenburg--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16019612985220455670<!--LN_RM:immediate_ManualRegionalTraits_WillowCreek--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:155D0E18F7BBAB2B</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xFC92F436<!--Willow Creek--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13209485177462864906<!--LN_RM:immediate_ManualRegionalTraits_Tartosa--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:98BBF67735E0E6F5</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1F8C708E<!--Tartosa--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10297011293249051046<!--LN_RM:immediate_ManualRegionalTraits_Sulani--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:FDEB1AFF67A7124A</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xD53D8A23<!--Sulani--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17940352589824252626<!--LN_RM:immediate_ManualRegionalTraits_Strangerville--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:7B1D5C1EA9279AFC</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8F96D963<!--Strangerville--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10901317877349061903<!--LN_RM:immediate_ManualRegionalTraits_SanMyshuno--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:674BD8F1200A4CA1</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x58984ACA<!--San Myshuno--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">18230277677055136479<!--LN_RM:immediate_ManualRegionalTraits_OasisSprings--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8B851FCBEA8156D3</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x84FF0BC4<!--Oasis Springs--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">18380959518347719027<!--LN_RM:immediate_ManualRegionalTraits_Newcrest--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:20F53BF8BDD32ABE</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x35A79800<!--Newcrest--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10544030434576776924<!--LN_RM:immediate_ManualRegionalTraits_MtKorembi--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:7D8EC26E50E1D641</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1FE768DB<!--Mt Korembi--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17531879859400171058<!--LN_RM:immediate_ManualRegionalTraits_MoonwoodMill--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:0436F61122D35491</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x56964C28<!--Moonwood Mill--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10704979770255661267<!--LN_RM:immediate_ManualRegionalTraits_MagnoliaPromenade--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:96416BDE5AF6FB30</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x131C2DDC<!--Magnolia Promenade--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16592396747113624613<!--LN_RM:immediate_ManualRegionalTraits_HenfordOnBagley--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:B7ABAA9B9EE14CF4</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8A48092E<!--Henford On Bagley--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15668903991769969594<!--LN_RM:immediate_ManualRegionalTraits_Glimmerbrook--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:0FD9B6944B9EDDAC</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x3D1CFE42<!--Glimmerbrook--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14955968918087682841<!--LN_RM:immediate_ManualRegionalTraits_ForgottonHollow--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:510B4D94418F7C97</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8336478C<!--Forgotton Hollow--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15240096174916000926<!--LN_RM:immediate_ManualRegionalTraits_EvergreenHarbour--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:813348C7AF417E73</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xA5EA24FF<!--Evergreen Harbour--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">9683453628296928874<!--LN_RM:immediate_ManualRegionalTraits_DelSolValley--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F785F9890E859142</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x7111B384<!--Del Sol Valley--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11963646810071024251<!--LN_RM:immediate_ManualRegionalTraits_Copperdale--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:483E2D4F46FF6DC5</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x477E60BE<!--Copperdale--></T>
+        </V>
+      </U>
+    </V>
+  <V t="literal">
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17137441231065594806<!--LN_RM:immediate_ManualRegionalTraits_Britechester--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:117AD47FE2E63212</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xD0A58BE8<!--Britechester--></T>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Brindleton Bay-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11395113604908610047<!--LN_RM:immediate_ManualRegionalTraits_BrindletonBay--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:0CF058AF3298BE89</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x93877DC2<!--Brindleton Bay--></T>
+        </V>
+      </U>
+    </V>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals" />
+</I>

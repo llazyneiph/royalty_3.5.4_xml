@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_SanSequoia" s="10697094807666182272">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xAF3DFF9D<!--San Sequoia Noble--></T>
+  <T n="display_name_gender_neutral">0xAF3DFF9D<!--San Sequoia Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:18A0ADD81B251E93</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xC52E225A<!--{0.SimFirstName} is apart of San Sequoia Nobility.--></T>
+  <T n="trait_origin_description">0xF50C8D05<!--(From Belonging to San Sequoia Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

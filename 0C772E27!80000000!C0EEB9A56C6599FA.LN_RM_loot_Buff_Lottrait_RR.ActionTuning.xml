@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="13902253219878640122" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_Lottrait_RR">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">15218700942648613733<!--LN_RM:buff_lottrait_RR--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xDFFE778A<!--(From Royal Residence Lot Trait)--></T>
+          </V>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>15218700942648613733<!--LN_RM:buff_lottrait_RR--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

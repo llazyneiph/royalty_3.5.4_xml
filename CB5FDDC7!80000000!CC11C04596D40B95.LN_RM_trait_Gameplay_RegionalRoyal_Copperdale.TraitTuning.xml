@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_Copperdale" s="14704745663457135509">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x588F9965<!--Copperdale Royal--></T>
+  <T n="display_name_gender_neutral">0x588F9965<!--Copperdale Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:483E2D4F46FF6DC5</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x0CB2D97B<!--{0.SimFirstName} belongs to the ruling family of Copperdale.--></T>
+  <T n="trait_origin_description">0xACAB15D6<!--(From Ruling Over Copperdale)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

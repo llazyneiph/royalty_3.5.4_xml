@@ -1,0 +1,90 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14924649185413977280" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait18/3595929678">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9735291022400423254<!--llazyneiph_RoyaltyModV2_Trait18/2294274061--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16646680127243352405<!--llazyneiph_RoyaltyModV2_Trait18/3523780943--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16223974244750986703<!--llazyneiph_RoyaltyModV2_Trait18/3297424522--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11088361132984941189<!--llazyneiph_RoyaltyModV2_Trait18/3306098951--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14968844096195947592<!--llazyneiph_RoyaltyModV2_Trait18/186356783--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11712007221064141915<!--llazyneiph_RoyaltyModV2_Trait18/2670482432--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14283953286282111510<!--llazyneiph_RoyaltyModV2_Trait18/1797145665--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9639628450075741636<!--llazyneiph_RoyaltyModV2_Trait18/4086723726--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15297682058422850847<!--llazyneiph_RoyaltyModV2_Trait18/921380823--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">9639628450075741636<!--llazyneiph_RoyaltyModV2_Trait18/4086723726--></T>
+      </U>
+    </V>
+  </L>
+</I>

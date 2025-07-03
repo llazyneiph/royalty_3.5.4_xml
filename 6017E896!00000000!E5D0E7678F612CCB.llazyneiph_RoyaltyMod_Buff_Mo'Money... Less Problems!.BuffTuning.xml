@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="16559990261814471883" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Mo'Money... Less Problems!">
+  <T n="buff_description">0xE742C739<!--It's always nice to have a bit of extra cash in your pocket, and now that taxes have been lowered, {0.SimFirstName} can treat {0.SimPronounReflexive} to something nice!--></T>
+  <T n="buff_name">0xFEDD3D96<!--Mo'Money... Less Problems!--></T>
+  <T n="icon">2f7d0004:00000000:c1224f72b17824fb</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">3</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

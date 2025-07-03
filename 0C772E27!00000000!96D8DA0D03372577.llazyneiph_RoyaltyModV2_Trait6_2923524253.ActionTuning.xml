@@ -1,0 +1,54 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="10869677450082067831" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait6/2923524253">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12283388415658499690<!--llazyneiph_RoyaltyModV2_Trait6/2339400926--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9717633062461686553<!--llazyneiph_RoyaltyModV2_Trait6/3234577127--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11519406136575724627<!--llazyneiph_RoyaltyModV2_Trait6/352842276--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10451109062808758975<!--llazyneiph_RoyaltyModV2_Trait6/1933801998--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11004904033384162245<!--llazyneiph_RoyaltyModV2_Trait6/3213246606--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">11004904033384162245<!--llazyneiph_RoyaltyModV2_Trait6/3213246606--></T>
+      </U>
+    </V>
+  </L>
+</I>

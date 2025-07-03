@@ -1,0 +1,14 @@
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:RoyaltyModReactToRoyalty_Buff &quot;Action Loot&quot;" s="13208086401246159103">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x47CB62CE<!--From Seeing the Monarch--></T>
+          </V>
+          <T n="buff_type">16860099418337461179<!--LN:RoyaltyModReactToRoyalty_Buff--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

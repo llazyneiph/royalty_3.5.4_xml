@@ -1,0 +1,186 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="11376073172749428351" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait2/1196222185">
+  <T n="priority">1</T>
+  <T n="whim_reason">0xA635C0B9<!--(Being a Royal Servant)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">25933<!--Whim_CleanSomething--></T>
+    </U>
+    <U>
+      <T n="whim">39212<!--Whim_Neat_CleanHouse--></T>
+    </U>
+    <U>
+      <T n="whim">25932<!--Whim_CookGroupMeal--></T>
+    </U>
+    <U>
+      <T n="whim">28145<!--Whim_CookMeal--></T>
+    </U>
+    <U>
+      <T n="whim">28146<!--Whim_CookOutstandingMeal--></T>
+    </U>
+    <U>
+      <T n="whim">28149<!--Whim_WatchTV_Cooking--></T>
+    </U>
+    <U>
+      <T n="whim">26108<!--Whim_SkillUpCooking--></T>
+    </U>
+    <U>
+      <T n="whim">31427<!--Whim_CookApplePie--></T>
+    </U>
+    <U>
+      <T n="whim">31430<!--Whim_CookBakedAlaska--></T>
+    </U>
+    <U>
+      <T n="whim">31432<!--Whim_CookButternutGnocchi--></T>
+    </U>
+    <U>
+      <T n="whim">31445<!--Whim_CookCapreseSalad--></T>
+    </U>
+    <U>
+      <T n="whim">31447<!--Whim_CookCheesecake--></T>
+    </U>
+    <U>
+      <T n="whim">31446<!--Whim_CookChickenSaltimbocca--></T>
+    </U>
+    <U>
+      <T n="whim">31449<!--Whim_CookChili--></T>
+    </U>
+    <U>
+      <T n="whim">31462<!--Whim_CookCookies--></T>
+    </U>
+    <U>
+      <T n="whim">31474<!--Whim_CookFrenchToast--></T>
+    </U>
+    <U>
+      <T n="whim">31478<!--Whim_CookGarlicNoodles--></T>
+    </U>
+    <U>
+      <T n="whim">31572<!--Whim_CookGourmetMeal--></T>
+    </U>
+    <U>
+      <T n="whim">31513<!--Whim_CookHerbCrustedSalmon--></T>
+    </U>
+    <U>
+      <T n="whim">31527<!--Whim_CookLobsterThermidor--></T>
+    </U>
+    <U>
+      <T n="whim">31540<!--Whim_CookLobsterTortellini--></T>
+    </U>
+    <U>
+      <T n="whim">31542<!--Whim_CookMonteCristo--></T>
+    </U>
+    <U>
+      <T n="whim">31551<!--Whim_CookOmelet--></T>
+    </U>
+    <U>
+      <T n="whim">31573<!--Whim_CookOutstandingGourmetMeal--></T>
+    </U>
+    <U>
+      <T n="whim">31558<!--Whim_CookPancakes--></T>
+    </U>
+    <U>
+      <T n="whim">31559<!--Whim_CookPastaPrimavera--></T>
+    </U>
+    <U>
+      <T n="whim">31560<!--Whim_CookProscuittoAsperagus--></T>
+    </U>
+    <U>
+      <T n="whim">31561<!--Whim_CookRackofLamb--></T>
+    </U>
+    <U>
+      <T n="whim">31563<!--Whim_CookRoastChicken--></T>
+    </U>
+    <U>
+      <T n="whim">31565<!--Whim_CookSpaghetti--></T>
+    </U>
+    <U>
+      <T n="whim">31567<!--Whim_CookSpinachFrittata--></T>
+    </U>
+    <U>
+      <T n="whim">31569<!--Whim_CookStirfry--></T>
+    </U>
+    <U>
+      <T n="whim">117078<!--whimGoal_BuyBanquetFountain--></T>
+    </U>
+    <U>
+      <T n="whim">117077<!--whimGoal_BuyBanquetTable--></T>
+    </U>
+    <U>
+      <T n="whim">31570<!--Whim_CookTroutMeuniere--></T>
+    </U>
+    <U>
+      <T n="whim">121341<!--Whim_BuyIceCreamMachine--></T>
+    </U>
+    <U>
+      <T n="whim">121347<!--Whim_CookIceCream--></T>
+    </U>
+    <U>
+      <T n="whim">133076<!--cooking_PrepareFruitSalad--></T>
+    </U>
+    <U>
+      <T n="whim">133077<!--cooking_PrepareEggsBenedict--></T>
+    </U>
+    <U>
+      <T n="whim">133078<!--cooking_PrepareTiramisu--></T>
+    </U>
+    <U>
+      <T n="whim">133079<!--cooking_PrepareMinestrone--></T>
+    </U>
+    <U>
+      <T n="whim">133080<!--cooking_PrepareItalianMeatballs--></T>
+    </U>
+    <U>
+      <T n="whim">133081<!--cooking_PrepareCaesarSalad--></T>
+    </U>
+    <U>
+      <T n="whim">133082<!--cooking_PrepareClamChowder--></T>
+    </U>
+    <U>
+      <T n="whim">31571<!--Whim_CookTunaCasserole--></T>
+    </U>
+    <U>
+      <T n="whim">133075<!--cooking_PrepareButternutSquashSoup--></T>
+    </U>
+    <U>
+      <T n="whim">135253<!--Whim_EatAndLearnExperimentalFood--></T>
+    </U>
+    <U>
+      <T n="whim">135252<!--Whim_CookExperimentalMeal--></T>
+    </U>
+    <U>
+      <T n="whim">31584<!--Whim_GiveCookingTips--></T>
+    </U>
+    <U>
+      <T n="whim">31588<!--Whim_TalkAboutCooking--></T>
+    </U>
+    <U>
+      <T n="whim">102476<!--Whim_GrillShishKebabs--></T>
+    </U>
+    <U>
+      <T n="whim">102474<!--Whim_GrillBakedPotatoes--></T>
+    </U>
+    <U>
+      <T n="whim">102475<!--Whim_GrillFruit--></T>
+    </U>
+    <U>
+      <T n="whim">102479<!--Whim_PrepareFriedFish--></T>
+    </U>
+    <U>
+      <T n="whim">102482<!--Whim_PrepareWalleyeSurprise--></T>
+    </U>
+    <U>
+      <T n="whim">102477<!--Whim_PrepareBreakfastScramble--></T>
+    </U>
+    <U>
+      <T n="whim">102480<!--Whim_PrepareGumbo--></T>
+    </U>
+    <U>
+      <T n="whim">102478<!--Whim_PrepareCampersStew--></T>
+    </U>
+    <U>
+      <T n="whim">102483<!--Whim_PrepareFranksAndBeans--></T>
+    </U>
+    <U>
+      <T n="whim">102484<!--Whim_PrepareFruitCobbler--></T>
+    </U>
+  </L>
+</I>

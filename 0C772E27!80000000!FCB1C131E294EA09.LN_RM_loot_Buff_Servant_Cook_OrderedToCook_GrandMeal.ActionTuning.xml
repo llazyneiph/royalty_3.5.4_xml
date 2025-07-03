@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_Servant_Cook_OrderedToCook_GrandMeal" s="18208547188434594313">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">16809987157815600443<!--LN_RM:buff_Servant_Cook_OrderedtoCook_GrandMeal_Hidden--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    
+  </L>
+</I>

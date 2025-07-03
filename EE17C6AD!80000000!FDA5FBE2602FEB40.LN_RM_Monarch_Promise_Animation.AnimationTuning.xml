@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="LN_RM:Monarch_Promise_Animation" s="18277291612447959872">
+  <T n="actor_name">y</T>
+  <T n="asm_key" p="InGame\Sage\soc_friendly_T_giveTreat.interactionasm">02d5df13:00000000:346474533BE5F548</T>
+  <L n="begin_states">
+    <T>Give Treat Succeed</T>
+  </L>
+  <L n="end_states">
+    <T>exit</T>
+  </L>
+</I>

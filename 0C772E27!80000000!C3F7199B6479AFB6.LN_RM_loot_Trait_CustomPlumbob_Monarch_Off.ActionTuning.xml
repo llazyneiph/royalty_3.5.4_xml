@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Trait_CustomPlumbob_Monarch_Off" s="14120783311839801270">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17710782957801145557<!--LN_RM:Trait_CustomPlumbob_Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

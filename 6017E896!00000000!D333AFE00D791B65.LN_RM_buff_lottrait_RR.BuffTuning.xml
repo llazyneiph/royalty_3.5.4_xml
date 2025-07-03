@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15218700942648613733" i="buff" m="buffs.buff" n="LN_RM:buff_lottrait_RR">
+  <T n="buff_description">0xC7C0C04F<!--Why this residence is practically fit for royalty!--></T>
+  <T n="buff_name">0x9D255523<!--Quality Quarters--></T>
+  <T n="icon">2f7d0004:00000000:f5a1d75b32c42d12</T>
+  <T n="mood_type">14640</T>
+  <T n="mood_weight">1</T>
+</I>

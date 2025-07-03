@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Remove_Fine_Timer" s="10108700459152106715">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="stat">12078048241884428965<!--LN_RM:commodity_Fine_Timer--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

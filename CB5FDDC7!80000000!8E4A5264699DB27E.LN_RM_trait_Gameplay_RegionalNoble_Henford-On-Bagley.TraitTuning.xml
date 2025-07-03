@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Henford-On-Bagley" s="10253098092884505214">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x6122C928<!--Henford-On-Bagley Noble--></T>
+  <T n="display_name_gender_neutral">0x6122C928<!--Henford-On-Bagley Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:091383B1340EF69B</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xB5B14C1A<!--{0.SimFirstName} is apart of Henford-On-Bagley Nobility.--></T>
+  <T n="trait_origin_description">0xB6722BBB<!--(From Belonging to Henford-On-Bagley Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

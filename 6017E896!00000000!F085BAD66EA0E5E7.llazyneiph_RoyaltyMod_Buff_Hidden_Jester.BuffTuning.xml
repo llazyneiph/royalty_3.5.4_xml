@@ -1,0 +1,60 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17331464171147027943" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_Jester">
+  <T n="visible">False</T>
+  <T n="buff_description">0x9FD6E486<!--{0.SimFirstName} has the great honour of being the royal familys' Jester!--></T>
+  <T n="buff_name">0xE4F561FC<!--Jester--></T>
+  <T n="icon">2f7d0004:00000000:9dd2db9aa97d829d</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>11143108247671845925<!--llazyneiph_INT_Jester_PokeFunAtRoyalty--></T>
+        <T>13223097801507546688<!--llazyneiph_INT_Jester_TellElaborateStory--></T>
+        <T>16794623394736618242<!--llazyneiph_INT_Jester_DanceForLaughs--></T>
+        <T>15520050300369942839<!--llazyneiph_INT_Jester_PullFaces--></T>
+      </L>
+    </U>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>29110<!--commodity_Trait_Autonomy_Goofball--></T>
+            <T>16468<!--commodity_Emotion_Autonomy_Playful--></T>
+            <T>13237641661843218815<!--llazyneiph_RoyaltyModV2_Trait16/692217993--></T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">16698<!--statistic_Skill_AdultMajor_Comedy--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16707<!--statistic_Skill_AdultMajor_Mischief--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="mood_effect_modifier">
+        <U n="mood_effect_modifier">
+          <L n="mood_effect_mapping">
+            <U>
+              <T n="key">14642<!--Mood_Playful--></T>
+              <T n="value">1.4</T>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

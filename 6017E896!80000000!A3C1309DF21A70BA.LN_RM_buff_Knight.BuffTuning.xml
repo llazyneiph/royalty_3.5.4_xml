@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Knight" s="11799765953617227962">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">16897968788190976855<!--LN_RM:situationJob_BasicTrait_Knight--></T>
+      </V>
+      <T n="situation">16417547446295786763<!--LN_RM:basicTraitSituation_Knight--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <L n="_inappropriateness_tags">
+    <E>Appropriateness_ServiceNPC</E>
+    <E>Appropriateness_Visitor</E>
+    <E>Appropriateness_PhoneGame</E>
+  </L>
+  <L n="super_affordances">
+
+    <T>16626862079960540044<!--LN_RM:Socials_Picker_SwordFight--></T>
+    <T>13729424383366679123<!--LN_RM:Socials_Picker_DeadlySwordFight--></T>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">13168034529795701842<!--LN_RM:nonTouching_SocialSuperInteractions_AsktoBeSquire--></T>
+      <T n="allow_self">False</T>
+    </U>
+    <U>
+      <T n="affordance">15012513210924840800<!--LN_RM:INT_DismissSquire--></T>
+      <T n="allow_self">False</T>
+    </U>
+  </L>
+  <T n="refresh_on_add">True</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+  <V n="walkstyle" t="disabled" />
+  <L n="static_commodity_to_add">
+    <T>12453761568987426313<!--LN_RM:commodity_Knights_StandGuard--></T>
+  </L>
+</I>

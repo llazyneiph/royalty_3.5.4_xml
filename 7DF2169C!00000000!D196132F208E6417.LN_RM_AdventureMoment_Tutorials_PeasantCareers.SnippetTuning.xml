@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_PeasantCareers" s="15102279493564130327">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x3DC4F916<!--<b>Peasant Careers</b> \n\nThere are several new careers for adult sims and one for children/teens. \nChildren/Teens can pursue a career in begging. 
+
+\n\nAdults can choose a new career called ‘Artisan’. \n
+After their first promotion, they can choose which area to specialize in. \n\n
+
+The areas include: \n
+- Blacksmith \n
+- Farrier \n
+- Cobbler \n
+- Carpenter\n
+- Locomotion Smith\n
+- Watch Maker\n\n
+
+There is also another career for adults who have level 5 in the literacy skill, called ‘Letter Writer’.\n\n
+
+These careers are only available for peasant sims.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

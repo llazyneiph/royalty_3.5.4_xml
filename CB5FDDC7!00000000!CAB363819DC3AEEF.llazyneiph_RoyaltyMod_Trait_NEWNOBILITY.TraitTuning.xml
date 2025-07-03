@@ -1,0 +1,19 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="14606127424841428719" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_NEWNOBILITY">
+  <T n="display_name">0x8711A313<!--Nobility--></T>
+  <T n="display_name_gender_neutral">0x8711A313<!--Nobility--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10061367064972169793<!--llazyneiph_RoyaltyModUpdateV1_Trait2/2212285982--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="super_affordances"></L>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="ui_category" t="ui_trait_category_tag" />
+</I>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SituationSimple" s="14791410394555486779" i="situation" m="situations.situation_simple" n="LN_RM:situationSimple_Scheduled_Servant">
+  <T n="_display_name">0xA525786B</T>
+  <T n="_icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="calendar_icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="max_participants">5</T>
+  <T n="duration">840</T>
+  <L n="_phases">
+    <U>
+      <T n="duration">0</T>
+      <L n="job_list">
+        <U>
+          <T n="job">15812305286839627788</T>
+          <T n="role">9881721900150808251</T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <L n="venue_types">
+    <T>28614</T>
+    <T>9279</T>
+  </L>
+</I>

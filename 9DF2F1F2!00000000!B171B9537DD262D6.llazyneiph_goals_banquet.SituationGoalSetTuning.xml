@@ -1,0 +1,31 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SituationGoalSet" s="12786204585325912790" i="situation_goal_set" m="situations.situation_goal_set" n="llazyneiph_goals_banquet">
+  <L n="chained_goal_sets">
+    <T>12786204585325912790<!--llazyneiph_goals_banquet--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">23901<!--Goal_EatSomethings--></T>
+    </U>
+    <U>
+      <T n="goal">23897<!--goal_EatCakes--></T>
+    </U>
+    <U>
+      <T n="goal">16014<!--Goal_EatSomething--></T>
+    </U>
+    <U>
+      <T n="goal">181855<!--HolidayTraditionGoal_EatGrandMeal--></T>
+    </U>
+    <U>
+      <T n="goal">33401<!--goal_HaveSimsSocializing--></T>
+    </U>
+    <U>
+      <T n="goal">33440<!--Goal_HostsChatWithGuests--></T>
+    </U>
+    <U>
+      <T n="goal">137179<!--goal_Sim_Restaurant_SocializeAboutMeal--></T>
+    </U>
+    <U>
+      <T n="goal">32121<!--goal_GiveToast--></T>
+    </U>
+  </L>
+</I>

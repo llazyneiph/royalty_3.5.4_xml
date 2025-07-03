@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_HeirSupport_NobleCount_AddStat" s="9248075780184045437">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="advertise">False</T>
+          <T n="stat">15441879343604299646<!--LN_RM:commodity_HeirSupport_NobleCount--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_KnightOutift_Suits_Gold_Remove" s="18349074092561940331">
+  <L n="loot_actions">
+  <V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15237900513131717075<!--Trait: LN_RM:trait_Hidden_KnightOutfits_Suit_Gold--></T>
+      </U>
+    </V>
+  </U>
+</V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>14142221305981500308<!--LN_RM:Buff_Hidden_KnightOutfit_isWearing--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

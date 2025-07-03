@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Military_CoastalRaid_End" s="10543478532977094921">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="advertise">True</T>
+          <T n="stat">14906707873727381254<!--LN_RM:commodity_Military_CoastalRaid--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

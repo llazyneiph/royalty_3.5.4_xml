@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_LawEnforcer_AddLaw_Witchcraft" s="16507233584033779352">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5000</T>
+      </U>
+    </V>
+  </L>
+  <V n="allow_sim_test" t="enabled">
+    <L n="enabled">
+        <L>
+            <V t="trait">
+                <U n="trait">
+                    <L n="blacklist_traits">
+                        <T>11587918131414838779<!--LN_RM:trait_Hidden_Law_Witchcraft--></T>
+                    </L>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+  <L n="effects">
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>10256245113040319700<!--LN_RM:Loot_Law_Witchcraft_AddTrait--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">10</T>
+    </U>
+  </V>
+</I>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Coronation_Crown_Aztec" s="14080471318766561322">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14848559742152208077<!--LN_RM:Buff_Coronation_Crown_Aztec--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff_removal">
+  <U n="buff_removal">
+    <L n="buffs_to_remove">
+      <T>16017751946238434827<!--LN_RM:Buff_Coronation_Crown--></T>
+      <T>9452442025126178470<!--LN_RM:Buff_Coronation_Crown_Byzantine--></T>
+      <T>10834023008411882149<!--LN_RM:Buff_Coronation_Crown_Egyptian--></T>
+      <T>12717884507760012291<!--LN_RM:Buff_Coronation_Crown_Kokoshnik--></T>
+      <T>14473625950609708754<!--LN_RM:Buff_Coronation_Crown_Korean--></T>
+      <T>11256904525937633385<!--LN_RM:Buff_Coronation_Crown_Russian--></T>
+    </L>
+  </U>
+</V>
+  </L>
+</I>

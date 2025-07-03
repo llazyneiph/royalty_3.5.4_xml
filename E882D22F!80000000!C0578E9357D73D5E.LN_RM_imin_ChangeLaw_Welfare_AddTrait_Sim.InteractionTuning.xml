@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="LN_RM:imin_ChangeLaw_Welfare_AddTrait_Sim" s="13859703141741051230">
+  <V n="_saveable" t="disabled" />
+  <L n="basic_extras">
+    <V t="do_command">
+      <U n="do_command">
+        <T n="command">law.welfare</T>
+      </U>
+    </V>
+  </L>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xEB244604<!--Change Laws--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <V n="outcome" t="test_based">
+    <U n="test_based">
+      <L n="tested_outcomes">
+        <U>
+          <L n="potential_outcomes">
+            <U>
+              <U n="outcome">
+              <L n="continuation">
+                  <U>
+                    <T n="affordance">17305265605431517406<!--LN_RM:inpk_ChangeLaw_Sim--></T>
+                    <E n="target">TargetSim</E>
+                  </U>
+                </L>
+                <L n="basic_extras">
+                  <V t="notification">
+                    <U n="notification">
+                      <V n="dialog" t="single">
+                        <V n="single" t="literal">
+                          <U n="literal">
+                            <V n="icon" t="enabled">
+                              <V n="enabled" t="resource_key">
+                                <U n="resource_key">
+                                  <T n="key">2f7d0004:00000000:69E44BD977ED3F93<!--Scroll--></T>
+                                </U>
+                              </V>
+                            </V>
+                            <V n="text" t="single">
+                              <T n="single">0xD413F1D0<!--All welfare payments will now be stopped.--></T>
+                            </V>
+                            <V n="title" t="enabled">
+                              <T n="enabled">0x44D0C829<!--Laws--></T>
+                            </V>
+                            <E n="visual_type">INFORMATION</E>
+                          </U>
+                        </V>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </U>
+              <U n="weight">
+                <T n="base_value">1</T>
+                <L n="multipliers">
+                  <U>
+                    <T n="multiplier">100</T>
+                    <L n="tests">
+                      <L>
+                        <V t="trait">
+                          <U n="trait">
+                            <T n="num_blacklist_allowed">0</T>
+                            <T n="num_whitelist_required">1</T>
+                            <L n="whitelist_traits">
+                              <T>9844623432462585834<!--LN_RM:trait_Hidden_Law_Welfare--></T>
+                            </L>
+                          </U>
+                        </V>
+                      </L>
+                    </L>
+                  </U>
+                </L>
+              </U>
+            </U>
+            <U>
+              <U n="outcome">
+              <L n="continuation">
+                  <U>
+                    <T n="affordance">17305265605431517406<!--LN_RM:inpk_ChangeLaw_Sim--></T>
+                    <E n="target">TargetSim</E>
+                  </U>
+                </L>
+                <L n="basic_extras">
+                  <V t="notification">
+                    <U n="notification">
+                      <V n="dialog" t="single">
+                        <V n="single" t="literal">
+                          <U n="literal">
+                            <V n="icon" t="enabled">
+                              <V n="enabled" t="resource_key">
+                                <U n="resource_key">
+                                  <T n="key">2f7d0004:00000000:69E44BD977ED3F93<!--Scroll--></T>
+                                </U>
+                              </V>
+                            </V>
+                            <V n="text" t="single">
+                              <T n="single">0x75B44366<!--Welfare will now be payed out to Peasant sims.--></T>
+                            </V>
+                            <V n="title" t="enabled">
+                              <T n="enabled">0x44D0C829<!--Laws--></T>
+                            </V>
+                            <E n="visual_type">INFORMATION</E>
+                          </U>
+                        </V>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </U>
+              <U n="weight">
+                <T n="base_value">1</T>
+                <L n="multipliers">
+                  <U>
+                    <T n="multiplier">100</T>
+                    <L n="tests">
+                      <L>
+                        <V t="trait">
+                          <U n="trait">
+                            <L n="blacklist_traits">
+                              <T>9844623432462585834<!--LN_RM:trait_Hidden_Law_Welfare--></T>
+                            </L>
+                            <T n="num_blacklist_allowed">0</T>
+                            <T n="num_whitelist_required">1</T>
+                          </U>
+                        </V>
+                      </L>
+                    </L>
+                  </U>
+                </L>
+              </U>
+            </U>
+          </L>
+        </U>
+      </L>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+            <E>TODDLER</E>
+            <E>BABY</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">PickedSim</E>
+      </U>
+    </V>
+  </L>
+</I>

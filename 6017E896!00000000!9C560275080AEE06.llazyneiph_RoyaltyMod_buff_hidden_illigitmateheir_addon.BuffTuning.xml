@@ -1,0 +1,19 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="11265194219583237638" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_buff_hidden_illigitmateheir_addon">
+  <T n="visible">False</T>
+  <T n="buff_name">0x95FD5285<!--hidden_illigitmateheir_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>18000769014558378608<!--llazyneiph_RoyaltyModUpdateV1_Trait9/3753320697--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="_loot_on_instance">
+    <T>13637446922987882105</T>
+  </L>
+</I>

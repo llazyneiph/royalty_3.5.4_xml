@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AspirationTrack" i="aspiration_track" m="aspirations.aspiration_tuning" n="LN_RM:Track_WantToMarryRoyal" s="16916060649280065344">
+  <L n="aspirations">
+    <U>
+      <E n="key">LEVEL_1</E>
+      <T n="value">10107145120551551021<!--LN_RM:aspiration_RoyalRomance_A1--></T>
+    </U>
+    <U>
+      <E n="key">LEVEL_2</E>
+      <T n="value">10107145120551551022<!--LN_RM:aspiration_RoyalRomance_A2--></T>
+    </U>
+    <U>
+      <E n="key">LEVEL_3</E>
+      <T n="value">10107145120551551023<!--LN_RM:aspiration_RoyalRomance_A3--></T>
+    </U>
+    <U>
+      <E n="key">LEVEL_4</E>
+      <T n="value">10107145120551551016<!--LN_RM:aspiration_RoyalRomance_A4--></T>
+    </U>
+    <U>
+      <E n="key">LEVEL_5</E>
+      <T n="value">10107145120551551017<!--LN_RM:aspiration_RoyalRomance_A5--></T>
+    </U>
+  </L>
+  <T n="category">3975328990<!--LN_RM:Asp_Cat_Royalty--></T>
+  <T n="description_text">0x0F4B5E58<!--This Sim wants to live the fairy tale and marry a Royal!--></T>
+  <T n="display_text">0x91A8EF66<!--Royal Romance--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Aspirations\Aspiration_Love1.png">2f7d0004:00000000:C204603DFFC70ED3</T>
+  <U n="notification">
+    <V n="text" t="single">
+      <T n="single">0x769817E2<!--With a tale as old as time and a love that transcends mere titles, {0.SimFirstName} has woven their destiny with the threads of royalty. The "Aspiring Royal Consort" aspiration is now a chapter of their legacy, marking their ascension from dreamer to a beloved member of the royal family. Love, loyalty, and a dash of fairy-tale magic have crowned their efforts with success. May their life ahead be filled with the joy and splendor befitting their new royal status!\n\nTrait Earned: Companion--></T>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0xC107F668<!--Aspiration Completed--></T>
+    </V>
+    <L n="ui_responses">
+      <U>
+        <T n="text">0x7E8E7CD3<!--Select New Aspiration--></T>
+        <E n="ui_request">SHOW_ASPIRATION_SELECTOR</E>
+      </U>
+    </L>
+    <E n="urgency">DEFAULT</E>
+  </U>
+  <T n="primary_trait">26200<!--trait_Alluring--></T>
+  <T n="reward">27497<!--Reward_Love_EternalBond--></T>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">17982541241096902449<!--LN_RM:Whimset_Asp_Love_RoyalRomance--></T>
+  </V>
+</I>

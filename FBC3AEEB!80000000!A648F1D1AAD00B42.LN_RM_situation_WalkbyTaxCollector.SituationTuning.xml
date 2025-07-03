@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SingleJobSituation" i="situation" m="situations.complex.single_job_situation" n="LN_RM:situation_WalkbyTaxCollector" s="11982092691435424578">
+  <E n="creation_ui_option">NOT_AVAILABLE</E>
+  <T n="duration">60</T>
+  <E n="exclusivity">NORMAL</E>
+  <U n="job">
+    <T n="role_state">9449958215466894267<!--LN_RM:rolestate_taxCollector--></T>
+    <T n="situation_job">10358295831740245260<!--LN_RM:jobs_taxCollector--></T>
+  </U>
+  <L n="tags">
+    <E>Role_Career</E>
+  </L>
+</I>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Role_ReligiousLeader" s="15680633208493232726">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>9594657713477410690<!--LN_RM:mixer_Social_ReligiousLeader_AddressMoralConcerns--></T>
+        <T>17038785071096791746<!--LN_RM:mixer_Social_ReligiousLeader_AskForBlessings--></T>
+        <T>10400663557114401530<!--LN_RM:mixer_Social_ReligiousLeader_AskForGuidance--></T>
+        <T>13963533477096009895<!--LN_RM:mixer_Social_ReligiousLeader_ChurchStateRelations--></T>
+        <T>12054787469377551173<!--LN_RM:mixer_Social_ReligiousLeader_DiscussReligiousPolicy--></T>
+        <T>14487480136270935825<!--LN_RM:mixer_Social_ReligiousLeader_DisputeMoralJudgements--></T>
+        <T>10894864754488293904<!--LN_RM:mixer_Social_ReligiousLeader_InterpretEvents--></T>
+        <T>11231948277278688497<!--LN_RM:mixer_Social_ReligiousLeader_Mediate--></T>
+        <T>9425193789969536542<!--LN_RM:mixer_Social_ReligiousLeader_OrganizeCharitableWorks--></T>
+        <T>11434921477641764367<!--LN_RM:mixer_Social_ReligiousLeader_Overreach--></T>
+        <T>10159547515730796304<!--LN_RM:mixer_Social_ReligiousLeader_SpiritualCounsel--></T>
+      </L>
+    </U>
+  </L>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>9594657713477410690<!--LN_RM:mixer_Social_ReligiousLeader_AddressMoralConcerns--></T>
+        <T>17038785071096791746<!--LN_RM:mixer_Social_ReligiousLeader_AskForBlessings--></T>
+        <T>10400663557114401530<!--LN_RM:mixer_Social_ReligiousLeader_AskForGuidance--></T>
+        <T>13963533477096009895<!--LN_RM:mixer_Social_ReligiousLeader_ChurchStateRelations--></T>
+        <T>12054787469377551173<!--LN_RM:mixer_Social_ReligiousLeader_DiscussReligiousPolicy--></T>
+        <T>14487480136270935825<!--LN_RM:mixer_Social_ReligiousLeader_DisputeMoralJudgements--></T>
+        <T>10894864754488293904<!--LN_RM:mixer_Social_ReligiousLeader_InterpretEvents--></T>
+        <T>11231948277278688497<!--LN_RM:mixer_Social_ReligiousLeader_Mediate--></T>
+        <T>9425193789969536542<!--LN_RM:mixer_Social_ReligiousLeader_OrganizeCharitableWorks--></T>
+        <T>11434921477641764367<!--LN_RM:mixer_Social_ReligiousLeader_Overreach--></T>
+        <T>10159547515730796304<!--LN_RM:mixer_Social_ReligiousLeader_SpiritualCounsel--></T>
+      </L>
+    </U>
+  </L>
+</I>

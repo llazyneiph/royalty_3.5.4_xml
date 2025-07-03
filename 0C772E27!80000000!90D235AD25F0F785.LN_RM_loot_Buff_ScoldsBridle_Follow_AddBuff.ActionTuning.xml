@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_ScoldsBridle_Follow_AddBuff" s="10435462304353023877">
+  <L n="loot_actions">
+  <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">126524<!--buff_Reaction_Break_Social_Chat--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">126524<!--buff_Reaction_Break_Social_Chat--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_babyrattle.png">2f7d0004:00000000:5ce5608ec9deb5aa</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xF1A2BC23<!--To end the Walk of Shame, use the 'End Walk of Shame' interaction on the guard.--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type" />
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">17135924802985485540<!--LN_RM:buff_ScoldsBridle_Broadcaster_FollowMe--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">13459002594439380879<!--LN_RM:buff_ScoldsBridle_IsFollowing--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

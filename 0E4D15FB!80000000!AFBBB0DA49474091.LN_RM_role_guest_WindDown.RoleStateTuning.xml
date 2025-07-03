@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:role_guest_WindDown" s="12662909228861046929">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101021<!--buff_Role_Bar_Drinker--></T>
+    </U>
+    <U>
+      <T n="buff_type">26284<!--buff_AutonomyMod_thankHostForInvite--></T>
+    </U>
+    <U>
+      <T n="buff_type">18119293614608174751<!--LN_RM:buff_Ball_Masquerade--></T>
+    </U>
+    <U>
+      <T n="buff_type">14158733808278528618<!--LN_RM:buff_Ball_Winter--></T>
+    </U>
+    <U>
+      <T n="buff_type">33931<!--buff_AutonomyMod_SocialMore--></T>
+    </U>
+    <U>
+      <T n="buff_type">12178271506279124690<!--LN_RM:buff_Ball--></T>
+    </U>
+    <U>
+      <T n="buff_type">35368<!--Buff_Role_Appropriateness_NoBathing--></T>
+    </U>
+    <U>
+      <T n="buff_type">35390<!--Buff_Role_Appropriateness_NoSleeping--></T>
+    </U>
+    <U>
+      <T n="buff_type">35365<!--Buff_Role_Appropriateness_NoCooking--></T>
+    </U>
+    <U>
+      <T n="buff_type">35370<!--Buff_Role_Appropriateness_NoCleaning--></T>
+    </U>
+    <U>
+      <T n="buff_type">14143638004072715379<!--LN_RM:Buff_Role_Ball_Dance--></T>
+    </U>
+    <U>
+      <T n="buff_type">35465<!--Buff_Role_Appropriateness_AllowBartending--></T>
+    </U>
+    <U>
+      <T n="buff_type">117187<!--buff_Object_FruitPunchFountain_Hidden_ObjectCheck--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="enabled">
+        <T n="enabled">0xD5E3264<!--(From Living It Up at a Party)--></T>
+      </V>
+      <T n="buff_type">284133<!--buff_Trait_PartyAnimal_AtParty--></T>
+    </U>
+    <U>
+      <T n="buff_type">74343<!--buff_PreventRunning--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="push_affordance">
+    <U n="push_affordance">
+      <T n="affordance">13527412108067584152<!--LN_RM:autonomousSimPicker_Ball_DanceWith--></T>
+    </U>
+  </V>
+  <L n="role_affordances">
+    <T>13002<!--ask_toLeaveLot--></T>
+  </L>
+  <L n="tags">
+    <E>Role_Guest</E>
+    <E>Role_VIPRope_Allowed</E>
+  </L>
+</I>

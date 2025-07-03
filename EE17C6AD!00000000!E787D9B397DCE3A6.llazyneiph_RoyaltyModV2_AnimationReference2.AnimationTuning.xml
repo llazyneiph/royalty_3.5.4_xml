@@ -1,0 +1,7 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="AnimationElement" s="16683542709987500966" i="animation" m="animation.animation_element" n="llazyneiph_RoyaltyModV2_AnimationReference2">
+  <T n="asm_key">02d5df13:00000000:EA55CA20439B774E</T>
+  <L n="begin_states">
+    <T>Succeed</T>
+  </L>
+  <T n="target_name" />
+</I>

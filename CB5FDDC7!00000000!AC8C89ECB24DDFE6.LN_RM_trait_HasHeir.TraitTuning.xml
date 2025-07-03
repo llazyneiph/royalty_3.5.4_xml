@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12433464320959832038" i="trait" m="traits.traits" n="LN_RM_trait_HasHeir">
+  <E n="trait_type">HIDDEN</E>
+  <T n="display_name">0x81B052FE<!--hidden_hasheir--></T>
+  <T n="display_name_gender_neutral">0x81B052FE<!--hidden_hasheir--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">11262809924620093922</T>
+    </U>
+  </L>
+</I>

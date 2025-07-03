@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Aspiration" i="aspiration" m="aspirations.aspiration_tuning" n="LN_RM:aspiration_MP_A4" s="14480183116844716957">
+  <T n="display_name">0xC1CAC3E3<!--That's the Missing Royal!--></T>
+  <T n="do_not_register_events_on_load">True</T>
+  <L n="objectives">
+    <T>13202297002496045419<!--LN_RM:objective_Asp_MP_A4_1--></T>
+    <T>13202297002496045416<!--LN_RM:objective_Asp_MP_A4_2--></T>
+  </L>
+  <V n="screen_slam" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">13361395461238262394<!--LN_RM:MP_SS_TrackComplete--></T>
+    </V>
+  </V>
+</I>

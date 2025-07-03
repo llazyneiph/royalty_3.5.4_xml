@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalCompound" i="situation_goal" m="situations.situation_goal_compound" n="LN_RM:scenarioGoal_CompoundAll_MakingMonarchy" s="12831866976878803850">
+  <T n="_cooldown">0</T>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Headlines\Final\headline_list.png">2f7d0004:00000000:CA49543A90228C1E</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x7653CAC3<!--• Make 1 million Simoleons \n\n• Have 6 Grandchildren--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x9A3DF8B1<!--Sims with a Knowledge Aspiration will gain skills more quickly and skill progress may help complete the Aspiration.--></T>
+      </V>
+    </U>
+  </V>
+  <T n="_score">0</T>
+  <V n="evaluation_mode" t="all" />
+  <L n="situation_goals">
+    <T>10151178270809926141<!--LN_RM:scenarioGoal_Actor_Grandchildren_6--></T>
+    <T>13656615756768879254<!--LN_RM:scenarioGoal_Actor_1Mil--></T>
+  </L>
+</I>

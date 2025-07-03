@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="16128104505172663824" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait11/342473124">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9587612486157183651<!--llazyneiph_RoyaltyMod_Buff_Magically Nourished--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xEA21C3FC<!--(From Spell)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

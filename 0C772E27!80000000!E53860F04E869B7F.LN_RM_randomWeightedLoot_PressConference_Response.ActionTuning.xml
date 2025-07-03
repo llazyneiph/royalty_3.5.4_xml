@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_PressConference_Response" s="16517058218607156095">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">15803908413166895921<!--LN_RM:loot_PressConference_Reaction_Positive--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">13666180396146278272<!--LN_RM:loot_PressConference_Reaction_Relieved--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">9773759375217480777<!--LN_RM:loot_PressConference_Reaction_Energized--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">10946276424898728585<!--LN_RM:loot_PressConference_Reaction_Insult--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+      </U>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">14935264512385017732<!--LN_RM:loot_PressConference_Reaction_Boo--></T>
+      </V>
+      <U n="weight">
+        <T n="base_value">1</T>
+      </U>
+    </U>
+  </L>
+</I>

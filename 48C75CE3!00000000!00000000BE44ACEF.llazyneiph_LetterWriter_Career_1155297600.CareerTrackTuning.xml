@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="TunableCareerTrack" s="3192171759" i="career_track" m="careers.career_tuning" n="llazyneiph_LetterWriter_Career/1155297600">
+  <T n="busy_time_situation_picker_tooltip">0x77D1D57E</T>
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xF0F2FF5D</T>
+  <T n="career_name">0xCD0E4A27</T>
+  <T n="career_name_gender_neutral">0xCD0E4A27</T>
+  <T n="icon">2f7d0004:00000000:27c6f59c91c4cba3</T>
+  <T n="icon_high_res">2f7d0004:00000000:E8C1A81F3E636C5C</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>3844739206</T>
+    <T>3677271671</T>
+    <T>4048608118</T>
+    <T>2703351003</T>
+    <T>4179668833</T>
+  </L>
+</I>

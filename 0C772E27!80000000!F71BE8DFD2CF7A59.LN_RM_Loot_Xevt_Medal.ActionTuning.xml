@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Xevt_Medal" s="17806081599751551577">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12056841823935761288<!--LN_RM:Buff_Investiture_Medal_Confidant_Simcross--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x2F70B5DC<!--"By the power vested in me as Monarch, I hereby bestow upon {1.SimFirstName} the Honor of the Simcross. May this esteemed title reflect {1.SimPronounPossessiveDependent} unmatched dedication and noble deeds in service to the realm."--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12578539154634874290<!--LN_RM:Buff_Hidden_Medal_CrownMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">17644885438243539251<!--LN_RM:Trait_Hidden_Medal_CrownMedal--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13476739050355443353<!--LN_RM:Buff_Investiture_Medal_Confidant_ServiceMedal--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10911145212876235866<!--LN_RM:Buff_Hidden_Medal_ServiceMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x32400C62<!--"By the authority granted to me, I present {1.SimFirstName} with the Royal Service Medal, in recognition of {1.SimPronounPossessiveDependent} unwavering loyalty and invaluable contributions to the crown."--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10911145212876235866<!--LN_RM:Buff_Hidden_Medal_ServiceMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10911145212876235866<!--LN_RM:Buff_Hidden_Medal_ServiceMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">9702304223350011499<!--LN_RM:Trait_Hidden_Medal_ServiceMedal--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14378639795300533573<!--LN_RM:Buff_Investiture_Medal_Confidant_CrownMedal--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12578539154634874290<!--LN_RM:Buff_Hidden_Medal_CrownMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x43E58EAF<!--"By the decree of the monarchy, I award {1.SimFirstName} the Order of the Crown. May this honor stand as a testament to {1.SimPronounPossessiveDependent} exceptional dedication and steadfast loyalty."--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12578539154634874290<!--LN_RM:Buff_Hidden_Medal_CrownMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">13692607506936580354<!--LN_RM:Trait_Hidden_Medal_Simcross--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">18438649427932401180<!--LN_RM:Buff_Investiture_Medal_Confidant_ValorMedal--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xDE824276<!--"In acknowledgment of extraordinary courage and bravery, I, by royal decree, grant {1.SimFirstName} the Medal of Valor. May {1.SimPronounSubjective} inspire future generations with their heroism."--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15718181793744514081<!--LN_RM:Trait_Hidden_Medal_Valor--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14899152038728013240<!--LN_RM:Buff_Investiture_Medal_Female--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14258909614107428551<!--LN_RM:Buff_Investiture_Medal_Male--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13878871862624248765<!--LN_RM:Buff_Investiture_ServiceMedal_Female--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10911145212876235866<!--LN_RM:Buff_Hidden_Medal_ServiceMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12291697789198811398<!--LN_RM:Buff_Investiture_ServiceMedal_Male--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10911145212876235866<!--LN_RM:Buff_Hidden_Medal_ServiceMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12209215418691474549<!--LN_RM:Buff_Investiture_CrownMedal_Female--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12578539154634874290<!--LN_RM:Buff_Hidden_Medal_CrownMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17412723170690245022<!--LN_RM:Buff_Investiture_CrownMedal_Male--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12578539154634874290<!--LN_RM:Buff_Hidden_Medal_CrownMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">18231576411568474754<!--LN_RM:Buff_Investiture_ValorMedal_Female--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13307325395970975189<!--LN_RM:Buff_Investiture_ValorMedal_Male--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">TargetSim</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>15019531641784581999<!--LN_RM:Buff_Hidden_Medal_ValorMedal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

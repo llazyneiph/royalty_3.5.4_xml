@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_PersonalGuard" s="10244458107691941771">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">14696518045046305264<!--LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">18093841812020944492<!--LN_RM:trait_Hidden_PersonalGuard_Knigh--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11918002117868191934<!--LN_RM:trait_Hidden_Knight--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <L n="dialog_options">
+              <E>DISABLE_CLOSE_BUTTON</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x3E581BC1<!--Thank you {F0.Mistress}{M0.Masters}, I'm honoured to hold this position.--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

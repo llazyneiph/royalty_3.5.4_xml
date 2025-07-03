@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_LIW" s="17010675623493138418">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x88672198<!--<b>Ladies-in-Waiting</b> \n\nAny Royal or Noble now has the option to make any Noble sim a Lady-in-Waiting! These new sims can be ordered to follow your sims around, do their hair and makeup, make them tea and coffee, and have several new social interactions with each  other. \n\nTo make a sim a Lady-in-Waiting, click on a Noble sim and navigate to the ‘Royalty Mod’ pie menu. In here you will find the Lady-in-Waiting pie menu where you will see the interaction to make a sim a Lady-in-Waiting. \n\nTo have a Lady-in-Waiting change your sims hair or makeup, you can find a new seat object in Buy Mod: [LN] Styling Station. \nThere must be a sim with the Lady-in-Waiting trait on the lot for your sim to be able to click on the chair and choose the sim they want to perform the action. \n\n**Do not make a sim a LIW during an event or club gathering.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

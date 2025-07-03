@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TutorialCategory" i="tutorial" m="tutorials.tutorial" n="LN_RM:tutorial_Category_RoyaltyMod" s="9376958405663089733">
+  <L n="content">
+    <E>Lesson_Beginner_LiveMode</E>
+  </L>
+  <T n="intro">14892542941365337583<!--LN_RM:tutorial_Monarchs--></T>
+  <T n="name">0xE5AF4F03<!--Royalty Mod--></T>
+  <E n="tag">Lesson_Beginner</E>
+  <T n="ui_sort_order">0</T>
+</I>

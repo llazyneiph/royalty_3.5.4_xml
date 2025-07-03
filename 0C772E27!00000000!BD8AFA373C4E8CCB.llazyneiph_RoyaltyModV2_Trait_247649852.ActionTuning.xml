@@ -1,0 +1,39 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="13658003935096376523" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/247649852">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">16559990261814471883<!--llazyneiph_RoyaltyMod_Buff_Mo'Money... Less Problems!--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x92109142<!--(From Lower Taxes)--></T>
+          </V>
+        </U>
+        <E n="subject">Lot</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>2522365735</T>
+                  <T>18164583978991418627</T>
+                  <T>18164583978991418624</T>
+                  <T>18164583978991418630<!--LN_RM_trait_Nanny--></T>
+                  <T>18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+                  <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+                  <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+                </L>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>16559990261814471883<!--llazyneiph_RoyaltyMod_Buff_Mo'Money... Less Problems!--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

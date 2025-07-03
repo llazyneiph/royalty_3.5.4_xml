@@ -1,0 +1,14 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="11736038347448404206" i="action" m="interactions.utils.loot" n="LN_RM:Execute_StatistictoMin">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="stat">16656<!--motive_Hunger--></T>
+          <L n="subject">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

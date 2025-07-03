@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="GameObject" i="object" m="objects.game_object" n="LN_RM:object_new_titles" s="9819382668751118911">
+  <U n="_components">
+    <V n="focus" t="enabled">
+      <U n="enabled">
+        <V n="_focus_score" t="species_specific">
+          <U n="species_specific">
+            <L n="scores">
+              <U>
+                <E n="key">CAT</E>
+                <U n="value">
+                  <E n="base">LOW</E>
+                </U>
+              </U>
+              <U>
+                <E n="key">DOG</E>
+                <U n="value">
+                  <E n="base">LOW</E>
+                </U>
+              </U>
+              <U>
+                <E n="key">HUMAN</E>
+                <U n="value">
+                  <E n="base">MEDIUM</E>
+                  <L n="multipliers">
+                    <U>
+                      <T n="key">27918<!--trait_ArtLover--></T>
+                      <T n="value">1.25</T>
+                    </U>
+                  </L>
+                </U>
+              </U>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V n="line_of_sight" t="enabled" />
+    <V n="retail_component" t="enabled">
+      <V n="enabled" t="reference">
+        <T n="reference">115927<!--retailComponent_Wall--></T>
+      </V>
+    </V>
+    <V n="state" t="enabled">
+      <U n="enabled">
+        <L n="states">
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">108830<!--ObjectStateValue_Detective_NotStolen--></T>
+              </U>
+              <U>
+                <T n="key">108831<!--ObjectStateValue_Detective_Stolen--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">108830<!--ObjectStateValue_Detective_NotStolen--></T>
+            </V>
+          </U>
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">32305<!--Marketable_HigherValue--></T>
+              </U>
+              <U>
+                <T n="key">32313<!--Marketable_NormalValue--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">32313<!--Marketable_NormalValue--></T>
+            </V>
+          </U>
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">39478<!--FireState_Burn_Incinerate_Burning--></T>
+              </U>
+              <U>
+                <T n="key">39479<!--FireState_Burn_Incinerate--></T>
+              </U>
+              <U>
+                <T n="key">39612<!--FireState_Burn_Incinerate_Not_Burning--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">39612<!--FireState_Burn_Incinerate_Not_Burning--></T>
+            </V>
+          </U>
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">35956<!--Materialistic_Admired--></T>
+              </U>
+              <U>
+                <T n="key">35957<!--Materialistic_YetToAdmire--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">35957<!--Materialistic_YetToAdmire--></T>
+            </V>
+          </U>
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">100570<!--EmotionEnvironment_Enabled--></T>
+              </U>
+              <U>
+                <T n="key">100571<!--EmotionEnvironment_Disabled--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">100571<!--EmotionEnvironment_Disabled--></T>
+            </V>
+          </U>
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">131794<!--Kelpto_Stolen_Object--></T>
+              </U>
+              <U>
+                <T n="key">131795<!--Klepto_Not_Stolen_Object--></T>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">131795<!--Klepto_Not_Stolen_Object--></T>
+            </V>
+          </U>
+        </L>
+      </U>
+    </V>
+    <V n="tooltip_component" t="enabled" />
+  </U>
+  <L n="_super_affordances">
+    <T>13328<!--debug_Reset--></T>
+    <T>13326<!--debug_ObjectDestroy--></T>
+    <T>103888<!--cheat_set_as_head--></T>
+    <T>13793564130132737259<!--LN:superInteraction_Title_Duke--></T>
+    <T>9232171812171505977<!--LN:superInteraction_Title_Vicomte--></T>
+    <T>18044593841320814623<!--LN:superInteraction_Title_Lord--></T>
+    <T>15107651020195671283<!--LN:superInteraction_Title_Archduke--></T>
+    <T>14312621579434775146<!--LN:superInteraction_Title_Earl--></T>
+    <T>16705633037352395933<!--LN:superInteraction_Title_Knight--></T>
+    <T>18042872006111414698<!--LN:superInteraction_Title_Lady--></T>
+    <T>11386573736590965577<!--LN:superInteraction_Title_Duchess--></T>
+    <T>9285725732261469681<!--LN:superInteraction_Title_Grandduke--></T>
+    <T>13812671443204003333<!--LN:superInteraction_Title_Dame--></T>
+    <T>18260784128512229131<!--LN:superInteraction_Title_Princess--></T>
+    <T>17809003448299906846<!--LN:superInteraction_Title_Tsarevna--></T>
+    <T>12493796331970518997<!--LN:superInteraction_Title_PrincessD--></T>
+    <T>9274416589834809913<!--LN:superInteraction_Title_Prince--></T>
+    <T>17303051805885267501<!--LN:superInteraction_Title_Prinz--></T>
+    <T>10767301687079308823<!--LN:superInteraction_Title_Tsarevich--></T>
+    <T>16431340095623726090<!--LN:superInteraction_Title_RemoveCRAll--></T>
+    <T>9437494403549471450<!--LN:superInteraction_Title_Nobles_RemoveAll--></T>
+    <T>14466977620049435008<!--LN:superInteraction_Title_Tsar--></T>
+    <T>9361071171914960661<!--LN:superInteraction_Title_Maharaja--></T>
+    <T>11478764046730659486<!--LN:superInteraction_Title_Tsarina--></T>
+    <T>17084575073894161972<!--LN:superInteraction_Title_Monarch--></T>
+    <T>9723381625603581816<!--LN:superInteraction_Title_QueenConsort--></T>
+    <T>11506357440132923979<!--LN:superInteraction_Title_KingR--></T>
+    <T>15025984593494753585<!--LN:superInteraction_Title_Pharaoh--></T>
+    <T>10806334503028199998<!--LN:superInteraction_Title_Kaiserin--></T>
+    <T>10712922960840731506<!--LN:superInteraction_Title_Sovereign--></T>
+    <T>13166658303525740056<!--LN:superInteraction_Title_Queen--></T>
+    <T>10682445401396051555<!--LN:superInteraction_Title_King--></T>
+    <T>10090983643574619395<!--LN:superInteraction_Title_Kaiser--></T>
+    <T>16380587664224921927<!--LN:superInteraction_Title_Maharajni--></T>
+    <T>14861932409337249614<!--LN:superInteraction_Title_Emperor--></T>
+    <T>11547164883398619251<!--LN:superInteraction_Title_Sultan--></T>
+    <T>9452925640138240617<!--LN:superInteraction_Title_Empress--></T>
+    <T>11478764046730659486<!--LN:superInteraction_Title_Tsarina--></T>
+    <T>15595842941713352848<!--LN:superInteraction_Title_Monarch_RemoveAll--></T>
+    <T>11566175099968697191<!--LN:superInteraction_Title_CustomTitle_01--></T>
+    <T>11566175099968697187<!--LN:superInteraction_Title_CustomTitle_05--></T>
+    <T>11566175099968697184<!--LN:superInteraction_Title_CustomTitle_06--></T>
+    <T>11566175099968697186<!--LN:superInteraction_Title_CustomTitle_04--></T>
+    <T>11566175099968697185<!--LN:superInteraction_Title_CustomTitle_07--></T>
+    <T>11566175099968697189<!--LN:superInteraction_Title_CustomTitle_03--></T>
+    <T>11566175099968697188<!--LN:superInteraction_Title_CustomTitle_02--></T>
+    <T>11566175099968697198<!--LN:superInteraction_Title_CustomTitle_08--></T>
+    <T>9609912077446601063<!--LN:superInteraction_Title_CustomTitle_RemoveAll--></T>
+    <T>11566175099968697199<!--LN:superInteraction_Title_CustomTitle_09--></T>
+    <T>11566176199480325433<!--LN:superInteraction_Title_CustomTitle_10--></T>
+    <T>11566176199480325432<!--LN:superInteraction_Title_CustomTitle_11--></T>
+    <T>11566176199480325435<!--LN:superInteraction_Title_CustomTitle_12--></T>
+    <T>11566176199480325434<!--LN:superInteraction_Title_CustomTitle_13--></T>
+    <T>11566176199480325437<!--LN:superInteraction_Title_CustomTitle_14--></T>
+    <T>11566176199480325436<!--LN:superInteraction_Title_CustomTitle_15--></T>
+    <T>12873516881084715349<!--SuperInteraction: LN:superInteraction_Title_Archon--></T>
+    <T>16926597673496342333<!--SuperInteraction: LN:superInteraction_Title_Augustus--></T>
+    <T>10935822493610678552<!--SuperInteraction: LN:superInteraction_Title_Autokrator--></T>
+    <T>15487371316836349160<!--SuperInteraction: LN:superInteraction_Title_Basileus--></T>
+    <T>17442078867820167527<!--SuperInteraction: LN:superInteraction_Title_Basilissa--></T>
+    <T>12834273115050138795<!--SuperInteraction: LN:superInteraction_Title_Caesar--></T>
+    <T>16972789746061390679<!--SuperInteraction: LN:superInteraction_Title_Despotes--></T>
+    <T>10378108530629945581<!--SuperInteraction: LN:superInteraction_Title_Praetor--></T>
+    <T>11184466151434085851<!--SuperInteraction: LN:superInteraction_Title_Rex--></T>
+    <T>17862215259161213925<!--SuperInteraction: LN:superInteraction_Title_Dauphin--></T>
+    <T>10738626557741778554<!--SuperInteraction: LN:superInteraction_Title_Dauphine--></T>
+    <T>13775401636863896059<!--SuperInteraction: LN:superInteraction_Title_Taizi--></T>
+    <T>14406506281867817356<!--SuperInteraction: LN:superInteraction_Title_PrincessRoyal--></T>
+  </L>
+  <L n="environment_score_trait_modifiers">
+    <U>
+      <T n="trait">27085<!--trait_Muser--></T>
+      <U n="modifiers">
+        <L n="mood_modifiers">
+          <U>
+            <T n="mood">14641<!--Mood_Inspired--></T>
+            <U n="modifiers">
+              <T n="multiply_modifier">2</T>
+            </U>
+          </U>
+        </L>
+      </U>
+    </U>
+  </L>
+  <U n="recycling_data">
+    <L n="recycling_values">
+      <U>
+        <E n="Bucks Type">RecycleBitsBucks</E>
+        <T n="Value">0.25</T>
+      </U>
+      <U>
+        <E n="Bucks Type">RecyclePiecesBucks</E>
+        <T n="Value">0.75</T>
+      </U>
+    </L>
+  </U>
+  <T n="set_ico_as_carry_target">False</T>
+</I>

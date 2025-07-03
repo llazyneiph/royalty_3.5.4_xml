@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="13315490093474940035" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModUpdateV1_Trait11/3045488331">
+  <T n="visible">False</T>
+  <T n="buff_name">0xDBC0E1DD<!--hidden_jester_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>11448229117401432777<!--llazyneiph_RoyaltyModUpdateV1_Trait11/1041297849--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

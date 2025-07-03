@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Introduce_AddRelbits" s="18358772198286844910">
+  <L n="loot_actions">
+    <V t="relationship_bits_with_filter">
+      <U n="relationship_bits_with_filter">
+        <L n="rel_bits">
+          <T>15803<!--has_met--></T>
+        </L>
+        <T n="relationship_score">10</T>
+        <E n="subject">Lot</E>
+        <L n="subject_filter_tests">
+          <L>
+            <V t="situation_job_test">
+              <U n="situation_job_test">
+                <L n="situation_jobs">
+                  <T>9930110779400279753<!--LN_RM:job_Guest_Ball--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

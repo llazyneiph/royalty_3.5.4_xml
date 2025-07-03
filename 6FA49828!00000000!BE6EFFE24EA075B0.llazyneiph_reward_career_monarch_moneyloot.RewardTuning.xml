@@ -1,0 +1,18 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="13722186462091310512" i="reward" m="rewards.reward" n="llazyneiph_reward_career_monarch_moneyloot">
+  <T n="icon">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <V n="reward_description" t="enabled" />
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="random_in_range">
+            <U n="random_in_range">
+              <T n="lower_bound">1000</T>
+              <T n="upper_bound">2000</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

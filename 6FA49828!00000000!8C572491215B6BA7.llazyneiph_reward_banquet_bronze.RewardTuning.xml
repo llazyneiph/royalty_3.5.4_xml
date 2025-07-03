@@ -1,0 +1,45 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="HouseholdReward" s="10112591694032235431" i="reward" m="rewards.reward" n="llazyneiph_reward_banquet_bronze">
+  <T n="name">0x7BAE84B7<!--Bronze Level--></T>
+  <T n="icon">2f7d0004:00000000:a48de2be8a7a25fc</T>
+  <V n="reward_description">0xB6745827</V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">3039734136</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="random_in_range">
+            <U n="random_in_range">
+              <T n="lower_bound">250</T>
+              <T n="upper_bound">500</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+  </L>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0xB61A85AA<!--Nothing Special...--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:a48de2be8a7a25fc</T>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xF01CDC0E<!--Reward Earned--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+</I>

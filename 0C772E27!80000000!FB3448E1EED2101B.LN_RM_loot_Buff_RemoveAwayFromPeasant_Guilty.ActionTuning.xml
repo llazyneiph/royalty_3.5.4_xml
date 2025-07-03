@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_RemoveAwayFromPeasant_Guilty" s="18101172937520451611">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>13204823862835534949<!--LN_RM:Buff_Trait_AwayFromPeasant_Guilty--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

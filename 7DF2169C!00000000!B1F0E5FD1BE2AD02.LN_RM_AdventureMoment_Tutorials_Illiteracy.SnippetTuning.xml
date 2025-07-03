@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_Illiteracy" s="12822001014381128962">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x2FB9D8A5<!--<b>Illiteracy</b> \n\nSims will now not be able to read by default, they will need to learn to read by using interactions: 
+‘Practice Reading' (Adults) You can do this by self-clicking on your illiterate sim and choosing the practice reading interaction. 
+Other sims with level 5 of the skill will be able to mentor them by clicking on them whilst the sim is performing the interaction. \n\n
+
+'Practice Reading' (Children) You can buy 'Literacy Book' from any bookcase just like you can purchase homework. 
+Kids are able to practice reading with this book and other sims with level 4 of the literacy skill can mentor them. 
+They can also learn the skill at school. \n\n
+
+Sims will gain a reward trait once they learn to read and can then teach others. 
+Interactions like reading books, doing anything on a computer that requires reading, reading notices, ect will be greyed out from the pie menu until your sim reaches level 5 of the new Literacy skill.\n\n
+This can be turned off in the settings menu.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

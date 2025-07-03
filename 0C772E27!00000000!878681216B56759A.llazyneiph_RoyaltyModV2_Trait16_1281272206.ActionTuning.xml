@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="9765634822534231450" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait16/1281272206">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17231945427083467687<!--llazyneiph_RoyaltyMod_Buff_HilariousAntics!--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x974EC548<!--(From Jester's Joke)--></T>
+          </V>
+        </U>
+        <E n="subject">Listeners</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>17231945427083467687<!--llazyneiph_RoyaltyMod_Buff_HilariousAntics!--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

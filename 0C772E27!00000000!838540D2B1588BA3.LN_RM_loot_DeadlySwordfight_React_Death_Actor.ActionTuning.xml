@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_DeadlySwordfight_React_Death_Actor" s="9477052264533756835">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="stat">15261348171066371424<!--LN_RM:Commodity_Death_SwordFight_Tracker--></T>
+          <L n="subject">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,13 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="RoleState" s="10772822919515345773" i="role_state" m="role.role_state" n="llazyneiph_RoyaltyModV2_Situation3/3525943427">
+  <L n="tags">
+    <E>Role_Service</E>
+  </L>
+  <L n="_buffs">
+    <U n="buff">
+      <T n="buff_type">27371<!--buff_AutonomyMod_CleanPlates--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+</I>

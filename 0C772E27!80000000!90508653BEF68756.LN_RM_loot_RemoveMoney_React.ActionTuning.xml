@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveMoney_React" s="10398959233842710358">
+  <L n="loot_actions">
+    <V t="reaction">
+    <U n="reaction">
+        <V n="si_reaction" t="enabled">
+            <U n="enabled">
+                <T n="affordance">17957675382390024791<!--LN_RM:Reaction_WearingPurple_Fine--></T>
+                <E n="affordance_priority">High</E>
+            </U>
+        </V>
+    </U>
+</V>
+  </L>
+</I>

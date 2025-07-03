@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Copperdale_Add_Noble" s="12402630012910254433">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16242087505563243094<!--LN_RM:trait_Gameplay_RegionalNoble_Copperdale--></T>
+      </U>
+    </V>
+  </L>
+</I>

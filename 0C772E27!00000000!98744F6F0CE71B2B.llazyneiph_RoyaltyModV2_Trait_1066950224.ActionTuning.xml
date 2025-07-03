@@ -1,0 +1,44 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="10985492729439918891" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/1066950224">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517946<!--LN_RM_trait_Jester_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418630<!--LN_RM_trait_Nanny--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517948<!--LN_RM_trait_TrustedAdvisor_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

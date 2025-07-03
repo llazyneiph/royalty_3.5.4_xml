@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestBasedScore" i="test_based_score" m="event_testing.test_based_score" n="LN_RM:scores_AttemptIntroductionOutcome" s="11166192060638026934">
+  <L n="_scores">
+    <U>
+      <T n="score">10</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>14794861402461430217<!--LN_RM:buff_isRoyal_Hidden--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">4</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16926027797852273948<!--LN_RM:trait_Gameplay_GentryClass--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">3</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>15547011496599383446<!--LN_RM:trait_Gameplay_MiddleClass--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-1</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">4</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">3</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

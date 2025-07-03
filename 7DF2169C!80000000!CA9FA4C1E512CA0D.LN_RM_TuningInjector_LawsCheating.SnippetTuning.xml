@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_LawsCheating" s="14600569669637294605">
+  <L n="inject_to_buffs">
+    <U>
+      <T n="buff">76385<!--Buff_Jealousy_CaughtCheating--></T>
+      <L n="loot_on_addition">
+        <T>14431762059091095329<!--LN_RM:Loot_Law_Cheating_Cheated--></T>
+      </L>
+    </U>
+  </L>
+</I>

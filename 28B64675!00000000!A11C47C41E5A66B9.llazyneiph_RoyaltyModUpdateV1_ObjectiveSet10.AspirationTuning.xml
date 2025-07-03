@@ -1,0 +1,6 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Aspiration" s="11609232847102699193" i="aspiration" m="aspirations.aspiration_tuning" n="llazyneiph_RoyaltyModUpdateV1_ObjectiveSet10">
+  <L n="objectives">
+    <T>17000656842970256001<!--llazyneiph_RoyaltyModUpdateV1_ObjectiveSet10/2350565988--></T>
+  </L>
+  <T n="reward">11572805600156894229<!--llazyneiph_reward_advisoraddon--></T>
+</I>

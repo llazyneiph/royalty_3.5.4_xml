@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17805010825158766986" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Hidden_TrustedAdvisor">
+  <T n="visible">False</T>
+  <T n="buff_description">0x813D7FB4<!--The Monarch trusts {0.SimFirstName} implicitly to be their right hand sim. {0.SimFirstName} is now responsible for the lands taxes, edicts and making sure the Monarch gets what the Monarch wants.--></T>
+  <T n="buff_name">0xE4D813D5<!--Trusted Advisor--></T>
+  <T n="icon">2f7d0004:00000000:8ca6595cbeda23dc</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>16714482502799882119<!--llazyneiph_RoyaltyModV2_Trait10/760256886--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

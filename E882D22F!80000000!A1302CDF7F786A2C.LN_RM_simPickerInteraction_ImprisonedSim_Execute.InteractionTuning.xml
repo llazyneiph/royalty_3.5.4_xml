@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimPickerInteraction" i="interaction" m="interactions.base.picker_interaction" n="LN_RM:simPickerInteraction_ImprisonedSim_Execute" s="11614832777416436268">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x6A6144F4<!--Burn Sim at Stake--></T>
+  <T n="include_uninstantiated_sims">False</T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <L n="picked_continuation">
+    <U>
+      <T n="affordance">11986548236598163752<!--LN_RM:Interaction_BurnAtStake_BeBurned--></T>
+    </U>
+  </L>
+  <V n="picker_dialog" t="sim_picker">
+    <U n="sim_picker">
+      <V n="max_selectable" t="static_count">
+        <U n="static_count">
+          <T n="number_selectable">1</T>
+        </U>
+      </V>
+    </U>
+  </V>
+  <V n="pie_menu_test_tooltip" t="enabled">
+    <T n="enabled">0x16280B3F<!--There are no sims nearby.--></T>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <L n="sim_tests">
+    <L>
+    <V t="buff">
+    <U n="buff">
+        <L n="blacklist">
+            <T>18111999631551137019<!--LN_RM:buff_ScoldsBridle--></T>
+        </L>
+    </U>
+</V>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="ages" t="specified">
+            <L n="specified">
+              <E>ADULT</E>
+              <E>YOUNGADULT</E>
+              <E>ELDER</E>
+            </L>
+          </V>
+          <E n="match_type">MATCH_ALL</E>
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="location">
+        <U n="location">
+          <U n="location_tests">
+            <V n="is_on_active_lot" t="Is_or_is_not_on_active_lot" />
+          </U>
+          <E n="subject">PickedSim</E>
+        </U>
+      </V>
+    </L>
+  </L>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+  <V t="trait">
+    <U n="trait">
+        <T n="num_blacklist_allowed">0</T>
+        <E n="subject">Actor</E>
+        <L n="whitelist_traits">
+            <T>11961114812858345264<!--LN_RM:trait_Hidden_DungeonGuard--></T>
+            <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+        </L>
+    </U>
+</V>
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

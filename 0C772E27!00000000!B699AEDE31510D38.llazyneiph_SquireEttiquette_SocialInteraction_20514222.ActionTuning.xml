@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="13157740055672982840" i="action" m="interactions.utils.loot" n="llazyneiph_SquireEttiquette_SocialInteraction/20514222">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14966430526536562961</T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xAF38AB95</T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>14966430526536562961</T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,20 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="14606127424841428709" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_hidden_servant_addon">
+  <T n="display_name">0xF9E24A7B<!--hidden_servant_addon--></T>
+  <T n="display_name_gender_neutral">0xF9E24A7B<!--hidden_servant_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10351083752341027088<!--llazyneiph_RoyaltyMod_Buff_hidden_servant_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">13010655395586546236</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

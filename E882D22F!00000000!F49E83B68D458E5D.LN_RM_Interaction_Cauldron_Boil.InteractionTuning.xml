@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:Interaction_Cauldron_Boil" s="17626670811652132445">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="position">
+            <U n="position">
+              <U n="relative_position">
+                <T n="x">0</T>
+                <T n="y">0.1</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="facing">
+            <U n="facing">
+              <T n="range">0</T>
+              <V t="enabled" n="subroot_index">
+                <T n="enabled">0</T>
+              </V>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <E n="_constraints_actor">Object</E>
+  <V t="participant" n="_icon">
+    <U n="participant">
+      <L n="participant_type">
+        <E>Object</E>
+      </L>
+    </U>
+  </V>
+  <V n="_cancelable_by_user" t="allow_cancelation" />
+  <V t="enabled" n="_saveable" />
+  <T n="disable_autonomous_multitasking_if_user_directed">True</T>
+  <T n="allow_autonomous">False</T>
+  <T n="attention_cost">0.75</T>
+  <V n="basic_content" t="flexible_length">
+    <U n="flexible_length">
+      <L n="conditional_actions">
+        <V t="literal">
+          <U n="literal">
+            <L n="conditions">
+              <V t="buff_based">
+                <U n="buff_based">
+                  <T n="buff">26171<!--buff_Sim_IsDying--></T>
+                  <E n="participant">Actor</E>
+                  <E n="timing">ON_ADD</E>
+                </U>
+              </V>
+            </L>
+          </U>
+        </V>
+      </L>
+      <V n="content" t="looping_content">
+        <U n="looping_content">
+          <U n="animation_ref">
+            <T n="factory">17129782101693214278<!--LN_RM:Animation_BeBoiled--></T>
+          </U>
+        </U>
+      </V>
+      <T n="start_user_directed_inertial">True</T>
+    </U>
+  </V>
+  <L n="basic_extras">
+    <V t="state_change">
+      <U n="state_change">
+        <V n="new_value" t="single_value">
+          <U n="single_value">
+            <T n="new_value">15827066258520488243<!--LN_RM:cauldron_FlameVFX_On--></T>
+          </U>
+        </V>
+        <V n="timing" t="immediately" />
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">11732511935609320399<!--LN_RM:Buff_Dungeon_SupressAutonomy--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">16763861031040273507<!--LN_RM:Buff_BoiledAlive--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+  <T n="display_name">0xB9B82765<!--Be Boiled--></T>
+  <T n="force_exit_on_inertia">False</T>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <T n="pie_menu_priority">3</T>
+  <V t="enabled" n="route_start_balloon">
+    <U n="enabled">
+      <U n="balloon">
+        <L n="balloon_choices">
+          <U>
+            <V n="item" t="balloon_icon">
+              <U n="balloon_icon">
+                <V t="participant" n="icon">
+                  <U n="participant">
+                    <L n="participant_type">
+                      <E>Object</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </U>
+        </L>
+        <L n="balloon_target">
+          <E>Actor</E>
+        </L>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">3</T>
+  <E n="target_type">OBJECT</E>
+  <T n="time_overhead">30</T>
+</I>

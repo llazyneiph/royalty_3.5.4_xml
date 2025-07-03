@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="15452654286790811048" i="objective" m="event_testing.objective_tuning" n="llazyneiph_advisoraddon_ObjectiveSet/811042351">
+  <V n="objective_test" t="trait">
+    <U n="trait">
+      <L n="whitelist_traits">
+        <T>12862563381168716596<!--LN_RM_Update_Advisor--></T>
+      </L>
+      <E n="subject">Actor</E>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="iterations" />
+</I>

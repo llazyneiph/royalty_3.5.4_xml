@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10285687744432809641" i="buff" m="buffs.buff" n="LN_RM:buff_AlreadyAsked">
+  <T n="visible">False</T>
+  <T n="buff_name">0xE0E8728B<!--alreadyasked_hidden--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+    </U>
+  </V>
+</I>

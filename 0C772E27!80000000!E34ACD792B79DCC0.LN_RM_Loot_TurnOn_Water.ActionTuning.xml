@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_TurnOn_Water" s="16378128915190373568">
+  <L n="loot_actions">
+    <V t="utility">
+      <U n="utility">
+        <V n="action" t="restore" />
+        <E n="utility">WATER</E>
+      </U>
+    </V>
+  </L>
+</I>

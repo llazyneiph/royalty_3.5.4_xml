@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_PayFine_RemoveBuff" s="14652350387521072012">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>9698419572197023425<!--LN_RM:buff_PayFine--></T>
+        </L>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10645331994672921990<!--LN_RM:buff_PayFine_Child--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

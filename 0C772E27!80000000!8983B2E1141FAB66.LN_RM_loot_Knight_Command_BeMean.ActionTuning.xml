@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Knight_Command_BeMean" s="9908960284920228710">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13106322201001470017<!--LN_RM:buff_KnightBeMean_Hidden--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

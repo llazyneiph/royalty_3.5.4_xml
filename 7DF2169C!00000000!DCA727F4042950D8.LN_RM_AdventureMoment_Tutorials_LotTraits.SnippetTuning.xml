@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_LotTraits" s="15899720938450145496">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xBEB66E04<!--<b>Royal Residence</b> \n\nSims living on this lot will enjoy a happy buff trait and will also see tourists snapping pics of their residence from time to time!\n\n <b>No Royals or Nobles Allowed</b> \n\n Pretty self explanatory! Royals and Nobles will no longer spawn on this lot. (Will not work if they live on said lot).--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

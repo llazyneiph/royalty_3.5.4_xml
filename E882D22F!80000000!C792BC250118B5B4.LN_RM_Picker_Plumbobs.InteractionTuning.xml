@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="InteractionPickerSuperInteraction" i="interaction" m="interactions.picker.interaction_picker" n="LN_RM:Picker_Plumbobs" s="14380763427265623476">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x9B098AEB<!--Toggle Cheats--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">TargetSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="picker_dialog">
+    <L n="dialog_options">
+      <E>SMALL_TITLE</E>
+    </L>
+    <V n="icon" t="enabled">
+      <V n="enabled" t="participant">
+        <U n="participant">
+          <L n="participant_type">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V n="icon_override_participant" t="enabled">
+      <E n="enabled">TargetSim</E>
+    </V>
+    <V n="max_selectable" t="static_count">
+      <U n="static_count">
+        <T n="exclude_previously_selected">False</T>
+        <T n="number_selectable">1</T>
+      </U>
+    </V>
+    <T n="min_selectable">1</T>
+    <V n="text_tokens" t="enabled">
+      <U n="enabled">
+        <L n="tokens">
+          <V t="participant_type">
+            <U n="participant_type">
+              <V n="objects" t="from_participant">
+                <U n="from_participant">
+                  <E n="participant">TargetSim</E>
+                </U>
+              </V>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x9B098AEB<!--Toggle Cheats--></T>
+    </V>
+  </U>
+  <L n="possible_actions">
+    <V t="literal">
+      <!--Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12284368085273933261<!--LN_RM:immediate_Settings_TogglePlumbob_Monarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x37E38D70<!--Remove Monarch Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>17710782957801145557<!--LN_RM:Trait_CustomPlumbob_Monarch--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12284368085273933261<!--LN_RM:immediate_Settings_TogglePlumbob_Monarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xC05EBEC9<!--Add Monarch Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>17710782957801145557<!--LN_RM:Trait_CustomPlumbob_Monarch--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal Partner-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16228641320167332676<!--LN_RM:immediate_Settings_TogglePlumbob_RoyalPartner--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xAADD47F0<!--Remove Royal Partner Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal Partner-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16228641320167332676<!--LN_RM:immediate_Settings_TogglePlumbob_RoyalPartner--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x36F33146<!--Add Royal Partner Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Crown Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11642889120308028853<!--LN_RM:immediate_Settings_TogglePlumbob_Heir--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x5BE9CBC8<!--Remove Heir Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>14180340514794941805<!--LN_RM:Trait_CustomPlumbob_Heir--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Crown Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11642889120308028853<!--LN_RM:immediate_Settings_TogglePlumbob_Heir--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8B1557F1<!--Add Heir Plumbob--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>14180340514794941805<!--LN_RM:Trait_CustomPlumbob_Heir--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals" />
+</I>

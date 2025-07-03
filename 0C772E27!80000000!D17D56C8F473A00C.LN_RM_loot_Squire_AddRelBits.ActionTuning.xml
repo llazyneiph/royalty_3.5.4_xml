@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Squire_AddRelBits" s="15095316947110436876">
+  <L n="loot_actions">
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+        <U>
+            <T n="bit">15803<!--has_met--></T>
+            <E n="operation">ADD</E>
+            <E n="recipients">ActiveHousehold</E>
+            <E n="targets">Actor</E>
+          </U>
+          <U>
+            <T n="bit">14304412689564462631<!--LN_RM:relBit_Squire--></T>
+            <E n="operation">ADD</E>
+            <E n="targets">TargetSim</E>
+          </U>
+          <U>
+            <T n="bit">13374541714448063709<!--LN_RM:relBit_Sire--></T>
+            <E n="operation">ADD</E>
+            <E n="targets">Actor</E>
+          </U>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

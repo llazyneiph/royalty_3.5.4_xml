@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Commodity_Motive_Bladder_Decline_Target" s="16242340440375329098">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">16652<!--motive_Bladder--></T>
+          <L n="subject">
+            <E>TargetSim</E>
+          </L>
+          <T n="value">-70</T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="LN_RM:Knights_Salute" s="17900645190449239248">
+  <T n="asm_key" p="InGP07\Sage\MilitaryCareer_Salute.interactionasm">02d5df13:00000000:95183F228F858835</T>
+  <L n="begin_states">
+    <T>Salute</T>
+  </L>
+</I>

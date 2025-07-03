@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_EvergreenHarbour_Add_Noble" s="11924917898664559396">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14175300689503749547<!--LN_RM:trait_Gameplay_RegionalNoble_EvergreenHarbour--></T>
+      </U>
+    </V>
+  </L>
+</I>

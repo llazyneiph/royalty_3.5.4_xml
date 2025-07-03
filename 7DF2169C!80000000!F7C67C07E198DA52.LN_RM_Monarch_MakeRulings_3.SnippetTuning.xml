@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:Monarch_MakeRulings_3" s="17854094146048416338">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+      <L n="action_results">
+          <U>
+            <L n="next_moments">
+          <E>Career_ChanceCard_01</E>
+          <E>Career_ChanceCard_02</E>
+          <E>Career_ChanceCard_03</E>
+          <E>Career_ChanceCard_04</E>
+          <E>Career_ChanceCard_05</E>
+          <E>Career_ChanceCard_06</E>
+          <E>Career_ChanceCard_07</E>
+          <E>Career_ChanceCard_08</E>
+          <E>Career_ChanceCard_09</E>
+          <E>Career_ChanceCard_10</E>
+          <E>Career_ChanceCard_11</E>
+          <E>Career_ChanceCard_12</E>
+            </L>
+            <L n="loot_actions">
+            <T>192944<!--LootActions: loot_Reputation_Loss_Small--></T>
+          </L>
+          </U>
+        </L>
+        <V n="display_text" t="single">
+          <T n="single">0xA75D0813<!--Why would I waste our simoleans on something so silly? Take your dreams somewhere else!--></T>
+        </V>
+      </U>
+      <U>
+        <L n="action_results">
+          <U>
+          <L n="next_moments">
+              <E>Career_ChanceCard_01</E>
+              <E>Career_ChanceCard_02</E>
+              <E>Career_ChanceCard_03</E>
+              <E>Career_ChanceCard_04</E>
+              <E>Career_ChanceCard_05</E>
+              <E>Career_ChanceCard_06</E>
+              <E>Career_ChanceCard_07</E>
+              <E>Career_ChanceCard_08</E>
+              <E>Career_ChanceCard_09</E>
+              <E>Career_ChanceCard_10</E>
+              <E>Career_ChanceCard_11</E>
+              <E>Career_ChanceCard_12</E>
+            </L>
+            <L n="loot_actions">
+              <T>14707391375488047258<!--LootActions: LN_RM:loot_SweetDreams--></T>
+            </L>
+          </U>
+        </L>
+        <V n="cost" t="simoleon_cost">
+              <U n="simoleon_cost">
+                <T n="amount">10000</T>
+              </U>
+            </V>
+        <V n="display_text" t="single">
+          <T n="single">0x819D738B<!--If our nations needs one thing... it is more cupcake stores! Take however much you need from the coffers!--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="text" t="single">
+          <T n="single">0x81ACE906<!--Your Majesty, I have had dreams of opening a cupcake store since I was a child! Would the crown be willing to finance my business?--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x605CCE35<!--Sweet Dreams!--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Copperdale" s="16242087505563243094">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x708746E5<!--Copperdale Noble--></T>
+  <T n="display_name_gender_neutral">0xD2D4EC1C<!--Copperdale Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:1BF93A2EA55A88F1</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x4BB2BBA7<!--{0.SimFirstName} is apart of Copperdale Nobility.--></T>
+  <T n="trait_origin_description">0x5DA3AD90<!--(From Belonging to Copperdale Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

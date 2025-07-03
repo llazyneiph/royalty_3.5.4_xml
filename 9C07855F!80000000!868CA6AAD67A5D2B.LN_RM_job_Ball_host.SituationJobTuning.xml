@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationJob" i="situation_job" m="situations.situation_job" n="LN_RM:job_Ball_host" s="9695307350494829867">
+<T n="can_be_hired">False</T>
+  <L n="commodities">
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16652<!--motive_Bladder--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16654<!--motive_Energy--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16655<!--motive_Fun--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16656<!--motive_Hunger--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16657<!--motive_Hygiene--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="confirm_leave_situation_for_work">True</T>
+  <T n="display_name">0xD2A6AE00<!--Host--></T>
+  <T n="filter">74294<!--filter_PartyHost--></T>
+  <T n="goal_scoring">10</T>
+  <T n="icon" p="InGame\UI\Icons\Events\EventRoles\EventRole_Host.png">2f7d0004:00000000:A34A1A7B23B4F39B</T>
+  <T n="job_description">0xEECD361A<!--It's your ball - - make sure everyone has a good time.--></T>
+  <V n="job_uniform" t="uniform_specified">
+    <U n="uniform_specified">
+      <E n="outfit_change_priority">Medium</E>
+      <E n="outfit_change_reason">Category_Formal</E>
+    </U>
+  </V>
+  <L n="rewards">
+    <U>
+      <U n="benefit">
+        <L n="loot">
+          <T>192942<!--loot_Reputation_Gain_Huge--></T>
+          <T>16380639278551919436<!--LN_RM:loot_Statistic_EmpireTreasury_Gain_Huge--></T>
+          <T>14019340591915388914<!--LN_RM:loot_Statistic_EmpireHappiness_Gain_Huge--></T>
+        </L>
+        <E n="loot_target_choice">ALL_SIMS_IN_JOB</E>
+      </U>
+      <E n="medal">GOLD</E>
+    </U>
+    <U>
+      <U n="benefit">
+        <L n="loot">
+          <T>192946<!--loot_Reputation_Loss_Large--></T>
+          <T>12256456841819048210<!--LN_RM:loot_Statistic_EmpireTreasury_Gain_Large--></T>
+          <T>15525926695953065760<!--LN_RM:loot_Statistic_EmpireHappiness_Gain_Large--></T>
+        </L>
+        <E n="loot_target_choice">ALL_SIMS_IN_JOB</E>
+      </U>
+      <E n="medal">SILVER</E>
+    </U>
+    <U>
+      <U n="benefit">
+        <L n="loot">
+          <T>192938<!--loot_Reputation_Gain_Small--></T>
+          <T>13471474927398398654<!--LN_RM:loot_Statistic_EmpireTreasury_Gain_Small--></T>
+          <T>12284962390491441624<!--LN_RM:loot_Statistic_EmpireHappiness_Gain_Small--></T>
+        </L>
+        <E n="loot_target_choice">ALL_SIMS_IN_JOB</E>
+      </U>
+      <E n="medal">BRONZE</E>
+    </U>
+  </L>
+  <L n="location_based_filter_terms">
+    <V t="reference">
+      <T n="reference">260612<!--locationBasedFilterTerm_Village--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">290171<!--LocationBasedFilterTerm_WolfTown_StayInTown--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">203033<!--Keep_Strangeville_Npcs_In_Strangerville--></T>
+    </V>
+  </L>
+  <T n="participating_npcs_should_ignore_work">True</T>
+  <T n="requirement_text">0x571A3281<!--Must be a household member; teen or older.--></T>
+  <U n="sim_count">
+  <T n="lower_bound">1</T>
+    <T n="upper_bound">1</T>
+  </U>
+  <L n="sim_spawner_tags">
+    <E>Spawn_VisitorArrival</E>
+  </L>
+  <L n="tags">
+    <E>Role_Host</E>
+  </L>
+  <T n="tooltip_name">0x6B7119E4<!--{M0.Host}{F0.Host}--></T>
+  <U n="tooltip_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type" />
+    </L>
+  </U>
+</I>

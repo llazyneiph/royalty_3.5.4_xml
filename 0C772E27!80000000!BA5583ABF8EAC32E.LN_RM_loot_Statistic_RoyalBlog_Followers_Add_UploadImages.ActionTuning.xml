@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Statistic_RoyalBlog_Followers_Add_UploadImages" s="13426782638713783086">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="advertise">False</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="advertise">False</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+        </U>
+      </V>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+        </U>
+        <U n="chance">
+          <T n="base_chance">50</T>
+          <L n="multipliers">
+            <U>
+              <T n="multiplier">2</T>
+              <L n="tests">
+                <L>
+                  <V t="buff">
+                    <U n="buff">
+                      <V n="whitelist" t="enabled">
+                        <L n="enabled">
+                          <T>137039<!--buff_Career_SocialMedia_InternetPersonality_Trending--></T>
+                          <T>137103<!--buff_Career_SocialMedia_PublicRelations_Trending--></T>
+                        </L>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </L>
+            </U>
+          </L>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+        </U>
+        <U n="chance">
+          <T n="base_chance">50</T>
+          <L n="multipliers">
+            <U>
+              <T n="multiplier">1.5</T>
+              <L n="tests">
+                <L>
+                  <V t="buff">
+                    <U n="buff">
+                      <V n="whitelist" t="enabled">
+                        <L n="enabled">
+                          <T>137039<!--buff_Career_SocialMedia_InternetPersonality_Trending--></T>
+                          <T>137103<!--buff_Career_SocialMedia_PublicRelations_Trending--></T>
+                        </L>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </L>
+            </U>
+          </L>
+        </U>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">150</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">8000</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="tests">
+            <L>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">150</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">8000</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">50</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">1000</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">50</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">1000</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">50</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">1000</T>
+          <T n="stat">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">50</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="statistic_multipliers">
+            <U>
+              <V n="multiplier" t="value_curve">
+                <L n="value_curve">
+                  <U>
+                    <T n="x">1</T>
+                    <T n="y">1</T>
+                  </U>
+                  <U>
+                    <T n="x">2</T>
+                    <T n="y">1.2</T>
+                  </U>
+                  <U>
+                    <T n="x">3</T>
+                    <T n="y">1.4</T>
+                  </U>
+                  <U>
+                    <T n="x">4</T>
+                    <T n="y">1.6</T>
+                  </U>
+                  <U>
+                    <T n="x">5</T>
+                    <T n="y">2</T>
+                  </U>
+                </L>
+              </V>
+              <T n="statistic">188229<!--rankedStatistic_Fame--></T>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135366<!--careerTrack_SocialMedia_Track3_PublicRelations--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="advertise">False</T>
+          <T n="amount">1000</T>
+          <T n="stat">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+          <L n="tests">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_track">
+                    <U n="career_track">
+                      <T n="career_track">135367<!--careerTrack_SocialMedia_Track2_InternetPersonality--></T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="variation">
+              <U n="variation">
+                <L n="variations">
+                  <T>0xA7E5858D<!--Royal watchers across the globe loved that picture of the Royals together! The Royal Blog has gained {1.Number} Followers. It now has {2.Number} Followers in total.--></T>
+                  <T>0x7EEF9C03<!--{0.SimFirstName} uploaded a picture of one of the Royal Family members meeting an overseas politician. The Royal Blog has gained {1.Number} Followers. It now has {2.Number} Followers in total.--></T>
+                  <T>0xA4D0C8BB<!--#throwback! {0.SimFirstName} uploaded an old favourite of a recently passed Royal. The Royal Blog has gained {1.Number} Followers. It now has {2.Number} Followers in total.--></T>
+                </L>
+              </U>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type" />
+                  <V t="statistic_value">
+                    <U n="statistic_value">
+                      <T n="statistic">11262375455304410014<!--LN_RM:statistic_RoyalBlog_Followers_TNS_Total--></T>
+                    </U>
+                  </V>
+                  <V t="statistic_value">
+                    <U n="statistic_value">
+                      <T n="statistic">17634334432355403103<!--LN_RM:statistic_Object_Computer_RoyalBlog_Followers--></T>
+                    </U>
+                  </V>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>13212308984522657004<!--LN_RM:buff_TempRandomCalcBuff_01--></T>
+          <T>13212308984522657007<!--LN_RM:buff_TempRandomCalcBuff_02--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

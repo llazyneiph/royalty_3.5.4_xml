@@ -1,0 +1,13 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14563802271110009188" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait18/18251358">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14283953286282111510<!--llazyneiph_RoyaltyModV2_Trait18/1797145665--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

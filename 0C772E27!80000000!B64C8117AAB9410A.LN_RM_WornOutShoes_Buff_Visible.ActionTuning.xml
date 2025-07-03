@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:WornOutShoes_Buff_Visible" s="13136016151781392650">
+  <L n="loot_actions">
+  <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">17880426210096946727<!--LN_RM:buff_Has_WornOutShoes_Hidden--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">16145066042686875162<!--LN_RM:buff_WornOutShoes_Hidden_Cooldown--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">11722260777814687450<!--LN_RM:buff_TatteredShoes_Uncomfortable_AdultMale--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>136879<!--trait_GenderOptions_Clothing_MensWear--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">13421730749815569665<!--LN_RM:buff_TatteredShoes_Uncomfortable_AdultFemale--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>136880<!--trait_GenderOptions_Clothing_WomensWear--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">18368519973886174483<!--LN_RM:buff_TatteredShoes_Uncomfortable_Child--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>34316<!--trait_child--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

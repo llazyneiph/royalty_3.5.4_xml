@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000100" u="0x00000000">
+  <Instances>
+    <I name="Diplomat_Track1_Diplomat" schema="TunableCareerTrack" type="Object">
+      <L name="branches" />
+      <T name="busy_time_situation_picker_tooltip">0x77D1D57E</T>
+      <T name="career_description">0x49FD7E4A</T>
+      <L name="career_levels">
+        <T type="TableSetReference">12630799664180108654</T>
+        <T type="TableSetReference">12630799664180108653</T>
+        <T type="TableSetReference">12630799664180108652</T>
+        <T type="TableSetReference">12630799664180108651</T>
+        <T type="TableSetReference">12630799664180108650</T>
+        <T type="TableSetReference">12630799664180108649</T>
+        <T type="TableSetReference">12630799664180108648</T>
+        <T type="TableSetReference">12630799664180108647</T>
+        <T type="TableSetReference">12630799664180108646</T>
+        <T type="TableSetReference">10246770600331575770</T>
+      </L>
+      <T name="career_name">0xD393C338</T>
+      <T name="icon">00000000-00000000-6905037284078FA2</T>
+      <T name="icon_high_res">00000000-00000000-2F73784448C05712</T>
+      <T name="image">00B2D882-00000000-6665077284098FA2</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="TunableCareerTrack" schema_hash="0x9A6E55E8">
+      <Columns>
+        <Column name="branches" type="Vector" flags="0x00000000" />
+        <Column name="busy_time_situation_picker_tooltip" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_levels" type="Vector" flags="0x00000000" />
+        <Column name="career_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_high_res" type="ResourceKey" flags="0x00000000" />
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

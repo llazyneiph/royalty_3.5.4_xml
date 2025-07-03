@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BasicTraitSitaution" i="situation" m="situations.complex.basic_trait_situation" n="LN_RM:basicTraitSituation_PrincessRoyal" s="15637353317830359014">
+  <T n="duration">0</T>
+  <T n="job">15395817467715514162<!--LN_RM:situationJob_BasicTrait_PrincessRoyal--></T>
+  <T n="role">10905296707508452948<!--LN_RM:roleState_BasicTrait_General--></T>
+</I>

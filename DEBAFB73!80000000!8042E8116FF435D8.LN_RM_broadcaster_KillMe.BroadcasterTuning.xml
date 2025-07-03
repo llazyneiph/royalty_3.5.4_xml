@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_KillMe" s="9242204546908042712">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="ideal_radius_width">3</T>
+        <T n="radius">1000</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="affordance">
+      <U n="affordance">
+      <V n="affordance_target" t="enabled">
+          <E n="enabled">TargetSim</E>
+        </V>
+        <L n="affordances">
+          <U>
+            <T n="affordance">14298406902138525672<!--LN_RM:si_Touching_Give_PoisonApple--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">Actor</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>17888465967428404083<!--LN_RM:buff_OrderedToKill--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">30</T>
+    </U>
+  </V>
+</I>

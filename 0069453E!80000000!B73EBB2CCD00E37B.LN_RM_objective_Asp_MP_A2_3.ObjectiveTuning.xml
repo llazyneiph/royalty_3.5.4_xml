@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_MP_A2_3" s="13204196958589215611">
+  <T n="display_text">0x804F3B59<!--Convince 25 Sims of Royal Blood--></T>
+   <V n="objective_completion_type" t="iterations">
+        <U n="iterations">
+            <V n="increment_vfx" t="disabled"></V>
+            <T n="iterations_required_to_pass">25</T>
+        </U>
+    </V>
+    <V n="objective_test" t="ran_interaction_test">
+        <U n="ran_interaction_test">
+            <L n="affordances">
+                <T>16821789512684725643<!--LN_RM:socialSuper_Convince_of_RoyalBlood--></T>
+            </L>
+        </U>
+    </V>
+  <T n="satisfaction_points">250</T>
+  <T n="tooltip">0xF44C3B93<!--You can use the 'Convince of Royal Blood' interaction to complete this objective.--></T>
+</I>

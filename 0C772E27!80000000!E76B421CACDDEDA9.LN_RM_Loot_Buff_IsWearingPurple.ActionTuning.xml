@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Buff_IsWearingPurple" s="16675494736196136361">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="stat">11839062382904695937<!--LN_RM:commodity_PurpleCheck_Timer--></T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="advertise">True</T>
+          <T n="stat">11839062382904695937<!--LN_RM:commodity_PurpleCheck_Timer--></T>
+        </U>
+      </V>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17033143868986105815<!--LN_RM:Buff_Law_IsWearingPurple--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="caspart_tags_test">
+              <U n="caspart_tags_test">
+                <V n="body_type" t="enabled">
+                  <E n="enabled">FULL_BODY</E>
+                </V>
+                <V n="tags_source" t="from_generic_tags">
+                  <U n="from_generic_tags">
+                    <L n="tags">
+                      <E>Color_Purple</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17033143868986105815<!--LN_RM:Buff_Law_IsWearingPurple--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="caspart_tags_test">
+              <U n="caspart_tags_test">
+                <V n="body_type" t="enabled">
+                  <E n="enabled">UPPER_BODY</E>
+                </V>
+                <V n="tags_source" t="from_generic_tags">
+                  <U n="from_generic_tags">
+                    <L n="tags">
+                      <E>Color_Purple</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17033143868986105815<!--LN_RM:Buff_Law_IsWearingPurple--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="caspart_tags_test">
+              <U n="caspart_tags_test">
+                <V n="body_type" t="enabled">
+                  <E n="enabled">LOWER_BODY</E>
+                </V>
+                <V n="tags_source" t="from_generic_tags">
+                  <U n="from_generic_tags">
+                    <L n="tags">
+                      <E>Color_Purple</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">17033143868986105815<!--LN_RM:Buff_Law_IsWearingPurple--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="caspart_tags_test">
+              <U n="caspart_tags_test">
+                <V n="body_type" t="enabled">
+                  <E n="enabled">HAT</E>
+                </V>
+                <V n="tags_source" t="from_generic_tags">
+                  <U n="from_generic_tags">
+                    <L n="tags">
+                      <E>Color_Purple</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Trait_RegionalRoyal_SanMyshuno" s="9840288579172306105">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18336668293794094233<!--LN_RM:trait_Gameplay_RegionalRoyal_SanMyshuno--></T>
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12188863410171128711<!--LN_RM:trait_Gameplay_RegionalRoyal_Nordhaven--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10165894910200188823<!--LN_RM:trait_Gameplay_RegionalRoyal_Ravenwood--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+             <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17914366100767453562<!--LN_RM:trait_Gameplay_RegionalRoyal_Enamorada--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9516810391526508889<!--LN_RM:trait_Gameplay_RegionalRoyal_Tomarang--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10399843927262316143<!--LN_RM:trait_Gameplay_RegionalRoyal_ChestnutRidge--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14704745663457135509<!--LN_RM:trait_Gameplay_RegionalRoyal_Copperdale--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15562611637476342088<!--LN_RM:trait_Gameplay_RegionalRoyal_MoonwoodMill--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11426466146362300424<!--LN_RM:trait_Gameplay_RegionalRoyal_Tartosa--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">10934305147969868194<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_BrindletonBay--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13012145460761811200<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Britechester--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">18137331904232845884<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_DelSolValley--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12723251383355236296<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_EvergreenHarbour--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11334228535666532243<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_ForgottonHollow--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11610658906535710236<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Glimmerbrook--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11546140636160152711<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_HenfordOnBagley--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12559215512659531597<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MagnoliaPromenade--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">10666011006382832382<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MtKorembi--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">9223523606348370021<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Newcrest--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16301398033342585069<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_OasisSprings--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">10487952499091052980<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Strangerville--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+      <U n="trait_remove">
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9692745544399636279<!--LN_RM:trait_Gameplay_RegionalRoyal_SanSequoia--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">18220556717244746740<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Sulani--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">17802413420560545536<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_WillowCreek--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+  <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">11726967275209465234<!--LN_RM:testSet_RegionalRoyal_SanMyshuno--></T>
+            </V>
+          </L>
+        </L>
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14173425402441011111<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Windenburg--></T>
+      </U>
+    </V>
+  </U>
+</V>
+  </L>
+</I>

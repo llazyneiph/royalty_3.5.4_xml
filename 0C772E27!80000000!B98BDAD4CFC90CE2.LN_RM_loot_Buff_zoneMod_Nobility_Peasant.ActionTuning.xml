@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_zoneMod_Nobility_Peasant" s="13370020526333431010">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x9CFCA788<!--(From Lot Traits)--></T>
+          </V>
+          <T n="buff_type">14815556330084868454<!--LN_RM:buff_zoneMod_Trait_Peasant_Nobility--></T>
+        </U>
+        <L n="tests">
+                <L>
+                  <V t="trait">
+                    <U n="trait">
+                      <L n="whitelist_traits">
+                        <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+                        <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+                      </L>
+                    </U>
+                  </V>
+                </L>
+              </L>
+      </U>
+    </V>
+  </L>
+  <T n="run_test_first">False</T>
+</I>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Notification_EmpireHappiness_25" s="13322845185449410327">
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>3490462410<!--LN_RM:trait_Emperor--></T>
+            <T>10819084224781985071<!--LN_RM_Update_Monarch--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+  <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">-500</T>
+          <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP14\UI\Icons\Notifications\notification_HorseFear.png">2f7d0004:00000000:6A4134F029950EF7</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x705F0007<!--A gentle wave of contentment is beginning to spread across the Empire. The people are starting to feel hopeful.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

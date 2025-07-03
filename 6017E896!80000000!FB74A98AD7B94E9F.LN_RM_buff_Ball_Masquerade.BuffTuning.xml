@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Ball_Masquerade" s="18119293614608174751">
+  <V n="_add_test_set" t="tests_set">
+    <L n="tests_set">
+      <L>
+        <V t="situation_running_test">
+          <U n="situation_running_test">
+            <V n="situation_whitelist" t="enabled">
+              <L n="enabled">
+                <T>14076943496852726114<!--LN_RM:Situation_Ball_Masquerade--></T>
+              </L>
+            </V>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13890404377905770157<!--LN_RM:mixer_Social_Ball_GuessIdentity_Friendly_NT--></T>
+        <T>9993521085618878079<!--LN_RM:socials_Targeted_Friendly_ComplimentMask--></T>
+        <T>11230287532366505742<!--LN_RM:socials_Targeted_Romance_AlwaysOn_Flirtation_FlirtWithMysteriousStranger--></T>
+      </L>
+    </U>
+  </L> 
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="visible">False</T>
+  <V n="appearance_modifier" t="enabled">
+    <U n="enabled">
+      <L n="appearance_modifiers">
+        <L>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">307756</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">307800</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">307801</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">307802</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">17533565050689263386</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15128019598934297451</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">11232661272194419700</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">13357339654835828718</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">16034175738746707241</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">17833319236609453566</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">9679273139975021485</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">9870339031481063449</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">13934349763502824298</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15257920126772664666</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15634531838651115673</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">12772104361259874240</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">17142355019921738642</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">17831798553443374949</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15342403982764572502</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">18413377050411765095</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15680958025880360084</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">13591338744191269764</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">17403475854172189210</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">10220002583052567320</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">14371087484679089551</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">16480094993508604798</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15769186794613558714</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">13896948418971061541</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">14679544614692798415</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">15844318799443940615</T>
+                <T n="remove_conflicting">True</T>
+              </U>
+            </V>
+            <U n="weight">
+              <T n="base_value">1</T>
+            </U>
+          </U>
+        </L>
+      </L>
+    </U>
+  </V>
+</I>

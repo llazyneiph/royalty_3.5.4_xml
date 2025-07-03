@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Notification_BallStart_Masquerade" s="13943170155864292172">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:9FBEE9BB6D6ECA60</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0xFC8D2E08<!--Remember to don your Masquerade mask! There are plenty in CAS to choose from!--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x3A904F0E<!--Masquerade Balls--></T>
+            </V>
+            <L n="ui_responses">
+              <U>
+                <V n="response_command" t="enabled">
+                  <V n="enabled" t="literal">
+                    <U n="literal">
+                      <T n="command">sims.modify_in_cas_with_householdId</T>
+                    </U>
+                  </V>
+                </V>
+                <T n="text">0x7F357B52<!--Go to Create-A-Sim--></T>
+                <E n="ui_request">SEND_COMMAND</E>
+              </U>
+            </L>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,37 @@
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_LN_MonarchCareer_Track_Adult" s="3190352983">
+  <T n="active_assignment_amount">2</T>
+  <L n="assignments">
+    <U>
+      <T n="career_assignment">11121950386163771147<!--llazyneiph_LNRMonarchCareer_Career/1684379908--></T>
+    </U>
+    <U>
+      <T n="career_assignment">10972536621494799624<!--llazyneiph_LNRMonarchCareer_Career/3584879356--></T>
+    </U>
+    <U>
+      <T n="career_assignment">16516245145031789764<!--llazyneiph_LNRMonarchCareer_Career/2900730498--></T>
+    </U>
+  </L>
+  <T n="career_description">0xE1C47367<!--A simple rabbithole job that allows your Monarch to earn money whilst conducting their 'Monarch-ly Duties'.--></T>
+  <L n="career_levels">
+    <T>2397068138<!--llazyneiph_LNRMonarchCareer_Career/3179640749--></T>
+  </L>
+  <T n="career_name">0xAB08A388<!--Monarch of the Land--></T>
+  <T n="career_name_gender_neutral">0xAB08A388<!--Monarch of the Land--></T>
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655<!--notification_GoToWorkGoodbye_Generic--></T>
+  </V>
+  <T n="icon">2f7d0004:00000000:5a51080fda41e1f1</T>
+  <T n="icon_high_res">2f7d0004:00000000:e89bb27deb14eaa7</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <V n="knowledge_notification" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+    </V>
+  </V>
+  <V n="overmax" t="enabled">
+    <U n="enabled">
+      <T n="reward">14560615599623462203<!--llazyneiph_LNRMonarchCareer_Career/4259488250--></T>
+      <T n="salary_increase">10</T>
+    </U>
+  </V>
+</I>

@@ -1,0 +1,20 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="16889160948451842760" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/1487137029">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18164583978991418627</T>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,54 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14334151273841028348" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModUpdateV1_Trait3/3409315976">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9613426904220266803<!--llazyneiph_RoyaltyMod_Buff_Heir to the Throne?--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xBEE5B42D<!--(From Trying for Baby with Monarch)--></T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="user_running_interaction">
+              <U n="user_running_interaction">
+                <L n="affordances">
+                  <T>13097<!--bed_TryForBaby--></T>
+                  <T>117788<!--hottub_TryForBaby--></T>
+                  <T>13898<!--rocketShip_TryForBaby--></T>
+                  <T>14378<!--telescope_TryForBaby--></T>
+                  <T>104136<!--Tent_TryForBaby--></T>
+                  <T>119532<!--steamRoom_TryForBaby--></T>
+                  <T>123645<!--TryForBaby_Closet--></T>
+                  <T>125307<!--bush_tryForBaby--></T>
+                  <T>154859<!--coffin_TryForBaby--></T>
+                  <T>172278<!--lighthouse_TryForBaby--></T>
+                  <T>185489<!--leafPile_TryForBaby--></T>
+                  <T>185489<!--leafPile_TryForBaby--></T>
+                  <T>200309<!--SleepingPod_tryForBaby--></T>
+                </L>
+                <E n="participant">Actor</E>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>10819084224781985071<!--LN_RM_Update_Monarch--></T>
+                </L>
+                <E n="subject">Actor</E>
+              </U>
+            </V>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>9613426904220266803<!--llazyneiph_RoyaltyMod_Buff_Heir to the Throne?--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

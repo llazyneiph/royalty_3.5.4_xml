@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_RoyalRomance_A1_1" s="13058225930067610267">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+    <T>357714<!--loot_PivotalMoment_AspirationGoalComplete--></T>
+  </L>
+  <T n="display_text">0x817B9824<!--Have 2 Noble Friends--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">2</T>
+    </U>
+  </V>
+  <V n="objective_test" t="relationship_bit">
+    <U n="relationship_bit">
+      <L n="relationship_bits">
+        <T>2545268150<!--LN_RM:relationshipBit_NobleAcquaintance--></T>
+      </L>
+      <V n="test_event" t="Bit Added" />
+    </U>
+  </V>
+  <T n="satisfaction_points">50</T>
+  <T n="tooltip">0x2F7170C5<!--Click on a Sim and perform Friendly or Funny Socials to increase Relationship! To see who a Sim is friends with, click the 'Friends' button in the Sim's relationship panel.--></T>
+</I>

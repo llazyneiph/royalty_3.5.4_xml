@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationSimple" i="situation" m="situations.situation_simple" n="LN_RM:Situation_Coronation" s="10811516837386945588">
+  <T n="_cost">10000</T>
+  <T n="_default_job">17966523640913359431<!--LN_RM:job_RA_Citizen--></T>
+  <T n="_display_name">0x5D2CB74A<!--Royal Coronation--></T>
+  <T n="_icon">2f7d0004:00000000:966238feec7c8da2</T>
+  <T n="_implies_greeted_status">True</T>
+  <L n="_phases">
+    <U>
+      <T n="duration">60</T>
+      <L n="job_list">
+        <U>
+          <T n="job">10890097915486738510<!--LN_RM:job_Coronation_Heir_StartState--></T>
+          <T n="role">15275089867955605521<!--LN_RM:role_Heir_Phase1--></T>
+        </U>
+        <U>
+          <T n="job">14892061892567100430<!--LN_RM:job_Coronation_CoronationHost--></T>
+          <T n="role">11372169075704421151<!--LN_RM:roleState_Coronation_Host_StartRole--></T>
+        </U>
+        <U>
+          <T n="job">17621013453246142299<!--LN_RM:job_Coronation_RoyalGuest_StartState--></T>
+          <T n="role">14007033590580408866<!--LN_RM:role_guest_Coronation_Phase1--></T>
+        </U>
+        <U>
+          <T n="job">13080337423393227142<!--LN_RM:job_Coronation_NobleGuest--></T>
+          <T n="role">14007033590580408866<!--LN_RM:role_guest_Coronation_Phase1--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="duration">0</T>
+      <L n="job_list">
+        <U>
+          <T n="job">10890097915486738510<!--LN_RM:job_Coronation_Heir_StartState--></T>
+          <T n="role">15275089867955605521<!--LN_RM:role_Heir_Phase1--></T>
+        </U>
+        <U>
+          <T n="job">14892061892567100430<!--LN_RM:job_Coronation_CoronationHost--></T>
+          <T n="role">14007033590580408866<!--LN_RM:role_guest_Coronation_Phase1--></T>
+        </U>
+        <U>
+          <T n="job">17621013453246142299<!--LN_RM:job_Coronation_RoyalGuest_StartState--></T>
+          <T n="role">14007033590580408866<!--LN_RM:role_guest_Coronation_Phase1--></T>
+        </U>
+        <U>
+          <T n="job">13080337423393227142<!--LN_RM:job_Coronation_NobleGuest--></T>
+          <T n="role">14007033590580408866<!--LN_RM:role_guest_Coronation_Phase1--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <T n="_resident_job">11764388844478688913<!--LN_RM:job_Coronation_FamousGuest_StartState--></T>
+  <T n="audio_sting_on_start" p="InGame\Audio\Bumper\bumper_event_start.propx">39b2aa4a:00000000:78b903461d47e4fc</T>
+  <T n="blocks_super_speed_three">True</T>
+  <T n="calendar_icon" p="InEP05\UI\Icons\Events\Holidays\holidays_HouseParty.png">2f7d0004:00000000:a047e82c0a2fee31</T>
+  <E n="category">Social Events</E>
+  <L n="compatible_venues">
+    <T>16876<!--venue_museum--></T>
+    <T>28614<!--venue_residential--></T>
+    <T>125223<!--venue_ChaletGardens--></T>
+    <T>9279<!--venue_generic--></T>
+  </L>
+  <T n="duration">360</T>
+  <T n="force_invite_only">True</T>
+  <V n="job_display_ordering" t="enabled">
+    <L n="enabled">
+      <T>17966523640913359431<!--LN_RM:job_RA_Citizen--></T>
+      <T>11427380856097428552<!--LN_RM:job_guest_coronation--></T>
+      <T>10890097915486738510<!--LN_RM:job_Coronation_Heir_StartState--></T>
+      <T>17621013453246142299<!--LN_RM:job_Coronation_RoyalGuest_StartState--></T>
+    </L>
+  </V>
+  <T n="max_participants">40</T>
+  <U n="recommended_job_object_notification">
+    <E n="information_level">SIM</E>
+  </U>
+  <T n="main_goal">11055048406457234108<!--LN_RM:situation_goal_Coronation_Main_AcceptCrown--></T>
+  <V n="screen_slam_bronze" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75362<!--EventOutcome_Bronze--></T>
+    </V>
+  </V>
+  <V n="screen_slam_gold" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75364<!--EventOutcome_Gold--></T>
+    </V>
+  </V>
+  <V n="screen_slam_no_medal" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75361<!--EventOutcome_Tin--></T>
+    </V>
+  </V>
+  <V n="screen_slam_silver" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75363<!--EventOutcome_Silver--></T>
+    </V>
+  </V>
+  <T n="situation_description">0x245933D3<!--It's time for a new Monarch to sit on the throne, throw a Coronation party to usher in a new era.--></T>
+  <L n="tags">
+    <E>Situation_PlayerFacing_CanHost</E>
+  </L>
+  <L n="minor_goal_chains">
+    <T>11396401394591080578<!--LN_RM:GoalSetCoronation--></T>
+    <T>17531323578559959305<!--LN_RM:goalSet_Coronation_01--></T>
+    <T>17531323578559959306<!--LN_RM:goalSet_Coronation_02--></T>
+    <T>17531323578559959307<!--LN_RM:goalSet_Coronation_03--></T>
+  </L>
+  <V n="travel_request_behavior" t="allow">
+    <U n="allow">
+      <V n="dialog" t="enabled">
+        <U n="enabled">
+          <V n="icon" t="enabled">
+            <V n="enabled" t="resource_key">
+              <U n="resource_key">
+                <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_happy_v2.png">2f7d0004:00000000:4f27caa127291bd5</T>
+              </U>
+            </V>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xE8A540E3<!--Are you sure that you would like to leave the current event and travel to another lot? All progress toward your goal will be lost.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xFECDCF71<!--Event In Progress!--></T>
+          </V>
+        </U>
+      </V>
+    </U>
+  </V>
+</I>

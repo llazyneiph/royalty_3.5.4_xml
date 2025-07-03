@@ -1,0 +1,36 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9451937512087136040" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Close to Greatness!">
+  <T n="buff_description">0x83C09C33<!--{0.SimFirstName} is so close to the wonderful Monarch that {0.SimPronounSubjective} can almost smell them!--></T>
+  <T n="buff_name">0xF7E0E269<!--Close to Greatness!--></T>
+  <T n="icon">2f7d0004:00000000:d644fd3d88beeb8a</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>11758361100884137897<!--llazyneiph_RoyaltyMod_Trait_Beloved by the People_Gameplay--></T>
+            </L>
+            <E n="subject">TargetSim</E>
+          </U>
+        </V>
+        <V t="trait">
+          <U n="trait">
+            <L n="blacklist_traits">
+              <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+              <T>18164583978991418627</T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+              <T>2522365735</T>
+              <T>18164583978991418630<!--LN_RM_trait_Nanny--></T>
+              <T>18164583978991418624</T>
+              <T>18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+              <T>16258617669891517948<!--LN_RM_trait_TrustedAdvisor_Gameplay--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+</I>

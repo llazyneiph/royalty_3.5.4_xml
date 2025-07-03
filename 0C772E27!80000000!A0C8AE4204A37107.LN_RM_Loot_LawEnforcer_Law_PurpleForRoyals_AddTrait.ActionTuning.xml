@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_LawEnforcer_Law_PurpleForRoyals_AddTrait" s="11585701639979495687">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+      <L n="tests">
+    <L>
+        <V t="trait">
+            <U n="trait">
+                <L n="blacklist_traits">
+                    <T>16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+                </L>
+            </U>
+        </V>
+    </L>
+</L>
+      <E n="subject">TargetSim</E>
+        <T n="trait">16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <L n="tests">
+    <L>
+        <V t="trait">
+            <U n="trait">
+                <L n="whitelist_traits">
+                    <T>16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+                </L>
+            </U>
+        </V>
+    </L>
+</L>
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

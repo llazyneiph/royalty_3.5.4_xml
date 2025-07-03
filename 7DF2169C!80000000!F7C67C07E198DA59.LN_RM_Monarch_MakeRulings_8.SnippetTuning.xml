@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:Monarch_MakeRulings_8" s="17854094146048416345">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results">
+          <U>
+            <L n="next_moments">
+          <E>Career_ChanceCard_01</E>
+          <E>Career_ChanceCard_02</E>
+          <E>Career_ChanceCard_03</E>
+          <E>Career_ChanceCard_04</E>
+          <E>Career_ChanceCard_05</E>
+          <E>Career_ChanceCard_06</E>
+          <E>Career_ChanceCard_07</E>
+          <E>Career_ChanceCard_08</E>
+          <E>Career_ChanceCard_09</E>
+          <E>Career_ChanceCard_10</E>
+          <E>Career_ChanceCard_11</E>
+          <E>Career_ChanceCard_12</E>
+            </L>
+          </U>
+        </L>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x60500832<!--They should learn some respect!--></T>
+        </V>
+      </U>
+      <U>
+        <L n="action_results">
+          <U>
+            <L n="next_moments">
+              <E>Career_ChanceCard_01</E>
+              <E>Career_ChanceCard_02</E>
+              <E>Career_ChanceCard_03</E>
+              <E>Career_ChanceCard_04</E>
+              <E>Career_ChanceCard_05</E>
+              <E>Career_ChanceCard_06</E>
+              <E>Career_ChanceCard_07</E>
+              <E>Career_ChanceCard_08</E>
+              <E>Career_ChanceCard_09</E>
+              <E>Career_ChanceCard_10</E>
+              <E>Career_ChanceCard_11</E>
+              <E>Career_ChanceCard_12</E>
+            </L>
+            <L n="loot_actions">
+              <T>192938<!--LootActions: loot_Reputation_Gain_Small--></T>
+              <T>11325004082306586514<!--LN_RM:loot_Statistic_EmpireTreasury_Loss_Small--></T>
+              <T>12284962390491441624<!--LN_RM:loot_Statistic_EmpireHappiness_Gain_Small--></T>
+            </L>
+          </U>
+        </L>
+        <V n="cost" t="simoleon_cost">
+          <U n="simoleon_cost">
+            <T n="amount">1500</T>
+          </U>
+        </V>
+        <V n="display_text" t="single">
+          <T n="single">0x467B6C76<!--I will show my affection with cold, hard cash!--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="text" t="single">
+          <T n="single">0x495192A3<!--Your Highness, I've heard whispers of the servants under your employ being extremely unhappy with their pay... I humbly suggest to your greatness to show them they are appreciated!--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x9C608ABA<!--Show them some love!--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

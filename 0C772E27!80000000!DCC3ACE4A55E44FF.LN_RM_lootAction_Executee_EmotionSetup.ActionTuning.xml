@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="WeightedSingleSimLootActions" i="action" m="interactions.utils.loot" n="LN_RM:lootAction_Executee_EmotionSetup" s="15907748406829663487">
+  <L n="loot_actions">
+    <U>
+      <U n="buff_loot">
+        <L n="buffs">
+          <U>
+            <T n="key">29679<!--buff_NPC_Sad--></T>
+            <T n="value">1</T>
+          </U>
+          <U>
+            <T n="key">29680<!--buff_NPC_Angry--></T>
+            <T n="value">1</T>
+          </U>
+          <U>
+            <T n="key">29745<!--buff_NPC_Embarrassed--></T>
+            <T n="value">1</T>
+          </U>
+        </L>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+      </U>
+    </U>
+  </L>
+</I>

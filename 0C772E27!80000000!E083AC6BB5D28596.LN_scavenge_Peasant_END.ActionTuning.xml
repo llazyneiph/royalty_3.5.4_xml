@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:scavenge_Peasant_END" s="16177963865056904598">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">13933724513545531347<!--LN:loot_Peasant_ScavvedLoot--></T>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="advertise">False</T>
+          <T n="stat">16575<!--commodity_dirtiness--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <T n="value">-100</T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

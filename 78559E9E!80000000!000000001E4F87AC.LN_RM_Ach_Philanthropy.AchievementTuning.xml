@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Achievement" i="achievement" m="achievements.achievement_tuning" n="LN_RM:Ach_Philanthropy" s="16443408994382615596">
+  <T n="descriptive_text">0x423A2929<!--Attended a Philathrophic event.--></T>
+  <T n="display_name">0x38E73825<!--Philanthropy--></T>
+  <T n="icon" p="InEP01\UI\Icons\Achievements\Achievement_doublelife.png">2f7d0004:00000000:ABE61604AF170D09</T>
+  <V n="notification" t="enabled">
+    <U n="enabled">
+      <V n="audio_sting" t="enabled">
+        <U n="enabled">
+          <T n="audio" p="InGame\Audio\Bumper\bumper_other_goal_complete.propx">39b2aa4a:00000000:ea1687e36b0b32f3</T>
+        </U>
+      </V>
+      <E n="information_level">PLAYER</E>
+    </U>
+  </V>
+  <L n="objectives">
+    <T>1232223059<!--LN_RM:Objective_Philanthropy--></T>
+  </L>
+  <T n="point_value">0</T>
+  <V n="screen_slam" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">14999208125420525683<!--LN_RM:Screenslam_DailyDutyCompleted--></T>
+    </V>
+  </V>
+</I>

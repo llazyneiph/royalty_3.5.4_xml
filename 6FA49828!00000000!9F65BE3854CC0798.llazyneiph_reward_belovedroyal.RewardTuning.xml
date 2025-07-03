@@ -1,0 +1,32 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="11485795573828421528" i="reward" m="rewards.reward" n="llazyneiph_reward_belovedroyal">
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0xAC290440<!--{0.SimFirstName} is totally beloved by {0.SimPronounPossessiveDependent} subjects!--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xFB4C7FE0<!--Beloved Royal!--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">11758361100884137897<!--llazyneiph_RoyaltyMod_Trait_Beloved by the People_Gameplay--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

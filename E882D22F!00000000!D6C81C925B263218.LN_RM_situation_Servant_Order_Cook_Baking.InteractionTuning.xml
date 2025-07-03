@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:situation_Servant_Order_Cook_Baking" s="15476651534378742296">
+  <V n="_icon" t="resource_key">
+        <U n="resource_key">
+            <T n="key">00B2D882:00000000:76661c8242453be1</T>
+        </U>
+    </V>
+  <V t="enabled" n="_saveable" />
+  <T n="allow_autonomous">False</T>
+  <T n="attention_cost">0.5</T>
+  <V t="one_shot" n="basic_content">
+    <U n="one_shot">
+      <U n="animation_ref">
+        <T n="factory">251470<!--soc_Friendly_NT_askQuestionFriendly_Success_NoTarget--></T>
+      </U>
+    </U>
+  </V>
+  <L n="basic_extras" />
+  <V t="disabled" n="basic_reserve_object" />
+  <V t="disabled" n="content_score" />
+  <T n="category">17000220133592409814<!--LN_RM:pieMenuCategory_Servant_PrepareMeals--></T>
+  <T n="display_name">0xF471D345<!--Order to Bake Something--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V t="from_participant" n="objects">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V t="from_participant" n="objects">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>13064006171551532717<!--LN_RM:loot_Servant_GivenOrder--></T>
+          <T>15407078256697816112<!--LN_RM:loot_Buff_Servant_Cook_OrderedToCook_Baking--></T>
+        </L>
+        <L n="parameterized_autonomy">
+          <U>
+            <E n="key">TargetSim</E>
+            <U n="value">
+              <L n="requests">
+                <U>
+                  <L n="static_commodities">
+                    <T>16416134010892337641<!--LN_RM:StaticCommodity_RoleAutonomy_Servant_Cook_Baking--></T>
+                  </L>
+                  <T n="test_connectivity_to_target">True</T>
+                </U>
+              </L>
+            </U>
+          </U>
+        </L>
+        <V n="response" t="enabled">
+          <V n="enabled" t="individual">
+            <U n="individual">
+              <L n="animations">
+                <U>
+                  <E n="target">TargetSim</E>
+                  <U n="animation">
+                    <T n="factory">145386<!--sim_Butler_OrderReact--></T>
+                    <U n="overrides">
+                      <V n="balloons" t="enabled">
+                        <L n="enabled">
+                          <U>
+                            <L n="balloon_choices">
+                              <U>
+                                <V n="item" t="balloon_category">
+                                  <T n="balloon_category">153006<!--balloonCategory_SetPersuade_Succeed_Speech--></T>
+                                </V>
+                              </U>
+                            </L>
+                            <L n="balloon_target">
+                              <E>TargetSim</E>
+                            </L>
+                          </U>
+                        </L>
+                      </V>
+                    </U>
+                  </U>
+                </U>
+              </L>
+            </U>
+          </V>
+        </V>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+  <V t="buff">
+          <U n="buff">
+            <E n="subject">TargetSim</E>
+            <V n="whitelist" t="enabled">
+              <L n="enabled">
+                <T>15211801288319044890<!--LN_RM:buff_AutonomyMod_Servants--></T>
+              </L>
+            </V>
+          </U>
+        </V>
+        <V t="object_criteria">
+          <U n="object_criteria">
+            <V n="identity_test" t="tags">
+              <U n="tags">
+                <L n="tag_set">
+                  <E>Func_Refrigerator</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+        <V t="object_criteria">
+          <U n="object_criteria">
+            <V n="identity_test" t="tags">
+              <U n="tags">
+                <L n="tag_set">
+                  <E>Func_Counter</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+        <V t="object_criteria">
+          <U n="object_criteria">
+            <V n="identity_test" t="tags">
+              <U n="tags">
+                <L n="tag_set">
+                  <E>Func_Oven</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+    <V t="sim_info">
+      <U n="sim_info">
+        <V t="specified" n="ages">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+            <E>TODDLER</E>
+          </L>
+        </V>
+        <V t="specified" n="species">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">30</T>
+</I>

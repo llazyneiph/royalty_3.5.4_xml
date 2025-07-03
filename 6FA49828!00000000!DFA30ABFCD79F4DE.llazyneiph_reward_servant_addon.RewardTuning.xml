@@ -1,0 +1,12 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="16114735710564119774" i="reward" m="rewards.reward" n="llazyneiph_reward_servant_addon">
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">14606127424841428709<!--llazyneiph_RoyaltyMod_Trait_hidden_servant_addon--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

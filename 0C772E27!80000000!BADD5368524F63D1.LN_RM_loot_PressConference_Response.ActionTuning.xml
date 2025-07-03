@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_PressConference_Response" s="13465010168430289873">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">16517058218607156095<!--LN_RM:randomWeightedLoot_PressConference_Response--></T>
+    </V>
+  </L>
+</I>

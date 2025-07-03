@@ -1,0 +1,70 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10266810231311886078" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Court Wizard">
+  <T n="buff_description">0x9513E71C<!--{0.SimFirstName} is the most magically talented sim in all the land, and has earnt {0.SimPronounPossessiveDependent} place at the royal court.--></T>
+  <T n="buff_name">0xF2E9ED97<!--Court Wizard--></T>
+  <T n="icon">2f7d0004:00000000:b4e798513f5500da</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>12806524568132436636<!--llazyneiph_INT_NourishmentSpell--></T>
+        <T>11148663140862417323<!--llazyneiph_INT_Wizard_FocusBlessing--></T>
+        <T>14344748567195689318<!--llazyneiph_INT_Wizard_FlirtyBlessing--></T>
+        <T>13499151150092135524<!--llazyneiph_INT_Wizard_InspirationBlessing--></T>
+        <T>13746035274380112131<!--llazyneiph_INT_Wizard_HappinessBlessing--></T>
+        <T>17389273737258608520<!--llazyneiph_INT_Wizard_ConfidanceBlessing--></T>
+        <T>10521000008380459120<!--llazyneiph_INT_Wizard_FertilityRitual--></T>
+        <T>12482719975085556920<!--llazyneiph_INT_Wizard_EnergySpell--></T>
+        <T>14426230776414118219<!--llazyneiph_INT_Wizard_HygieneSpell--></T>
+        <T>12547163840891510313<!--llazyneiph_INT_Wizard_CurseofHunger--></T>
+        <T>9508806012433330951<!--llazyneiph_INT_Wizard_BladderCurse--></T>
+        <T>12373684262891977141<!--llazyneiph_INT_Wizard_CurseOfSadness--></T>
+        <T>15661362895454670004<!--llazyneiph_INT_Wizard_CurseofAnger--></T>
+        <T>17682081100821531374<!--llazyneiph_INT_Wizard_CurseOfEmbarassment--></T>
+        <T>18186571138338449268<!--llazyneiph_INT_Wizard_RichesSpell--></T>
+      </L>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <T>17330643054073090034</T>
+  </L>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <T n="mood_weight">1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>16622113156056865810<!--llazyneiph_RoyaltyModV2_Trait11/3029655905--></T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">16700<!--statistic_Skill_AdultMajor_Gardening--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">101920<!--statistic_Skill_AdultMajor_Herbalism--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">117858<!--statistic_Skill_AdultMajor_Wellness--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

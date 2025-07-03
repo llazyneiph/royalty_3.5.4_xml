@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Statistic_EmpireTreasury_Gain_Large" s="12256456841819048210">
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>3490462410<!--LN_RM:trait_Emperor--></T>
+            <T>2522365735<!--LN_RM_trait_Monarch--></T>
+            <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+            <T>16816439335000103909<!--LN_RM:trait_Hidden_Regent_Active--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">1500</T>
+          <T n="stat">10140328487356616661<!--LN_RM:commodity_Empire_Treasury--></T>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

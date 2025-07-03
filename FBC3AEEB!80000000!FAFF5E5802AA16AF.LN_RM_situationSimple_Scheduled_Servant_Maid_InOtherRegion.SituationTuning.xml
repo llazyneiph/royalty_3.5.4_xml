@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationSimple" i="situation" m="situations.situation_simple" n="LN_RM:situationSimple_Scheduled_Servant_Maid_InOtherRegion" s="18086278360638035631">
+  <T n="_implies_greeted_status">True</T>
+  <T n="_maintain_sims_consistency">True</T>
+  <T n="_survives_active_household_change">True</T>
+  <T n="can_remove_sims_from_work">True</T>
+  <T n="disallows_curfew_violation">True</T>
+  <V n="time_jump" t="allow" />
+  <L n="_phases">
+    <U>
+      <T n="duration">0</T>
+      <L n="job_list">
+        <U>
+          <T n="job">15379021401564351465<!--LN_RM:job_Scheduled_Servant_Maid_OtherRegion--></T>
+          <T n="role">9881721900150808251<!--LN_RM:Scheduled_Servant_Roles_start--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <T n="audio_sting_on_start" p="InGame\Audio\Bumper\bumper_event_start.propx">39b2aa4a:00000000:78b903461d47e4fc</T>
+  <E n="category">DEFAULT</E>
+  <L n="compatible_venues">
+    <T>28614<!--venue_residential--></T>
+  </L>
+  <E n="creation_ui_option">NOT_AVAILABLE</E>
+  <T n="duration">999999</T>
+  <T n="main_goal_audio_sting" p="InGame\Audio\Bumper\bumper_event_major_complete.propx">39b2aa4a:00000000:10b476550150a33f</T>
+  <T n="max_participants">15</T>
+  <V n="super_speed3_replacement_speed" t="disabled" />
+</I>

@@ -1,0 +1,40 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="12644567079464022183" i="reward" m="rewards.reward" n="llazyneiph_reward_passeddowncrown">
+  <T n="icon">2f7d0004:00000000:e0b242efef632ace</T>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="trait">
+        <U n="trait">
+          <T n="trait">18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="text" t="single">
+          <T n="single">0x95ABAF91<!--{0.SimFirstName} has beaten out the competition and been chosen by {0.SimPronounPossessiveDependent} people as the next Monarch!--></T>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key">2f7d0004:00000000:e0b242efef632ace</T>
+            </U>
+          </V>
+        </V>
+        <V n="secondary_icon" t="enabled">
+          <V n="enabled" t="participant">
+            <U n="participant">
+              <L n="participant_type">
+                <E>Actor</E>
+              </L>
+            </U>
+          </V>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xEF351BE3<!--Winner Winner Royal Dinner!--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+</I>

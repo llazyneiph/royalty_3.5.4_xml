@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:superInteraction_SendToTower_PickedSim_Continuation" s="11486723357070632091">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="position">
+            <U n="position">
+              <U n="relative_position">
+                <T n="x">5</T>
+                <T n="y">5</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="facing">
+            <U n="facing">
+              <T n="range">180</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_saveable" t="enabled" />
+  <T n="allow_autonomous">False</T>
+  <T n="attention_cost">0.75</T>
+  <V n="basic_content" t="flexible_length">
+    <U n="flexible_length">
+      <L n="conditional_actions">
+        <V t="literal">
+          <U n="literal">
+            <L n="conditions">
+              <V t="buff_based">
+                <U n="buff_based">
+                  <T n="buff">26171<!--buff_Sim_IsDying--></T>
+                  <E n="participant">Actor</E>
+                  <E n="timing">ON_ADD</E>
+                </U>
+              </V>
+            </L>
+          </U>
+        </V>
+      </L>
+      <V n="content" t="looping_content">
+        <U n="looping_content">
+          <U n="animation_ref">
+            <T n="factory">11570<!--Listen_Listen_Looping_basic--></T>
+          </U>
+        </U>
+      </V>
+      <T n="start_user_directed_inertial">True</T>
+    </U>
+  </V>
+  <L n="basic_extras">
+    <V t="set_visibility_state">
+      <U n="set_visibility_state">
+        <T n="fade">True</T>
+        <V n="timing" t="at_beginning" />
+        <T n="visibility">False</T>
+      </U>
+    </V>
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>10093683828055396712<!--LN_RM:loot_AddTrait_IsCurrentlyImprisoned_Tower--></T>
+        </L>
+        <V n="timing" t="at_beginning" />
+      </U>
+    </V>
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>12302630976988527979<!--LN_RM:loot_IsCurrentlyImprisoned_Tower_RemoveTrait--></T>
+        </L>
+        <V n="timing" t="at_end" />
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">16609067478977363702<!--LN_RM:Buff_Tower_SupressAutonomy--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">12206992243428024344<!--LN_RM:buff_Tower--></T>
+        </U>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff_type">
+          <T n="buff_type">185734<!--buff_Umbrella_Close--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x276EB1F6<!--Be Imprisoned--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="_cancelable_by_user" t="prohibit_cancelation" />
+  <V n="display_tooltip" t="disabled" />
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <T n="time_overhead">30</T>
+</I>

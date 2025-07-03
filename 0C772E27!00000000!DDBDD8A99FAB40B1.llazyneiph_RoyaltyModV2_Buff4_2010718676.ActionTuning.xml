@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="15978165276020261041" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Buff4/2010718676">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="stat">16656<!--motive_Hunger--></T>
+          <L n="tests">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+                    <T>2522365735</T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

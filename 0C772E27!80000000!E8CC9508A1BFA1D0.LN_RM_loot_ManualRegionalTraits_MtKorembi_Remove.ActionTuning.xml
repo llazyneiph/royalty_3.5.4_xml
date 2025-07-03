@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_MtKorembi_Remove" s="16774946576354222544">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10666011006382832382<!--LN_RM:trait_Gameplay_RegionalRoyal_MtKorembi--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Welfare_AddTrait" s="11880521572901354917">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">9844623432462585834<!--LN_RM:trait_Hidden_Law_Welfare--></T>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+    <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+            <T n="advertise">True</T>
+            <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+        </U>
+    </V>
+</V>
+  </L>
+</I>

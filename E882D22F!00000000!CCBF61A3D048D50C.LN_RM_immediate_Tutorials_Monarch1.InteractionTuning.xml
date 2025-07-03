@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="LN_RM:immediate_Tutorials_Monarch1" s="14753618260491031820">
+  <V n="_saveable" t="disabled" />
+  <T n="category">18439983704429426159<!--LN_RM:pieMenuCategory_RoyaltyMod--></T>
+  <T n="display_name">0xDDF0E20F<!--Open Tutorials--></T>
+  <L n="basic_extras">
+    <V t="do_command">
+      <U n="do_command">
+        <L n="arguments">
+          <V t="participant">
+            <U n="participant">
+              <E n="argument">Actor</E>
+            </U>
+          </V>
+        </L>
+        <T n="command">sims.modify_in_cas</T>
+      </U>
+    </V>
+  </L>
+  <V n="content_score" t="disabled" />
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals" />
+</I>

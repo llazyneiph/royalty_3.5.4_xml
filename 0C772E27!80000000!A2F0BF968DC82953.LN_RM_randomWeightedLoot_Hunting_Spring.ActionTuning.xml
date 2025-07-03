@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_Hunting_Spring" s="11741094881899587923">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">3</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">3</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">2364370123<!--Littlbowbub_Hunting_LootReward_Squirrel_prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">3</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">3850249917<!--Littlbowbub_Hunting_LootReward_LargePoultry_WildTurkey-prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">74136446<!--Littlbowbub_Hunting_LootReward_RabbitHare_prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">233587162<!--Littlbowbub_Hunting_LootReward_MediumPoultry_WildChicken-prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">2</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">2432181927<!--Littlbowbub_Hunting_LootReward_SmallRabbit_prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">2</T>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

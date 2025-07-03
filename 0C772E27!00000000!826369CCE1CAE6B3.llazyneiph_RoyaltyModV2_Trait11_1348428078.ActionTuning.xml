@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="9395469576307402419" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait11/1348428078">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">16510922764237884184<!--llazyneiph_RoyaltyModV2_Trait11/2393968691--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>16510922764237884184<!--llazyneiph_RoyaltyModV2_Trait11/2393968691--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

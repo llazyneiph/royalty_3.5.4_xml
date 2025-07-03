@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="16499870562779580219" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_ConfidantRuler">
+  <T n="buff_description">0xFED4C720<!--Sometimes {0.SimFirstName} is reminded that {0.SimPronounSubjective} is the one who rules over a vast and noble land.--></T>
+  <T n="buff_name">0x9467C7C7<!--Confidant Ruler--></T>
+  <T n="icon">2f7d0004:00000000:f46cbd3d85356a1b</T>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">4</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Confident_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

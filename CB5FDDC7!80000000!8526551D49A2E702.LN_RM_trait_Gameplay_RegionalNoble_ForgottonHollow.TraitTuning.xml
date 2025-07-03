@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_ForgottonHollow" s="9594449640437245698">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xB2FC6671<!--Forgotton Hollow Noble--></T>
+  <T n="display_name_gender_neutral">0xB2FC6671<!--Forgotton Hollow Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:526F50BB91213914</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x66B3780B<!--{0.SimFirstName} is apart of Forgotton Hollow Nobility.--></T>
+  <T n="trait_origin_description">0xD9218154<!--(From Belonging to Forgotton Hollow Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

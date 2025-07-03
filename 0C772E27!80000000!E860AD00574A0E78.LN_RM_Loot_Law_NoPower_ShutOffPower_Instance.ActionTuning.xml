@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_NoPower_ShutOffPower_Instance" s="16744573631539580536">
+  <T n="run_test_first">True</T>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+          </L>
+          <T n="num_blacklist_allowed">0</T>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="utility">
+      <U n="utility">
+        <V n="action" t="shut_off" />
+        <L n="tests">
+          <L>
+            <V t="lot_owner">
+              <U n="lot_owner">
+                <T n="consider_rented_lot_as_owned">True</T>
+                <T n="owns_lot">True</T>
+                <E n="subject">Actor</E>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="utility">POWER</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_React_Intro" s="10727298228300030628">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x8AC0B6CD<!--<b>Reactions & Introductions</b> \n\nRoyals and nobles will get a disgusted moodlet when around peasants. 
+But Royals or Nobles with the ‘Good’ trait or ‘Beloved Monarch’ trait will get a happy buff when around peasants and then a guilty buff after being with them! This can be turned off in the settings menu.\n\n
+
+All classes of sims (except other royalty) will react to royalty when near them. Female sims will curtsy and male sims will salute. 
+This will only happen once every 4 hours to prevent it getting annoying. This can be turned off in the settings menu.\n\n
+
+Peasants can no longer just approach a Monarch and introduce themselves, they have a chance of success based on the Royals mood and their status.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

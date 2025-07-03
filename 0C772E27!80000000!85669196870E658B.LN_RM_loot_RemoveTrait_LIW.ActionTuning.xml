@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveTrait_LIW" s="9612530530365891979">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13528650824898995800<!--LN_RM:trait_LadyinWaiting--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+            <U n="trait_remove">
+                <E n="subject">TargetSim</E>
+                <V n="trait" t="specific_trait">
+                    <U n="specific_trait">
+                        <T n="specific_trait">13528650824898995800<!--LN_RM:trait_LadyinWaiting--></T>
+                    </U>
+                </V>
+            </U>
+        </V>
+  </L>
+</I>

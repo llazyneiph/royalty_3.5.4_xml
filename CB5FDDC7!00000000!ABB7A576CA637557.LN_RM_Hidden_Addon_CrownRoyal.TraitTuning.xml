@@ -1,0 +1,24 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12373540430843966807" i="trait" m="traits.traits" n="LN_RM_Hidden_Addon_CrownRoyal">
+  <T n="display_name">0x960EA888<!--hidden_crownroyal_addon--></T>
+  <T n="display_name_gender_neutral">0x960EA888<!--hidden_crownroyal_addon--></T>
+  <T n="icon">2f7d0004:00000000:5a51080fda41e1f1</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">16284292750243322607<!--llazyneiph_RoyaltyMod_hidden_crownroyal_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">15077330277511882754<!--llazyneiph_crownroyaladdon_Trait/3854000275--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>BABY</E>
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="super_affordances"></L>
+  <E n="trait_type">HIDDEN</E>
+</I>

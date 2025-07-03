@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ImmediateSuperInteraction" i="interaction" m="interactions.base.immediate_interaction" n="LN_RM:immediate_Settings_TogglePlumbob_RoyalPartner" s="16228641320167332676">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="category">17675286187670224584<!--LN_RM:pieMenuCategory_RM_Settings--></T>
+  <T n="display_name">0x36F33146<!--Add Royal Partner Plumbob--></T>
+  <V n="display_name_overrides" t="testable">
+    <U n="testable">
+      <L n="overrides">
+        <U>
+          <V n="new_display_name" t="enabled">
+            <T n="enabled">0xAADD47F0<!--Remove Royal Partner Plumbob--></T>
+          </V>
+          <L n="test">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="whitelist_traits">
+                    <T>14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </L>
+    </U>
+  </V>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <V n="outcome" t="test_based">
+    <U n="test_based">
+      <L n="fallback_outcomes">
+        <U>
+          <U n="outcome">
+            <L n="loot_list">
+              <T>12668390789717306573<!--LN_RM:loot_Trait_CustomPlumbob_RoyalPartner_On--></T>
+            </L>
+            <L n="continuation">
+              <U>
+                <T n="affordance">9587804384086030709<!--LN_RM:Picker_Base_Sim--></T>
+                <E n="target">TargetSim</E>
+              </U>
+            </L>
+          </U>
+        </U>
+      </L>
+      <L n="tested_outcomes">
+        <U>
+          <L n="potential_outcomes">
+            <U>
+              <U n="outcome">
+                <L n="loot_list">
+                  <T>12335824371665212121<!--LN_RM:loot_Trait_CustomPlumbob_RoyalPartner_Off--></T>
+                </L>
+                <L n="continuation">
+              <U>
+                <T n="affordance">9587804384086030709<!--LN_RM:Picker_Base_Sim--></T>
+                <E n="target">TargetSim</E>
+              </U>
+            </L>
+              </U>
+            </U>
+          </L>
+          <L n="tests">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="whitelist_traits">
+                    <T>14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </L>
+    </U>
+  </V>
+  <V n="pie_menu_icon" t="enabled">
+    <V n="enabled" t="resource_key">
+      <U n="resource_key">
+        <T n="key" p="InGame\UI\Icons\PieMenu\Interactions\icon_pieMenu_immediateInteraction.png">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+      </U>
+    </V>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals">
+    <V t="identity">
+      <U n="identity">
+        <E n="subject_b">TargetSim</E>
+        <T n="subjects_match">True</T>
+      </U>
+    </V>
+  </L>
+</I>

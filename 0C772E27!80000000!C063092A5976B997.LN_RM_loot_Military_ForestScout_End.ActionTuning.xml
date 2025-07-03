@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Military_ForestScout_End" s="13862934155470748055">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="advertise">True</T>
+          <T n="stat">13100914285663376064<!--LN_RM:commodity_Military_ForestScout--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_Water_AddTrait" s="13824631399188547530">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">17050370168175221683<!--LN_RM:trait_Hidden_Law_Water--></T>
+      </U>
+    </V>
+  </L>
+</I>

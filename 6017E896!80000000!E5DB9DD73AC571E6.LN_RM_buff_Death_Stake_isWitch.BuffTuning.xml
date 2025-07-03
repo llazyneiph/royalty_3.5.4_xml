@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Death_Stake_isWitch" s="16563005602314678758">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="visible">False</T>
+  <V n="_add_test_set" t="tests_set">
+    <L n="tests_set">
+        <L>
+        <V t="test_set_reference">
+    <T n="test_set_reference">16017866255049005359<!--LN_RM:WitchDeath_PackTest_RoM--></T>
+</V>
+            <V t="trait">
+                <U n="trait">
+                    <E n="subject">Actor</E>
+                    <L n="whitelist_traits">
+                        <T>213050<!--trait_Occult_WitchOccult--></T>
+                    </L>
+                </U>
+            </V>
+        </L>
+    </L>
+</V>
+<L n="_loot_on_addition">
+    <T>16606162179735956507<!--LN_RM:loot_WeatherController_ChangeWeather_RainStorm_WitchDeath--></T>
+</L>
+<V n="vfx" t="play_multiple_effects">
+    <U n="play_multiple_effects">
+        <L n="vfx_list">
+            <U>
+                <T n="effect_name">ep05_lightning_summon_l_eye_glow</T>
+                <V n="joint_name" t="Slot">
+                    <T n="Slot">b__L_Eye__</T>
+                </V>
+                <T n="play_immediate">True</T>
+            </U>
+            <U>
+                <T n="effect_name">ep05_lightning_summon_r_eye_glow</T>
+                <V n="joint_name" t="Slot">
+                    <T n="Slot">b__R_Eye__</T>
+                </V>
+                <T n="play_immediate">True</T>
+            </U>
+            <U>
+                <T n="effect_name">witch_charge_sparkles</T>
+                <V n="joint_name" t="Slot">
+                    <T n="Slot">b__Spine0__</T>
+                </V>
+                <T n="play_immediate">True</T>
+            </U>
+            <U>
+                <T n="effect_name">gp08_witch_overload_shockwave_ground</T>
+                <V n="joint_name" t="Slot">
+                    <T n="Slot">b__Spine0__</T>
+                </V>
+                <T n="play_immediate">True</T>
+            </U>
+        </L>
+    </U>
+</V>
+</I>

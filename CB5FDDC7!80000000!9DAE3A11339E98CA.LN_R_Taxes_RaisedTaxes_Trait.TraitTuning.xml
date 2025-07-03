@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="11362082755457226954" i="trait" m="traits.traits" n="LN_R:Taxes_RaisedTaxes_Trait">
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18112254706578109133<!--LN_R:Taxes_RaisedTaxes_Buff--></T>
+    </U>
+  </L>
+  <T n="display_name">0xA0DF5E81<!--hidden_HasTaxes--></T>
+  <T n="display_name_gender_neutral">0xA0DF5E81<!--hidden_HasTaxes--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <E n="trait_type">HIDDEN</E>
+</I>

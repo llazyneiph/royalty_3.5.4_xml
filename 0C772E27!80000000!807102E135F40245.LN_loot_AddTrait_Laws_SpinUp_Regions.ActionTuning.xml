@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:loot_AddTrait_Laws_SpinUp_Regions" s="9255181875519160901">
+  <T n="run_test_first">True</T>
+  <L n="loot_actions"><V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">362425<!--Ciudad Enamorada--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">9461229853074959741<!--LN_RM:hidden_trait_Laws_Enamorada--></T>
+      </U>
+    </V>
+  <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">337554<!--region_Residential_MultiUnitWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">14759992928774307292<!--LN_RM:hidden_trait_Laws_Tomarang--></T>
+      </U>
+    </V>
+  <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">311185<!--region_Residential_EP14World--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10375636176423431796<!--LN_RM:hidden_trait_Laws_ChestnutRidge--></T>
+      </U>
+    </V>
+  <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">302872<!--region_Residential_BayArea--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15069596434087432934<!--LN_RM:hidden_trait_Laws_SanSequoia--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">104064<!--region_Residential_WillowCreek--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">16345089070094682775<!--LN_RM:hidden_trait_Laws_WillowCreek--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">104065<!--region_Residential_OasisSprings--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15228050863423708336<!--LN_RM:hidden_trait_Laws_OasisSprings--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">119917<!--region_Residential_Newcrest--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15310324861958462420<!--LN_RM:hidden_trait_Laws_Newcrest--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">123129<!--region_Residential_NorthEurope--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">18106091392480417537<!--LN_RM:hidden_trait_Laws_Windenburg--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">152175<!--region_Residential_VampireWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">13745652304944346884<!--LN_RM:hidden_trait_Laws_ForgottonHollow--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">134252<!--region_Residential_CityLife--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">13730483851276568588<!--LN_RM:hidden_trait_Laws_SanMyshuno--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">166547<!--region_Residential_PetWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15812854048338386594<!--LN_RM:hidden_trait_Laws_BrindletonBay--></T>
+      </U>
+    </V>
+    
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">208814<!--region_Residential_UniversityWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">12882877446242661921<!--LN_RM:hidden_trait_Laws_Britechester--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">195493<!--region_Residential_FameWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10456691420802419205<!--LN_RM:hidden_trait_Laws_DelSolValley--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">228200<!--region_Residential_EcoWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">9497784789859345437<!--LN_RM:hidden_trait_Laws_EvergreenHarbour--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">216626<!--region_Residential_Magic--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10859419598313382789<!--LN_RM:hidden_trait_Laws_Glimmerbrook--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">201699<!--region_Residential_Strangetown--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">11024555871769058435<!--LN_RM:hidden_trait_Laws_Strangerville--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">208308<!--region_Residential_IslandWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10727314517086301953<!--LN_RM:hidden_trait_Laws_Sulani--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">238454<!--region_Residential_MountainWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">16442818197528197409<!--LN_RM:hidden_trait_Laws_MtKorembi--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">108704<!--region_Career_Retail--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">13213329509255167882<!--LN_RM:hidden_trait_Laws_MagProm--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">257397<!--region_Residential_CottageWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">12703886755338023387<!--LN_RM:hidden_trait_Laws_Henford--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">272129<!--region_Residential_WeddingWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10790061891062414619<!--LN_RM:hidden_trait_Laws_Tartosa--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">272365<!--region_Residential_HighSchoolWorld--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">10219343938901816256<!--LN_RM:hidden_trait_Laws_Copperdale--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <L n="subject_filter_tests">
+          <L>
+            <V t="home_region">
+              <U n="home_region">
+                <T n="region">285909<!--region_Residential_WolfTown--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">11984709247012198377<!--LN_RM:hidden_trait_Laws_MoonwoodMill--></T>
+      </U>
+    </V>
+  </L>
+</I>

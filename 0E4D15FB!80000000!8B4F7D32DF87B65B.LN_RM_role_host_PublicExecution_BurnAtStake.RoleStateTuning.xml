@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:role_host_PublicExecution_BurnAtStake" s="10038379751884174939">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">33931<!--buff_AutonomyMod_SocialMore--></T>
+    </U>
+    <U>
+      <T n="buff_type">234654<!--buff_CivicPolicy_GiveInfluence_Small_FunCommunity--></T>
+    </U>
+    <U>
+      <T n="buff_type">302072<!--buff_Role_WantFear_PartyHost--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="enabled">
+        <T n="enabled">0x24D93573<!--(From Enjoying Public Executions)--></T>
+      </V>
+      <T n="buff_type">16061471764954110627<!--LN_RM:buff_PublicExecution_Excited--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="enabled">
+        <T n="enabled">0xED4F63B7<!--(From Being Good)--></T>
+      </V>
+      <T n="buff_type">11690574998019644392<!--LN_RM:buff_PublicExecution_Stressed--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <L n="role_affordances">
+    <T>13002<!--ask_toLeaveLot--></T>
+  </L>
+  <L n="tags">
+    <E>Role_VIPRope_Allowed</E>
+  </L>
+</I>

@@ -1,0 +1,13 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10537149600696213183" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_buff_hidden_sentancetodeath">
+  <T n="visible">False</T>
+  <T n="buff_name">0xA17E6E53<!--hidden_sentancetodeath--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+    </U>
+  </V>
+  <L n="_loot_on_addition">
+    <T>14836563595164815497<!--llazyneiph_RoyaltyModV2_Trait/1905344355--></T>
+  </L>
+</I>

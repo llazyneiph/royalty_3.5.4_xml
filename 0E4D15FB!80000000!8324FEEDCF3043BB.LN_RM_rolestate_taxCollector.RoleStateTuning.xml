@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:rolestate_taxCollector" s="9449958215466894267">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">14415264652138531376<!--LN_RM:buff_Role_TaxCollector_NPC--></T>
+    </U>
+    <U>
+      <T n="buff_type">122338<!--buff_AutonomyMod_SocialMore_Annoying--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+</I>

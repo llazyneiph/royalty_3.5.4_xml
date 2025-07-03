@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="18164583978991418637" i="trait" m="traits.traits" n="LN_RM_trait_BelovedMonarch">
+  <L n="ages">
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+  <L n="buffs_proximity">
+    <T>9451937512087136040<!--llazyneiph_RoyaltyMod_Buff_Close to Greatness!--></T>
+    <T>9859918240155417409<!--llazyneiph_RoyaltyMod_Buff_In the Presence of of Tyrant!--></T>
+    <T>17588713812482901404<!--llazyneiph_RoyaltyMod_Buff_NearTheMonarch!--></T>
+    <T>18375212824906575618<!--llazyneiph_RoyaltyMod_Buff_Near Nobility--></T>
+    <T>18229562136088819979<!--llazyneiph_RoyaltyMod_Buff_Royal Prensence--></T>
+  </L>
+</I>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_WillowCreek" s="12334795676045552109">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xFDDD5BF9<!--Willow Creek Noble--></T>
+  <T n="display_name_gender_neutral">0xFDDD5BF9<!--Willow Creek Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:C1E9D927C90E0113</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x71DA5C33<!--{0.SimFirstName} is apart of Willow Creek Nobility.--></T>
+  <T n="trait_origin_description">0x8694321E<!--(From Belonging to Willow Creek Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

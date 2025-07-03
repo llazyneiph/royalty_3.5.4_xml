@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Notification_Epitropos_TemporaryThrone" s="11202572772111116721">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_cellphoneold.png">2f7d0004:00000000:7F479F3412B31E84</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant" />
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xCC85D8D2<!--In the wake of the Emperor's passing and with the heir yet to reach the age of ascension, {0.SimFirstName} steps forward to bear the weight of the crown. \nAs the designated Epitropos, they rise to guide our great empire through these uncertain times. With wisdom granted by the gods and the trust of the late Emperor, they shall steer the realm with steadfast hands until the rightful heir is prepared to ascend. \nLet the realm unite under this divine stewardship, for the empire's legacy continues.--></T>
+            </V>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,43 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517947" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Count_Gameplay">
+  <T n="display_name">0x9079EBCA<!--Count--></T>
+  <T n="display_name_gender_neutral">0x9079EBCA<!--Count--></T>
+  <T n="icon">2f7d0004:00000000:a0877f63ca04cadc</T>
+  <T n="trait_description">0xFFA71023<!--{0.SimFirstName} is a Count of {0.SimPronounPossessiveDependent} fair kingdom!--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17528955664206076562<!--llazyneiph_RoyaltyMod_Buff_hidden_Count--></T>
+    </U>
+    <U>
+      <T n="buff_type">10537230540338507335<!--llazyneiph_RoyaltyModV2_Trait14/2213882521--></T>
+    </U>
+    <U>
+      <T n="buff_type">11273099538174077978<!--llazyneiph_RoyaltyModV2_Trait17/3048372351--></T>
+    </U>
+    <U>
+      <T n="buff_type">10055250656026416978</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>11702150607931975964</T>
+    </L>
+  </V>
+  <L n="super_affordances">
+    <T>10568617749360924322</T>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>192941<!--loot_Reputation_Gain_Large--></T>
+      <T>12723040178021983719<!--llazyneiph_RoyaltyModV2_Trait17/821597971--></T>
+      <T>11903986531966087021<!--llazyneiph_RoyaltyModV2_Trait17/783346488--></T>
+      <T>15160759727190315021</T>
+    </L>
+  </V>
+</I>

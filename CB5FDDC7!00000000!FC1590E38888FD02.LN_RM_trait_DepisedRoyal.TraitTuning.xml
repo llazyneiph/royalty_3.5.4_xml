@@ -1,0 +1,25 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="18164583978991418626" i="trait" m="traits.traits" n="LN_RM_trait_DepisedRoyal">
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11311556420387673033<!--llazyneiph_RoyaltyMod_Buff_Hidden_Despised Tyrant--></T>
+    </U>
+    <U>
+      <T n="buff_type">13006575272737781359<!--llazyneiph_RoyaltyMod_Buff_DespisedTyrant--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">13373872055841592736<!--llazyneiph_RoyaltyModV2_Trait7/1316705998--></T>
+  </V>
+  <E n="trait_type">GAMEPLAY</E>
+  <T n="display_name">0xA113C1F4<!--Despised Tyrant--></T>
+  <T n="display_name_gender_neutral">0xA113C1F4<!--Despised Tyrant--></T>
+  <T n="icon">2f7d0004:00000000:e5edc4da729dbc9a</T>
+  <T n="trait_description">0xBF9856BA<!--{0.SimFirstName} will go down in the history books as the most hated ruler to ever claim the throne!--></T>
+  <T n="trait_origin_description">0xDF0E1E82<!--(From Being a Terrible Monarch)--></T>
+</I>

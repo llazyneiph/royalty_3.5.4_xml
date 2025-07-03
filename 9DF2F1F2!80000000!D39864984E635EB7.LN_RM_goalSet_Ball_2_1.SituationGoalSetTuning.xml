@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="LN_RM:goalSet_Ball_2_1" s="15247047143775755959">
+  <L n="chained_goal_sets">
+    <T>15247047143775755956<!--LN_RM:goalSet_Ball_2_2--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">23900<!--Goal_Flirts--></T>
+    </U>
+    <U>
+      <T n="goal">23899<!--Goal_Jokes--></T>
+    </U>
+  </L>
+</I>

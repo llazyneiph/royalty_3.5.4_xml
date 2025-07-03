@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17740527566203467940" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_SpickandSpan!">
+  <T n="buff_description">0xCDBCF3D5<!--Dirty silverware, dusty shelves and grimy floors all cower in fear when {0.SimFirstName}'s around in all {0.SimPronounPossessiveDependent} cleaning fury!--></T>
+  <T n="buff_name">0xF489FC03<!--Spick and Span! --></T>
+  <T n="icon">2f7d0004:00000000:c0a6b4a7ae0bf0f8</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">120</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

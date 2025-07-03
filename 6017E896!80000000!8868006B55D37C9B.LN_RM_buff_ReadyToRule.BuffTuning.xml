@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9829106647737531547" i="buff" m="buffs.buff" n="LN_RM:buff_ReadyToRule">
+  <T n="buff_description">0xD09F3171<!--After being given a serious pep talk by {M0.his}{F0.her} Advisor, {0.SimFirstName} now feels much more confident about ruling over their new kingdom.--></T>
+  <T n="buff_name">0xCA947955<!--Ready to Rule!--></T>
+  <T n="icon">2f7d0004:00000000:6e7a2abb897d1fbd</T>
+  <T n="mood_type">14634<!--Confident--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Confident_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

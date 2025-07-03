@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_DungeonGuard" s="11961114812858345264">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15146072778136110644<!--LN_RM:buff_DungeonGuard--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x92F259AA<!--Dungeon Guard--></T>
+  <T n="display_name_gender_neutral">0x92F259AA<!--Dungeon Guard--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:5ce5608ec9deb5aa</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x6CA03566<!--{0.SimFirstName} has been trusted with the position of Dungeon Guard.--></T>
+  <T n="trait_origin_description">0x34F28ABA<!--(From Being Bestowed a Title)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <L n="super_affordances">
+    <T>10593928234624254918<!--LN_RM:immediate_Break_FollowMe--></T>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">13315719736788485536<!--LN_RM:Social_ScoldsBridle_WalkofShame--></T>
+    </U>
+    <U>
+      <T n="affordance">14019933385656340752<!--LN_RM:Social_ScoldsBridle_Remove--></T>
+    </U>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>9972512030819750037<!--LN_RM:mixer_social_ApplyScoldsBridle--></T>
+      </L>
+    </U>
+  </L>
+</I>

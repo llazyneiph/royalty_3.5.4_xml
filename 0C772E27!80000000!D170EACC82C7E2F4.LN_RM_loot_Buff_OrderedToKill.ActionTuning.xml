@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_OrderedToKill" s="15091820515406897908">
+  <L n="loot_actions">
+  <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>10289640811595388772<!--LN_RM:buff_CanOrderSuspiciousDeath--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">17888465967428404083<!--LN_RM:buff_OrderedToKill--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x16A6DA88<!--Yes {F0.Mistress}{M0.Master}, I will take care of the...'issue' as soon as I can.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

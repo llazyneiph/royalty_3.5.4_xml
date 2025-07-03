@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:Monarch_MakeRulings_1" s="17854094146048416336">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results">
+          <U>
+          <L n="next_moments">
+              <E>Career_ChanceCard_01</E>
+              <E>Career_ChanceCard_02</E>
+              <E>Career_ChanceCard_03</E>
+              <E>Career_ChanceCard_04</E>
+              <E>Career_ChanceCard_05</E>
+              <E>Career_ChanceCard_06</E>
+              <E>Career_ChanceCard_07</E>
+              <E>Career_ChanceCard_08</E>
+              <E>Career_ChanceCard_09</E>
+              <E>Career_ChanceCard_10</E>
+              <E>Career_ChanceCard_11</E>
+              <E>Career_ChanceCard_12</E>
+            </L>
+          <L n="loot_actions">
+              <T>10331300593942115869<!--LootActions: LN_RM:loot_FieldTreasure--></T>
+            </L>
+          </U>
+        </L>
+        <V n="display_text" t="single">
+          <T n="single">0x0CFE2119<!--My land, my money!--></T>
+        </V>
+      </U>
+      <U>
+        <L n="action_results">
+          <U>
+          <L n="next_moments">
+              <E>Career_ChanceCard_01</E>
+              <E>Career_ChanceCard_02</E>
+              <E>Career_ChanceCard_03</E>
+              <E>Career_ChanceCard_04</E>
+              <E>Career_ChanceCard_05</E>
+              <E>Career_ChanceCard_06</E>
+              <E>Career_ChanceCard_07</E>
+              <E>Career_ChanceCard_08</E>
+              <E>Career_ChanceCard_09</E>
+              <E>Career_ChanceCard_10</E>
+              <E>Career_ChanceCard_11</E>
+              <E>Career_ChanceCard_12</E>
+            </L>
+          <L n="loot_actions">
+              <T>192938<!--LootActions: loot_Reputation_Gain_Small--></T>
+            </L>
+          </U>
+        </L>
+        <V n="display_text" t="single">
+          <T n="single">0x96EDD61D<!--You may keep all that was in the box, use it wisely!--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="text" t="single">
+          <T n="single">0xAF3A7174<!--Your Majesty, my son was out playing in the fields when he stumbled across a small box filled with simoleans! n/I could really use the money to support my family, may I keep it?--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0x43C9A6DE<!--Finders Keepers?--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

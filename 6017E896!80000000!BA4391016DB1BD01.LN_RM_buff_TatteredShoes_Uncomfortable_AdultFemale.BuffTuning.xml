@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_TatteredShoes_Uncomfortable_AdultFemale" s="13421730749815569665">
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <L n="categories">
+        <E>Uncomfortable_Buffs</E>
+      </L>
+      <T n="max_duration">240</T>
+    </U>
+  </V>
+  <V n="appearance_modifier" t="enabled">
+    <U n="enabled">
+      <L n="appearance_modifiers">
+        <L>
+          <U>
+            <V n="modifier" t="set_cas_part">
+              <U n="set_cas_part">
+                <T n="cas_part">6543</T>
+              </U>
+            </V>
+          </U>
+        </L>
+      </L>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0xAD409574<!--{0.SimFirstName} isn’t feeling too good after watching {M0.his}{F0.her} friend lose that fight.--></T>
+  <T n="buff_name">0xF088404B<!--Tattered Shoes--></T>
+  <T n="icon" p="InGame\UI\Icons\Buffs\buffs_hadafight_neg.png">2f7d0004:00000000:9cc836077d78217d</T>
+  <T n="mood_type">14646<!--Mood_Uncomfortable--></T>
+  <T n="mood_weight">2</T>
+  <V n="interactions" t="enabled">
+    <U n="enabled">
+      <L n="interaction_items">
+        <T>252196<!--idle_Buff_MinorInjury--></T>
+      </L>
+    </U>
+  </V>
+  <V n="walkstyle_behavior_override" t="enabled">
+    <U n="enabled">
+      <L n="removed_run_flags">
+        <E />
+        <E>RUN_ALLOWED_OUTDOORS</E>
+      </L>
+    </U>
+  </V>
+</I>

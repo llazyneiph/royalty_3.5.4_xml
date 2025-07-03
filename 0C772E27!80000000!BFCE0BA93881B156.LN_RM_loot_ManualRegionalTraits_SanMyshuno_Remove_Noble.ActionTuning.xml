@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_SanMyshuno_Remove_Noble" s="13820997127872033110">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13838524943721669770<!--LN_RM:trait_Gameplay_RegionalNoble_SanMyshuno--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

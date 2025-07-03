@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Stat_RFL" s="9801031031579812681">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">1</T>
+          <T n="stat">12616370087998356301<!--LN_RM:statistic_Skill_Hidden_RoyalFamily_Lore--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

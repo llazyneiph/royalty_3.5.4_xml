@@ -1,0 +1,10 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="16167679018286859978" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/1438048886">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16258617669891517946<!--LN_RM_trait_Jester_Gameplay--></T>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

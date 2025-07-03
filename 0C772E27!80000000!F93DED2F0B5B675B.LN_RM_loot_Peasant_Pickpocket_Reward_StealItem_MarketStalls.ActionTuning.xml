@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Peasant_Pickpocket_Reward_StealItem_MarketStalls" s="17959771675333191515">
+  <L n="loot_actions">
+    <V t="object_rewards">
+      <U n="object_rewards">
+        <T n="make_sim_owner">False</T>
+        <V n="notification" t="disabled" />
+        <L n="object_rewards">
+          <U>
+            <T n="quantity">1</T>
+            <L n="reward_objects">
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">14746746507940080958<!--Apples--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">18137739526053432840<!--Tomatoes--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11147953695271573600<!--Pears--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">17823567402296111023<!--Pomegranate--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">17</T>
+              </U>
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">278719<!--White Meat--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">14414368019666069511<!--PB & J--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">13133741530993191463<!--Cookie--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11375892577625733881<!--Grilled Cheese--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11375892577625733881<!--Grilled Cheese--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">6</T>
+              </U>
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11218326685268564329<!--Vanilla Cupcake--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">12692762920197013972<!--Strawberry Cupcake--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">12855379638270941563<!--Red Velvet Cupcake--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">12704413826750093557<!--Chocolate Cupcake--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">9720487470044931198<!--Carrot Cake Cupcake--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">3</T>
+              </U>
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11461202876477731266<!--Soda--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">14627268369748776439<!--Energy Drink--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">14149134589038712264<!--Juice--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">17</T>
+              </U>
+            </L>
+          </U>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

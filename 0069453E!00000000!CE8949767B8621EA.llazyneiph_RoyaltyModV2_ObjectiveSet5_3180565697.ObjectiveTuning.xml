@@ -1,0 +1,10 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="14882507216849871338" i="objective" m="event_testing.objective_tuning" n="llazyneiph_RoyaltyModV2_ObjectiveSet5/3180565697">
+  <V n="objective_test" t="trait">
+    <U n="trait">
+      <L n="whitelist_traits">
+        <T>10675457705093319064<!--llazyneiph_RoyaltyMod_Succession_HiddenTrait--></T>
+      </L>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="iterations" />
+</I>

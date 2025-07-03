@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="LN_RM:Nobility_Track2_CourtSpy" s="12376991418170216587">
+  <T n="active_assignment_amount">0</T>
+  <T n="busy_time_situation_picker_tooltip">0x77D1D57E<!--This Sim will need to go to work in the middle of this Social Event.--></T>
+  <T n="career_description">0x18ADFFCB<!--Spending all day around the gossiping elite means you have many juicy secrets! Keep your eyes peeled and your ears perked, you never know who's willing to pay for some royal tea...--></T>
+  <L n="career_levels">
+    <T>14115784088150418302<!--LN_RM:career_Nobility_CourtSpy_Level1--></T>
+    <T>14115784088150418301<!--LN_RM:career_Nobility_CourtSpy_Level2--></T>
+  </L>
+  <T n="career_name">0x74C8409D<!--Court Spy--></T>
+  <T n="career_name_gender_neutral">0x74C8409D<!--Court Spy--></T>
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655<!--notification_GoToWorkGoodbye_Generic--></T>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Career\Career_AstronautSpaceRanger_Main.png">2f7d0004:00000000:016d27cd7207f71e</T>
+  <T n="icon_high_res" p="InGame\UI\Icons\Career\Career_AstronautSpaceRanger_hires.png">2f7d0004:00000000:2A4D5C58FA18DD40</T>
+  <T n="image" p="InGame\UI\Icons\resource_icon_bkg.png">2f7d0004:00000000:6665077284098fa2</T>
+  <V n="knowledge_notification" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+    </V>
+  </V>
+  <V n="overmax" t="enabled">
+    <U n="enabled">
+      <T n="reward">16152531086556173363<!--LN_RM:reward_Career_Nobility_Overmax--></T>
+      <T n="salary_increase">10</T>
+    </U>
+  </V>
+  <T n="show_now_hiring_string">True</T>
+</I>

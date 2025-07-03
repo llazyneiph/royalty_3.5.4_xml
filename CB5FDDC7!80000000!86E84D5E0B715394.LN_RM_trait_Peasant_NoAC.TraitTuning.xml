@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Peasant_NoAC" s="9721104861993456532">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11815229380271212445<!--LN_RM:Buff_Trait_Peasant_Hidden--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x78EA0898<!--Peasant--></T>
+  <T n="display_name_gender_neutral">0x78EA0898<!--Peasant--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:DDA35349C64D7385</T>
+  <L n="species">
+    <E />
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>9446927776191916816<!--LN_RM:loot_Remove_GentryAndMiddleClass--></T>
+      <T>18362601811887150172<!--LN_RM:loot_Settings_Add_RoyalFan--></T>
+    </L>
+  </V>
+  <T n="trait_description">0xB88810D0<!--Sims of a lower income household are classed as Peasants.--></T>
+  <T n="trait_origin_description">0x6DD3FD85<!--(From Being a Low Income Household)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+  <L n="super_affordances">
+    <T>17785902056367562846<!--LN:interaction_Peasant_GoHunting--></T>
+    <T>17376438528692671954<!--LN:interaction_Peasant_GoScavenging--></T>
+  </L>
+  <L n="target_super_affordances">
+  <U>
+      <T n="affordance">11297734769131552350<!--LN_RM:Int_PayTaxes--></T>
+    </U>
+    <U>
+      <T n="affordance">18161084364156198576<!--LN_RM:Pickpocket_LowSkill_01--></T>
+    </U>
+    <U>
+      <T n="affordance">15716362701550627807<!--LN_RM:Pickpocket_Food--></T>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_Dungeon_InCell_AddBuff" s="13907064141508448051">
+  <L n="loot_actions">
+  <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">1</T>
+          <T n="stat">16532695615139372079<!--LN_RM:commodity_HoldingCell_capacity--></T>
+          <L n="subject">
+            <E>Object</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  <V t="dynamic_buff_loot">
+      <U n="dynamic_buff_loot">
+        <L n="buffs">
+          <U>
+            <T n="key">29679<!--buff_NPC_Sad--></T>
+            <T n="value">1</T>
+          </U>
+          <U>
+            <T n="key">29680<!--buff_NPC_Angry--></T>
+            <T n="value">1</T>
+          </U>
+          <U>
+            <T n="key">29684<!--Buff_Event_Stressed--></T>
+            <T n="value">1</T>
+          </U>
+        </L>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12551653076470181098<!--LN_RM:buff_Sad_LockedUpBrokeLaw--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">16350113963717258444<!--LN_RM:buff_Dungeon_Sad--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_add">
+    <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">11665619136029415169<!--LN_RM:trait_Hidden_IsImprisoned--></T>
+    </U>
+</V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9466805609489501075<!--LN_RM:buff_LockedUp_Hidden--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+  </L>
+</I>

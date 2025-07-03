@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testSet_RegionalNoble_OasisSprings" s="15504450051209026769">
+  <L n="test">
+    <L>
+      <V t="region">
+        <U n="region">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>104065<!--region_Residential_OasisSprings--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+      <V t="in_home_region" />
+    </L>
+  </L>
+</I>

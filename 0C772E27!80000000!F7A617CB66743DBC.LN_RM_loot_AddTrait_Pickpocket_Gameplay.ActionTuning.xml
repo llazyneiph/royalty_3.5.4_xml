@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Pickpocket_Gameplay" s="17844976735866863036">
+  <L n="loot_actions">
+  <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>114412217846097036844<!--LN_RM:buff_LowLevel_Pickpocket_Hidden--></T>
+          <T>12340148127834551888<!--LN_RM:buff_MidLevel_Pickpocket_Hidden--></T>
+        </L>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">10103639753438232398<!--LN_RM:trait_TalentedPickpocket--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_isRoyal_Hidden" s="14794861402461430217">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="_loot_on_instance">
+      <T>15626835911830820512<!--LN_RM:loot_Trait_RegionalRoyal_WillowCreek--></T>
+      <T>12272105337936545805<!--LN_RM:loot_Trait_RegionalRoyal_OasisSprings--></T>
+      <T>12881330700129298053<!--LN_RM:loot_Trait_RegionalRoyal_Newcrest--></T>
+      <T>16559222379603696583<!--LN_RM:loot_Trait_RegionalRoyal_Windenburg--></T>
+      <T>9668829662303289139<!--LN_RM:loot_Trait_RegionalRoyal_ForgottonHollow--></T>
+      <T>9840288579172306105<!--LN_RM:loot_Trait_RegionalRoyal_SanMyshuno--></T>
+      <T>15937995950471232577<!--LN_RM:loot_Trait_RegionalRoyal_BrindletonBay--></T>
+      <T>15350707902244801056<!--LN_RM:loot_Trait_RegionalRoyal_Britechester--></T>
+      <T>11751808159734317148<!--LN_RM:loot_Trait_RegionalRoyal_DelSolValley--></T>
+      <T>14137134228625098216<!--LN_RM:loot_Trait_RegionalRoyal_EvergreenHarbour--></T>
+      <T>13466583602555949628<!--LN_RM:loot_Trait_RegionalRoyal_Glimmerbrook--></T>
+      <T>17978761323603118676<!--LN_RM:loot_Trait_RegionalRoyal_Strangerville--></T>
+      <T>15959599155827671316<!--LN_RM:loot_Trait_RegionalRoyal_Sulani--></T>
+      <T>13012223979584944030<!--LN_RM:loot_Trait_RegionalRoyal_MtKorembi--></T>
+      <T>13779815590113154541<!--LN_RM:loot_Trait_RegionalRoyal_MagnoliaPromenade--></T>
+      <T>17126697195058168103<!--LN_RM:loot_Trait_RegionalRoyal_HenfordOnBagley--></T>
+      <T>9662466674496686952<!--LN_RM:loot_Trait_RegionalRoyal_MoonwoodMill--></T>
+      <T>10722968978707614133<!--LN_RM:loot_Trait_RegionalRoyal_Copperdale--></T>
+      <T>16270204402853272919<!--LN_RM:loot_Trait_RegionalRoyal_SanSequoia--></T>
+      <T>12089670217013735951<!--LN_RM:loot_Trait_RegionalRoyal_ChestnutRidge--></T>
+      <T>13471474927398398654<!--LN_RM:loot_Statistic_EmpireTreasury_Gain_Small--></T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>14297251877929983822<!--LN_RM:loot_isRoyal_RemoveTrait--></T>
+    <T>14109250243277739350<!--LN_RM:loot_RemoveAll_RegionalTraits_Royal--></T>
+  </L>
+  <L n="super_affordances">
+    <!--Rabbit Holes-->
+    <T>15083703152548147297<!--LN_RM:super_Nobles_ReputationRabbitHole_GoToCourt--></T>
+    <T>16232843359580278944<!--LN_RM:super_Nobles_ReputationRabbitHole_GoHunting--></T>
+    <T>9969412650696064297<!--LN_RM:super_Nobles_ReputationRabbitHole_SocalizeintheOrchards--></T>
+    <T>18023062898896550935<!--LN_RM:super_Nobles_ReputationRabbitHole_VisitTailor--></T>
+    <T>18409046721611963340<!--LN_RM:super_Nobles_ReputationRabbitHole_GoHorsebackRiding--></T>
+    <T>10503053575117345711<!--LN_RM:super_Nobles_ReputationRabbitHole_AfternoonTea--></T>
+    <T>12621229257367318178<!--LN_RM:super_Nobles_ReputationRabbitHole_Opera--></T>
+    <T>17491924833506589741<!--LN_RM:super_Nobles_ReputationRabbitHole_Gardens--></T>
+    <T>17849886768619789581<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_BlanketsForUnhoused--></T>
+<T>17983002490480531457<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_FlowerShow--></T>
+<T>13541148722190385650<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_Gala--></T>
+<T>15208636670790194897<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_InvictusGames--></T>
+<T>9601966275032782718<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_MusicForMarines--></T>
+<T>11448752049544967279<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_PoloForPoverty--></T>
+<T>13747915374351427745<!--SuperInteraction: LN_RM:super_Charity_RabbitHole_VisitHospitals--></T>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+     <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>11758771657377310106<!--LN_RM:commodity_trait_NearPeasant--></T>
+            <T>12918850166455196134<!--LN_RM:commodity_trait_NearPeasant_Good--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>11147119140899586412<!--LN_RM:mixer_social_AttemptIntroduction_Royalty_greetings--></T>
+      </L>
+    </U>
+  </L>
+</I>

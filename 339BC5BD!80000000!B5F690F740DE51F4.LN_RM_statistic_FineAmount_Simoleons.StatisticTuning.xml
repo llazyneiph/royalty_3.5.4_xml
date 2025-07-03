@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Statistic" i="statistic" m="statistics.statistic" n="LN_RM:statistic_FineAmount_Simoleons" s="13111826756755411444">
+  <T n="max_value_tuning">1000000000</T>
+</I>

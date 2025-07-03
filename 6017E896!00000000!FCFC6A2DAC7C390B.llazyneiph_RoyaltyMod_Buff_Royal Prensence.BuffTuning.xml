@@ -1,0 +1,30 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="18229562136088819979" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Royal Prensence">
+  <T n="buff_description">0xD624E009<!--{0.SimFirstName} is near the Monarch! {0.SimFirstName} better show them that {0.SimPronounSubjective}'s worth {0.SimPronounPossessiveDependent} Noble status!--></T>
+  <T n="buff_name">0xD1E01A5B<!--Royal Prensence--></T>
+  <T n="icon">2f7d0004:00000000:e61a645f08f052ba</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>2522365735</T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+            </L>
+            <E n="subject">TargetSim</E>
+          </U>
+        </V>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+</I>

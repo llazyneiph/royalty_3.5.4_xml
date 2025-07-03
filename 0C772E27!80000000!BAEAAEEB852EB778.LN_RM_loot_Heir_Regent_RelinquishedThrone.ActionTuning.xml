@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Heir_Regent_RelinquishedThrone" s="13468769962179868536">
+  <L n="loot_actions">
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:858E0378E2812968</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xC147DA4C<!--As the Regent has willingly relinquished the throne, {0.SimFirstName} should plan a coronation in order to be crowned.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0xA06B280C<!--Time to Take the Throne--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">16714445123849750783<!--LN_RM:trait_Hidden_Heir_Regent_RelinquishedThrone--></T>
+      </U>
+    </V>
+    <V t="relationship_bits_loot">
+      <U n="relationship_bits_loot">
+        <L n="bit_operations">
+          <U>
+            <T n="bit">64317682<!--LN_RM:relationshipBit_Regent--></T>
+            <E n="operation">REMOVE</E>
+            <E n="recipients">TargetSim</E>
+            <E n="targets">Actor</E>
+          </U>
+          <U>
+            <T n="bit">1452530835<!--LN_RM:relationshipBit_Heir--></T>
+            <E n="operation">REMOVE</E>
+            <E n="recipients">Actor</E>
+            <E n="targets">TargetSim</E>
+          </U>
+        </L>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16816439335000103909<!--LN_RM:trait_Hidden_Regent_Active--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16934527172051717879<!--LN_RM:Trait_Regent--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Trait_CustomPlumbob_RoyalPartner_On" s="12668390789717306573">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,42 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="12329258040958552685" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Crown Royal">
+  <T n="buff_description">0xE8C4FFCB<!--{0.SimFirstName} is a Crown Royal within the Monarchy.--></T>
+  <T n="buff_name">0x90006AC0<!--Crown Royal--></T>
+  <T n="icon">2f7d0004:00000000:9c4f4cdcce3078dc</T>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <L n="_loot_on_instance">
+    <T>15027261355134666193</T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>14297251877929983822</T>
+  </L>
+  <L n="_loot_on_addition">
+    <T>15027261355134666193</T>
+  </L>
+  <T n="mood_weight">1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>11861376579848673552<!--llazyneiph_RoyaltyModV2_Trait6/4025015991--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>14295089746805880438<!--llazyneiph_INT_AnnounceIntentionsForCrown--></T>
+        <T>16160618611788825951<!--llazyneiph_INT_TaintIlligitimacy--></T>
+        <T>13378652011063790843<!--llazyneiph_INT_FlauntRoyalStatus--></T>
+        <T>17871824198006192635<!--llazyneiph_mixer_crownroyal_greet_female--></T>
+        <T>12432356392764680509<!--llazyneiph_mixer_crownroyal_greet_male--></T>
+        <T>17047262630717947149<!--llazyneiph_INT_BragAboutBeingAPrince--></T>
+        <T>11654203338549055719<!--llazyneiph_INT_BragAboutBeingAPrincess--></T>
+        <T>10619756821355094300<!--llazyneiph_INT_PlayPrincessesAndKnights--></T>
+      </L>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,9 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17231945427083467684" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModV2_Buff6">
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value" />
+    </U>
+  </L>
+</I>

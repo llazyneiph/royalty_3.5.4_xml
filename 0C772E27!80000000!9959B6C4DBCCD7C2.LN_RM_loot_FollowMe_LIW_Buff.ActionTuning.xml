@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_FollowMe_LIW_Buff" s="11050064117347702722">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+      <E n="subject">Actor</E>
+        <T n="trait">11416779208797170307<!--LN_RM:trait_Hidden_Being_Following_LIW--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+      <E n="subject">TargetSim</E>
+        <T n="trait">13834398287225840391<!--LN_RM:trait_Hidden_LIW_Following--></T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">15066308815990646873<!--LN_RM:buff_IsFollowing_Hidden--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <L n="dialog_options">
+              <E>DISABLE_CLOSE_BUTTON</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x8EC638A9<!--Yes {F0.Mistress}{M0.Masters}, I will start following you now.--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

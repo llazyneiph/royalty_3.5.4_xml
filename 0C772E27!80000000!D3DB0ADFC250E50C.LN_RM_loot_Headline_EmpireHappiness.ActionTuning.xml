@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Headline_EmpireHappiness" s="15265807318056494348">
+  <L n="loot_actions">
+    <V t="headline_loot">
+      <U n="headline_loot">
+        <T n="amount">1</T>
+        <T n="headline">17413904860331741527<!--LN_RM:headline_EmpireHappiness--></T>
+      </U>
+    </V>
+  </L>
+</I>

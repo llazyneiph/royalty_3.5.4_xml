@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_ScoldsBridle_Follow_RemoveBuff" s="17324846504622407466">
+  <L n="loot_actions">
+     <V t="buff_removal">
+            <U n="buff_removal">
+                <L n="buffs_to_remove">
+                    <T>13459002594439380879<!--LN_RM:buff_ScoldsBridle_IsFollowing--></T>
+                </L>
+                <E n="subject">Actor</E>
+            </U>
+        </V>
+  </L>
+</I>

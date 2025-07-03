@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15852383044713346859" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_LowerTaxes">
+  <T n="buff_description">0x87E54C34<!--Lower taxes makes for happier subjects!--></T>
+  <T n="buff_name">0xEBEBF0BF<!--Lower Taxes--></T>
+  <T n="icon">2f7d0004:00000000:e3ef240225aee322</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <T n="show_timeout">False</T>
+  <L n="_loot_on_addition">
+    <T>101278<!--loot_$750_to_$1250--></T>
+  </L>
+</I>

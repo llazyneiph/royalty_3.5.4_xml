@@ -1,0 +1,8 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="17039801495877645438" i="objective" m="event_testing.objective_tuning" n="llazyneiph_RoyaltyModUpdateV1_ObjectiveSet2/3882353876">
+  <V n="objective_test" t="trait">
+    <U n="trait">
+      <E n="subject">Actor</E>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="iterations" />
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="LN_RM:testSet_RegionalRoyal_MtKorembi" s="10574726064002614023">
+  <L n="test">
+    <L>
+      <V t="region">
+        <U n="region">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>238454<!--region_Residential_MountainWorld--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+      <V t="in_home_region" />
+    </L>
+  </L>
+</I>

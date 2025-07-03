@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="12248016752943209662" i="action" m="interactions.utils.loot" n="LN_RM:loot_AdvisorConfidence">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9829106647737531547<!--LN_RM:buff_ReadyToRule--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xFD3DBB4B<!--(From Being Given Pep Talk)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>11527125982492439514</T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

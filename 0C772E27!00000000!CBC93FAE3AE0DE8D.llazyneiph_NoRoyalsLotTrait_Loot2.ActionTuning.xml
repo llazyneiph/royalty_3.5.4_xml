@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="14684338077562887821" i="action" m="interactions.utils.loot" n="llazyneiph_NoRoyalsLotTrait_Loot2">
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+            <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="si_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">24236<!--npc_leave_lot_now--></T>
+            <E n="affordance_priority">Critical</E>
+            <V t="enabled" n="affordance_run_priority">
+              <E n="enabled">Critical</E>
+            </V>
+            <V t="enabled" n="affordance_target">
+              <E n="enabled">Actor</E>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

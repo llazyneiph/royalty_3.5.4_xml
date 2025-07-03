@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_NoblesNeedsPermissionToMarry_TraitRemove" s="12948173642013799292">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14698702908784288472<!--LN_RM:Traits_Hidden_NoblesNeedPermissionToMarry--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

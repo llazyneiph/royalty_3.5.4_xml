@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Law_PurpleForRoyals_RemoveTrait" s="12369388917121688733">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16239152676440656279<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">11451994386296939358<!--LN_RM:trait_Hidden_Law_PurpleForRoyalsOnly_REMOVE--></T>
+      </U>
+    </V>
+    <V t="statistics">
+    <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+            <T n="stat">12078048241884428965<!--LN_RM:commodity_Fine_Timer--></T>
+            <L n="tests">
+                <L>
+                    <V t="statistic">
+                        <U n="statistic">
+                            <T n="must_have_stat">True</T>
+                            <T n="stat">12078048241884428965<!--LN_RM:commodity_Fine_Timer--></T>
+                        </U>
+                    </V>
+                </L>
+            </L>
+        </U>
+    </V>
+</V>
+  </L>
+</I>

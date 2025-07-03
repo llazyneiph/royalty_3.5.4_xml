@@ -1,0 +1,10 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="11470056696254224660" i="objective" m="event_testing.objective_tuning" n="llazyneiph_RoyaltyModV2_ObjectiveSet6/3758653497">
+  <V n="objective_test" t="trait">
+    <U n="trait">
+      <L n="whitelist_traits">
+        <T>194215<!--trait_Reputation_Rank_5_Good--></T>
+      </L>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="iterations" />
+</I>

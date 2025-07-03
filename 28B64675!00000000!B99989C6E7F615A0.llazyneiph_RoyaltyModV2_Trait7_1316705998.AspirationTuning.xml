@@ -1,0 +1,27 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="13373872055841592736" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait7/1316705998">
+  <T n="priority">1</T>
+  <T n="whim_reason">0x948CCBF6<!--(From Being a Despised Tyrant)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">28011<!--Whim_MeanSim--></T>
+    </U>
+    <U>
+      <T n="whim">32225<!--Whim_Meetnew_BeMean--></T>
+    </U>
+    <U>
+      <T n="whim">32346<!--Whim_Friendship_BeMean--></T>
+    </U>
+    <U>
+      <T n="whim">32514<!--Whim_NewRomance_BeMean--></T>
+    </U>
+    <U>
+      <T n="whim">32603<!--Whim_Enemies_BeMean--></T>
+    </U>
+    <U>
+      <T n="whim">32906<!--Whim_Partner_BeMean--></T>
+    </U>
+    <U>
+      <T n="whim">98032<!--Whim_MeanSim_ToKid--></T>
+    </U>
+  </L>
+</I>

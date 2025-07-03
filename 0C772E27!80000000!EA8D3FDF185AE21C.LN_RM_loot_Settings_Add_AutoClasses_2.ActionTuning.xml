@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Settings_Add_AutoClasses_2" s="16901235204010205724">
+  <L n="loot_actions">
+    <V t="actions">
+      <T n="actions">16520306336676841659<!--LN_RM:loot_AutoClasses_ClassTraits--></T>
+    </V>
+  </L>
+</I>

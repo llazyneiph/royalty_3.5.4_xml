@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_BrindletonBay" s="14626190445165827552">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">
+        <!--Buff_Trait_SteelBladder-->
+      </T>
+    </U>
+  </L>
+  <T n="display_name">0x673D6DC3<!--Brindleton Bay Noble--></T>
+  <T n="display_name_gender_neutral">0x673D6DC3<!--Brindleton Bay Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:C66C88905122A3A6</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xE341E6A1<!--{0.SimFirstName} is apart of Brindleton Bay Nobility.--></T>
+  <T n="trait_origin_description">0xF57BA666<!--(From Belonging to Brindleton Bay Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

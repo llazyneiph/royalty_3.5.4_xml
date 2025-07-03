@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimPickerInteraction" i="interaction" m="interactions.base.picker_interaction" n="LN_RM:simPickerInteraction_UndergroundPrison_Release" s="17440706026607908169">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0xC46FAF22<!--Release Sim--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">PickedSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="pie_menu_test_tooltip" t="enabled">
+    <T n="enabled">0x16280B3F<!--There are no sims currently imprisoned.--></T>
+  </V>
+  <T n="include_uninstantiated_sims">False</T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <L n="picked_continuation">
+    <U>
+      <T n="affordance">16432318137085259445<!--LN_RM:superInteraction_UndergroundPrison_PickedSim_Released_Continuation--></T>
+    </U>
+  </L>
+  <V n="picker_dialog" t="sim_picker">
+    <U n="sim_picker">
+      <V n="max_selectable" t="static_count">
+        <U n="static_count">
+          <T n="number_selectable">1</T>
+        </U>
+      </V>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <L n="sim_tests">
+    <L>
+    <V t="distance">
+    <U n="distance">
+        <U n="distance_threshold">
+            <E n="comparison">LESS_OR_EQUAL</E>
+            <T n="value">3</T>
+        </U>
+        <V n="object_count_threshold" t="enabled">
+            <U n="enabled">
+                <E n="comparison">GREATER_OR_EQUAL</E>
+                <T n="value">1</T>
+            </U>
+        </V>
+        <E n="subject">PickedSim</E>
+        <V n="target" t="participant_type">
+            <U n="participant_type">
+                <E n="participant">Object</E>
+            </U>
+        </V>
+    </U>
+</V>
+        <V t="buff">
+            <U n="buff">
+                <E n="subject">PickedSim</E>
+                <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                        <T>17961366566731543177<!--LN_RM:buff_UndergroundPrison--></T>
+                    </L>
+                </V>
+            </U>
+        </V>
+    </L>
+</L>
+  <V n="single_choice_display_name" t="enabled">
+    <T n="enabled">0xC46FAF22<!--Release Sim--></T>
+  </V>
+  <E n="target_type">OBJECT</E>
+</I>

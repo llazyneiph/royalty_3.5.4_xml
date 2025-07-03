@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Buff_Servant_MakeTea" s="16680755291284676786">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">10598256015365504502<!--LN_RM:buff_servant_AutonomyMod_MakeTea--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="participant" t="enabled">
+              <E n="enabled">TargetSim</E>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x710A3A8A<!--{1.SimFirstName} will prepare the request as soon as they can.--></T>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>15884853569696669070<!--LN_RM:buff_Cook_HasPreparedMeal_cooldown--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Ball_Masquerade_Host" s="13553024445300425696">
+  <V n="_add_test_set" t="tests_set">
+    <L n="tests_set">
+      <L>
+        <V t="situation_running_test">
+          <U n="situation_running_test">
+            <V n="situation_whitelist" t="enabled">
+              <L n="enabled">
+                <T>14076943496852726114<!--LN_RM:Situation_Ball_Masquerade--></T>
+              </L>
+            </V>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13890404377905770157<!--LN_RM:mixer_Social_Ball_GuessIdentity_Friendly_NT--></T>
+        <T>9993521085618878079<!--LN_RM:socials_Targeted_Friendly_ComplimentMask--></T>
+        <T>11230287532366505742<!--LN_RM:socials_Targeted_Romance_AlwaysOn_Flirtation_FlirtWithMysteriousStranger--></T>
+      </L>
+    </U>
+  </L>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="visible">False</T>
+  <L n="_loot_on_addition">
+    <T>13943170155864292172<!--LN_RM:Loot_Notification_BallStart_Masquerade--></T>
+  </L>
+</I>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Throne_AddOwnership" s="17261955373868579103">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">13645459991386268997<!--LN_RM:Trait_Hidden_Throne_Ownership--></T>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="stat">11760573067951382586<!--LN_RM:statistic_Object_Throne--></T>
+          <L n="subject">
+            <E>Object</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="advertise">False</T>
+          <T n="stat">11760573067951382586<!--LN_RM:statistic_Object_Throne--></T>
+          <L n="subject">
+            <E>Object</E>
+          </L>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

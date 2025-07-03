@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_RemoveMedal_Simcross" s="10747908317855661669">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13692607506936580354<!--LN_RM:Trait_Hidden_Medal_Simcross--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+      <E n="subject">TargetSim</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11668875273501157057<!--LN_RM:Trait_Hidden_Medal_OFF_SimCrossMedal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>11667552342892691807<!--LN_RM:Buff_Hidden_Medal_Simcross--></T>
+          <T>12056841823935761288<!--LN_RM:Buff_Investiture_Medal_Confidant_Simcross--></T>
+          <T>14258909614107428551<!--LN_RM:Buff_Investiture_Medal_Male--></T>
+          <T>14899152038728013240<!--LN_RM:Buff_Investiture_Medal_Female--></T>
+        </L>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">11391508155105166949<!--LN_RM:Buff_Medal_Stripped_Sad--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x9DDD9B6A<!--{1.SimFirstName} has been stripped of {0.SimPronounPossessiveDependent} medal!--></T>
+            </V>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

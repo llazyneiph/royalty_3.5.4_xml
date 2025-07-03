@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_Coronation_WatchReaction" s="12688626390772660885">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">25</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+  <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>126522<!--loot_Reaction_Break_Socials_Chat--></T>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="sim_info">
+              <U n="sim_info">
+                <V n="species" t="specified">
+                  <U n="specified">
+                    <L n="species">
+                      <E />
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="blacklist_traits">
+                  <T>16851<!--trait_isGrimReaper--></T>
+                </L>
+              </U>
+            </V>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_blacklist" t="enabled">
+                  <L n="enabled">
+                    <T>203311<!--motherPlantBattleSituation--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="loot">
+      <U n="loot">
+        <L n="loot_list">
+          <T>15342692184371010452<!--LN_RM:loot_Coronation_Reaction_Positive--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_enter">
+    <U n="on_enter">
+      <T n="allow_multiple">True</T>
+    </U>
+  </V>
+  <T n="immediate">True</T>
+</I>

@@ -1,0 +1,24 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="13325227542422208083" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait10/4032804111">
+  <T n="priority">1</T>
+  <T n="whim_reason">0xF61B4010<!--(From Being the Trusted Advisor)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">26117<!--Whim_Buy500--></T>
+    </U>
+    <U>
+      <T n="whim">97913<!--Whim_Buy100--></T>
+    </U>
+    <U>
+      <T n="whim">97914<!--Whim_Buy1000--></T>
+    </U>
+    <U>
+      <T n="whim">97976<!--Whim_Earn_1000--></T>
+    </U>
+    <U>
+      <T n="whim">97975<!--Whim_Earn_500--></T>
+    </U>
+    <U>
+      <T n="whim">97974<!--Whim_Earn_100--></T>
+    </U>
+  </L>
+</I>

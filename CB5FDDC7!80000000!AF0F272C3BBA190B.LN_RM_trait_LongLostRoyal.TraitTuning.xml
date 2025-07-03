@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_LongLostRoyal" s="12614344152222144779">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x1CB585CC<!--Long Lost Royal--></T>
+  <T n="display_name_gender_neutral">0x1CB585CC<!--Long Lost Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\AspirationTraits\traitAspiration_BusinessSavy.png">2f7d0004:00000000:16CFCEE791E1353D</T>
+  <L n="species">
+    <E />
+  </L>
+      <V n="loot_on_trait_add" t="enabled">
+        <L n="enabled">
+            <T>5027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+            <T>17582294309238467420<!--LN_RM:loot_removetrait_missingroyal--></T>
+        </L>
+    </V>
+  <T n="trait_description">0xE28A5BA0<!--{0.SimFirstName} sucessfully convinced the world and is recognised as the royal familys' missing child!--></T>
+  <T n="trait_origin_description">0x4015C415<!--(From Choosing the Missing Princess Aspiration)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="15429469886043428752" i="trait" m="traits.traits" n="LN_RM:trait_hidden_CustomTitle_05">
+  <T n="display_name">0xCD429A0E<!--Custom Title 05--></T>
+  <T n="display_name_gender_neutral">0x69A1C038</T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xDF856EA9</T>
+  <E n="trait_type">HIDDEN</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15051863127748055203<!--llazyneiph:buff_Trait_Hidden_Custom_05_Title--></T>
+    </U>
+  </L>
+</I>

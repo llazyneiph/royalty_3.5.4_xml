@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_PressConference_Reaction_Insult" s="10946276424898728585">
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="mixer_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">13565<!--microphone_HecklePerformance_ShoutInsult--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

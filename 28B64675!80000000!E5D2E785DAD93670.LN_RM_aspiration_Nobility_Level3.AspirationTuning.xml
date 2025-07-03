@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AspirationCareer" i="aspiration" m="aspirations.aspiration_tuning" n="LN_RM:aspiration_Nobility_Level3" s="16560553341883070064">
+  <L n="objectives">
+    <T>275184<!--objectives_Asp_Popularity_FriendlyNeighbor_2--></T>
+    <T>26464<!--objective_Skill_Charisma_Level03--></T>
+  </L>
+</I>

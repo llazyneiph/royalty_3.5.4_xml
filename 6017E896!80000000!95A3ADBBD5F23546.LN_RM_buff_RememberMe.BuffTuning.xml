@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_RememberMe" s="10782652955115009350">
+  <T n="buff_description">0xB7D96501<!--With a statue watching over the land for centuries to come, no one will ever forget Monarch {0.SimFirstName}!--></T>
+  <T n="buff_name">0xACD652CF<!--Remember Me!--></T>
+  <T n="icon">2f7d0004:00000000:67a9c981e3307cf1</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Confident_Buffs</E>
+      </L>
+    </U>
+  </V>
+  <T n="mood_type">14634</T>
+  <T n="mood_weight">1</T>
+</I>

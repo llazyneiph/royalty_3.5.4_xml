@@ -1,0 +1,8 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Statistic" s="12944768507517246016" i="statistic" m="statistics.statistic" n="llazyneiph_LNRMonarchCareer_Career2/519363717">
+  <U n="initial_tuning">
+    <T n="_initial_value">0</T>
+    <T n="_use_stat_value_on_init">True</T>
+  </U>
+  <T n="max_value_tuning">100</T>
+  <T n="min_value_tuning">-100</T>
+</I>

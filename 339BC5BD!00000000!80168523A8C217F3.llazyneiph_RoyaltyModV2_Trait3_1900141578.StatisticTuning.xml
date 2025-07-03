@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Commodity" s="9229710874544052211" i="statistic" m="statistics.commodity" n="llazyneiph_RoyaltyModV2_Trait3/1900141578">
+  <T n="_default_convergence_value">0</T>
+  <U n="arrow_data">
+    <T n="negative_double_arrow">-20</T>
+    <T n="negative_single_arrow">-1</T>
+    <T n="negative_triple_arrow">-30</T>
+    <T n="positive_double_arrow">20</T>
+    <T n="positive_single_arrow">1</T>
+    <T n="positive_triple_arrow">30</T>
+  </U>
+  <T n="auto_satisfy_curve_random_time_offset">120</T>
+  <T n="decay_rate">1</T>
+  <U n="initial_tuning">
+    <T n="_use_auto_satisfy_curve_as_initial_value">False</T>
+    <T n="_value">0</T>
+  </U>
+  <T n="min_value_tuning">0</T>
+  <T n="ui_sort_order">0</T>
+  <U n="ui_visible_distress_threshold">0</U>
+  <T n="weight">1</T>
+  <T n="max_value_tuning">1140</T>
+  <T n="maximum_auto_satisfy_time">1140</T>
+</I>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Sulani_Add" s="17792165373841474113">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18220556717244746740<!--LN_RM:trait_Gameplay_RegionalRoyal_Sulani--></T>
+      </U>
+    </V>
+  </L>
+</I>

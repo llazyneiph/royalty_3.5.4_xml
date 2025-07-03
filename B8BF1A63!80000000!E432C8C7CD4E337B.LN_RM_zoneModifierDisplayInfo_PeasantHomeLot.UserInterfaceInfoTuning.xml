@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ZoneModifierDisplayInfo" i="user_interface_info" m="zone_modifier.zone_modifier_display_info" n="LN_RM:zoneModifierDisplayInfo_PeasantHomeLot" s="16443425949951603579">
+  <T n="zone_modifier_description">0x2E59045C<!--This lot is inhabited by the lower class, Peasants.--></T>
+  <T n="zone_modifier_icon" p="InGame\UI\Icons\LotTraits\LotTrait_CelebityHomeLot.png">2f7d0004:00000000:DDA35349C64D7385</T>
+  <T n="zone_modifier_name">0x94D62DF6<!--Peasant Home--></T>
+  <T n="zone_modifier_reference">16010688660661693130<!--LN_RM:zoneModifiers_lotTrait_PeasantHomeLotTrait--></T>
+</I>

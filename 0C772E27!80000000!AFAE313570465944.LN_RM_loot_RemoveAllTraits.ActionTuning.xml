@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_RemoveAllTraits" s="12659109708171729220">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">2522365735<!--Trait: LN_R:Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11362082755457226954<!--Trait: LN_R:Taxes_RaisedTaxes_Trait--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9236077070302406685<!--Trait: LN_RM_AddOn_Advisor--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716597<!--Trait: LN_RM_AddOn_Jester--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716598<!--Trait: LN_RM_AddOn_Nanny--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12373540430843966807<!--Trait: LN_RM_Addon_CrownRoyal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428713<!--Trait: LN_RM_Addon_RoyalPartner--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716596<!--Trait: LN_RM_Update_Advisor--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10819084224781985071<!--Trait: LN_RM_Update_Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15617705849917925242<!--Trait: LN_RM_Update_RoyalPartner--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418637<!--Trait: LN_RM_trait_BelovedMonarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517949<!--Trait: LN_RM_trait_CourtWizard--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418627<!--Trait: LN_RM_trait_CrownRoyal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418626<!--Trait: LN_RM_trait_DepisedRoyal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12433464320959832038<!--Trait: LN_RM_trait_HasHeir--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418625<!--Trait: LN_RM_trait_Heir--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428715<!--Trait: LN_RM_trait_Heir_Update--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517951<!--Trait: LN_RM_trait_IlligitimateHeir--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517946<!--Trait: LN_RM_trait_Jester--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12207149210585235831<!--Trait: LN_RM_trait_Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418630<!--Trait: LN_RM_trait_Nanny--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517944<!--Trait: LN_RM_trait_Nobility_Baron--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517940<!--Trait: LN_RM_trait_Nobility_Count--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418636<!--Trait: LN_RM_trait_PassedDownCrown--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418624<!--Trait: LN_RM_trait_RoyalPartner--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517948<!--Trait: LN_RM_trait_TrustedAdvisor--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12163164135975251309<!--Trait: llazyneiph_RoyaltyModUpdateV1_ObjectiveSet2/2199010819--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14146799988463009442<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/1026487965--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11660571597893883625<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/1484925491--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9483086746471543698<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/2041939800--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17710925192564026449<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/2234253930--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10219268655449808484<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/2923325053--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11277102020928983172<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/3724325846--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12410294650510064325<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/3833831927--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10074547009419647952<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/4236322763--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11697554903369035665<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/487919759--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11858090553911387063<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/575463300--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11043216241345647298<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/687519057--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9789573603690866118<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait/784613126--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716599<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait13--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716592<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait14--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12862563381168716593<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait15--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428719<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2 NEW NOBILITY--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12380062545142198248<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/1105076112--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16477919833040019412<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/1271991248--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18356400949864582129<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/2327577851--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16017157293250130688<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/2333772733--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13276960940921049890<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/2778751968--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10537351189112997266<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/3501734951--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10688859084861069858<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/3681670872--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11811634300701145772<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/3721607196--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15901807630457542168<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/4184127326--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12583200701915834697<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait2/4274744571--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428718<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait3--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15645596088419533698<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait3/1510502155--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428712<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait5--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14635118455827426365<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait5/1216227164--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14237402745320341174<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait5/2875157888--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13195232519067315692<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait5/2953455271--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428714<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait7--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428709<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait8--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428708<!--Trait: llazyneiph_RoyaltyModUpdateV1_Trait9--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10675457705093319064<!--Trait: llazyneiph_RoyaltyModV2_ObjectiveSet4/2774474297--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11758361100884137897<!--Trait: llazyneiph_RoyaltyModV2_Reward/3823323686--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10961792483491468395<!--Trait: llazyneiph_RoyaltyModV2_Trait/1276809541--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16635559434846684640<!--Trait: llazyneiph_RoyaltyModV2_Trait/1400338090--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10368333418948971691<!--Trait: llazyneiph_RoyaltyModV2_Trait/1739942084--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14069288023528404817<!--Trait: llazyneiph_RoyaltyModV2_Trait/1780976698--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15871976439752920804<!--Trait: llazyneiph_RoyaltyModV2_Trait/214626782--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16285336662478257519<!--Trait: llazyneiph_RoyaltyModV2_Trait/2537892014--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17081192070868209629<!--Trait: llazyneiph_RoyaltyModV2_Trait/2552694543--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18220730943967111415<!--Trait: llazyneiph_RoyaltyModV2_Trait/2675193525--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17804781937685075580<!--Trait: llazyneiph_RoyaltyModV2_Trait/3126095127--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11821719836586152723<!--Trait: llazyneiph_RoyaltyModV2_Trait/3254628971--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14795426470742961563<!--Trait: llazyneiph_RoyaltyModV2_Trait/4087083762--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14217974997293191613<!--Trait: llazyneiph_RoyaltyModV2_Trait/411637023--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16235081954971577304<!--Trait: llazyneiph_RoyaltyModV2_Trait/4236158647--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17430228062806977683<!--Trait: llazyneiph_RoyaltyModV2_Trait/672455600--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13118964246933875279<!--Trait: llazyneiph_RoyaltyModV2_Trait/80607363--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17770848075232515364<!--Trait: llazyneiph_RoyaltyModV2_Trait/952405687--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11759701286057838835<!--Trait: llazyneiph_RoyaltyModV2_Trait14/1595035075--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16243157115745232823<!--Trait: llazyneiph_RoyaltyModV2_Trait14/1750926826--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14851887816727563184<!--Trait: llazyneiph_RoyaltyModV2_Trait14/2626537129--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13682700877907956923<!--Trait: llazyneiph_RoyaltyModV2_Trait14/265574458--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16527685491595608411<!--Trait: llazyneiph_RoyaltyModV2_Trait14/3323811416--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9856734582319334669<!--Trait: llazyneiph_RoyaltyModV2_Trait14/3441969970--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15300066439928061722<!--Trait: llazyneiph_RoyaltyModV2_Trait14/355232049--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9896148661359437163<!--Trait: llazyneiph_RoyaltyModV2_Trait14/3802889880--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14884622918686123393<!--Trait: llazyneiph_RoyaltyModV2_Trait14/742797475--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517945<!--Trait: llazyneiph_RoyaltyModV2_Trait15--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11671658034987085339<!--Trait: llazyneiph_RoyaltyModV2_Trait17/1085243116--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13359798206056773661<!--Trait: llazyneiph_RoyaltyModV2_Trait17/1856868205--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9555387029400345834<!--Trait: llazyneiph_RoyaltyModV2_Trait17/2550931818--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10443271005397852372<!--Trait: llazyneiph_RoyaltyModV2_Trait17/2678947360--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16565910465390903089<!--Trait: llazyneiph_RoyaltyModV2_Trait17/3617460248--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13763972258329669536<!--Trait: llazyneiph_RoyaltyModV2_Trait17/3715986146--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11128821889675012243<!--Trait: llazyneiph_RoyaltyModV2_Trait17/3841875412--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17144206153359815181<!--Trait: llazyneiph_RoyaltyModV2_Trait17/700652243--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14550949896567068394<!--Trait: llazyneiph_RoyaltyModV2_Trait17/863213487--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517947<!--Trait: llazyneiph_RoyaltyModV2_Trait17Nobility2--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14283953286282111510<!--Trait: llazyneiph_RoyaltyModV2_Trait18/1797145665--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14968844096195947592<!--Trait: llazyneiph_RoyaltyModV2_Trait18/186356783--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9735291022400423254<!--Trait: llazyneiph_RoyaltyModV2_Trait18/2294274061--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11712007221064141915<!--Trait: llazyneiph_RoyaltyModV2_Trait18/2670482432--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16223974244750986703<!--Trait: llazyneiph_RoyaltyModV2_Trait18/3297424522--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11088361132984941189<!--Trait: llazyneiph_RoyaltyModV2_Trait18/3306098951--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16646680127243352405<!--Trait: llazyneiph_RoyaltyModV2_Trait18/3523780943--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9639628450075741636<!--Trait: llazyneiph_RoyaltyModV2_Trait18/4086723726--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15297682058422850847<!--Trait: llazyneiph_RoyaltyModV2_Trait18/921380823--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418631<!--Trait: llazyneiph_RoyaltyModV2_Trait2--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10451109062808758975<!--Trait: llazyneiph_RoyaltyModV2_Trait6/1933801998--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12283388415658499690<!--Trait: llazyneiph_RoyaltyModV2_Trait6/2339400926--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11004904033384162245<!--Trait: llazyneiph_RoyaltyModV2_Trait6/3213246606--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9717633062461686553<!--Trait: llazyneiph_RoyaltyModV2_Trait6/3234577127--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11519406136575724627<!--Trait: llazyneiph_RoyaltyModV2_Trait6/352842276--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11334186952835812828<!--Trait: llazyneiph_RoyaltyModV2_Trait9/1001833450--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16333848090361432002<!--Trait: llazyneiph_RoyaltyModV2_Trait9/1912442484--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15819899530956412266<!--Trait: llazyneiph_RoyaltyModV2_Trait9/2153323321--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17652202210943105899<!--Trait: llazyneiph_RoyaltyModV2_Trait9/2203994795--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16884827005934024908<!--Trait: llazyneiph_RoyaltyModV2_Trait9/2541906732--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15634037125648962056<!--Trait: llazyneiph_RoyaltyModV2_Trait9/2980985387--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18099511785409407106<!--Trait: llazyneiph_RoyaltyModV2_Trait9/3294041266--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16334491545182517802<!--Trait: llazyneiph_RoyaltyModV2_Trait9/3836800818--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10031941499821959025<!--Trait: llazyneiph_RoyaltyModV2_Trait9/3920175160--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15966869028339589332<!--Trait: llazyneiph_RoyaltyModV2_Trait9/3983271828--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13600519187159845913<!--Trait: llazyneiph_RoyaltyModV2_Trait9/4292226766--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12764047679365960879<!--Trait: llazyneiph_RoyaltyModV2_Trait9/780586703--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10329990268753415275<!--Trait: llazyneiph_RoyaltyModV2_Trait9/973342622--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9662374194646818909<!--Trait: llazyneiph_ServantTraitUpdate_Trait--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10751091348654291991<!--Trait: llazyneiph_crownroyaladdon_Trait/1041715365--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14623442269841319157<!--Trait: llazyneiph_crownroyaladdon_Trait/1337723191--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15511560455897925314<!--Trait: llazyneiph_crownroyaladdon_Trait/1854568074--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12027593555040890316<!--Trait: llazyneiph_crownroyaladdon_Trait/2319464887--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13369394490284160877<!--Trait: llazyneiph_crownroyaladdon_Trait/264828805--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14126865190374137930<!--Trait: llazyneiph_crownroyaladdon_Trait/2922090514--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14259999118734218466<!--Trait: llazyneiph_crownroyaladdon_Trait/3393781523--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15315546828978851958<!--Trait: llazyneiph_crownroyaladdon_Trait/3398096868--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17720945735548741827<!--Trait: llazyneiph_crownroyaladdon_Trait/3922112737--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15387790217496604639<!--Trait: llazyneiph_crownroyaladdon_Trait/3942768633--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10691496033935768685<!--Trait: llazyneiph_crownroyaladdon_Trait/4262837713--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15285553651821387525<!--Trait: llazyneiph_crownroyaladdon_Trait/483888318--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9580269385560078514<!--Trait: llazyneiph_crownroyaladdon_Trait/754932190--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9437464450040797160<!--Trait: llazyneiph_crownroyaladdon_Trait/780996193--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17721187006786962149<!--Trait: llazyneiph_nobilityrunon_Trait--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16930285855374345140<!--Trait: llazyneiph_nobilityrunon_Trait/2221615793--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14951867728946929744<!--Trait: llazyneiph_nobilityrunon_Trait/2228362065--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13330212299882210808<!--Trait: llazyneiph_nobilityrunon_Trait/2375978812--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15491714663190347220<!--Trait: llazyneiph_nobilityrunon_Trait/2697116893--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13874016113137882405<!--Trait: llazyneiph_nobilityrunon_Trait/3014907728--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14858040257268066225<!--Trait: llazyneiph_nobilityrunon_Trait/3579253599--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9840928867115504258<!--Trait: llazyneiph_nobilityrunon_Trait/3670622200--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14908240673597674229<!--Trait: llazyneiph_nobilityrunon_Trait/3709234591--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12920913964908144865<!--Trait: llazyneiph_nobilityrunon_Trait/3728221051--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15185850281954210274<!--Trait: llazyneiph_nobilityrunon_Trait/424092692--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12822004251665296173<!--Trait: llazyneiph_nobilityrunon_Trait2--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>18283942930684668445<!--Buff: llazyneiph:buff_Trait_Hidden_Archduke_Title--></T>
+          <T>13869897670350777409<!--Buff: llazyneiph:buff_Trait_Hidden_Caesar_Title--></T>
+          <T>14632342872066240382<!--Buff: llazyneiph:buff_Trait_Hidden_CourtWizard_Title--></T>
+          <T>10698672806097587168<!--Buff: llazyneiph:buff_Trait_Hidden_CrownPrince_Title--></T>
+          <T>17384259045599369502<!--Buff: llazyneiph:buff_Trait_Hidden_CrownPrincess_Title--></T>
+          <T>14077103315687219234<!--Buff: llazyneiph:buff_Trait_Hidden_CrownRoyal_Title--></T>
+          <T>12200941110884482011<!--Buff: llazyneiph:buff_Trait_Hidden_Dame_Title--></T>
+          <T>13743826443231989129<!--Buff: llazyneiph:buff_Trait_Hidden_Dauphin_Title--></T>
+          <T>15371769686695309708<!--Buff: llazyneiph:buff_Trait_Hidden_Dauphine_Title--></T>
+          <T>17355714087018983065<!--Buff: llazyneiph:buff_Trait_Hidden_Duchess_Title--></T>
+          <T>13397834465264528939<!--Buff: llazyneiph:buff_Trait_Hidden_Knight_Title--></T>
+          <T>15712974863465484380<!--Buff: llazyneiph:buff_Trait_Hidden_Earl_Title--></T>
+          <T>9820427327071616498<!--Buff: llazyneiph:buff_Trait_Hidden_Emperor_Title--></T>
+          <T>18384480445327688269<!--Buff: llazyneiph:buff_Trait_Hidden_Empress_Title--></T>
+          <T>13116633326924245321<!--Buff: llazyneiph:buff_Trait_Hidden_Grandduke_Title--></T>
+          <T>11361185401056155812<!--Buff: llazyneiph:buff_Trait_Hidden_Heir_Title--></T>
+          <T>15881015094423831076<!--Buff: llazyneiph:buff_Trait_Hidden_Illegitimate_Title--></T>
+          <T>10434139229633139603<!--Buff: llazyneiph:buff_Trait_Hidden_Jester_Title--></T>
+          <T>13861786300870541281<!--Buff: llazyneiph:buff_Trait_Hidden_Kaiser_Title--></T>
+          <T>11879169302660466356<!--Buff: llazyneiph:buff_Trait_Hidden_Kaiserin_Title--></T>
+          <T>13539877876085154560<!--Buff: llazyneiph:buff_Trait_Hidden_KingRegent_Title--></T>
+          <T>9372485864463173589<!--Buff: llazyneiph:buff_Trait_Hidden_King_Title--></T>
+          <T>13397834465264528939<!--Buff: llazyneiph:buff_Trait_Hidden_Knight_Title--></T>
+          <T>16553680135797780068<!--Buff: llazyneiph:buff_Trait_Hidden_Lady_Title--></T>
+          <T>14314254990355484865<!--Buff: llazyneiph:buff_Trait_Hidden_Lord_Title--></T>
+          <T>9815459436730440683<!--Buff: llazyneiph:buff_Trait_Hidden_Maharaja_Title--></T>
+          <T>15668419815513522919<!--Buff: llazyneiph:buff_Trait_Hidden_Maharajni_Title--></T>
+          <T>15663916965778764884<!--Buff: llazyneiph:buff_Trait_Hidden_Monarch_Title--></T>
+          <T>11584296211357794194<!--Buff: llazyneiph:buff_Trait_Hidden_Nobility_Title--></T>
+          <T>15000240079155619717<!--Buff: llazyneiph:buff_Trait_Hidden_Pharaoh_Title--></T>
+          <T>10023292963748983791<!--Buff: llazyneiph:buff_Trait_Hidden_Prince_Title--></T>
+          <T>9619704049975289632<!--Buff: llazyneiph:buff_Trait_Hidden_Princeps_Title--></T>
+          <T>11617930837158866885<!--Buff: llazyneiph:buff_Trait_Hidden_PrincessD_Title--></T>
+          <T>17350336690371461131<!--Buff: llazyneiph:buff_Trait_Hidden_PrincessR_Title--></T>
+          <T>14262326231749216501<!--Buff: llazyneiph:buff_Trait_Hidden_Princess_Title--></T>
+          <T>16227824612059242587<!--Buff: llazyneiph:buff_Trait_Hidden_Principissa_Title--></T>
+          <T>15115195649508056481<!--Buff: llazyneiph:buff_Trait_Hidden_Prinz_Title--></T>
+          <T>11847261729265753246<!--Buff: llazyneiph:buff_Trait_Hidden_QueenConsort_Title--></T>
+          <T>13641434409615275397<!--Buff: llazyneiph:buff_Trait_Hidden_QueenRegent_Title--></T>
+          <T>10052773563220994128<!--Buff: llazyneiph:buff_Trait_Hidden_Queen_Title--></T>
+          <T>14756881383659970303<!--Buff: llazyneiph:buff_Trait_Hidden_RoyalNanny_Title--></T>
+          <T>11700162028951527937<!--Buff: llazyneiph:buff_Trait_Hidden_RoyalPartner_Title--></T>
+          <T>13010655395586546236<!--Buff: llazyneiph:buff_Trait_Hidden_RoyalServant_Title--></T>
+          <T>13583006315617919562<!--Buff: llazyneiph:buff_Trait_Hidden_Sovereign_Title--></T>
+          <T>16684832241884339373<!--Buff: llazyneiph:buff_Trait_Hidden_Sultan_Title--></T>
+          <T>10951746137763985787<!--Buff: llazyneiph:buff_Trait_Hidden_Taizi_Title--></T>
+          <T>14526583973603269619<!--Buff: llazyneiph:buff_Trait_Hidden_TrustedAdvisor_Title--></T>
+          <T>17531059581630568170<!--Buff: llazyneiph:buff_Trait_Hidden_Tsar_Title--></T>
+          <T>11107977215377875275<!--Buff: llazyneiph:buff_Trait_Hidden_Tsarevich_Title--></T>
+          <T>14707533326676370708<!--Buff: llazyneiph:buff_Trait_Hidden_Tsarevna_Title--></T>
+          <T>18133648014197485370<!--Buff: llazyneiph:buff_Trait_Hidden_Tsarina_Title--></T>
+          <T>10191447721763068953<!--Buff: llazyneiph:buff_Trait_Hidden_Vicomte_Title--></T>
+          <T>16104363526074460425<!--Buff: llazyneiph:buff_Trait_QueenConsort_Title--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16059057715302457559<!--Emporer --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13336157823915216652<!--King --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16615332987895793809<!--Queen --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14440357583819299474<!--Maharaja --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17703743174726349840<!--Kaiser --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12701388312784331768<!--Caesar --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13828613032790567564<!--Pharoah--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11217529147669917549<!--LN_RM:trait_hidden_Tsarevna --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12750517017989183662<!--Maharaji --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14303339802050465041<!--Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17569674487618373912<!--Sultan--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16155741042075088415<!--Tsar--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9941998441858403264<!--Empress --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12170095839579746522<!--King Regent --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13562810058494882116<!--Queen Regent --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16357753839886964787<!--Sovereign --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18091705340579174886<!--Tsarevich --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15529301421419959156<!--Prinz --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17610489080337780658<!--Principissa --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14813281179583026976<!--Princess Dowager--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11217529147669917549<!--Tsarina --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16061442085815665068<!--Princess --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16061443185327293409<!--Princeps--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16749650935157260882<!--Prince--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17888818871983212601<!--Dauphine --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16029533806532268084<!--Dauphin--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18068200925489831127<!--Crown Princess --></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15332941061186975941<!--Crown Prince--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9924040348108735124<!--Trait: LN_RM:trait_hidden_Archduke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16810029626734468778<!--Trait: LN_RM:trait_hidden_Dame--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17033988011084298300<!--Trait: LN_RM:trait_hidden_Duchess--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16829176522224350632<!--Trait: LN_RM:trait_hidden_Duke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16310066296364158633<!--Trait: LN_RM:trait_hidden_Earl--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13810350763406394496<!--Trait: LN_RM:trait_hidden_Grandduke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11918002117868191934<!--Trait: LN_RM:trait_hidden_Knight--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12763579447097348725<!--Trait: LN_RM:trait_hidden_Lady--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12776841756354180524<!--Trait: LN_RM:trait_hidden_Lord--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13894052093350217268<!--Trait: LN_RM:trait_hidden_Vicomte--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12157269179800510575<!--Trait: LN_RM:trait_Hidden_Emperor--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9941998441858403264<!--Trait: LN_RM:trait_Hidden_Empress--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17703743174726349840<!--Trait: LN_RM:trait_Hidden_Kaiser--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16280935011384036437<!--Trait: LN_RM:trait_Hidden_Kaiserin--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13336157823915216652<!--Trait: LN_RM:trait_Hidden_King--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18412808794588270870<!--Trait: LN_RM:trait_Hidden_KingR--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14440357583819299474<!--Trait: LN_RM:trait_Hidden_Maharaja--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12750517017989183662<!--Trait: LN_RM:trait_Hidden_Maharajni--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14303339802050465041<!--Trait: LN_RM:trait_Hidden_Monarch--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13828613032790567564<!--Trait: LN_RM:trait_Hidden_Pharaoh--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16615332987895793809<!--Trait: LN_RM:trait_Hidden_Queen--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10935868003130661703<!--Trait: LN_RM:trait_Hidden_QueenConsort--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16357753839886964787<!--Trait: LN_RM:trait_Hidden_Sovereign--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17569674487618373912<!--Trait: LN_RM:trait_Hidden_Sultan--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16155741042075088415<!--Trait: LN_RM:trait_Hidden_Tsar--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10200594998973391847<!--Trait: LN_RM:trait_Hidden_Tsarina--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9924040348108735124<!--Trait: LN_RM:trait_Hidden_Archduke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16810029626734468778<!--Trait: LN_RM:trait_Hidden_Dame--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17033988011084298300<!--Trait: LN_RM:trait_Hidden_Duchess--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16829176522224350632<!--Trait: LN_RM:trait_Hidden_Duke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16310066296364158633<!--Trait: LN_RM:trait_Hidden_Earl--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13810350763406394496<!--Trait: LN_RM:trait_Hidden_Grandduke--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11918002117868191934<!--Trait: LN_RM:trait_Hidden_Knight--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12763579447097348725<!--Trait: LN_RM:trait_Hidden_Lady--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12776841756354180524<!--Trait: LN_RM:trait_Hidden_Lord--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13894052093350217268<!--Trait: LN_RM:trait_Hidden_Vicomte--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16749650935157260882<!--Trait: LN_RM:trait_Hidden_Prince--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16061442085815665068<!--Trait: LN_RM:trait_Hidden_Princess--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14813281179583026976<!--Trait: LN_RM:trait_Hidden_PrincessD--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15529301421419959156<!--Trait: LN_RM:trait_Hidden_Prinz--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18091705340579174886<!--Trait: LN_RM:trait_Hidden_Tsarevich--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11217529147669917549<!--Trait: LN_RM:trait_Hidden_Tsarevna--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12718371003381383329<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_BrindletonBay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13012145460761811200<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Britechester--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18137331904232845884<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_DelSolValley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12723251383355236296<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_EvergreenHarbour--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11334228535666532243<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_ForgottonHollow--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11610658906535710236<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Glimmerbrook--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11546140636160152711<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_HenfordOnBagley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12559215512659531597<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MagnoliaPromenade--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10666011006382832382<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MtKorembi--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9223523606348370021<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Newcrest--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16301398033342585069<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_OasisSprings--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18336668293794094233<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_SanMyshuno--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10487952499091052980<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Strangerville--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18220556717244746740<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Sulani--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17802413420560545536<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_WillowCreek--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14173425402441011111<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Windenburg--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14626190445165827552<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_BrindletonBay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17740514494657625159<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Britechester--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14508045219038410595<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_DelSolValley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14175300689503749547<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_EvergreenHarbour--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9594449640437245698<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_ForgottonHollow--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17035809236588526171<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_GlimmerBrook--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10253098092884505214<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Henford-On-Bagley--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11534279211417906380<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MagProm--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17101822610265904767<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MtKorembi--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10347643485507072274<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Newcrest--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10431174495731291666<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_OasisSprings--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13838524943721669770<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_SanMyshuno--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16654156739913003289<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_StrangerVille--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13216143709010502771<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Sulani--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12334795676045552109<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_WillowCreek--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11569768314501697744<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Windenburg--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14696518045046305264<!--Trait: LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">11901379149849121721<!--Trait:LN_RM:trait_Has_LadyinWaiting--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">13528650824898995800<!--Trait: LN_RM:trait_LadyinWaiting--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+          </U>
+        </V>
+        <V t="trait_remove">
+          <U n="trait_remove">
+            <E n="subject">Actor</E>
+            <V n="trait" t="specific_trait">
+              <U n="specific_trait">
+                <T n="specific_trait">16934527172051717879<!--LN_RM:Trait_Regent--></T>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17413983401286710296<!--LN_RM:trait_Hidden_Regent_Inactive--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16816439335000103909<!--LN_RM:trait_Hidden_Regent_Active--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="all_from_list">
+          <U n="all_from_list">
+            <L n="trait_list">
+              <T>16714445123849750783<!--LN_RM:trait_Hidden_Heir_Regent_RelinquishedThrone--></T>
+              <T>12985326292178063475<!--LN_RM:trait_Hidden_Heir_Regent_DeniedThrone--></T>
+              <T>10808559671999537650<!--LN_RM:trait_Hidden_Heir_CanTakeTheThrone--></T>
+              <T>9730910459891574270<!--LN_RM:trait_Hidden_HasRegent--></T>
+              <T>17302184219044920570<!--LN_RM:trait_Hidden_Epitropos_Inactive--></T>
+              <T>16099383336291425651<!--LN_RM:trait_Hidden_Epitropos_Active--></T>
+              <T>9814130687659037187<!--LN_RM:Trait_Epitropos--></T>
+              <T>13645459991386268997<!--LN_RM:Trait_Hidden_Throne_Ownership--></T>
+              <T>11640211595627894978<!--LN_RM:trait_Hidden_RoyaltyMod_MasterTrait--></T>
+              <T>9721104861993456532<!--LN_RM:trait_Peasant_NoAC--></T>
+              <T>14107933054560179944<!--LN_RM:Trait_HasHadStartUpNotification_Hidden--></T>
+              <T>14049346331606248604<!--LN_RM:Trait_CustomPlumbob_RoyalPartner--></T>
+              <T>17710782957801145557<!--LN_RM:Trait_CustomPlumbob_Monarch--></T>
+              <T>14180340514794941805<!--LN_RM:Trait_CustomPlumbob_Heir--></T>
+              <T>15650362990162681224<!--LN_RM:trait_PastMonarch--></T>
+              <T>15216438015075392401<!--LN_RM:Traits_Hidden_RoyalsNeedPermissionToMarry--></T>
+              <T>14857531498823714897<!--LN_RM:Traits_Hidden_PeasantsNeedPermissionToMarry_MONARCHTRAIT--></T>
+              <T>14857531498823714897<!--LN_RM:Traits_Hidden_PeasantsNeedPermissionToMarry_MONARCHTRAIT--></T>
+              <T>14698702908784288472<!--LN_RM:Traits_Hidden_NoblesNeedPermissionToMarry--></T>
+              <T>10109684411800487415<!--LN_RM:trait_MissingRoyal--></T>
+              <T>12614344152222144779<!--LN_RM:trait_LongLostRoyal--></T>
+              <T>12976755273410611948<!--LN_RM:trait_RoyaltyModCheats_Enabled--></T>
+              <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+              <T>16781183375595261035<!--LN_RM:trait_Hidden_isNoble--></T>
+              <T>16718947220354136652<!--LN_RM:Trait_MissingRoyal_CanHavePressConference_Hidden--></T>
+              <T>12027857112022914747<!--LN_RM:trait_HouseofLastName_Weak--></T>
+              <T>13142979771255742454<!--LN_RM:trait_HouseofLastName_Strong--></T>
+              <T>16058742822404812509<!--LN_RM:trait_HouseofLastName_Ancient--></T>
+              <T>16926027797852273948<!--LN_RM:trait_Gameplay_GentryClass--></T>
+              <T>15547011496599383446<!--LN_RM:trait_Gameplay_MiddleClass--></T>
+              <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+              <T>11525636508231686360<!--LN_RM:Trait_Hidden_HasDebuted--></T>
+              <T>13834398287225840391<!--LN_RM:trait_Hidden_LIW_Following--></T>
+              <T>18137332847401041450<!--LN_RM:trait_Hidden_Knight_Following--></T>
+              <T>11416779208797170307<!--LN_RM:trait_Hidden_Being_Following_LIW--></T>
+              <T>17699167620328815714<!--LN_RM:trait_Hidden_Being_Following--></T>
+              <T>18164583978991418624<!--LN_RM_trait_RoyalPartner--></T>
+              <T>2522365735<!--LN_RM_trait_Monarch--></T>
+              <T>18164583978991418627<!--LN_RM_trait_CrownRoyal--></T>
+              <T>15679517360005879313<!--LN_RM:trait_RMTrader--></T>
+              <T>15327286740787289333<!--LN_RM:trait_HasMet_Jacques--></T>
+              <T>11763951384258994257<!--Trait: LN_RM:Trait_Hidden_AddRelationship_AskForMoney--></T>
+              <T>16732620271310803875<!--Trait: LN_RM:Trait_Hidden_AddRelationship_Bad_PoorCulture--></T>
+              <T>17507218048743809138<!--Trait: LN_RM:Trait_Hidden_AddRelationship_Bad_StrongLetter--></T>
+              <T>13646996427300522365<!--Trait: LN_RM:Trait_Hidden_AddRelationship_Bad_ThreatenMilitaryAction--></T>
+              <T>14300295318240378460<!--Trait: LN_RM:Trait_Hidden_AddRelationship_ComplimentExports--></T>
+              <T>18397830218311342955<!--Trait: LN_RM:Trait_Hidden_AddRelationship_ComplimentLands--></T>
+              <T>10139589389471318396<!--Trait: LN_RM:Trait_Hidden_AddRelationship_GoodFaith--></T>
+              <T>9356333367294970741<!--Trait: LN_RM:Trait_Hidden_AddRelationship_Greetings--></T>
+              <T>16372133696650817000<!--Trait: LN_RM:Trait_Hidden_AddRelationship_PoliticalMarriage--></T>
+              <T>18106274279351792859<!--Trait: LN_RM:Trait_Hidden_AddRelationship_SendGift--></T>
+              <T>14591091253349586639<!--Trait: LN_RM:Trait_Hidden_AddRelationship_SendGiftForBirth--></T>
+              <T>16962816606884761090<!--Trait: LN_RM:Trait_Hidden_Good_Relations_BrindletonBay--></T>
+              <T>13221429472223528961<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Britechester--></T>
+              <T>14990525422663864276<!--Trait: LN_RM:Trait_Hidden_Good_Relations_ChestnutRidge--></T>
+              <T>15501970602919609760<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Copperdale--></T>
+              <T>12798097535817045733<!--Trait: LN_RM:Trait_Hidden_Good_Relations_DelSolValley--></T>
+              <T>12453849711861488893<!--Trait: LN_RM:Trait_Hidden_Good_Relations_EvergreenHarbour--></T>
+              <T>13972909310356253796<!--Trait: LN_RM:Trait_Hidden_Good_Relations_ForgottonHollow--></T>
+              <T>11574293725587461477<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Glimmerbrook--></T>
+              <T>17097491540164964411<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Henford--></T>
+              <T>17606934294082109162<!--Trait: LN_RM:Trait_Hidden_Good_Relations_MagProm--></T>
+              <T>14325833887050002633<!--Trait: LN_RM:Trait_Hidden_Good_Relations_MoonwoodMill--></T>
+              <T>15667387693156500865<!--Trait: LN_RM:Trait_Hidden_Good_Relations_MtKorembi--></T>
+              <T>14283605724892132532<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Newcrest--></T>
+              <T>17569175503461512592<!--Trait: LN_RM:Trait_Hidden_Good_Relations_OasisSprings--></T>
+              <T>14511772722774471148<!--Trait: LN_RM:Trait_Hidden_Good_Relations_SanMyshuno--></T>
+              <T>9760939427116679878<!--Trait: LN_RM:Trait_Hidden_Good_Relations_SanSequoia--></T>
+              <T>11187305317697304677<!--Trait: LN_RM:Trait_Hidden_Good_Relations_SlyvanGlade--></T>
+              <T>11600555999501378019<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Strangerville--></T>
+              <T>12098918467614220513<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Sulani--></T>
+              <T>11944227074052034171<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Tartosa--></T>
+              <T>10354682928558322620<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Tomarang--></T>
+              <T>12127068779548187639<!--Trait: LN_RM:Trait_Hidden_Good_Relations_WillowCreek--></T>
+              <T>17021425869562826470<!--Trait: LN_RM:Trait_Hidden_Good_Relations_Windenburg--></T>
+              <T>14000208159364450781<!--Trait: LN_RM:Trait_Hidden_Good_Relations_enamorada--></T>
+              <T>11120489162132397761<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_BrindletonBay--></T>
+              <T>17433721911161101728<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Britechester--></T>
+              <T>16495535465529676943<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_ChestnutRidge--></T>
+              <T>10374288924030546229<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Copperdale--></T>
+              <T>13834822168650617820<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_DelSolValley--></T>
+              <T>17902285902914670952<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_EvergreenHarbour--></T>
+              <T>14380150061448545715<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_ForgottonHollow--></T>
+              <T>15549597611472250300<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Glimmerbrook--></T>
+              <T>9534548794335407996<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Henford--></T>
+              <T>16742315907179834065<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_MagProm--></T>
+              <T>11745480683412987624<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_MoonwoodMill--></T>
+              <T>11621791132857397790<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_MtKorembi--></T>
+              <T>11862891268247601669<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Newcrest--></T>
+              <T>14355119346852846477<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_OasisSprings--></T>
+              <T>9491608524495238201<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_SanMyshuno--></T>
+              <T>15921524348176205015<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_SanSequoia--></T>
+              <T>9938936748040234146<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_SlyvanGlade--></T>
+              <T>13161254535264283860<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Strangerville--></T>
+              <T>10462375264523939988<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Sulani--></T>
+              <T>16186715170361571624<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Tartosa--></T>
+              <T>12156178053425740793<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Tomarang--></T>
+              <T>15391164259591910688<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_WillowCreek--></T>
+              <T>16210542324926628679<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_Windenburg--></T>
+              <T>15769183147535915674<!--Trait: LN_RM:Trait_Hidden_Poor_Relations_enamorada--></T>
+              <T>18147144078889219400<!--Trait: LN_RM:Trait_Hidden_Royal_HadBaby--></T>
+              <T>15250211137381175228<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_AskForMoney--></T>
+              <T>14881430418449958746<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_Bad_PoorCulture--></T>
+              <T>10115094772946370753<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_Bad_StrongLetter--></T>
+              <T>17863623833871238582<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_Bad_ThreatenMilitaryAction--></T>
+              <T>11821492201744740853<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_ComplimentExports--></T>
+              <T>15822421456640429558<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_ComplimentLands--></T>
+              <T>10006836989588533097<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_GoodFaith--></T>
+              <T>16456987521581908536<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_Greetings--></T>
+              <T>16299249204091120961<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_PoliticalMarriage--></T>
+              <T>15300252433601929448<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_SendGift--></T>
+              <T>13135539414787174276<!--Trait: LN_RM:Trait_Hidden_WaitingForReply_SendGiftForBirth--></T>
+              <T>11851021178021726311<!--Trait: LN_RM:hidden_trait_CivicProjects_AgoraExpansion--></T>
+              <T>13649881462059746320<!--Trait: LN_RM:hidden_trait_CivicProjects_Amphitheatre--></T>
+              <T>10283038718219159635<!--Trait: LN_RM:hidden_trait_CivicProjects_Aqueducts--></T>
+              <T>12827962524857155940<!--Trait: LN_RM:hidden_trait_CivicProjects_Gymnasium--></T>
+              <T>12351232775576430665<!--Trait: LN_RM:hidden_trait_CivicProjects_Library--></T>
+              <T>12929694369839292051<!--Trait: LN_RM:hidden_trait_CivicProjects_PublicGardens--></T>
+              <T>12639553536094321693<!--Trait: LN_RM:hidden_trait_CivicProjects_Roads--></T>
+              <T>14318527402461337146<!--Trait: LN_RM:hidden_trait_CivicProjects_Shipyard--></T>
+              <T>15812854048338386594<!--Trait: LN_RM:hidden_trait_Laws_BrindletonBay--></T>
+              <T>12882877446242661921<!--Trait: LN_RM:hidden_trait_Laws_Britechester--></T>
+              <T>10375636176423431796<!--Trait: LN_RM:hidden_trait_Laws_ChestnutRidge--></T>
+              <T>10219343938901816256<!--Trait: LN_RM:hidden_trait_Laws_Copperdale--></T>
+              <T>10456691420802419205<!--Trait: LN_RM:hidden_trait_Laws_DelSolValley--></T>
+              <T>9461229853074959741<!--Trait: LN_RM:hidden_trait_Laws_Enamorada--></T>
+              <T>9497784789859345437<!--Trait: LN_RM:hidden_trait_Laws_EvergreenHarbour--></T>
+              <T>13745652304944346884<!--Trait: LN_RM:hidden_trait_Laws_ForgottonHollow--></T>
+              <T>10859419598313382789<!--Trait: LN_RM:hidden_trait_Laws_Glimmerbrook--></T>
+              <T>12703886755338023387<!--Trait: LN_RM:hidden_trait_Laws_Henford--></T>
+              <T>13213329509255167882<!--Trait: LN_RM:hidden_trait_Laws_MagProm--></T>
+              <T>11984709247012198377<!--Trait: LN_RM:hidden_trait_Laws_MoonwoodMill--></T>
+              <T>16442818197528197409<!--Trait: LN_RM:hidden_trait_Laws_MtKorembi--></T>
+              <T>15310324861958462420<!--Trait: LN_RM:hidden_trait_Laws_Newcrest--></T>
+              <T>15228050863423708336<!--Trait: LN_RM:hidden_trait_Laws_OasisSprings--></T>
+              <T>13730483851276568588<!--Trait: LN_RM:hidden_trait_Laws_SanMyshuno--></T>
+              <T>15069596434087432934<!--Trait: LN_RM:hidden_trait_Laws_SanSequoia--></T>
+              <T>12398861903614107141<!--Trait: LN_RM:hidden_trait_Laws_SlyvanGlade--></T>
+              <T>11024555871769058435<!--Trait: LN_RM:hidden_trait_Laws_Strangerville--></T>
+              <T>10727314517086301953<!--Trait: LN_RM:hidden_trait_Laws_Sulani--></T>
+              <T>10790061891062414619<!--Trait: LN_RM:hidden_trait_Laws_Tartosa--></T>
+              <T>14759992928774307292<!--Trait: LN_RM:hidden_trait_Laws_Tomarang--></T>
+              <T>18106091392480417542<!--Trait: LN_RM:hidden_trait_Laws_Windenburg--></T>
+              <T>14626190445165827552<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_BrindletonBay--></T>
+              <T>17740514494657625159<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Britechester--></T>
+              <T>13602837580180721942<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_ChestnutRidge--></T>
+              <T>16242087505563243094<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Copperdale--></T>
+              <T>14508045219038410595<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_DelSolValley--></T>
+              <T>15222630183638883799<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Enamorada--></T>
+              <T>14175300689503749547<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_EvergreenHarbour--></T>
+              <T>9594449640437245698<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_ForgottonHollow--></T>
+              <T>17035809236588526171<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_GlimmerBrook--></T>
+              <T>10253098092884505214<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Henford-On-Bagley--></T>
+              <T>11534279211417906380<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MagProm--></T>
+              <T>17964296791800256747<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MoonwoodMill--></T>
+              <T>17101822610265904767<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_MtKorembi--></T>
+              <T>10347643485507072274<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Newcrest--></T>
+              <T>10431174495731291666<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_OasisSprings--></T>
+              <T>13838524943721669770<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_SanMyshuno--></T>
+              <T>10697094807666182272<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_SanSequoia--></T>
+              <T>16654156739913003289<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_StrangerVille--></T>
+              <T>13216143709010502771<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Sulani--></T>
+              <T>11851472183372590701<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Tartosa--></T>
+              <T>11169297784978944182<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Tomarang--></T>
+              <T>12334795676045552109<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_WillowCreek--></T>
+              <T>11569768314501697744<!--Trait: LN_RM:trait_Gameplay_RegionalNoble_Windenburg--></T>
+              <T>10934305147969868194<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_BrindletonBay1--></T>
+              <T>13012145460761811200<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Britechester--></T>
+              <T>10399843927262316143<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_ChestnutRidge--></T>
+              <T>14704745663457135509<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Copperdale--></T>
+              <T>18137331904232845884<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_DelSolValley--></T>
+              <T>17914366100767453562<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Enamorada--></T>
+              <T>12723251383355236296<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_EvergreenHarbour--></T>
+              <T>11334228535666532243<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_ForgottonHollow--></T>
+              <T>11610658906535710236<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Glimmerbrook--></T>
+              <T>11546140636160152711<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_HenfordOnBagley--></T>
+              <T>12559215512659531597<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MagnoliaPromenade--></T>
+              <T>15562611637476342088<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MoonwoodMill--></T>
+              <T>10666011006382832382<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_MtKorembi--></T>
+              <T>9223523606348370021<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Newcrest--></T>
+              <T>16301398033342585069<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_OasisSprings--></T>
+              <T>18336668293794094233<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_SanMyshuno--></T>
+              <T>9692745544399636279<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_SanSequoia--></T>
+              <T>10487952499091052980<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Strangerville--></T>
+              <T>18220556717244746740<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Sulani--></T>
+              <T>11426466146362300424<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Tartosa--></T>
+              <T>9516810391526508889<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Tomarang--></T>
+              <T>17802413420560545536<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_WillowCreek--></T>
+              <T>14173425402441011111<!--Trait: LN_RM:trait_Gameplay_RegionalRoyal_Windenburg--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

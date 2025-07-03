@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ZoneModifier" i="zone_modifier" m="zone_modifier.zone_modifier" n="LN_RM:Castle_LotTrait" s="17243466582651169863">
+    <L n="enter_lot_loot">
+    <T>13902253219878640122<!--LN_RM:loot_Buff_Lottrait_RR--></T>
+  </L>
+  <L n="exit_lot_loot">
+    <T>17982002036222498737<!--LN_RM:loot_remove_buff_lottrait_RR--></T>
+  </L>
+  <U n="schedule">
+    <L n="schedule_entries">
+      <U>
+        <L n="actions">
+          <V t="literal">
+            <V n="literal" t="loot">
+              <U n="loot">
+                <V n="loot_distribution" t="active_sim_only" />
+                <L n="loots">
+                  <T>199881<!--loot_Buff_CelebrityHomeLot_SituationCreate_Tour--></T>
+                </L>
+              </U>
+            </V>
+          </V>
+        </L>
+        <U n="days_available">
+          <T n="0 SUNDAY">True</T>
+          <T n="1 MONDAY">False</T>
+          <T n="2 TUESDAY">True</T>
+          <T n="3 WEDNESDAY">False</T>
+          <T n="4 THURSDAY">False</T>
+          <T n="5 FRIDAY">True</T>
+          <T n="6 SATURDAY">False</T>
+        </U>
+        <T n="duration">4</T>
+        <U n="start_time">
+          <T n="hour">10</T>
+          <T n="minute">18</T>
+        </U>
+      </U>
+    </L>
+  </U>
+  <V n="venue_requirements" t="allowed_venue_types">
+    <L n="allowed_venue_types">
+      <T>28614<!--venue_residential--></T>
+      <T>229251<!--venue_residential_tinyhome--></T>
+    </L>
+  </V>
+</I>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM_trait_Monarch" s="27419">
+  <T n="display_name">0xAE0252CE<!--Monarch--></T>
+  <T n="display_name_gender_neutral">0xAE0252CE</T>
+  <T n="icon">00B2D882:00000000:8C4DA10D37C494FA<!--Monarch Crown--></T>
+  <T n="trait_description">0x869721E6</T>
+  <E n="trait_type">PERSONALITY</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>15812302489956005882<!--LN_RM:loot_AddTrait_isMonarch--></T>
+    </L>
+  </V>
+  <L n="tags">
+    <E>TraitGroup_Lifestyle</E>
+  </L>
+  <V n="ui_category" t="ui_trait_category_tag" />
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_origin_description">0xFA3EA0FD</T>
+</I>

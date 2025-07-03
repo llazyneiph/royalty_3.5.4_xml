@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="InteractionPickerSuperInteraction" i="interaction" m="interactions.picker.interaction_picker" n="LN_RM:Picker_CheatsMenu_Sim" s="16475846849958465939">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x9B098AEB<!--Toggle Cheats--></T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="picker_dialog">
+    <L n="dialog_options">
+      <E>SMALL_TITLE</E>
+    </L>
+    <V n="icon" t="enabled">
+      <V n="enabled" t="participant">
+        <U n="participant">
+          <L n="participant_type">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V n="icon_override_participant" t="enabled">
+      <E n="enabled">TargetSim</E>
+    </V>
+    <V n="max_selectable" t="static_count">
+      <U n="static_count">
+        <T n="exclude_previously_selected">False</T>
+        <T n="number_selectable">1</T>
+      </U>
+    </V>
+    <T n="min_selectable">1</T>
+    <V n="text_tokens" t="enabled">
+      <U n="enabled">
+        <L n="tokens">
+          <V t="participant_type">
+            <U n="participant_type">
+              <V n="objects" t="from_participant">
+                <U n="from_participant">
+                  <E n="participant">TargetSim</E>
+                </U>
+              </V>
+            </U>
+          </V>
+        </L>
+      </U>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x9B098AEB<!--Toggle Cheats--></T>
+    </V>
+  </U>
+  <L n="possible_actions">
+    <V t="literal">
+      <!--Soldiers-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17441864877044919839<!--LN_RM:immediate_Cheats_Soldiers--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:FA54892337B6D69E</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x63D319A8<!--Add Soldiers to Platoon--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <T n="num_blacklist_allowed">0</T>
+                  <T n="num_whitelist_required">1</T>
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>3490462410<!--LN_RM:trait_Emperor--></T>
+                    <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Treasury-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17042081616111104001<!--LN_RM:immediate_Cheats_Treasury--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8C2B1701D8BC0F63</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x579FA7C0<!--Add Coins to Treasury--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <T n="num_blacklist_allowed">0</T>
+                  <T n="num_whitelist_required">1</T>
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>3490462410<!--LN_RM:trait_Emperor--></T>
+                    <T>10499057685797115789<!--LN_RM:Trait_Hidden_isMonarch--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--WO Shoes-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15754077044525272108<!--LN_RM:immediate_Peasant_ShoesToggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:0e1c04d8f82406a3</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x4C09AFF6<!--Turn On Worn out Shoes--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>11842970793886580620<!--LN_RM:trait_WornOutShoes_On--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--WO Shoes-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15754077044525272108<!--LN_RM:immediate_Peasant_ShoesToggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:0e1c04d8f82406a3</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xA9400026<!--Turn Off Worn out Shoes--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>11842970793886580620<!--LN_RM:trait_WornOutShoes_On--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal React-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12884471913889560800<!--LN_RM:immediate_Settings_RoyalReact_Toggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xDA10194A<!--Turn On Reaction to Royalty--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <L n="blacklist">
+                    <T>9630847952291711560<!--LN_RM:Buff_RoyalFan_TurnedOn_Hidden--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal React-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12884471913889560800<!--LN_RM:immediate_Settings_RoyalReact_Toggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8957C280<!--Turn Off Reaction to Royalty--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <E n="subject">TargetSim</E>
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>9630847952291711560<!--LN_RM:Buff_RoyalFan_TurnedOn_Hidden--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal React-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11374679120481297205<!--LN_RM:immediate_Settings_RoyalReact_RoyalSim_Toggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x617F238D<!--Enable Other Sims Reaction to this Sim--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="sim_info">
+                <U n="sim_info">
+                  <V n="is_active_sim" t="enabled">
+                    <T n="enabled">True</T>
+                  </V>
+                  <E n="who">TargetSim</E>
+                </U>
+              </V>
+              <V t="buff">
+                <U n="buff">
+                  <L n="blacklist">
+                    <T>16695359564597275527<!--LN_RM:Buff_RoyalFan_SimIsRoyal_TurnedOn_Hidden--></T>
+                  </L>
+                  <E n="subject">PickedSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal React-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11374679120481297205<!--LN_RM:immediate_Settings_RoyalReact_RoyalSim_Toggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x0024EA39<!--Disable Other Sims Reaction to this Sim--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="buff">
+                <U n="buff">
+                  <E n="subject">TargetSim</E>
+                  <V n="whitelist" t="enabled">
+                    <L n="enabled">
+                      <T>16695359564597275527<!--LN_RM:Buff_RoyalFan_SimIsRoyal_TurnedOn_Hidden--></T>
+                    </L>
+                  </V>
+                </U>
+              </V>
+              <V t="sim_info">
+                <U n="sim_info">
+                  <V n="is_active_sim" t="enabled">
+                    <T n="enabled">True</T>
+                  </V>
+                  <E n="who">PickedSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--AutoClasses-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14765122582000881689<!--LN_RM:immediate_Settings_AutoClass_Toggle--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1D501EB3<!--Turn Auto Classes On or Off--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="sim_info">
+                <U n="sim_info">
+                  <V n="is_active_sim" t="enabled">
+                    <T n="enabled">True</T>
+                  </V>
+                  <E n="who">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Gentry-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">9713327205830264884<!--LN_RM:immediate_Cheats_Toggle_Gentry--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xCFE3FE52<!--Add Gentry Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16926027797852273948<!--LN_RM:trait_Gameplay_GentryClass--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Gentry-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">9713327205830264884<!--LN_RM:immediate_Cheats_Toggle_Gentry--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x715A0779<!--Remove Gentry Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>16926027797852273948<!--LN_RM:trait_Gameplay_GentryClass--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Middle Class-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17602337809134829926<!--LN_RM:immediate_Cheats_Toggle_MiddleClass--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x5ED8D430<!--Add Middle Class Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>15547011496599383446<!--LN_RM:trait_Gameplay_MiddleClass--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Middle Class-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17602337809134829926<!--LN_RM:immediate_Cheats_Toggle_MiddleClass--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x86933445<!--Remove Middle Class Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>15547011496599383446<!--LN_RM:trait_Gameplay_MiddleClass--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Peasant-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16527422852337705819<!--LN_RM:immediate_Cheats_Toggle_Peasant--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xF9D811D5<!--Add Peasant Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Peasant-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16527422852337705819<!--LN_RM:immediate_Cheats_Toggle_Peasant--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x9192BF95<!--Remove Peasant Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>11604278756132931115<!--LN_RM:trait_Gameplay_Peasant--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Baron-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13344291940762386659<!--LN_RM:immediate_Cheats_Toggle_Baron--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x5DF5F2AD<!--Add Baron Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Baron-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13344291940762386659<!--LN_RM:immediate_Cheats_Toggle_Baron--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xA479681E<!--Remove Baron Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Beloved Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14913241899020222916<!--LN_RM:immediate_Cheats_Toggle_BelovedMonarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:D644FD3D88BEEB8A</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1C79205E<!--Add Beloved Monarch Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>11758361100884137897<!--llazyneiph_RoyaltyMod_Trait_Beloved by the People_Gameplay--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Beloved Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14913241899020222916<!--LN_RM:immediate_Cheats_Toggle_BelovedMonarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:D644FD3D88BEEB8A</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x43338BD3<!--Remove Beloved Monarch Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>11758361100884137897<!--llazyneiph_RoyaltyMod_Trait_Beloved by the People_Gameplay--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Count-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16010441560894548210<!--LN_RM:immediate_Cheats_Toggle_Count--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x717126B8<!--Add Count Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Count-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16010441560894548210<!--LN_RM:immediate_Cheats_Toggle_Count--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x4CECA27B<!--Remove Count Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Crown Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17583588783389286563<!--LN_RM:immediate_Cheats_Toggle_CrownRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F25F05FAF1155353</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x962B3384<!--Add Crown Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418627<!--LN_RM_trait_CrownRoyal--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Crown Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17583588783389286563<!--LN_RM:immediate_Cheats_Toggle_CrownRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F25F05FAF1155353</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x4C35D7AD<!--Remove Crown Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>18164583978991418627<!--LN_RM_trait_CrownRoyal--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Despised Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">18349933707943913411<!--LN_RM:immediate_Cheats_Toggle_DespisedRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:E5EDC4DA729DBC9A</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x551878E5<!--Add Despised Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418626<!--LN_RM_trait_DepisedRoyal--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Despised Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">18349933707943913411<!--LN_RM:immediate_Cheats_Toggle_DespisedRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:E5EDC4DA729DBC9A</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x54B707AA<!--Remove Despised Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>18164583978991418626<!--LN_RM_trait_DepisedRoyal--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Heir-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17531874304624060569<!--LN_RM:immediate_Cheats_Toggle_Heir--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:C8B8F31A61AC2C9D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x1CD0225B<!--Add Heir Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Heir-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">17531874304624060569<!--LN_RM:immediate_Cheats_Toggle_Heir--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:C8B8F31A61AC2C9D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x00CA8DCE<!--Remove Heir Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Illigitimate Heir-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14168602368707614213<!--LN_RM:immediate_Cheats_Toggle_Illigitimate--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F25F05FAF1155353</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x9C2B3D1A<!--Add Illegitimate Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Illigitimate Heir-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">14168602368707614213<!--LN_RM:immediate_Cheats_Toggle_Illigitimate--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F25F05FAF1155353</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x5635E7EF<!--Remove Illegitimate Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>16258617669891517951<!--LN_RM_trait_IlligitimateHeir_Gameplay--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Inherited Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16253574950911973305<!--LN_RM:immediate_Cheats_Toggle_InheritedMonarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8C4DA10D37C494FA</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x39E8D90B<!--Add Monarch Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418636<!--Inherited Monarch--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Inherited Monarch-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16253574950911973305<!--LN_RM:immediate_Cheats_Toggle_InheritedMonarch--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:8C4DA10D37C494FA</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x69BFA80C<!--Remove Monarch Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>18164583978991418636<!--Inherited Monarch--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Knight-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15978172590245647910<!--LN_RM:immediate_Cheats_Toggle_Knight--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:859aaedca38d9518</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x2C69F00C<!--Add Knight Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>11918002117868191934<!--LN_RM:trait_Hidden_Knight--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Knight-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">15978172590245647910<!--LN_RM:immediate_Cheats_Toggle_Knight--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:859aaedca38d9518</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xEEC4D62A<!--Remove Knight Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>11918002117868191934<!--LN_RM:trait_Hidden_Knight--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--LIW-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10722545287231496743<!--LN_RM:immediate_Cheats_Toggle_LIW--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F5129DC6EEA3756D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x3B0821CF<!--Add Lady-in-Waiting Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>13528650824898995800<!--LN_RM:trait_LadyinWaiting--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--LIW-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">10722545287231496743<!--LN_RM:immediate_Cheats_Toggle_LIW--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:F5129DC6EEA3756D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xB4CD2C23<!--Remove Lady-in-Waiting Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>13528650824898995800<!--LN_RM:trait_LadyinWaiting--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Marquis-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16442427811745714405<!--LN_RM:immediate_Cheats_Toggle_Marquis--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xE6886C47<!--Add Marquis Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Marquis-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">16442427811745714405<!--LN_RM:immediate_Cheats_Toggle_Marquis--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:93A4361572F53EEB</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xE130A698<!--Remove Marquis Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Missing Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">9391513919763044728<!--LN_RM:immediate_Cheats_Toggle_MissingRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:16CFCEE791E1353D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xD427CA88<!--Add Missing Royal Trait (For Aspiration Added In-Game)--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>10109684411800487415<!--LN_RM:trait_MissingRoyal--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Missing Royal-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">9391513919763044728<!--LN_RM:immediate_Cheats_Toggle_MissingRoyal--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:16CFCEE791E1353D</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xAF3A5E85<!--Remove Missing Royal Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>10109684411800487415<!--LN_RM:trait_MissingRoyal--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Personal Knight-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11009313030849743542<!--LN_RM:immediate_Cheats_Toggle_PersonalKnight--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:859aaedca38d9518</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x34E12844<!--Add Personal Knight Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>14696518045046305264<!--LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Personal Knight-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">11009313030849743542<!--LN_RM:immediate_Cheats_Toggle_PersonalKnight--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:859aaedca38d9518</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x8A726FC2<!--Remove Personal Knight Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>14696518045046305264<!--LN_RM:trait_Hidden_PersonalGuard_Knight--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal Partner-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12613736288999775736<!--LN_RM:immediate_Cheats_Toggle_RoyalPartner--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:C295346C643712D8</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x872B1C29<!--Add Royal Partner Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>18164583978991418624<!--LN_RM_trait_RoyalPartner--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Royal Partner-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">12613736288999775736<!--LN_RM:immediate_Cheats_Toggle_RoyalPartner--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:C295346C643712D8</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x5B35EF0C<!--Remove Royal Partner Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <E n="subject">TargetSim</E>
+                  <L n="whitelist_traits">
+                    <T>18164583978991418624<!--LN_RM_trait_RoyalPartner--></T>
+                  </L>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Squire-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13698273653331998656<!--LN_RM:immediate_Cheats_Toggle_Squire--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:EC3C9BE1F5D07743</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0x63EC8D7A<!--Add Squire Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="blacklist_traits">
+                    <T>16611393172144557403<!--LN_RM:trait_Squire--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="literal">
+      <!--Squire-->
+      <U n="literal">
+        <L n="continuation">
+          <U>
+            <T n="affordance">13698273653331998656<!--LN_RM:immediate_Cheats_Toggle_Squire--></T>
+          </U>
+        </L>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="FlagNoChange_True_128">2f7d0004:00000000:EC3C9BE1F5D07743</T>
+            </U>
+          </V>
+        </V>
+        <V n="name" t="enabled">
+          <T n="enabled">0xBF62AA10<!--Remove Squire Trait--></T>
+        </V>
+        <V n="visibility_tests" t="enabled">
+          <L n="enabled">
+            <L>
+              <V t="trait">
+                <U n="trait">
+                  <L n="whitelist_traits">
+                    <T>16611393172144557403<!--LN_RM:trait_Squire--></T>
+                  </L>
+                  <E n="subject">TargetSim</E>
+                </U>
+              </V>
+            </L>
+          </L>
+        </V>
+      </U>
+    </V>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals" />
+</I>

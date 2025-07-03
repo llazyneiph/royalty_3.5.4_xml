@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="LN_RM:ServantCatagories_NeedsToggle" s="16382287998177955954">
+  <T n="_display_name">0x6D6F8879<!--Servant Needs--></T>
+  <T n="_parent">16583766298954092358<!--LN_RM:ServantCatagories_Management--></T>
+  <T n="_icon" p="InEP01\UI\Icons\Career\Career_Scientist_Main.png">2f7d0004:00000000:B613158B4E6AC33F</T>
+</I>

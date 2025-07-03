@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_Weekly_Welfare" s="14126450549274313854">
+  <L n="loot_actions">
+  <V t="statistics">
+    <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+            <T n="advertise">True</T>
+            <T n="stat">9225212728303754861<!--LN_RM:commodity_WelfareCheck_Timer--></T>
+        </U>
+    </V>
+</V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">50</T>
+            <T n="upper_bound">250</T>
+          </U>
+        </V>
+        <V n="notification" t="enabled">
+          <V n="enabled" t="literal">
+            <U n="literal">
+              <V n="icon" t="enabled">
+                <V n="enabled" t="resource_key">
+                  <U n="resource_key" />
+                </V>
+              </V>
+              <V n="text" t="single">
+                <T n="single">0x0473FF9B<!--Your weekly wefare has been paid.--></T>
+              </V>
+              <V n="title" t="enabled">
+                <T n="enabled">0x255A9A95<!--Welfare--></T>
+              </V>
+            </U>
+          </V>
+        </V>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+          <V t="test_set_reference">
+    <T n="test_set_reference">11246143551312728130<!--LN_RM:testSet_WelfareCheck--></T>
+</V>
+          </L>
+        </L>
+      </U>
+    </V>
+      <V t="buff">
+    <U n="buff">
+        <U n="buff">
+            <T n="buff_type">14498503843399065613<!--LN_RM:Buff_Law_HasRecieved_Welfare_AddBuff--></T>
+        </U>
+    </U>
+</V>
+  </L>
+</I>

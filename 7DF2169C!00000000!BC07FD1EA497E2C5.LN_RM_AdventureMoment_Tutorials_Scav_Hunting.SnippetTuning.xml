@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_Scav_Hunting" s="13549076312019690181">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x2537E3C4<!--<b>Scavenging & Hunting</b> \n\nYour peasant sims have a new rabbithole interaction to go hunting or scavenging. 
+This interaction can be found by clicking on them and inside the RM pie menu. \n
+The amount of meat a sim returns from hunting with is dependent on the season, e.g. a sim will get a lot less meat in the winter compared to the summer. 
+The meat brought back can be used as an ingredient in meals, a great addition if you like playing with the simple living lot challenge. \n
+Seasonal hunting loot has also been added to the previously added Nobilty Hunting rabbithole. \n\n
+<b>(REQUIRES LITTLBOWBUB’S OLDE COOKBOOK MOD)</b>\n\n
+
+Seasonal Hunting: \n\n
+
+<b>Spring:</b>\n
+Squirrels \n
+Wild Turkeys \n
+Hares \n
+Wild Chickens \n
+Small Rabbits \n\n
+<b>Summer:</b>\n
+Squirrels \n
+Wild Turkeys \n
+Hares \n
+Wild Chickens \n
+Wild Boars \n\n
+<b>Fall:</b>\n
+Squirrels \n
+Duck \n
+Hares \n
+Wild Chicken \n
+Stag \n\n
+<b>Winter:</b>\n
+Duck \n
+Pigeon \n
+Chicken \n--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

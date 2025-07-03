@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Nobles_Marquis_RemoveTrait" s="17229629295691455723">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

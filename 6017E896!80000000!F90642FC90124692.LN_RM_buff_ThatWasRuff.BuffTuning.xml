@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_ThatWasRuff" s="17944103417820628626">
+  <T n="buff_description">0xAAC9BB6B<!--That was Ruff!--></T>
+  <T n="buff_name">0x9FB582B6<!--Sometimes the citizens requests can be a little... on the weird side...--></T>
+  <T n="icon">2f7d0004:00000000:89943dcca4b2b82c</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Embarrassed_Buffs</E>
+      </L>
+    </U>
+  </V>
+  <T n="mood_type">14635</T>
+  <T n="mood_weight">1</T>
+</I>

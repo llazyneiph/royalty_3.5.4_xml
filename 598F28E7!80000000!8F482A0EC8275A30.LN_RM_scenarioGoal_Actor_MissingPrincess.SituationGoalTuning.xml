@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalActor" i="situation_goal" m="situations.situation_goal_actor" n="LN_RM:scenarioGoal_Actor_MissingPrincess" s="10324548388722793008">
+  <T n="_cooldown">0</T>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_simoleon.png">2f7d0004:00000000:16CFCEE791E1353D</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x89C615C1<!--Convince 10 Sims of your royal bloodline, reach level 4 of the Fame skill & hold a press conference!--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0xDD538C85<!--Use the 'Convince of Royal Blood' to convince sims! The press conference will unlock once you have done this and are famous enough.--></T>
+      </V>
+    </U>
+  </V>
+  <V n="_goal_test" t="buff">
+    <U n="buff">
+      <V n="whitelist" t="enabled">
+        <L n="enabled">
+          <T>13014843446202365650<!--LN_RM:Buff_Confident_Announced--></T>
+        </L>
+      </V>
+    </U>
+  </V>
+  <T n="_score">0</T>
+  <T n="audio_sting_on_complete" p="" />
+  <E n="display_type">COMPLETION_ONLY</E>
+  <T n="should_reevaluate_on_load">True</T>
+  <T n="use_numeric_test_results">True</T>
+</I>

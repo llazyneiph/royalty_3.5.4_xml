@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_MP_A4_1" s="13202297002496045419">
+  <T n="display_text">0x654E555A<!--Hold a Press Conference--></T>
+  <V n="objective_test" t="situation_running_test">
+        <U n="situation_running_test">
+            <V n="situation_whitelist" t="enabled">
+                <L n="enabled">
+                    <T>16808379463542432953<!--LN_RM:Situation_PressConference--></T>
+                </L>
+            </V>
+            <E n="test_event">SituationEnded</E>
+        </U>
+    </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">50</T>
+  <T n="tooltip">0x08C15818<!--To hold a press conference, start an event via the phone.--></T>
+</I>

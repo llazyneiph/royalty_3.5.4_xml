@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Ravenwood" s="15271422258958789438">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xB2938637<!--Ravenwood Noble--></T>
+  <T n="display_name_gender_neutral">0xD7A1DFD9<!--Ravenwood Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:1D86E2AAC8B0FE60</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x5B54B3C0<!--{0.SimFirstName} is apart of Ravenwood Nobility.--></T>
+  <T n="trait_origin_description">0x182140E4<!--(From Belonging to Ravenwood Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

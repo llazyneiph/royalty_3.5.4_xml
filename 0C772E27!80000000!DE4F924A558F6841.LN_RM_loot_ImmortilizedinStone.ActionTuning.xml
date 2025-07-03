@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ImmortilizedinStone" s="16019183247540840513">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x6A1810E8<!--(From Sculpture Commission)--></T>
+          </V>
+          <T n="buff_type">10782652955115009350<!--LN_RM:buff_RememberMe--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

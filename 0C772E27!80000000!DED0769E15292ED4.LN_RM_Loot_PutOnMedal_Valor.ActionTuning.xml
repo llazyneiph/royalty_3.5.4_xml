@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_PutOnMedal_Valor" s="16055463092907749076">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="trait">
+              <U n="trait">
+                <T n="num_whitelist_required">1</T>
+                <E n="subject">Actor</E>
+                <L n="whitelist_traits">
+                  <T>12216138115571103052<!--LN_RM:Trait_Hidden_Medal_OFF_ValorMedal--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+        <T n="trait">15718181793744514081<!--LN_RM:Trait_Hidden_Medal_Valor--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12216138115571103052<!--LN_RM:Trait_Hidden_Medal_OFF_ValorMedal--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

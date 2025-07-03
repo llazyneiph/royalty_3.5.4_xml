@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_Heir_CanTakeTheThrone" s="10808559671999537650">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <E n="trait_type">HIDDEN</E>
+    <L n="target_super_affordances">
+  <U>
+      <T n="affordance">9865917349542833247<!--LN_RM:superInteraction_Heir_TakeThrone--></T>
+    </U>
+  </L>
+</I>

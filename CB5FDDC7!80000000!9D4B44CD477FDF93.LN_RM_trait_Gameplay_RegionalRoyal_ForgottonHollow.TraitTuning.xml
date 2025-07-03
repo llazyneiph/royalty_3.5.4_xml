@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_ForgottonHollow" s="11334228535666532243">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xC2950CB5<!--Forgotton Hollow Royal--></T>
+  <T n="display_name_gender_neutral">0xC2950CB5<!--Forgotton Hollow Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:510B4D94418F7C97</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x80D88917<!--{0.SimFirstName} belongs to the ruling family of Forgotton Hollow.--></T>
+  <T n="trait_origin_description">0x389F71AA<!--(From Ruling Over Forgotton Hollow)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

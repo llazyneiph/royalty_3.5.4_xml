@@ -1,0 +1,18 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="11375786444665377891" i="objective" m="event_testing.objective_tuning" n="llazyneiph_RoyaltyModV2_ObjectiveSet2/4183934723">
+  <V n="objective_test" t="buff_added">
+    <U n="buff_added">
+      <L n="acceptable_buffs">
+        <T>185343<!--buff_DeathOfSim_Grandparent--></T>
+        <T>185344<!--buff_DeathOfSim_Grandparent_Disliked--></T>
+        <T>185349<!--buff_DeathOfSim_Parent--></T>
+        <T>185350<!--buff_DeathOfSim_Parent_Disliked--></T>
+        <T>185356<!--buff_DeathOfSim_Sibling--></T>
+        <T>185357<!--buff_DeathOfSim_Sibling_Disliked--></T>
+        <T>185359<!--buff_DeathOfSim_Spouse--></T>
+        <T>185360<!--buff_DeathOfSim_Spouse_Disliked--></T>
+        <T>12758<!--Buff_WitnessedDeathLovedOne--></T>
+      </L>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="use_test_result" />
+</I>

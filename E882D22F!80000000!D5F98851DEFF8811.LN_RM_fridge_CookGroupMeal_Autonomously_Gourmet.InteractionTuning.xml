@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="StartCraftingAutonomouslySuperInteraction" i="interaction" m="crafting.crafting_interactions" n="LN_RM:fridge_CookGroupMeal_Autonomously_Gourmet" s="15418504684494620689">
+  <L n="_false_advertisements">
+    <V t="statistic_change">
+      <U n="statistic_change">
+        <T n="amount">10</T>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="stat">16624<!--commodity_Motive_Role_Caterer--></T>
+      </U>
+    </V>
+    <V t="statistic_change">
+      <U n="statistic_change">
+        <T n="amount">10</T>
+        <T n="stat">16625<!--commodity_Motive_Role_DinnerParty-Host--></T>
+      </U>
+    </V>
+    <V t="statistic_set_max">
+      <U n="statistic_set_max">
+        <T n="stat">34123<!--commodity_Motive_MakeOneGroupMeal--></T>
+      </U>
+    </V>
+    <V t="statistic_set_max">
+      <U n="statistic_set_max">
+        <T n="stat">210673<!--commodity_RoommateNPC_Autonomy_Mealmaker--></T>
+      </U>
+    </V>
+  </L>
+  <V n="_icon" t="resource_key">
+        <U n="resource_key">
+            <T n="key">00B2D882:00000000:76661c8242453be1</T>
+        </U>
+    </V>
+  <V n="_saveable" t="enabled" />
+  <L n="_static_commodities">
+    <U>
+      <T n="static_commodity">16403<!--Crafting--></T>
+    </U>
+    <U>
+      <T n="desire">16</T>
+      <T n="static_commodity">15818691081395679354<!--LN_RM:StaticCommodity_RoleAutonomy_Servant_Cook_Gourmet--></T>
+    </U>
+    <U>
+      <T n="desire">4</T>
+      <T n="static_commodity">137861<!--StaticCommodity_RoleAutonomy_Career_SocialMedia_PersuadedToCook--></T>
+    </U>
+    <U>
+      <T n="desire">4</T>
+      <T n="static_commodity">228423<!--commodity_RoleAutonomy_DebateSkill_ConvinceCook--></T>
+    </U>
+    <U>
+      <T n="static_commodity">26277<!--StaticCommodity_MakeGroupMeal--></T>
+    </U>
+    <U>
+      <T n="static_commodity">152516<!--StaticCommodity_MakeGroupMeal_Vegetarian--></T>
+    </U>
+    <U>
+      <T n="static_commodity">106184<!--staticCommodity_SimRay_MindControl_Eat--></T>
+    </U>
+    <U>
+      <T n="static_commodity">141997<!--staticCommodity_Nanny_FeedKids--></T>
+    </U>
+    <U>
+      <T n="static_commodity">145864<!--staticCommodity_Butler_CookFamilyMeal--></T>
+    </U>
+    <U>
+      <T n="static_commodity">177821<!--staticCommodity_ServiceSkeleton_FeedKids--></T>
+    </U>
+    <U>
+      <T n="static_commodity">234658<!--staticCommodity_CivicPolicy_HomeCooking--></T>
+    </U>
+  </L>
+  <T n="allow_autonomous">True</T>
+  <L n="appropriateness_tags">
+    <E>Appropriateness_Cooking</E>
+  </L>
+  <T n="attention_cost">0.75</T>
+  <V n="basic_content" t="one_shot" />
+  <V n="canonical_animation" t="enabled">
+    <U n="enabled">
+      <T n="factory">29356<!--Fridge_Create--></T>
+    </U>
+  </V>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x922C300A<!--Cook--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>34127<!--loot_MakeOneGroupMeal--></T>
+          <T>39708<!--loot_Statistic_Breakage_Fridge--></T>
+          <T>143107<!--loot_Buff_Nanny_MakeFoodCooldown--></T>
+          <T>212504<!--loot_RoommateNPC_Mealmaker--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <L n="recipes">
+    <T>15699<!--recipe_Food_Gourmet_AsparagusProscuittoWrapped-Single--></T>
+    <T>15698<!--recipe_Food_Gourmet_AsparagusProscuittoWrapped-Medium--></T>
+    <T>15697<!--recipe_Food_Gourmet_AsparagusProscuittoWrapped-Large--></T>
+    <T>15702<!--recipe_Food_Gourmet_BakedAlaska-Single--></T>
+    <T>15701<!--recipe_Food_Gourmet_BakedAlaska-Medium--></T>
+    <T>15700<!--recipe_Food_Gourmet_BakedAlaska-Large--></T>
+    <T>15705<!--recipe_Food_Gourmet_FrittataSpinach-Single--></T>
+    <T>15704<!--recipe_Food_Gourmet_FrittataSpinach-Medium--></T>
+    <T>15703<!--recipe_Food_Gourmet_FrittataSpinach-Large--></T>
+    <T>15708<!--recipe_Food_Gourmet_GnocchiButternut-Single--></T>
+    <T>15707<!--recipe_Food_Gourmet_GnocchiButternut-Medium--></T>
+    <T>15706<!--recipe_Food_Gourmet_GnocchiButternut-Large--></T>
+    <T>15711<!--recipe_Food_Gourmet_LobsterThermidor-Single--></T>
+    <T>15710<!--recipe_Food_Gourmet_LobsterThermidor-Medium--></T>
+    <T>15709<!--recipe_Food_Gourmet_LobsterThermidor-Large--></T>
+    <T>15714<!--recipe_Food_Gourmet_MeuniereTrout-Single--></T>
+    <T>15713<!--recipe_Food_Gourmet_MeuniereTrout-Medium--></T>
+    <T>15712<!--recipe_Food_Gourmet_MeuniereTrout-Large--></T>
+    <T>15717<!--recipe_Food_Gourmet_NoodlesGarlic-Single--></T>
+    <T>15716<!--recipe_Food_Gourmet_NoodlesGarlic-Medium--></T>
+    <T>15715<!--recipe_Food_Gourmet_NoodlesGarlic-Large--></T>
+    <T>15718<!--recipe_Food_Gourmet_NYCheesecake-Large--></T>
+    <T>35628<!--recipe_Food_Gourmet_CakeBlackWhite-Large--></T>
+    <T>15722<!--recipe_Food_Gourmet_Parfait-Single--></T>
+    <T>15721<!--recipe_Food_Gourmet_Parfait-Medium--></T>
+    <T>15720<!--recipe_Food_Gourmet_Parfait-Large--></T>
+    <T>15725<!--recipe_Food_Gourmet_PastaPrimavera-Single--></T>
+    <T>15724<!--recipe_Food_Gourmet_PastaPrimavera-Medium--></T>
+    <T>15723<!--recipe_Food_Gourmet_PastaPrimavera-Large--></T>
+    <T>97476<!--recipe_Food_Gourmet_CakeWedding-Large--></T>
+    <T>15726<!--recipe_Food_Gourmet_RackOfLamb-Large--></T>
+    <T>15731<!--recipe_Food_Gourmet_SaladCaprese-Single--></T>
+    <T>15730<!--recipe_Food_Gourmet_SaladCaprese-Medium--></T>
+    <T>15729<!--recipe_Food_Gourmet_SaladCaprese-Large--></T>
+    <T>15734<!--recipe_Food_Gourmet_SalmonHerbCrusted-Single--></T>
+    <T>15733<!--recipe_Food_Gourmet_SalmonHerbCrusted-Medium--></T>
+    <T>15732<!--recipe_Food_Gourmet_SalmonHerbCrusted-Large--></T>
+    <T>15737<!--recipe_Food_Gourmet_SaltimboccaChicken-Single--></T>
+    <T>15736<!--recipe_Food_Gourmet_SaltimboccaChicken-Medium--></T>
+    <T>15735<!--recipe_Food_Gourmet_SaltimboccaChicken-Large--></T>
+    <T>15740<!--recipe_Food_Gourmet_SandwichMonteCristo-Single--></T>
+    <T>15739<!--recipe_Food_Gourmet_SandwichMonteCristo-Medium--></T>
+    <T>15738<!--recipe_Food_Gourmet_SandwichMonteCristo-Large--></T>
+    <T>15743<!--recipe_Food_Gourmet_TortelliniLobster-Single--></T>
+    <T>15742<!--recipe_Food_Gourmet_TortelliniLobster-Medium--></T>
+    <T>15741<!--recipe_Food_Gourmet_TortelliniLobster-Large--></T>
+    <T>35699<!--recipe_Food_Gourmet_CakeWhiteBlack-Large--></T>
+    <T>35820<!--recipe_Food_Gourmet_SaltPepperShrimp-Large--></T>
+    <T>102062<!--recipe_Food_Gourmet_Ambrosia-Single--></T>
+    <T>116806<!--recipe_Food_Gourmet_AlmondMacaroons-Large--></T>
+    <T>116807<!--recipe_Food_Gourmet_AlmondMacaroons-Medium--></T>
+    <T>116808<!--recipe_Food_Gourmet_AlmondMacaroons-Single--></T>
+    <T>116805<!--recipe_Food_Gourmet_CevicheAndChips-Large--></T>
+    <T>116804<!--recipe_Food_Gourmet_CevicheAndChips-Medium--></T>
+    <T>116803<!--recipe_Food_Gourmet_CevicheAndChips-Single--></T>
+    <T>116802<!--recipe_Food_Gourmet_VegetableTempura-Large--></T>
+    <T>116801<!--recipe_Food_Gourmet_VegetableTempura-Medium--></T>
+    <T>116800<!--recipe_Food_Gourmet_VegetableTempura-Single--></T>
+    <T>119184<!--recipe_Food_Gourmet_Fruitcake-Large--></T>
+    <T>130657<!--recipe_Food_Gourmet_ButternutSquashSoup-Large--></T>
+    <T>130658<!--recipe_Food_Gourmet_ButternutSquashSoup-Small--></T>
+    <T>130659<!--recipe_Food_Gourmet_ButternutSquashSoup-Medium--></T>
+    <T>130681<!--recipe_Food_Gourmet_EggsBenedict-Large--></T>
+    <T>130680<!--recipe_Food_Gourmet_EggsBenedict-Medium--></T>
+    <T>130679<!--recipe_Food_Gourmet_EggsBenedict-Small--></T>
+    <T>130687<!--recipe_Food_Gourmet_Tiramisu-Large--></T>
+    <T>130684<!--recipe_Food_Gourmet_CaesarSalad-Large--></T>
+    <T>130683<!--recipe_Food_Gourmet_CaesarSalad-Medium--></T>
+    <T>130682<!--recipe_Food_Gourmet_CaesarSalad-Small--></T>
+    <T>249043<!--recipe_Food_Gourmet_MakiRoll_Avocado_Large--></T>
+    <T>249044<!--recipe_Food_Gourmet_MakiRoll_Avocado_Medium--></T>
+    <T>249042<!--recipe_Food_Gourmet_MakiRoll_Avocado_Single--></T>
+    <T>249045<!--recipe_Food_Gourmet_MakiRoll_Salmon_Large--></T>
+    <T>249046<!--recipe_Food_Gourmet_MakiRoll_Salmon_Medium--></T>
+    <T>249047<!--recipe_Food_Gourmet_MakiRoll_Salmon_Single--></T>
+    <T>249048<!--recipe_Food_Gourmet_MakiRoll_Tuna_Large--></T>
+    <T>249049<!--recipe_Food_Gourmet_MakiRoll_Tuna_Medium--></T>
+    <T>249050<!--recipe_Food_Gourmet_MakiRoll_Tuna_Single--></T>
+    <T>249058<!--recipe_Food_Gourmet_Nigiri_Salmon_Large--></T>
+    <T>250831<!--recipe_Food_Gourmet_Nigiri_Salmon_Medium--></T>
+    <T>250832<!--recipe_Food_Gourmet_Nigiri_Salmon_Small--></T>
+    <T>250834<!--recipe_Food_Gourmet_Nigiri_Tomago_Large--></T>
+    <T>250833<!--recipe_Food_Gourmet_Nigiri_Tomago_Medium--></T>
+    <T>249062<!--recipe_Food_Gourmet_Nigiri_Tomago_Small--></T>
+    <T>250836<!--recipe_Food_Gourmet_Nigiri_Tuna_Large--></T>
+    <T>250835<!--recipe_Food_Gourmet_Nigiri_Tuna_Medium--></T>
+    <T>250382<!--recipe_Food_Gourmet_Nigiri_Tuna_Small--></T>
+    <T>266684<!--recipe_Food_Gourmet_Parfait_LactoseFree_Large--></T>
+    <T>266685<!--recipe_Food_Gourmet_Parfait_LactoseFree_Medium--></T>
+    <T>266686<!--recipe_Food_Gourmet_Parfait_LactoseFree_Single--></T>
+    <T>266680<!--recipe_Food_Gourmet_NYCheesecake_LactoseFree_Large--></T>
+    <T>133145<!--recipe_Food_Gourmet_AsparagusFauxBaconWrapped-Large--></T>
+    <T>133146<!--recipe_Food_Gourmet_AsparagusFauxBaconWrapped-Medium--></T>
+    <T>133147<!--recipe_Food_Gourmet_AsparagusFauxBaconWrapped-Single--></T>
+    <T>133190<!--recipe_Food_Gourmet_SaltimboccaTofuChicken-Large--></T>
+    <T>133191<!--recipe_Food_Gourmet_SaltimboccaTofuChicken-Medium--></T>
+    <T>133192<!--recipe_Food_Gourmet_SaltimboccaTofuChicken-Single--></T>
+    <T>133193<!--recipe_Food_Gourmet_SandwichMeatlessMonteCristo-Large--></T>
+    <T>133194<!--recipe_Food_Gourmet_SandwichMeatlessMonteCristo-Medium--></T>
+    <T>133195<!--recipe_Food_Gourmet_SandwichMeatlessMonteCristo-Single--></T>
+    <T>133196<!--recipe_Food_Gourmet_TortelliniVegetable-Large--></T>
+    <T>133197<!--recipe_Food_Gourmet_TortelliniVegetable-Medium--></T>
+    <T>133198<!--recipe_Food_Gourmet_TortelliniVegetable-Single--></T>
+  </L>
+  <V n="route_start_balloon" t="enabled">
+    <U n="enabled">
+      <U n="balloon">
+        <L n="balloon_choices">
+          <U>
+            <V n="item" t="balloon_icon">
+              <U n="balloon_icon">
+                <V n="icon" t="participant">
+                  <U n="participant">
+                    <L n="participant_type">
+                      <E>Object</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </U>
+        </L>
+        <L n="balloon_target">
+          <E>Actor</E>
+        </L>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <L n="test_autonomous">
+    <L>
+      <V t="buff">
+        <U n="buff">
+          <V n="whitelist" t="enabled">
+            <L n="enabled">
+              <T>9813964620533271383<!--LN_RM:buff_Servant_Cook_OrderedtoCook_Gourmet_Hidden--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified" />
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+    <V t="test_set_reference">
+      <T n="test_set_reference">28413<!--testSet_AgeChildAndOlder--></T>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <L n="blacklist_traits">
+          <T>164763<!--trait_ChildhoodPhase_PickyEater_A--></T>
+          <T>164972<!--trait_ChildhoodPhase_PickyEater_B--></T>
+          <T>164973<!--trait_ChildhoodPhase_PickyEater_C--></T>
+          <T>164974<!--trait_ChildhoodPhase_PickyEater_D--></T>
+          <T>164975<!--trait_ChildhoodPhase_PickyEater_E--></T>
+        </L>
+      </U>
+    </V>
+    <V t="zone">
+      <U n="zone">
+        <U n="zone_tests">
+          <V n="venue_type" t="enabled">
+            <U n="enabled">
+              <V n="blacklist" t="specify">
+                <U n="specify">
+                  <L n="blacklist">
+                    <T>208182<!--venue_rentable_universityHousing--></T>
+                  </L>
+                </U>
+              </V>
+            </U>
+          </V>
+        </U>
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">60</T>
+</I>

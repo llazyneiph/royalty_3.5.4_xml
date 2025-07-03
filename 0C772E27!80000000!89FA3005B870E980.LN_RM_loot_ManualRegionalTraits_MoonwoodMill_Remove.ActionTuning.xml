@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_MoonwoodMill_Remove" s="9942311928501168512">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">15562611637476342088<!--LN_RM:trait_Gameplay_RegionalRoyal_MoonwoodMill--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

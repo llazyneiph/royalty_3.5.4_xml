@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_CheckDailyDuties_Notif" s="10556909071733817318">
+  <L n="loot_actions">
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x916C406D<!--You are expected to hold audience with the public today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>16455102278192028666<!--LN_RM:situationSimple_Audience--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0xF9514FD5<!--You have a meeting with a council member today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10799101659076946241<!--LN_RM:situationSimple_Council--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x46E3A592<!--You must check the kingdom's finances today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>18234792814087754421<!--LN_RM:situationSimple_Finances--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x5DA734AF<!--You have a visit from a foreign diginitary today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>9615070257508660129<!--LN_RM:situationSimple_ForeignDignatary--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x46BB1958<!--You need to update the royal diary today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>10723851117296855453<!--LN_RM:situationSimple_Journal--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x0CFCB82C<!--You have a meeting with a military official today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>14732098809936218106<!--LN_RM:situationSimple_MilitaryLeader--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x30A11488<!--You have a meeting with a religious leader today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>16895249045481479486<!--LN_RM:situationSimple_ReligiousLeader--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x249A33DB<!--You have 3 correspondences to complete today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>12547011808344689193<!--LN_RM:situationSimple_Correspondences--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InEP05\UI\Tutorial\Resolutions_1.png">2f7d0004:00000000:ABE61604AF170D09</T>
+                </U>
+              </V>
+            </V>
+            <E n="information_level">PLAYER</E>
+            <V n="text" t="single">
+              <T n="single">0x42595FF7<!--You are expected to attend a philanthrophic event today.--></T>
+            </V>
+            <E n="urgency">DEFAULT</E>
+            <E n="visual_type">INFORMATION</E>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>14667512175804645289<!--LN_RM:situationJob_Philanthropy--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Investiture_Medal_Confidant_ValorMedal" s="18438649427932401180">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x0BD6FB29<!--Awarded for {0.SimPronounPossessiveDependent} courage and bravery, {0.SimFirstName} wears the Medal of Valor with pride. {0.SimPronounPossessiveDependent|capitalize} heroic actions inspire admiration and respect from all.--></T>
+  <T n="buff_name">0x455393E3<!--Honoured with Medal of Valor--></T>
+  <T n="icon" p="InEP06\UI\Icons\Buffs\buffs_FanFavorite.png">2f7d0004:00000000:362174D0D565BE55</T>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">2</T>
+  <T n="visible">True</T>
+</I>

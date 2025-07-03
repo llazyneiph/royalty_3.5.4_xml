@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_isMonarch" s="14328485404976756833">
+  <V n="_temporary_commodity_info" t="disabled" />
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <L n="_loot_on_instance">
+    <T>15027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+    <!--<T>13471474927398398654LN_RM:loot_Statistic_EmpireTreasury_Gain_Small</T>-->
+    <T>17440610909612219557</T>
+    <T>18206442929384643767</T>
+    <T>16827118081404823095</T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>14297251877929983822<!--LN_RM:loot_isRoyal_RemoveTrait--></T>
+    <T>17440610909612219557</T>
+    <T>18206442929384643767</T>
+  </L>
+   <L n="_loot_on_addition">
+    <T>15027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+    <T>16827118081404823095</T>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998</T>
+      <L n="value">
+        <T>10961830869839130988<!--LN_R:Taxes_RaisedTaxes_Trait--></T>
+        <T>14926627030718454438</T>
+        <T>9818695596520099558</T>
+        <T>10293212493522317412</T>
+        <T>9739985803724364723<!--Announce as Heir--></T>
+        <T>13335232077290867583</T>
+        <T>12762183447166689318</T>
+        <T>11772682266584248622</T>
+        <T>14130489868557700781</T>
+        <T>12174585533746403678<!--Order Tax Raise--></T>
+        <T>15141562385310461061<!--LN_RM:AskforWeeklyTaxes_INT--></T>
+        <T>12723500080098090641<!--LN_RM:mixer_interaction_Execute--></T>
+        <T>16204617537141771649<!--LN_RM:Audience_CitizenQuestions--></T>
+        <T>9296985577272258388</T>
+        <T>10230122378875264067</T>
+        <T>18379790828066680207</T>
+        <T>10015203267379114249</T>
+        <T>10824816846775930753</T>
+        <T>18040594101927662085</T>
+        <T>13629502896862008407</T>
+        <T>17003496179430396802</T>
+        <T>15576196032777825885<!--llazyneiph_INT_DesignateAsCourtWizard--></T>
+        <T>13188801265071986588</T>
+        <T>17849732534350491887</T>
+        <T>11986169034958164520</T>
+        <T>18165144530856713661</T>
+        <T>15835078308790230531</T>
+        <T>18173660684956636046</T>
+        <T>12545584176986530260</T>
+        <T>11589118553432374158</T>
+      </L>
+    </U>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">161998</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>17993707980330894542</T>
+            <T>16669822577058274050</T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">16699</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16706</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16709</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16713</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16721</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">128145</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">186703</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="interactions" t="enabled">
+    <U n="enabled">
+      <L n="interaction_items">
+        <T>9351498607164828696</T>
+      </L>
+    </U>
+  </V>
+</I>

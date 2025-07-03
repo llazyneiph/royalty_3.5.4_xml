@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Strangerville_Add_Noble" s="14145577821036779182">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16654156739913003289<!--LN_RM:trait_Gameplay_RegionalNoble_StrangerVille--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,9 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15077330277511882754" i="buff" m="buffs.buff" n="llazyneiph_crownroyaladdon_Trait/3854000275">
+  <T n="visible">False</T>
+  <L n="_loot_on_instance">
+    <T>13230407728922787848<!--llazyneiph_crownroyaladdon_Trait/1581217461--></T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>13230407728922787848<!--llazyneiph_crownroyaladdon_Trait/1581217461--></T>
+  </L>
+</I>

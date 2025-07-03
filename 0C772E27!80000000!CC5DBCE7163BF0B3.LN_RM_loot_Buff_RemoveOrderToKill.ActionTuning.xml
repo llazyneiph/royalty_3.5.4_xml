@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_RemoveOrderToKill" s="14726134057267884211">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>17888465967428404083<!--LN_RM:buff_OrderedToKill--></T>
+        </L>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:loot_trait_RemoveAll_Nobles" s="15079635996242607752">
+  <L n="loot_actions">
+    <V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">9924040348108735124<!--Trait: LN_RM:trait_Hidden_Archduke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16810029626734468778<!--Trait: LN_RM:trait_Hidden_Dame--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">17033988011084298300<!--Trait: LN_RM:trait_Hidden_Duchess--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16829176522224350632<!--Trait: LN_RM:trait_Hidden_Duke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16310066296364158633<!--Trait: LN_RM:trait_Hidden_Earl--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13810350763406394496<!--Trait: LN_RM:trait_Hidden_Grandduke--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11918002117868191934<!--Trait: LN_RM:trait_Hidden_Knight--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12763579447097348725<!--Trait: LN_RM:trait_Hidden_Lady--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12776841756354180524<!--Trait: LN_RM:trait_Hidden_Lord--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13894052093350217268<!--Trait: LN_RM:trait_Hidden_Vicomte--></T>
+      </U>
+    </V>
+  </U>
+</V>
+  </L>
+</I>

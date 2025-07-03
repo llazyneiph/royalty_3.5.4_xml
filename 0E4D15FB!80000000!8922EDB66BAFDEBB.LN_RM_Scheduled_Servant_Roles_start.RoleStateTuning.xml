@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:Scheduled_Servant_Roles_start" s="9881721900150808251">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">15211801288319044890<!--LN_RM:buff_AutonomyMod_Servants--></T>
+    </U>
+    <U>
+      <T n="buff_type">302612<!--buff_Sim_Weather_DisallowFirstSnowReact--></T>
+    </U>
+    <U>
+      <T n="buff_type">185065<!--buff_Temperature_Immune_To_Temperature--></T>
+    </U>
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">123148<!--Social Less--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <L n="role_affordances">
+    <T>18168233825326981966<!--LN_RM:situation_Servant_Order_WaterPlants--></T>
+    <T>13002<!--ask_toLeaveLot--></T>
+    <T>9655563940307216971<!--LN_RM:sim_Servant_Praise--></T>
+    <T>15666467128324278187<!--LN_RM:sim_Servant_Reprimand--></T>
+    <T>14209459968506754051<!--LN_RM:servant_Immediate_Dismiss--></T>
+    <!--Force Needs-->
+    <T>11864820605872706226<!--LN_RM:servant_Immediate_Force_Sleep--></T>
+    <T>12057307057936965091<!--LN_RM:servant_Immediate_Force_Bathroom--></T>
+    <T>17856893495797513867<!--LN_RM:servant_Immediate_Force_Shower--></T>
+    <!--Needs Toggles-->
+    <T>14304435640288968556<!--LN_RM:immediate_Servant_Energy_Toggle--></T>
+    <T>15451628347693456133<!--LN_RM:immediate_Servant_Hygiene_Toggle--></T>
+    <T>10535036439996984800<!--LN_RM:immediate_Servant_Bladder_Toggle--></T>
+    <!--Uniforms-->
+    <T>15810838713963091952<!--LN_RM:Servants_UniformModify--></T>
+    <T>12563567208907121681<!--LN_RM:Servants_ForceUniform--></T>
+    <!--Other Creators-->
+    <T>10860328461752618527<!--MizoreYukii:Interaction_Broom_MaidButler_Create--></T>
+    <!--Order to Cook-->
+    <T>17078740045946608449<!--LN_RM:situation_Servant_Order_Cook_GrandMeal--></T>
+    <T>15476651534378742296<!--LN_RM:situation_Servant_Order_Cook_Baking--></T>
+    <T>15677601557412175523<!--LN_RM:situation_Servant_Order_Cook_LactoseIntolerant--></T>
+    <T>10788357115279282574<!--LN_RM:situation_Servant_Order_Cook_Vegetarian--></T>
+    <T>17209518418464234364<!--LN_RM:situation_Servant_Order_Cook_Dessert--></T>
+    <T>17053367725436296521<!--LN_RM:situation_Servant_Order_Cook_HealthNut--></T>
+    <T>9577680206608173058<!--LN_RM:situation_Servant_Order_Cook_Coffee--></T>
+    <T>13283873684977239036<!--LN_RM:situation_Servant_Order_Cook_Tea--></T>
+    <!--LBB Recipes-->
+    <T>10032160274379807698<!--LN_RM:situation_Servant_Order_Cook_LBB_RoastedDinners--></T>
+    <T>11109506378917742955<!--LN_RM:situation_Servant_Order_Cook_LBB_PiesAndQuiches--></T>
+    <T>14059408177713055608<!--LN_RM:situation_Servant_Order_Cook_LBB_PantryFoods--></T>
+    <T>9991252795959952342<!--LN_RM:situation_Servant_Order_Cook_LBB_SoupsAndStews--></T>
+    <T>13623435498080352375<!--LN_RM:situation_Servant_Order_Cook_LBB_Puddings--></T>
+  </L>
+  <L n="role_target_affordances">
+    <T>148816<!--sim_Butler_Quit--></T>
+  </L>
+  <L n="tags">
+    <E>Role_VIPRope_Allowed</E>
+  </L>
+</I>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/Farrier" s="3061009894">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xD0054A33</T>
+  <T n="career_name">0xF3010691<!--Farrier--></T>
+  <T n="career_name_gender_neutral">0xF3010691</T>
+  <T n="icon">2f7d0004:00000000:df19acf4398299eb</T>
+  <T n="icon_high_res">2f7d0004:00000000:02937836CD882C63</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>2201544702</T>
+    <T>4034765145</T>
+    <T>3619294177</T>
+    <T>2417355592</T>
+  </L>
+</I>

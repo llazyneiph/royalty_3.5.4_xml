@@ -1,0 +1,40 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9766918540274619988" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Beloved by the People">
+  <T n="buff_description">0xCAE762B2<!--{0.SimFirstName} has proven {0.SimPronounReflexive} to be completely adored by {0.SimPronounPossessiveDependent} subjects!--></T>
+  <T n="buff_name">0xC535BEEC<!--Beloved by the People--></T>
+  <T n="icon">2f7d0004:00000000:d644fd3d88beeb8a</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>17072224934369134493<!--llazyneiph_INT_InquireAboutCitizensWelfare--></T>
+      </L>
+    </U>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>186035<!--commodity_GiveRomanticGift_Autonomy--></T>
+            <T>195790<!--commodity_FameQuirks_FanMail_GiftDelivery--></T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

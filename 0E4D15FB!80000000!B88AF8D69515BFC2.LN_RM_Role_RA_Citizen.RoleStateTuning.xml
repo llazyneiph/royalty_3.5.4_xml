@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:Role_RA_Citizen" s="13297714450272731074">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">10204987542168775525<!--LN_RM:buff_CitizenAutonomy--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <L n="role_affordances">
+    <T>13002<!--ask_toLeaveLot--></T>
+    <T>12650688787157137142<!--LN_RM:Audience_CitizenQuestions--></T>
+  </L>
+  <L n="tags">
+    <E>Role_VIPRope_Allowed</E>
+  </L>
+</I>

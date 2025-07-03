@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_isRoyal" s="12374707625592636310">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">14794861402461430217<!--LN_RM:buff_isRoyal_Hidden--></T>
+    </U>
+    <U>
+      <T n="buff_type">18240306576607628745<!--LN_RM:buff_AffordanceModifiers_Greetings--></T>
+    </U>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>13036866902894993172<!--LN_RM:mixer_social_RemoveDungeonGuard--></T>
+      </L>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <T>15682136800751089048<!--LN_RM:Royals_Fan_Faint--></T>
+    <T>13705371092439393424<!--LN_RM:Royals_Fan_Excitement--></T>
+    <T>14143359968437976514<!--LN_RM:social_AttemptIntroduction_Royalty_greetings--></T>
+    <!--Servants-->
+    <T>14078722774158765788<!--LN_RM:servant_CallForNew_Maid--></T>
+    <T>14342679544069265852<!--LN_RM:servant_CallForNew_Maid_InOtherRegion--></T>
+  </L>
+  <L n="buffs_proximity">
+    <T>17562715050106822894<!--LN_RM:Buff_Trait_HatesPeasant(Hidden)--></T>
+    <T>11141906226653023171<!--LN_RM:Buff_Trait_LikesPeasant(Hidden)--></T>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>15626835911830820512<!--LN_RM:loot_Trait_RegionalRoyal_WillowCreek--></T>
+      <T>12272105337936545805<!--LN_RM:loot_Trait_RegionalRoyal_OasisSprings--></T>
+      <T>12881330700129298053<!--LN_RM:loot_Trait_RegionalRoyal_Newcrest--></T>
+      <T>16559222379603696583<!--LN_RM:loot_Trait_RegionalRoyal_Windenburg--></T>
+      <T>9668829662303289139<!--LN_RM:loot_Trait_RegionalRoyal_ForgottonHollow--></T>
+      <T>9840288579172306105<!--LN_RM:loot_Trait_RegionalRoyal_SanMyshuno--></T>
+      <T>15937995950471232577<!--LN_RM:loot_Trait_RegionalRoyal_BrindletonBay--></T>
+      <T>15350707902244801056<!--LN_RM:loot_Trait_RegionalRoyal_Britechester--></T>
+      <T>11751808159734317148<!--LN_RM:loot_Trait_RegionalRoyal_DelSolValley--></T>
+      <T>14137134228625098216<!--LN_RM:loot_Trait_RegionalRoyal_EvergreenHarbour--></T>
+      <T>13466583602555949628<!--LN_RM:loot_Trait_RegionalRoyal_Glimmerbrook--></T>
+      <T>17978761323603118676<!--LN_RM:loot_Trait_RegionalRoyal_Strangerville--></T>
+      <T>15959599155827671316<!--LN_RM:loot_Trait_RegionalRoyal_Sulani--></T>
+      <T>13012223979584944030<!--LN_RM:loot_Trait_RegionalRoyal_MtKorembi--></T>
+      <T>13779815590113154541<!--LN_RM:loot_Trait_RegionalRoyal_MagnoliaPromenade--></T>
+      <T>17126697195058168103<!--LN_RM:loot_Trait_RegionalRoyal_HenfordOnBagley--></T>
+      <T>17693645956720427688<!--LN_RM:loot_Trait_RegionalRoyal_Tartosa--></T>
+      <T>9662466674496686952<!--LN_RM:loot_Trait_RegionalRoyal_MoonwoodMill--></T>
+      <T>10722968978707614133<!--LN_RM:loot_Trait_RegionalRoyal_Copperdale--></T>
+      <T>13841344331660894513<!--LN_RM:loot_Settings_Add_RoyalFan_SimIsRoyal--></T>
+      <T>9662466674496686952<!--LN_RM:loot_Trait_RegionalRoyal_MoonwoodMill--></T>
+      <T>16270204402853272919<!--LN_RM:loot_Trait_RegionalRoyal_SanSequoia--></T>
+      <T>12089670217013735951<!--LN_RM:loot_Trait_RegionalRoyal_ChestnutRidge--></T>
+      <T>17159615994263461914<!--LN_RM:loot_Trait_RegionalRoyal_Enamorada--></T>
+      <T>9656309508459731767<!--LN_RM:loot_Trait_RegionalRoyal_Ravenwood--></T>
+      <T>17523777707158970663<!--LN_RM:loot_Trait_RegionalRoyal_Nordhaven--></T>
+    </L>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <E n="trait_type">HIDDEN</E>
+  <L n="target_super_affordances">
+  <U>
+      <T n="affordance">12567800764101146554<!--LN_RM:socials_Targeted_ConvincetoGivePoisonApple--></T>
+    </U>
+    <U>
+      <T n="affordance">13877060503877527392<!--LN_RN:social_Knighting_Command_Iniate--></T>
+    </U> 
+    <U>
+      <T n="affordance">9780394019576186743<!--LN_RN:social_LIW_Command_Iniate--></T>
+    </U>
+    <U>
+      <T n="affordance">12111068668127643521<!--LN_RN:social_LIW_Command_Remove--></T>
+    </U>
+    <U>
+      <T n="affordance">10323464365940031187<!--LN_RN:social_Knights_Command_Remove_PersonalGuard--></T>
+    </U>
+    <U>
+      <T n="affordance">10257149037979448476<!--LN_RM:sim_StopFollowingMe--></T>
+    </U>
+    <U>
+      <T n="affordance">10404218027956195376<!--LN_RM:sim_FollowMe--></T>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_RoyalSocialMedia" s="18114940883976936665">
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">225064<!--computer_Locking_LockForEveryone--></T>
+      <L n="affordances">
+        <T>18414064712175842989<!--LN_RM:computer_UpdateBlogAboutRoyals--></T>
+        <T>11555471036838680664<!--LN_RM:computer_RoyalBlog_PublicRelations_NetworkWithJournalists--></T>
+        <T>18212836883729848867<!--LN_RM:computer_RoyalBlog_ShareJokesWithFollowers--></T>
+        <T>17210703341250975822<!--LN_RM:computer_RoyalBlog_ShareRoyalMemes--></T>
+        <T>17132245483363191548<!--LN_RM:computer_RoyalBlog_UpdateStatus--></T>
+        <T>14747175350832616928<!--LN_RM:computer_RoyalBlog_UploadImages--></T>
+        <T>12130612654498753473<!--LN_RM:computer_RoyalBlog_UploadVideosOfRoyals--></T>
+        <T>12374329689920167404<!--LN_RM:computer_RoyalBlog_CheckFollowers--></T>
+        <T>12863411447307065968<!--LN_RM:computer_RoyalBlog_PublicRelations_AnnounceDeathofMonarch--></T>
+        <T>15037488174444124882<!--LN_RM:computer_RoyalBlog_SharePhotosofDeadMonarch--></T>
+      </L>
+    </U>
+  </L>
+</I>

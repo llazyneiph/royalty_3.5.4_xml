@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="LN_RM:objectState_MedalFrames_States" s="10750922418396815558">
+  <L n="_values">
+    <T>9345684669573841255<!--LN_RM:MedalFrame_Values_Medal1--></T>
+    <T>9345684669573841252<!--LN_RM:MedalFrame_Values_Medal2--></T>
+    <T>9345684669573841253<!--LN_RM:MedalFrame_Values_Medal3--></T>
+    <T>9345684669573841250<!--LN_RM:MedalFrame_Values_Medal4--></T>
+    <T>17772161706914542083<!--LN_RM:MedalFrame_Values_Medal_Initial--></T>
+  </L>
+</I>

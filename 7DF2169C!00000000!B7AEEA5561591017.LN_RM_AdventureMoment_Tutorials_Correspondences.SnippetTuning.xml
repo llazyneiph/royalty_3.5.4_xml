@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_Correspondences" s="13235774007314812951">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0x0331B321<!--<b>Correspondences</b> There is a new item in Buy Mode, ‘[LN] Correspondences Box’. \nYour Monarch will receive mail and gifts here once a day which will be sent to their inventory. \nEnvelopes in your sims inventory can be clicked on to show the option to open them. \nAfter opening, your sim can read the letter inside, they will then receive a notification telling them that they can respond to the correspondence using the Buy Mode item, ‘[LN] Correspondences Book’. \nAfter writing their reply, another notification will pop up letting you know that you can give these letters to a Lady-in-Waiting who will then automatically take them to the mailbox. \nYou can give them one at a time, or give multiple at once. \nYour sim can also write correspondences to specific Nobles or Royals, give them to a Lady-in-Waiting and receive relationship points with the sim it was sent to.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

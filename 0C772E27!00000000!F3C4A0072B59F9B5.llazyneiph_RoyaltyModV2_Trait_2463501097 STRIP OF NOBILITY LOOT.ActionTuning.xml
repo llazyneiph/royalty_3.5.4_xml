@@ -1,0 +1,76 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="17565340399304309173" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/2463501097 STRIP OF NOBILITY LOOT">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428719<!--llazyneiph_RoyaltyMod_Trait_NEWNOBILITY--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517940<!--LN_RM_trait_Nobility_Marquis_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">17721187006786962149<!--llazyneiph_RoyaltyMod_hidden_nobility_addon--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517947<!--llazyneiph_RoyaltyMod_Trait_Count_Gameplay--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">11676936497905860151<!--llazyneiph_RoyaltyMod_Buff_No Longer Nobility--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x9523E891<!--(From Having Noble Title Stripped)--></T>
+          </V>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>11676936497905860151<!--llazyneiph_RoyaltyMod_Buff_No Longer Nobility--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="Diplomat_Track1_Diplomat" s="9315807867052922823">
+  <T n="active_assignment_amount">0</T>
+  <T n="busy_time_situation_picker_tooltip">0x77D1D57E</T>
+  <T n="career_description">0x49fd7e4a</T>
+  <L n="career_levels">
+    <T>12630799664180108654</T>
+    <T>12630799664180108653</T>
+    <T>12630799664180108652</T>
+    <T>12630799664180108651</T>
+    <T>12630799664180108650</T>
+    <T>12630799664180108649</T>
+    <T>12630799664180108648</T>
+    <T>12630799664180108647</T>
+    <T>12630799664180108646</T>
+    <T>10246770600331575770</T>
+  </L>
+  <T n="career_name">0xd393c338<!--Diplomat--></T>
+  <T n="career_name_gender_neutral">0x360898e0</T>
+  <V t="reference" n="goodbye_notification">
+    <T n="reference">110655</T>
+  </V>
+  <T p="InGame\UI\Icons\Career\Career_Business_Main.png" n="icon">2f7d0004:00000000:6905037284078FA2</T>
+  <T n="icon_high_res" p="InGame\UI\Icons\Career\Career_Business_hires.png">2f7d0004:00000000:2F73784448C05712</T>
+  <T p="InGame\UI\Icons\resource_icon_bkg.png" n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <V t="enabled" n="knowledge_notification">
+    <V n="enabled" t="reference">
+      <T n="reference">110279</T>
+    </V>
+  </V>
+  <T n="show_now_hiring_string">True</T>
+  <V n="overmax" t="enabled">
+    <U n="enabled">
+      <T n="reward">9421681576445727013</T>
+      <T n="salary_increase">10</T>
+    </U>
+  </V>
+</I>

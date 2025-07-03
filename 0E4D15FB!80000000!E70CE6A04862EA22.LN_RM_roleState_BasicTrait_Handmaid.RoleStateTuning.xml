@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:roleState_BasicTrait_Handmaid" s="16648935498565478946">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">9491925237134715459<!--LN_RM:buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">39294<!--buff_Role_NoCareerTalk--></T>
+    </U>
+    <U>
+      <T n="buff_type">194622<!--buff_Role_takeCareOfBaby--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="disabled" />
+      <T n="buff_type">35368<!--Buff_Role_Appropriateness_NoBathing--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="disabled" />
+      <T n="buff_type">35390<!--Buff_Role_Appropriateness_NoSleeping--></T>
+    </U>
+    <U>
+      <T n="buff_type">35372<!--Buff_Role_Appropriateness_NoEating--></T>
+    </U>
+    <U>
+      <T n="buff_type">27370<!--buff_AutonomyMod_CleanGlasses--></T>
+    </U>
+    <U>
+      <T n="buff_type">27371<!--buff_AutonomyMod_CleanPlates--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type" o="true" />
+  </U>
+  <L n="role_affordances">
+    <T>9432780855836643106<!--LN_RM:give_Letters_to_Servant--></T>
+    <T>9461233523553570479<!--LN_RM:int_LIW_Askfor_Tea--></T>
+    <T>14315987788088700071<!--LN_RM:int_LIW_Askfor_Coffee--></T>
+  </L>
+</I>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BasicTraitSitaution" i="llazyneiph:TraitSituation_RoyaltyMod_CustomTitle_01" m="situations.complex.basic_trait_situation" n="llazyneiph:TraitSituation_RoyaltyMod_CustomTitle_04" s="9861857193012940758">
+  <T n="duration">0</T>
+  <T n="job">10887792948242009813<!--llazyneiph:situationJob_BasicTrait_RoyaltyMod_CustomTitle_04--></T>
+  <T n="role">206868<!--RoleState: roleState_BasicTrait_StrangervilleNPC_Military--></T>
+</I>

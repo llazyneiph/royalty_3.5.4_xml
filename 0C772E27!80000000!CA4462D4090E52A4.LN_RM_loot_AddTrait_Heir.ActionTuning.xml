@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Heir" s="14574882956902290084">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18164583978991418625<!--LN_RM_trait_Heir--></T>
+      </U>
+    </V>
+  </L>
+</I>

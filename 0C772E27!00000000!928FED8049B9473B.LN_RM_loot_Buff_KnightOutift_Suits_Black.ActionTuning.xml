@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_KnightOutift_Suits_Black" s="10560920786455578427">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">10060147027850297766<!--LN_RM:trait_Hidden_KnightOutfits_Suit_Black--></T>
+      </U>
+    </V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12306031884268998528<!--Trait: LN_RM:trait_Hidden_KnightOutfits_Suit_BlackGold--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">9755139758651110287<!--Trait: LN_RM:trait_Hidden_KnightOutfits_Suit_BlueGold--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15237900513131717075<!--Trait: LN_RM:trait_Hidden_KnightOutfits_Suit_Gold--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12124546078621847726<!--Trait: LN_RM:trait_Hidden_KnightOutfits_Suit_Silver--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14142221305981500308<!--LN_RM:Buff_Hidden_KnightOutfit_isWearing--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Statistic" i="statistic" m="statistics.statistic" n="LN_RM:statistic_Military_Soldiers" s="11618118284054665065">
+  <T n="max_value_tuning">999999999</T>
+  <T n="stat_name">0x254F3108<!--Soldiers--></T>
+</I>

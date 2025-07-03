@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Tower" s="12206992243428024344">
+  <V n="_add_buff_on_remove" t="enabled">
+    <U n="enabled">
+      <U n="buff">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x71F54359<!--(From Recent Imprisonment)--></T>
+        </V>
+        <T n="buff_type">15304539234968476861<!--LN_RM:buff_RecentlyImprisoned--></T>
+      </U>
+    </U>
+  </V>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <L n="categories">
+        <E>Sad_Buffs</E>
+      </L>
+      <T n="max_duration">120</T>
+    </U>
+  </V>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="buff_description">0x83AC3AB9<!--{0.SimFirstName} has been imprisoned in a lonely and cold tower.--></T>
+  <T n="buff_name">0xFE3CFBFB<!--Imprisoned--></T>
+  <T n="icon" p="InEP10\UI\Icons\Buffs\Buffs_sadExcursion_neg.png">2f7d0004:00000000:20D0AE4227554277</T>
+  <T n="mood_type">14643<!--Mood_Sad--></T>
+  <T n="mood_weight">3</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <V n="provided_affordance_compatibility" t="literal">
+            <U n="literal">
+              <V n="default_inclusion" t="exclude_all">
+                <U n="exclude_all">
+                  <L n="include_affordances">
+                    <T>11486723357070632091<!--LN_RM:superInteraction_SendToTower_PickedSim_Continuation--></T>
+                    <T>13709788144549115448<!--LN_RM:superInteraction_Tower_PickedSim_Released_Continuation--></T>
+                    <T>15169261627740268821<!--LN_RM:superInteraction_Tower_PickedSim_DisposeOf_Continuation--></T>
+                  </L>
+                </U>
+              </V>
+            </U>
+          </V>
+          <T n="super_affordance_suppress_on_add">True</T>
+          <E n="super_affordance_suppression_mode">AUTONOMOUS_ONLY</E>
+          <T n="suppress_self_affordances">True</T>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

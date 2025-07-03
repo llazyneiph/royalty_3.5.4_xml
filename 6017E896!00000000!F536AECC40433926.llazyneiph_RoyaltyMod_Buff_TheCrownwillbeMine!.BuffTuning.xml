@@ -1,0 +1,25 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17669502380309428518" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_TheCrownwillbeMine!">
+  <T n="buff_description">0xDF3F1DCA<!--{0.SimFirstName} has announced to the world of {0.SimPronounPossessiveDependent} intentions to become the next Monarch! If the people love {0.SimPronounObjective} enough, all {0.SimPronounPossessiveDependent} hard work will pay off!--></T>
+  <T n="buff_name">0xE1EBFF25<!--The Crown will be Mine!--></T>
+  <T n="icon">2f7d0004:00000000:e0b242efef632ace</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Confident_Buffs</E>
+      </L>
+    </U>
+  </V>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">3</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>16540517835155615580<!--llazyneiph_INT_ConvinceToStepDown--></T>
+        <T>9749984628171297256<!--llazyneiph_INT_GarnerCitizensSupport--></T>
+        <T>13822487350678204017<!--llazyneiph_INT_PromisetobeGreatMonarch--></T>
+      </L>
+    </U>
+  </L>
+</I>

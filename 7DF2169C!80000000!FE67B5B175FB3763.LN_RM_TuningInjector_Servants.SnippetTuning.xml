@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_Servants" s="18331820582028130147">
+  <L n="inject_to_affordances">
+    <U>
+      <L n="affordances">
+        <T>260380<!--sI_AnimalObjects_Chickens_Coop_FeedChickens--></T>
+      </L>
+      <V n="allow_autonomous_override" t="enabled">
+        <T n="enabled">True</T>
+      </V>
+      <V n="static_commodities" t="enabled">
+        <L n="enabled">
+          <U>
+            <T n="static_commodity">10601388434849146595<!--LN_RM:StaticCommodity_Servant_FeedChickens--></T>
+          </U>
+        </L>
+      </V>
+    </U>
+    <U>
+      <L n="affordances">
+        <T>176200<!--laundry_PutAway--></T>
+        <T>271199<!--laundry_Hamper_Empty_Left_MoveTo_WashTub--></T>
+      </L>
+      <V n="static_commodities" t="enabled">
+        <L n="enabled">
+          <U>
+            <T n="static_commodity">9756908636676012703<!--LN_RM:staticCommodity_Servant_DoingServantStuff--></T>
+          </U>
+        </L>
+      </V>
+    </U>
+  </L>
+  <L n="inject_to_buffs">
+    <U>
+      <T n="buff">12816<!--Buff_Motives_Energy_Tired--></T>
+      <L n="loot_on_instance">
+        <T>10631343192229532712<!--LN_RM:loot_Buff_ServantEnergy_AddBuff--></T>
+        <T>10665717458849842396<!--LN_RM:loot_Buff_ServantEnergy_SetMax--></T>
+      </L>
+    </U>
+  </L>
+  <L n="inject_by_affordance">
+  <U>
+      <T n="query">164217<!--lockHouseholdSimsPickerInteraction_lock_door--></T>
+      <L n="affordances">
+        <T>14662426450585038524<!--LN_RM:lockHouseholdSimsPickerInteraction_lock_door_ForServants--></T>
+        <T>10926484545480731859<!--LN_RM:lockHouseholdSimsPickerInteraction_unlock_door_ForServants--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">74759<!--Fireplace_PutOut--></T>
+      <L n="affordances">
+        <T>10829929311306563205<!--LN_RM:Fireplace_Light_Servant--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">29829<!--counter_Clean--></T>
+      <L n="affordances">
+        <T>11931650177697561623<!--LN_RM:counter_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">14331<!--stove_Clean--></T>
+      <L n="affordances">
+        <T>15706106970782216854<!--LN_RM:stove_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">13094<!--bed_sleep--></T>
+      <L n="affordances">
+        <T>14145371828789923943<!--LN_RM:SimPicker_Bed_AssignServant--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">13071<!--bathtub_Clean--></T>
+      <L n="affordances">
+        <T>11862926395709423455<!--LN_RM:bathtub_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">100035<!--Desk_Clean--></T>
+      <L n="affordances">
+        <T>11574603243477877380<!--LN_RM:Desk_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">35024<!--grill_Clean--></T>
+      <L n="affordances">
+        <T>13907579647920765923<!--LN_RM:grill_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">142506<!--HighChair_Clean--></T>
+      <L n="affordances">
+        <T>11603248507166947598<!--LN_RM:HighChair_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">13599<!--microwave_Clean--></T>
+      <L n="affordances">
+        <T>17819874021673648982<!--LN_RM:microwave_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">337516<!--PizzaOven_Clean--></T>
+      <L n="affordances">
+        <T>15343238920238614563<!--LN_RM:PizzaOven_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">342467<!--PressureCooker_Clean--></T>
+      <L n="affordances">
+        <T>14900631859864430789<!--LN_RM:PressureCooker_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">248525<!--tableDining_Low_Clean--></T>
+      <L n="affordances">
+        <T>12687173268451931291<!--LN_RM:tableDining_Low_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">14354<!--tableDining_Clean--></T>
+      <L n="affordances">
+        <T>12264818242372757686<!--LN_RM:tableDining_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">13949<!--shower_Clean--></T>
+      <L n="affordances">
+        <T>14700279771691434507<!--LN_RM:shower_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">338769<!--standMixer_Clean--></T>
+      <L n="affordances">
+        <T>17508046248340128520<!--LN_RM:standMixer_Clean_Fake--></T>
+      </L>
+    </U>
+    <U>
+      <T n="query">338844<!--waffleMaker_Clean--></T>
+      <L n="affordances">
+        <T>11419004944845309226<!--LN_RM:waffleMaker_Clean_Fake--></T>
+      </L>
+    </U>
+  </L>
+</I>

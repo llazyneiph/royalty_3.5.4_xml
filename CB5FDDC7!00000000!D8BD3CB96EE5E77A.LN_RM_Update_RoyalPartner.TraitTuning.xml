@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="15617705849917925242" i="trait" m="traits.traits" n="LN_RM_Update_RoyalPartner">
+  <T n="display_name">0xA25AC4CD<!--hidden_royalpartner_addon--></T>
+  <T n="display_name_gender_neutral">0xA25AC4CD<!--hidden_royalpartner_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15682693823803608956</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

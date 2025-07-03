@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:Objective_Journal" s="13873049926378623606">
+  <L n="additional_tests">
+    <L>
+      <V t="situation_running_test">
+        <U n="situation_running_test">
+          <V n="situation_whitelist" t="enabled">
+            <L n="enabled">
+              <T>10723851117296855453<!--LN_RM:situationSimple_Journal--></T>
+            </L>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">1</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>15078481901791876600<!--LN_RM:book_DailyDuties_Journal--></T>
+      </L>
+    </U>
+  </V>
+</I>

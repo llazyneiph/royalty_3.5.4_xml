@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AspirationCareer" i="aspiration" m="aspirations.aspiration_tuning" n="LN_RM:aspiration_Nobility_DevotedCourtier_Level2" s="11227338620273202242">
+  <L n="objectives">
+    <T>26466<!--objective_Skill_Charisma_Level05--></T>
+    <T>11845699625995956757<!--LN_RM:objectives_Asp_Nobility_Friends_3--></T>
+  </L>
+</I>

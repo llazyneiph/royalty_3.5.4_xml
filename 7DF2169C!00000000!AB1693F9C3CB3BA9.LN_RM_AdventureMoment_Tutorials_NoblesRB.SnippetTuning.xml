@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_NoblesRB" s="12328203730914327465">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xD1D4E28D<!--<b>Nobles Rabbitholes</b> \n\nNobles now have a lot more to do to keep them busy!\nThere are several new rabbitholes which all give them positive reputation points and either help them gain skills or fill a need. \nThese rabbitholes include activities such as gossiping in an apple orchard, attending court, going hunting, attending afternoon tea, and more. \n\nYou can send them to attend these rabbithole by clicking on them while they are the active sim, and navigating to the ‘Nobility Rabbitholes’ menu.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

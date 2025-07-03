@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Military_RiverPatrol_End" s="14885200833215734736">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="advertise">True</T>
+          <T n="stat">12355553078109232551<!--LN_RM:commodity_Military_RiverPatrol--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

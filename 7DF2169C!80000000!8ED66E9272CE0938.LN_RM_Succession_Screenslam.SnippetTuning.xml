@@ -1,0 +1,23 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ScreenSlam" s="10292535573672233272" i="snippet" m="snippets" n="LN_RM:Succession_Screenslam">
+  <U n="value">
+    <V n="text" t="enabled">
+      <T n="enabled">0x9EFEC06D<!--The crown has been passed down and sits atop a new head.--></T>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0xC524C2DD<!--The Sun Rises on a New Monarch--></T>
+    </V>
+    <V n="icon" t="enabled">
+      <T n="enabled">2f7d0004:00000000:e7201da88c64cc1b</T>
+    </V>
+    <V n="audio_sting" t="enabled">
+      <U n="enabled">
+        <T n="audio">39b2aa4a:00000000:ea1687e36b0b32f3</T>
+      </U>
+    </V>
+    <V n="display_type" t="size_based">
+      <U n="size_based">
+        <E n="screen_slam_size">EXTRA_LARGE</E>
+      </U>
+    </V>
+  </U>
+</I>

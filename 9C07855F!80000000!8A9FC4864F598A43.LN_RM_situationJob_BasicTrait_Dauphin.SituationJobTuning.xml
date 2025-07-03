@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationJob" i="situation_job" m="situations.situation_job" n="LN_RM:situationJob_BasicTrait_Dauphin" s="9988918579666979395">
+  <T n="display_name">0xA4CCFEAA<!--Dauphin--></T>
+  <T n="spawn_at_lot">False</T>
+  <T n="tooltip_name">0xA4CCFEAA<!--Dauphin--></T>
+  <U n="tooltip_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type" />
+    </L>
+  </U>
+  <T n="user_facing_sim_headline_display_override">True</T>
+</I>

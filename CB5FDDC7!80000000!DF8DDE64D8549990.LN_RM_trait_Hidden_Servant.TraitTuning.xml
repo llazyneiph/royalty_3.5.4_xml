@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_Servant" s="16108775966881651088">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15823217592011131049<!--LN_RM:buff_trait_Servant--></T>
+    </U>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <E n="trait_type">HIDDEN</E>
+</I>

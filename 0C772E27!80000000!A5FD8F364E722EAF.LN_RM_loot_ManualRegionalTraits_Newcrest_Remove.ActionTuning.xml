@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Newcrest_Remove" s="11960873648773017263">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">9223523606348370021<!--LN_RM:trait_Gameplay_RegionalRoyal_Newcrest--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

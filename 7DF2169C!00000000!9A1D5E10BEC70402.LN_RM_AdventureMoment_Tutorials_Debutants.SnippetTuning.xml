@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_Debutants" s="11105135682178712578">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xD6540910<!--<b>Debutants</b> \n\nYou can now throw a Debutant Ball as an event! \nFemale teens and young adults can debut under the Buy Mode item, ‘Debutants Arch’. \nBy debuting under the arch, they will successfully complete the events main objective. \nThey will also receive a happy buff, new friendly relationships with 4 previously unknown Nobles (providing there are enough Nobles in your save) and a vase of white flowers in their inventory.\nThe vase has the interaction to reminisce on it, this will also give them a happy memory buff. \nEveryone will attend the event in black or white formal attire. \n\n(If you have custom content outfits that are incorrectly tagged as black or white, there is a chance sims will come dressed in them.)--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

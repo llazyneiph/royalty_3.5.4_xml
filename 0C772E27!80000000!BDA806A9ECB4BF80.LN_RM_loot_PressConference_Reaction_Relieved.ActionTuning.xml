@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_PressConference_Reaction_Relieved" s="13666180396146278272">
+  <L n="loot_actions">
+    <V t="reaction">
+      <U n="reaction">
+        <V n="mixer_reaction" t="enabled">
+          <U n="enabled">
+            <T n="affordance">10187<!--mixer_Stand_RelievedResponse--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="actions">
+      <T n="actions">11036<!--Rel_Gain_Small--></T>
+    </V>
+  </L>
+</I>

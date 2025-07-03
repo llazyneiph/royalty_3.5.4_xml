@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10961830869839130988" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Monarch_MainBuff">
+  <T n="buff_description">0x869721E6<!--{0.SimFirstName} is the current reigning leader of the land! {M0.He}{F0.She} has thousands of subjects to carefully rule over, will {M0.he}{F0.she} go down in history as a benevolent and beloved monarch or as a feared iron-fisted ruler?--></T>
+  <T n="buff_name">0xAE0252CE<!--Monarch--></T>
+  <T n="icon">2f7d0004:00000000:8c4da10d37c494fa</T>
+  <T n="mood_type">14637</T>
+  <T n="mood_weight">1</T>
+  <L n="_loot_on_instance">
+    <T>15027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+     <T>15812302489956005882<!--LN_RM:loot_AddTrait_isMonarch--></T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>14297251877929983822<!--LN_RM:loot_isRoyal_RemoveTrait--></T>
+  </L>
+   <L n="_loot_on_addition">
+    <T>15027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998</T>
+      <L n="value">
+        <T>10961830869839130988<!--LN_R:Taxes_RaisedTaxes_Trait--></T>
+        <T>14926627030718454438</T>
+        <T>9818695596520099558</T>
+        <T>10293212493522317412</T>
+        <T>9739985803724364723<!--Announce as Heir--></T>
+        <T>13335232077290867583</T>
+        <T>12762183447166689318</T>
+        <T>11772682266584248622</T>
+        <T>14130489868557700781</T>
+        <T>12174585533746403678<!--Order Tax Raise--></T>
+        <T>15141562385310461061<!--LN_RM:AskforWeeklyTaxes_INT--></T>
+        <T>12723500080098090641<!--LN_RM:mixer_interaction_Execute--></T>
+        <T>16204617537141771649<!--LN_RM:Audience_CitizenQuestions--></T>
+        <T>9296985577272258388</T>
+        <T>10230122378875264067</T>
+        <T>18379790828066680207</T>
+        <T>10015203267379114249</T>
+        <T>10824816846775930753</T>
+        <T>18040594101927662085</T>
+        <T>13629502896862008407</T>
+        <T>17003496179430396802</T>
+        <T>15576196032777825885<!--llazyneiph_INT_DesignateAsCourtWizard--></T>
+        <T>13188801265071986588</T>
+        <T>17849732534350491887</T>
+        <T>11986169034958164520</T>
+        <T>18165144530856713661</T>
+        <T>15835078308790230531</T>
+        <T>18173660684956636046</T>
+        
+        <T>12545584176986530260</T>
+        <T>11589118553432374158</T>
+      </L>
+    </U>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">161998</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>17993707980330894542</T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">16699</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16706</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16709</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16713</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">16721</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">128145</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+            <U>
+              <T n="key">186703</T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

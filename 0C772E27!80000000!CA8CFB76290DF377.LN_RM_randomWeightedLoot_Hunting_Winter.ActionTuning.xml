@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_Hunting_Winter" s="14595316977314427767">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278923<!--Red Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">278719<!--White Meat--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">3692136734<!--Littlbowbub_Hunting_LootReward_SmallPoultry_Duck-prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">1281018811<!--Littlbowbub_Hunting_LootReward_SmallPoultry_Pigeon_prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="create_object">
+        <U n="create_object">
+          <V n="creation_data" t="definition">
+            <U n="definition">
+              <T n="definition">233587162<!--Littlbowbub_Hunting_LootReward_MediumPoultry_WildChicken-prop--></T>
+            </U>
+          </V>
+          <V n="location" t="inventory" />
+          <T n="quantity">1</T>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

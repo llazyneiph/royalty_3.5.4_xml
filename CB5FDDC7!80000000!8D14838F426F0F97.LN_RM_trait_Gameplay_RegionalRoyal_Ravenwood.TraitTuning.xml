@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_Ravenwood" s="10165894910200188823">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x04340310<!--Ravenwood Royal--></T>
+  <T n="display_name_gender_neutral">0x04340310<!--Ravenwood Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:CA0530C47FB1BE17</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x31F6BEC4<!--{0.SimFirstName} belongs to the ruling family of Ravenwood.--></T>
+  <T n="trait_origin_description">0x4429FFDC<!--(From Ruling Over Ravenwood)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="10074547009419647952" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Empress_Hidden">
+  <T n="display_name">0xF2D3EE20<!--Empress--></T>
+  <T n="display_name_gender_neutral">0xF2D3EE20<!--Empress--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xF35D671F<!--Change Title to Empress--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18085964642404697693<!--llazyneiph_RoyaltyModUpdateV1_Trait/3467481466--></T>
+    </U>
+    <U>
+      <T n="buff_type">18384480445327688269</T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

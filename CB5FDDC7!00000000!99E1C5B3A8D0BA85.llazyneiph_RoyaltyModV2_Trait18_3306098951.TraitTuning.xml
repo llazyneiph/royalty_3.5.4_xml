@@ -1,0 +1,18 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="11088361132984941189" i="trait" m="traits.traits" n="llazyneiph_RoyaltyModV2_Trait18/3306098951">
+  <T n="display_name">0xAD247465<!--Name--></T>
+  <T n="display_name_gender_neutral">0xAD247465<!--Name--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="trait_description">0xDF856EA9<!--Description--></T>
+  <E n="trait_type">HIDDEN</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11210836843042889617<!--llazyneiph_RoyaltyModV2_Trait18/4145200893--></T>
+    </U>
+    <U>
+      <T n="buff_type">15046618018322336273<!--llazyneiph_RoyaltyModV2_Trait18/70822007--></T>
+    </U>
+    <U>
+      <T n="buff_type">11379252982518266215<!--llazyneiph_RoyaltyModV2_Trait18/3665284503--></T>
+    </U>
+  </L>
+</I>

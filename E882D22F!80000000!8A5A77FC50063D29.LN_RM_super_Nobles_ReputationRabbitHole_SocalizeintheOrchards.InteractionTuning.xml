@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:super_Nobles_ReputationRabbitHole_SocalizeintheOrchards" s="9969412650696064297">
+  <V n="_icon" t="participant">
+    <U n="participant">
+      <L n="participant_type">
+        <E>Actor</E>
+      </L>
+    </U>
+  </V>
+  <T n="category">10896403063213532690<!--LN_RM:pieMenuCategory_NobilityRabbitholes--></T>
+  <V n="_saveable" t="enabled" />
+  <T n="attention_cost">0.5</T>
+  <V n="basic_content" t="one_shot" />
+  <L n="basic_extras">
+    <V t="put_sim_in_rabbit_hole">
+      <U n="put_sim_in_rabbit_hole">
+        <T n="rabbit_hole">16658238057702159892<!--LN_RM:rabbitHole_Nobles_Reputation_Orchards--></T>
+      </U>
+    </V>
+  </L>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x40DB6706<!--Socialize in the Orchards--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="pie_menu_icon" t="enabled">
+    <V n="enabled" t="resource_key">
+      <U n="resource_key">
+        <T n="key" p="InEP10\UI\Icons\PieMenu\Interactions\icon_piemenu_lifeStyleWorkaholic.png">2f7d0004:00000000:DE5F97FB6AEA11E6</T>
+      </U>
+    </V>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">ACTOR</E>
+  <L n="test_globals">
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified" />
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+    <V t="identity">
+      <U n="identity">
+        <T n="subjects_match">True</T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <L n="blacklist">
+          <T>15240112621903059730<!--LN_RM:Buff_Hidden_NobilityRabbitHoles_HasBeenToRecently_Orchards--></T>
+        </L>
+        <E n="subject">Actor</E>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0xCC1C83A0<!--You should let a little more time pass before doing this again.--></T>
+        </V>
+      </U>
+    </V>
+    <V t="statistic">
+      <U n="statistic">
+        <T n="stat">16654<!--motive_Energy--></T>
+        <V n="threshold" t="value_threshold">
+          <U n="value_threshold">
+            <T n="value">-50</T>
+          </U>
+        </V>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0x1B7CC406<!--{0.SimFirstName} is too tired to do this right now!--></T>
+        </V>
+      </U>
+    </V>
+    <V t="statistic">
+      <U n="statistic">
+        <T n="stat">16656<!--motive_Hunger--></T>
+        <V n="threshold" t="value_threshold">
+          <U n="value_threshold">
+            <T n="value">-50</T>
+          </U>
+        </V>
+        <V n="tooltip" t="enabled">
+          <T n="enabled">0xAC751509<!--{0.SimFirstName} is too hungry to do this right now!--></T>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">30</T>
+</I>

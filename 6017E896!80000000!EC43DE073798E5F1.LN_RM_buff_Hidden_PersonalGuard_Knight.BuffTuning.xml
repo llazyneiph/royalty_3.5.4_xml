@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Hidden_PersonalGuard_Knight" s="17024695138969511409">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998</T>
+      <L n="value">
+        <T>11693792528335550338</T>
+      </L>
+    </U>
+  </L>
+  <V n="broadcaster" t="enabled">
+    <U n="enabled">
+      <L n="broadcaster_types">
+        <U>
+          <T n="item">17228121009385141232<!--LN_RM:broadcaster_ComeHere--></T>
+        </U>
+      </L>
+    </U>
+  </V>
+  <V n="interactions" t="enabled">
+    <U n="enabled">
+      <L n="interaction_items">
+        <T>15548135301594669341<!--LN_RM:mixers_Knights_StandWatch_ToughPose--></T>
+      </L>
+      <T n="weight">10</T>
+    </U>
+  </V>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">15213596547143625413<!--LN_RM:situationJob_BasicTrait_PersonalGuard_Knight--></T>
+      </V>
+      <T n="situation">17894842875643847857<!--LN_RM:basicTraitSituation_PersonalGaurd_Knight--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <L n="_inappropriateness_tags">
+    <E>Appropriateness_ServiceNPC</E>
+    <E>Appropriateness_Visitor</E>
+    <E>Appropriateness_PhoneGame</E>
+  </L>
+  <L n="super_affordances">
+    <T>16626862079960540044<!--LN_RM:Socials_Picker_SwordFight--></T>
+    <T>13729424383366679123<!--LN_RM:Socials_Picker_DeadlySwordFight--></T>
+    <!--HelmetAdd-->
+    <T>13172897785793973024<!--LN_RM:immediate_KnightOutifits_Helmet_Red&Black--></T>
+    <T>13841686841311755819<!--LN_RM:immediate_KnightOutifits_Helmet_Blue_Gold--></T>
+    <T>9628516889381556296<!--LN_RM:immediate_KnightOutifits_Helmet_Black_Gold--></T>
+    <T>12415303874788909077<!--LN_RM:immediate_KnightOutifits_Helmet_Silver_Grey--></T>
+    <!--SuitAdd-->
+    <T>16209777932176686215<!--LN_RM:immediate_KnightOutifits_Suits_Black_Gold--></T>
+    <T>16097094103183307394<!--LN_RM:immediate_KnightOutifits_Suits_Blue_Gold--></T>
+    <T>14567971472877953731<!--LN_RM:immediate_KnightOutifits_Suits_Gold--></T>
+    <T>12917174101744956854<!--LN_RM:immediate_KnightOutifits_Suits_Black--></T>
+    <T>11532483485362367294<!--LN_RM:immediate_KnightOutifits_Suits_Silver--></T>
+    <!--Squire-->
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">13168034529795701842<!--LN_RM:nonTouching_SocialSuperInteractions_AsktoBeSquire--></T>
+      <T n="allow_self">False</T>
+    </U>
+  </L>
+  <T n="refresh_on_add">True</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+  <V n="walkstyle" t="disabled" />
+</I>

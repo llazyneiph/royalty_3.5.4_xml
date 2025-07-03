@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Ladiesinwaiting_Addtrait" s="12719315882802151356">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">13528650824898995800<!--LN_RM:trait_LadyinWaiting--></T>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="relationship_change">
+        <U n="relationship_change">
+          <T n="amount">25</T>
+          <L n="target_participant_type">
+            <E>TargetSim</E>
+          </L>
+          <T n="track">16650<!--LTR_Friendship_Main--></T>
+          <U n="track_range">
+            <T n="upper_bound">0</T>
+          </U>
+        </U>
+      </V>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <L n="dialog_options">
+              <E>DISABLE_CLOSE_BUTTON</E>
+            </L>
+            <V n="icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>TargetSim</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0x3E581BC1<!--Thank you {F0.Mistress}{M0.Masters}, I'm honoured to hold this position.--></T>
+            </V>
+            <E n="visual_type">SPEECH</E>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,33 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="12840831718248924885" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait5/140286416">
+  <T n="priority">1</T>
+  <T n="whim_reason">0x9C0EF1EB<!--(From Being Royal Partner)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">28095<!--Whim_KissSim--></T>
+    </U>
+    <U>
+      <T n="whim">28091<!--Whim_HugSim--></T>
+    </U>
+    <U>
+      <T n="whim">77315<!--Whim_RomanceSim--></T>
+    </U>
+    <U>
+      <T n="whim">97984<!--Whim_AskonDate--></T>
+    </U>
+    <U>
+      <T n="whim">161635<!--Whim_VolunteerWithFamily--></T>
+    </U>
+    <U>
+      <T n="whim">25938<!--Whim_FlirtSim--></T>
+    </U>
+    <U>
+      <T n="whim">28095<!--Whim_KissSim--></T>
+    </U>
+    <U>
+      <T n="whim">25941</T>
+    </U>
+    <U>
+      <T n="whim">26066<!--Whim_AskOut--></T>
+    </U>
+  </L>
+</I>

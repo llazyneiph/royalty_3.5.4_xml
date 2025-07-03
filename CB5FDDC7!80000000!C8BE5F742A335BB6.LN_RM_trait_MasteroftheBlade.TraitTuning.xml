@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_MasteroftheBlade" s="14465104005689465782">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="display_name">0x9667F706<!--Master of the Blade--></T>
+  <T n="display_name_gender_neutral">0x9667F706<!--Master of the Blade--></T>
+  <T n="icon" p="InEP06\UI\Icons\CAS\Traits\AspirationTraits\traitAspiration_renownedActor.png">2f7d0004:00000000:E08CE519EEB038CC</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x11C5A08C<!--The blade is an extension of {0.SimFirstName}'s arm, they weild these deadly weapons like no other!--></T>
+  <T n="trait_origin_description">0x8F3E0FE9<!--(From Completing Swordsmanship Skill)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

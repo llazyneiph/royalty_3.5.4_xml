@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_ManualRegionalTraits_Britechester_Add_Noble" s="11911352253544650200">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">17740514494657625159<!--LN_RM:trait_Gameplay_RegionalNoble_Britechester--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,6 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17528955664206076562" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_hidden_Count">
+  <T n="visible">False</T>
+  <T n="buff_description">0xFFA71023<!--{0.SimFirstName} is a Count of {0.SimPronounPossessiveDependent} fair kingdom!--></T>
+  <T n="buff_name">0x9079EBCA<!--Count--></T>
+  <T n="icon">2f7d0004:00000000:a0877f63ca04cadc</T>
+</I>

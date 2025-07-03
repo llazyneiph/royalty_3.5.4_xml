@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="LN_RM:roleState_BasicTrait_Knight" s="9661576691109250195">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <V n="buff_reason" t="disabled" />
+      <T n="buff_type">201512<!--buff_Role_Appropriateness_AvoidSitting--></T>
+    </U>
+    <U>
+      <T n="buff_type">96800<!--buff_AutonomyMod_LessFun--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type" o="true" />
+  </U>
+  <L n="role_affordances">
+    <T>18222425448358764830<!--LN_RM:Knights_Command_BeMean--></T>
+    <T>18176430238498095759<!--LN_RM:immediate_Knight_WalkstyleToggle--></T>
+    <T>14373889985501597201<!--LN_RN:social_Knights_Command_Remove_Knight--></T>
+    <T>14132685951061107536<!--LN_RM:Knight_StandWatch--></T>
+    <!--HelmetAdd-->
+    <T>13172897785793973024<!--LN_RM:immediate_KnightOutifits_Helmet_Red&Black--></T>
+    <T>13841686841311755819<!--LN_RM:immediate_KnightOutifits_Helmet_Blue_Gold--></T>
+    <T>9628516889381556296<!--LN_RM:immediate_KnightOutifits_Helmet_Black_Gold--></T>
+    <T>12415303874788909077<!--LN_RM:immediate_KnightOutifits_Helmet_Silver_Grey--></T>
+    <!--SuitAdd-->
+    <T>16209777932176686215<!--LN_RM:immediate_KnightOutifits_Suits_Black_Gold--></T>
+    <T>16097094103183307394<!--LN_RM:immediate_KnightOutifits_Suits_Blue_Gold--></T>
+    <T>14567971472877953731<!--LN_RM:immediate_KnightOutifits_Suits_Gold--></T>
+    <T>12917174101744956854<!--LN_RM:immediate_KnightOutifits_Suits_Black--></T>
+    <T>11532483485362367294<!--LN_RM:immediate_KnightOutifits_Suits_Silver--></T>
+  </L>
+</I>

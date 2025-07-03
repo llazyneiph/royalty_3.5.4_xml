@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalActor" i="situation_goal" m="situations.situation_goal_actor" n="LN_RM:scenarioGoal_Actor_Grandchildren_6" s="10151178270809926141">
+  <T n="_cooldown">0</T>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_simoleon.png">2f7d0004:00000000:c6ce42ec3279ae59</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x06B6527E<!--Have {0.Grandchildren}--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x9EEB144E<!--No better way to secure a strong royal legacy than to populate your family tree as much as possible!--></T>
+      </V>
+    </U>
+  </V>
+  <V n="_goal_test" t="relationships">
+    <U n="relationships">
+      <T n="num_relations">6</T>
+      <U n="required_relationship_bits">
+        <L n="match_any">
+          <T>8807<!--family_grandchild--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <L n="_scenario_roles">
+    <T>273416<!--scenarioRole_PrimarySim--></T>
+  </L>
+  <T n="_score">10</T>
+  <T n="audio_sting_on_complete" p="" />
+  <E n="display_type">COMPLETION_ONLY</E>
+  <T n="should_reevaluate_on_load">True</T>
+  <T n="use_numeric_test_results">True</T>
+  <T n="is_visible">True</T>
+</I>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ImmediateSuperInteraction" s="18142490701414329065" i="interaction" m="interactions.base.immediate_interaction" n="LN_RM:RemoveAllTraits_ImmediateInteraction">
+  <L n="basic_extras">
+    <V t="notification">
+      <U n="notification">
+        <V n="dialog" t="single">
+          <V n="single" t="literal">
+            <U n="literal">
+              <V n="title" t="enabled">
+                <T n="enabled">0x7CD8B910<!--String: "Royalty Mod"--></T>
+              </V>
+              <V n="text" t="single">
+                <T n="single">0x9258F8D6<!--String: "This sim has been wiped clean of all Royalty Mod related traits."--></T>
+              </V>
+              <E n="urgency">URGENT</E>
+            </U>
+          </V>
+        </V>
+        <V n="timing" t="at_beginning" />
+      </U>
+    </V>
+  </L>
+  <T n="category">13470117969285627983<!--LN_RM:pieMenuCategory_RM_Cheats--></T>
+  <T n="display_name">0xD9EC8944<!--Remove Royalty Mod Traits--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="display_tooltip" t="enabled">
+    <T n="enabled">0x996AF61A<!--This will remove all Royalty Mod related traits.--></T>
+  </V>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>12659109708171729220<!--LN_RM:loot_RemoveAllTraits--></T>
+        </L>
+        <L n="continuation">
+          <U>
+            <T n="affordance">9587804384086030709<!--LN_RM:Picker_Base_Sim--></T>
+            <E n="target">Actor</E>
+          </U>
+        </L>
+      </U>
+    </U>
+  </V>
+  <V n="pie_menu_icon" t="enabled">
+    <V n="enabled" t="resource_key">
+      <U n="resource_key">
+        <T n="key" p="InGame\UI\Icons\PieMenu\Interactions\icon_pieMenu_immediateInteraction.png">2f7d0004:00000000:25eea5cdba6a6fd6</T>
+      </U>
+    </V>
+  </V>
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <E n="target_type">OBJECT</E>
+</I>

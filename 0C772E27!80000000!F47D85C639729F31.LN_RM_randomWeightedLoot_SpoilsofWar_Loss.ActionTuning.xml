@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN_RM:randomWeightedLoot_SpoilsofWar_Loss" s="17617384403757080369">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">11058173754837728697<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_Tribute--></T>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">18231721472321378185<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_TradeRoute--></T>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">12070445417836438257<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_Small--></T>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">13271856888191759553<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_Medium--></T>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">14501271736481621862<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_Massive--></T>
+      </V>
+    </U>
+    <U>
+      <V n="action" t="actions">
+        <T n="actions">12735326748414147521<!--LN_RM:loot_SpoilsOfWar_EmpireTreasury_Loss_Huge--></T>
+      </V>
+    </U>
+  </L>
+</I>

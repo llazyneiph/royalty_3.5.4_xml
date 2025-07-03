@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Peasant_Shoes_On" s="12187561005191375097">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">11842970793886580620<!--LN_RM:trait_WornOutShoes_On--></T>
+      </U>
+    </V>
+  </L>
+</I>

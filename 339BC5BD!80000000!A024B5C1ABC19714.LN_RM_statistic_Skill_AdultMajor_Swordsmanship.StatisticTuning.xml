@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Skill" i="statistic" m="statistics.skill" n="LN_RM:statistic_Skill_AdultMajor_Swordsmanship" s="11539547988644960020">
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>TEEN</E>
+  </L>
+  <T n="icon" p="InGP06\UI\icons\Skills\skill_LocalCulture.png">2f7d0004:00000000:E08CE519EEB038CC</T>
+  <T n="initial_value">100</T>
+  <L n="level_data">
+    <U>
+      <T n="key">1</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xD6F221B2<!--{0.SimFirstName}'s new skill in Swordsmanship allows {M0.him}{F0.her} to Practice {M0.him}{F0.her} Sword Fighting skills with other sims.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x38F0C559<!--Acquired the Swordsmanship Skill.--></T>
+          </V>
+        </U>
+      </U>
+    </U>
+    <U>
+      <T n="key">2</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xC55D1278<!--{0.SimFirstName} is now more adept with the blade and has a higher chance of winning when practising with other sims.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x21EA0EBA<!--Reached Swordsmanship Skill Level 2--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">10664019468850228217<!--LN_RM:screenSlam_Skill_Swordsmanship_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">3</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>13384399575001364010<!--LN_RM:mixer_social_BoastAboutSwordsmanship_targeted_Friendly_alwaysOn_skills--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xCC17670E<!--{0.SimFirstName} can now boast to other sims about their skills with the blade. The now have an even stronger chance of defeating others in practice.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x3825D545<!--Reached Swordsmanship Skill Level 3--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">10664019468850228217<!--LN_RM:screenSlam_Skill_Swordsmanship_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">4</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xE416C63F<!--{0.SimFirstName} can now challenge other sims to a duel to the death, or even challenge the reigning monarch for the crown!--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x760A995C<!--Reached Swordsmanship Skill Level 4--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">10664019468850228217<!--LN_RM:screenSlam_Skill_Swordsmanship_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">5</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13991<!--sim_BeAffectionate--></T>
+            <L n="value">
+              <T>174810<!--socials_Targeted_Friendly_AlwaysOn_STC_LocalCulture_SharePhoto--></T>
+            </L>
+          </U>
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>174741<!--socials_Targeted_Friendly_AlwaysOn_STC_LocalCulture_Salutation--></T>
+              <T>174736<!--socials_Targeted_Friendly_AlwaysOn_STC_LocalCulture_AskAboutRuins--></T>
+              <T>174739<!--socials_Targeted_Friendly_AlwaysOn_STC_LocalCulture_InquireAboutMyths--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x930A5430<!--{0.SimFirstName} can now take on an apprentice and mentor them in the ways of the sword!--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x1380C29F<!--Reached Swordsmanship Skill Level 5--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">10664019468850228217<!--LN_RM:screenSlam_Skill_Swordsmanship_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+          <T>11214196432306038056<!--LN_RM:loot_AddTrait_MasteroftheBlade--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">174877<!--simPicker_TellFolkTale--></T>
+          </U>
+          <U>
+            <T n="affordance">174875<!--socialSuperInteraction_TellFolkTale--></T>
+          </U>
+        </L>
+      </U>
+    </U>
+  </L>
+  <T n="mood_id">14634<!--Mood_Confident--></T>
+  <T n="skill_description">0x25976F09<!--The art of the sword is an old but important skill and sims who are called to learn it must persevere through blood, sweat and tears to become the best of the best!--></T>
+  <E n="skill_level_type">MINOR</E>
+  <U n="stat_asm_param">
+    <T n="asm_param_name">statLevel</T>
+    <L n="level_ranges">
+      <U>
+        <T n="key">high</T>
+        <U n="value">
+          <T n="lower_bound">5</T>
+          <T n="upper_bound">100</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">low</T>
+        <U n="value">
+          <T n="lower_bound">0</T>
+          <T n="upper_bound">1</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">medium</T>
+        <U n="value">
+          <T n="lower_bound">3</T>
+          <T n="upper_bound">3</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">mediumHigh</T>
+        <U n="value">
+          <T n="lower_bound">4</T>
+          <T n="upper_bound">4</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">mediumLow</T>
+        <U n="value">
+          <T n="lower_bound">2</T>
+          <T n="upper_bound">2</T>
+        </U>
+      </U>
+    </L>
+  </U>
+  <T n="stat_name">0xFA2F4DEF<!--Swordsmanship--></T>
+  <L n="tags">
+    <E>Skill_All</E>
+    <E>Skill_All_Visible</E>
+    <E>Skill_Social</E>
+  </L>
+  <L n="tooltip_icon_list">
+    <T p="InGP06\UI\icons\SkillObjects\SkillObjectsJungleGoodDish.png">2f7d0004:00000000:66AA85F2B590E337</T>
+    <T p="InGP06\UI\icons\SkillObjects\SkillObjectsJungleMyth1.png">2f7d0004:00000000:E08CE519EEB038CC</T>
+  </L>
+</I>

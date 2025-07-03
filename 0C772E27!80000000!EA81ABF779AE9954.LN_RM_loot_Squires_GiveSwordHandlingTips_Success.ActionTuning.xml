@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Squires_GiveSwordHandlingTips_Success" s="16897976356257569108">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xB7E97F7F<!--(From Socialization)--></T>
+          </V>
+          <T n="buff_type">17630123954859227763<!--LN_RM:buff_SwordHandling_TechniquesKnoweldge--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="bucks_loot">
+      <U n="bucks_loot">
+        <T n="amount">5</T>
+        <E n="bucks_type">InfluenceBuck</E>
+      </U>
+    </V>
+  </L>
+</I>

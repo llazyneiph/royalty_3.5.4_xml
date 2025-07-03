@@ -1,0 +1,33 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="17793370118707880336" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait16/3933095113">
+  <T n="priority">1</T>
+  <T n="whim_reason">0xA9B0F7A1<!--(From Being a Jester)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">34643<!--Whim_BeMischievous--></T>
+    </U>
+    <U>
+      <T n="whim">16045<!--Whim_GetPlayful--></T>
+    </U>
+    <U>
+      <T n="whim">39511<!--Whim_PlayPrank--></T>
+    </U>
+    <U>
+      <T n="whim">34971<!--Whim_SkillUpMischief--></T>
+    </U>
+    <U>
+      <T n="whim">34668<!--Whim_SkillUpComedy--></T>
+    </U>
+    <U>
+      <T n="whim">25939<!--Whim_TellJoke--></T>
+    </U>
+    <U>
+      <T n="whim">35313<!--Whim_TellSucessfulJoke--></T>
+    </U>
+    <U>
+      <T n="whim">35311<!--Whim_WriteJokes--></T>
+    </U>
+    <U>
+      <T n="whim">35306<!--Whim_PerformROutine--></T>
+    </U>
+  </L>
+</I>

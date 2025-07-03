@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="llazyneiph:buff_Trait_Hidden_Custom_02_Title" s="17103937641981460960">
+  <T p="InGame\Audio\Stings\sting_buff_gain.propx" n="audio_sting_on_add">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T p="InGame\Audio\Stings\sting_buff_loss.propx" n="audio_sting_on_remove">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <L n="_loot_on_instance">
+    <T>18380512787456371721<!--LN:loot_trait_CustomTitle_02--></T>
+  </L>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">10887792948242009811<!--llazyneiph:situationJob_BasicTrait_RoyaltyMod_CustomTitle_02--></T>
+      </V>
+      <T n="situation">9861857193012940759<!--llazyneiph:TraitSituation_RoyaltyMod_CustomTitle_02--></T>
+      <V t="enabled" n="situation_guest_info">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <T p="InGame\UI\Icons\Debug\missing_image.png" n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="refresh_on_add">True</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">0</T>
+  <T n="visible">False</T>
+  <V t="disabled" n="walkstyle" />
+</I>

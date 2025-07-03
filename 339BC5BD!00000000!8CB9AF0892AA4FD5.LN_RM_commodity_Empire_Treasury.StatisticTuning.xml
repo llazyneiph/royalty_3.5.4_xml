@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Statistic" i="statistic" m="statistics.statistic" n="LN_RM:commodity_Empire_Treasury" s="10140328487356616661">
+  <T n="max_value_tuning">999999999</T>
+  <T n="stat_name">0x0EF058B8<!--Coins--></T>
+</I>

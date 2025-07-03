@@ -1,0 +1,9 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="15645596088419533698" i="trait" m="traits.traits" n="llazyneiph_RoyaltyModUpdateV1_Trait3/1510502155">
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">13620745370241271138<!--llazyneiph_RoyaltyModUpdateV1_Trait3/2481307075--></T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

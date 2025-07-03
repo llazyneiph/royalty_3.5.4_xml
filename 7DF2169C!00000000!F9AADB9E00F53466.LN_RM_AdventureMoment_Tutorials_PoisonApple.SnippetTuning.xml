@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AdventureMoment" i="snippet" m="snippets" n="LN_RM:AdventureMoment_Tutorials_PoisonApple" s="17990433133152253030">
+  <U n="value">
+    <L n="_finish_actions">
+      <U>
+        <L n="action_results"></L>
+        <V n="display_text" t="single">
+          <T n="single">0x5768612C<!--Close--></T>
+        </V>
+      </U>
+    </L>
+    <V n="_visibility" t="show_dialog">
+      <U n="show_dialog">
+        <V n="audio_sting" t="enabled">
+          <U n="enabled">
+            <T n="audio" p="InGame\Audio\Bumper\bumper_learn_new_preference.propx">39b2aa4a:00000000:ab592251afd141bc</T>
+          </U>
+        </V>
+        <V n="icon" t="enabled">
+          <V n="enabled" t="participant" />
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xE3A78817<!--<b>Poison Apple</b> \n\nYou can purchase an apple from Buy Mode called ‘[LN] 'Perfect' Apple’. \nThis apple will give you the option to poison a noble!\nAfter choosing their target, your sim must order a Lady-in-Waiting to deliver the apple to the target. \nAfter the target eats the apple, it’s only a matter of time! \nAt first they will feel fine, until they start to feel sick and dizzy, and then become covered in spots. \nFinally, after several hours they will ‘mysteriously’ die! \n\nPlease note the Lady-in-Waiting might take an hour or two to actually give the target the apple, but you will receive a notification when they eat the apple.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xA34B73FD<!--Royalty Mod Tutorials--></T>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

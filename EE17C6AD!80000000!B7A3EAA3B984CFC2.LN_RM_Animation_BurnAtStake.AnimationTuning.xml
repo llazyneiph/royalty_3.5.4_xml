@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="LN_RM:Animation_BurnAtStake" s="13232678119057706946">
+  <T n="asm_key" p="InGame\Sage\spookyCandyBowl_eatCandy.interactionasm">02d5df13:00000000:335589084D34F16F</T>
+  <L n="begin_states">
+    <T>Be Burnt</T>
+  </L>
+  <L n="end_states">
+    <T>exit</T>
+  </L>
+</I>

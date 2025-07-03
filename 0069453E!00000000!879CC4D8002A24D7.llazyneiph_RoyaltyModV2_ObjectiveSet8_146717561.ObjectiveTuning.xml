@@ -1,0 +1,10 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Objective" s="9771901723481875671" i="objective" m="event_testing.objective_tuning" n="llazyneiph_RoyaltyModV2_ObjectiveSet8/146717561">
+  <V n="objective_test" t="buff_added">
+    <U n="buff_added">
+      <L n="acceptable_buffs">
+        <T>14446664362412916330<!--llazyneiph_RoyaltyMod_Buff_Abdicated--></T>
+      </L>
+    </U>
+  </V>
+  <V n="objective_completion_type" t="use_test_result" />
+</I>

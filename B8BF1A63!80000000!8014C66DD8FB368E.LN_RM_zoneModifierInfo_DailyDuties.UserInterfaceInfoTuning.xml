@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ZoneModifierDisplayInfo" i="user_interface_info" m="zone_modifier.zone_modifier_display_info" n="LN_RM:zoneModifierInfo_DailyDuties" s="9229219711483065998">
+  <E n="modifier_type">LOT_CHALLENGE</E>
+  <T n="zone_modifier_description">0xD63533CC<!--Step into the shoes of a monarch with the 'Daily Duties' lot trait. Balance the art of ruling with a variety of royal responsibilities. From holding court and diplomatic meetings to overseeing cultural events and managing crises, each day is a new adventure in leadership. Your decisions shape the kingdom, blending the personal and political in a true test of monarchy. Embrace the challenge and lead your realm to prosperity!--></T>
+  <T n="zone_modifier_icon" p="InGame\UI\Icons\LotTraits\LotTrait_Foxes.png">2f7d0004:00000000:ABE61604AF170D09</T>
+  <T n="zone_modifier_name">0x1B3640DE<!--Daily Royal Duties--></T>
+  <T n="zone_modifier_reference">13279861840180282433<!--LN_RM:zoneModifier_LotTraits_DailyDuties--></T>
+</I>

@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9613426904220266803" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Heir to the Throne?">
+  <T n="buff_description">0xA6B3EAAF<!--Will {0.SimFirstName} be the concubine to provide an heir to the throne?--></T>
+  <T n="buff_name">0xC46708F3<!--Heir to the Throne?--></T>
+  <T n="icon">2f7d0004:00000000:b9f89b06bddfd79c</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Happy_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

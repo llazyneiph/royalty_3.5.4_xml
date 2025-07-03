@@ -1,0 +1,7 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="14723757159600716683" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_HolidayTradition_RoyalBirthday">
+  <T n="buff_description">0xF4D9EE50<!--It's the Monarch's birthday! It's time to eat cake and give thanks for such a wonderful ruler!--></T>
+  <T n="buff_name">0xEB08A119<!--Royal Birthday!--></T>
+  <T n="icon">2f7d0004:00000000:f25f05faf1155353</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">2</T>
+</I>

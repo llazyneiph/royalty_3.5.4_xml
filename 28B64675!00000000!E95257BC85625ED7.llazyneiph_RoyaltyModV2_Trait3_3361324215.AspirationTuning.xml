@@ -1,0 +1,51 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="ObjectivelessWhimSet" s="16812596826130767575" i="aspiration" m="whims.whim_set" n="llazyneiph_RoyaltyModV2_Trait3/3361324215">
+  <T n="priority">1</T>
+  <T n="whim_reason">0xBAF084AE<!--(From Being a Royal Nanny)--></T>
+  <L n="whims">
+    <U>
+      <T n="whim">77345<!--Whim_BuyToy--></T>
+    </U>
+    <U>
+      <T n="whim">129498<!--whim_DontWakeLlama_Play--></T>
+    </U>
+    <U>
+      <T n="whim">155179<!--Whim_Toddlers_Caregivers_TellFunnyStory--></T>
+    </U>
+    <U>
+      <T n="whim">155175<!--Whim_Toddlers_Caregivers_Roughhouse--></T>
+    </U>
+    <U>
+      <T n="whim">155171<!--Whim_Toddlers_Caregivers_ReadBook--></T>
+    </U>
+    <U>
+      <T n="whim">155173<!--Whim_Toddlers_Caregivers_Hug--></T>
+    </U>
+    <U>
+      <T n="whim">155177<!--Whim_Toddlers_Caregivers_Talk--></T>
+    </U>
+    <U>
+      <T n="whim">155178<!--Whim_Toddlers_Caregivers_TellStory--></T>
+    </U>
+    <U>
+      <T n="whim">155163<!--Whim_Toddlers_Caregivers_AskAboutDay--></T>
+    </U>
+    <U>
+      <T n="whim">156457<!--Whim_Toddlers_Caregivers_PlayDollsWithToddler--></T>
+    </U>
+    <U>
+      <T n="whim">156455<!--Whim_Toddlers_Caregivers_TeachNestingBlocks--></T>
+    </U>
+    <U>
+      <T n="whim">156453<!--Whim_Toddlers_Caregivers_TeachToddlerToDance--></T>
+    </U>
+    <U>
+      <T n="whim">155176<!--Whim_Toddlers_Caregivers_ShowFlashCards--></T>
+    </U>
+    <U>
+      <T n="whim">155187<!--Whim_Toddlers_Caregivers_PlayToysWith--></T>
+    </U>
+    <U>
+      <T n="whim">156454<!--Whim_Toddlers_Caregivers_ReadToddlerToSleep--></T>
+    </U>
+  </L>
+</I>

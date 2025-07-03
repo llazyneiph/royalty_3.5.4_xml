@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="LN:loot_Peasant_ScavvedLoot" s="17366907567757373527">
+  <L n="random_loot_actions">
+    <U>
+      <V n="action" t="object_rewards">
+        <U n="object_rewards">
+          <V n="notification" t="enabled">
+            <V n="enabled" t="reference">
+              <T n="reference">11946281463944452033<!--LN_S:notification_ObjectReward_WastelandLoot--></T>
+            </V>
+          </V>
+          <L n="object_rewards">
+            <U>
+              <T n="quantity">4</T>
+              <L n="reward_objects">
+                <U>
+                  <V n="quantity" t="specific_amount">
+                    <T n="specific_amount">1</T>
+                  </V>
+                  <L n="reward">
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">59679<!--Herb Seeds--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">59678<!--Fruit Seeds--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">14746746507940080958<!--Apples--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">59680<!--Veggie Seeds--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">18137739526053432840<!--Tomatoes--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">14862952907634225748<!--Carrots--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">12615300284590768130<!--Mushrooms--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">16368514615843662688<!--Onion--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">11147953695271573600<!--Pears--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">17823567402296111023<!--Pomegranate--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">17875973150622246838<!--Potatoes--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">16062344293870821978<!--Spinach--></T>
+                      </U>
+                    </V>
+                    <V t="specify_definition">
+                      <U n="specify_definition">
+                        <T n="definition">18137739526053432840<!--Tomatoes--></T>
+                      </U>
+                    </V>
+                  </L>
+                  <T n="weight">3</T>
+                </U>
+              </L>
+            </U>
+          </L>
+        </U>
+      </V>
+      <U n="weight">
+        <T n="base_value">30</T>
+      </U>
+    </U>
+  </L>
+</I>

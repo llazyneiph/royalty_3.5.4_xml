@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_ServantEnergy_SetMax" s="10665717458849842396">
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <E n="subject">Actor</E>
+          <L n="whitelist_traits">
+            <T>16108775966881651088<!--LN_RM:trait_Hidden_Servant--></T>
+          </L>
+        </U>
+      </V>
+      <V t="day_and_time">
+        <U n="day_and_time">
+          <V n="time_range" t="enabled">
+            <U n="enabled">
+              <U n="begin_time">
+                <T n="hour">6</T>
+              </U>
+              <U n="duration">
+                <T n="hour">14</T>
+              </U>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="stat">16654<!--motive_Energy--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

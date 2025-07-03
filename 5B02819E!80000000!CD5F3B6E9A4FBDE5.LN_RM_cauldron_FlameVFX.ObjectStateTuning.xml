@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="LN_RM:cauldron_FlameVFX" s="14798612246784097765">
+  <L n="_values">
+    <T>16764470864245571367<!--LN_RM:cauldron_FlameVFX_Off--></T>
+    <T>15827066258520488243<!--LN_RM:cauldron_FlameVFX_On--></T>
+  </L>
+</I>

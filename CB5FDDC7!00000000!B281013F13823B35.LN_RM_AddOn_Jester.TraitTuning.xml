@@ -1,0 +1,20 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="12862563381168716597" i="trait" m="traits.traits" n="LN_RM_AddOn_Jester">
+  <T n="display_name">0xDBC0E1DD<!--hidden_jester_addon--></T>
+  <T n="display_name_gender_neutral">0xDBC0E1DD<!--hidden_jester_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">11764232441131257736<!--llazyneiph_RoyaltyMod_Buff_hidden_jester_addon--></T>
+    </U>
+    <U>
+      <T n="buff_type">10434139229633139603</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

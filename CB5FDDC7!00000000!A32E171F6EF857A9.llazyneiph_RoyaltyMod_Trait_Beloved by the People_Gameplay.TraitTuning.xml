@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="11758361100884137897" i="trait" m="traits.traits" n="llazyneiph_RoyaltyMod_Trait_Beloved by the People_Gameplay">
+  <L n="buffs">
+    <U>
+      <T n="buff_type">9766918540274619988<!--llazyneiph_RoyaltyMod_Buff_Beloved by the People--></T>
+    </U>
+    <U>
+      <T n="buff_type">14227449871002476252<!--llazyneiph_RoyaltyMod_Buff_BelovedbythePeople--></T>
+    </U>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+  <T n="display_name">0xC535BEEC<!--Beloved by the People--></T>
+  <T n="display_name_gender_neutral">0xC535BEEC<!--Beloved by the People--></T>
+  <T n="icon">2f7d0004:00000000:d644fd3d88beeb8a</T>
+  <T n="trait_description">0xCAE762B2<!--{0.SimFirstName} has proven {0.SimPronounReflexive} to be completely adored by {0.SimPronounPossessiveDependent} subjects!--></T>
+  <T n="trait_origin_description">0xD7DF61AC<!--(From Being a Great Monarch)--></T>
+</I>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_PeasantLot_Cleanup" s="10507124479632390658">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>14815556330084868454<!--LN_RM:buff_zoneMod_Trait_Peasant_Nobility--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

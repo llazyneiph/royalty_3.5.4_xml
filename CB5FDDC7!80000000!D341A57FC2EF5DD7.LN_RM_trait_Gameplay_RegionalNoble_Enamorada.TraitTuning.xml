@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Enamorada" s="15222630183638883799">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xD7A1DFD9<!--Ciudad Enamorada Noble--></T>
+  <T n="display_name_gender_neutral">0xD7A1DFD9<!--Ciudad Enamorada Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:6E982CF36FE8454D</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xA380A897<!--{0.SimFirstName} is apart of Ciudad Enamorada Nobility.--></T>
+  <T n="trait_origin_description">0x5BF561F4<!--(From Belonging to Ciudad Enamorada Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

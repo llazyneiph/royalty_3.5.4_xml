@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Trait_Sovereign" s="11575365069521061710">
+<L n="_loot_on_instance">
+    <T>16584869045232107421<!--LN:loot_trait_Sovereign--></T>
+  </L>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">9341621967998328268<!--LN_RM:situationJob_BasicTrait_Sovereign--></T>
+      </V>
+      <T n="situation">13876739055091407184<!--LN_RM:basicTraitSituation_Sovereign--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="refresh_on_add">True</T>
+  <T n="show_timeout">False</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+</I>

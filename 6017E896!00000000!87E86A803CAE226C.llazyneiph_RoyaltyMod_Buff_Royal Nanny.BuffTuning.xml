@@ -1,0 +1,44 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9793194488723546732" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Royal Nanny">
+  <T n="buff_description">0xAADA365F<!--{0.SimFirstName} is serving the current Royal Family as a trusted nanny. --></T>
+  <T n="buff_name">0xEAFE667C<!--Royal Nanny--></T>
+  <T n="icon">2f7d0004:00000000:e45ad35d242bc29c</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>12561335300072604637<!--llazyneiph_INT_TeachCourtEttiquette--></T>
+        <T>16127361700702059079<!--llazyneiph_INT_ExplainCourtEttiquette--></T>
+      </L>
+    </U>
+  </L>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <T n="mood_weight">1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>29118<!--commodity_Trait_Autonomy_FamilyOriented--></T>
+            <T>17943223184508379728<!--llazyneiph_RoyaltyModV2_Trait3/751967437--></T>
+            <T>38632<!--Commodity_BabyCare_Hygiene--></T>
+            <T>38633<!--Commodity_BabyCare_Hunger--></T>
+            <T>38634<!--Commodity_BabyCare_Social--></T>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="stat_use_multiplier">
+            <U>
+              <T n="key">160504<!--statistic_Skill_AdultMajor_Parenting--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

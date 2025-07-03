@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="PieMenuCategory" s="11468155297549406985" i="pie_menu_category" m="interactions.pie_menu_category" n="LN:PieMenuCategory_Custom_Titles">
+  <T n="_display_name">0xBF2BEE50<!--Custom Titles--></T>
+  <T n="_icon">2f7d0004:00000000:67149899326eccde<!--Homework--></T>
+  <T n="_parent">13832766472837180329<!--LN:PieMenuCategory_ChangeTitle--></T>
+</I>

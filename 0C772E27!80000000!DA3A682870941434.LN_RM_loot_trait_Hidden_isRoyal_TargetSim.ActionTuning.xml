@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_trait_Hidden_isRoyal_TargetSim" s="15724995571814241332">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+      </U>
+      <E n="subject">TargetSim</E>
+    </V>
+  </L>
+</I>

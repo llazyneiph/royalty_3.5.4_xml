@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Cook_RemoveBuff_Don'tCook" s="14630771487137814437">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>15502272668755212223<!--LN_RM:buff_Role_Servant_DontCook--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

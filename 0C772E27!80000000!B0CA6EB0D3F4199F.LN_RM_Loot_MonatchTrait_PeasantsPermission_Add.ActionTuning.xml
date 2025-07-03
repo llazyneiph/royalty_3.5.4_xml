@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_MonatchTrait_PeasantsPermission_Add" s="12739116201720158623">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14857531498823714897<!--LN_RM:Traits_Hidden_PeasantsNeedPermissionToMarry_MONARCHTRAIT--></T>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="12938490961709976341" i="action" m="interactions.utils.loot" n="LN_RM:loot_PassDownMonarch">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">18164583978991418636</T>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+        <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418625<!--Heir--></T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">14606127424841428715</T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418627<!--Crown Royal--></T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12373540430843966807</T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418624<!--Royal Partner--></T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">16258617669891517951<!--Illi Heir--></T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

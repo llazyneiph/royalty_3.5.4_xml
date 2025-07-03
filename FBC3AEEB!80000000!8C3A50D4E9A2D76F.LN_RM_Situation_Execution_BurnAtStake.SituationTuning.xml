@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationSimple" i="situation" m="situations.situation_simple" n="LN_RM:Situation_Execution_BurnAtStake" s="10104477589342181231">
+  <T n="_cost">500</T>
+  <T n="_default_job">17455623109396720508<!--LN_RM:job_Audience_Execution--></T>
+  <T n="_display_name">0xD993E061<!--Execution: Burning at the Stake--></T>
+  <T n="_icon" p="InEP08\UI\Icons\Events\Event_Screenshots\Keg_Party.png">2f7d0004:00000000:EEC8732CB7CE663C</T>
+  <T n="_implies_greeted_status">True</T>
+  <U n="_level_data">
+    <U n="bronze">
+      <T n="level_description">0x9224E9B0<!--Bronze--></T>
+      <T n="score_delta">100</T>
+    </U>
+    <U n="gold">
+      <T n="level_description">0x82AD9EEA<!--Gold--></T>
+    </U>
+    <U n="silver">
+      <T n="level_description">0x20CAEAD3<!--Silver--></T>
+    </U>
+  </U>
+  <L n="_phases">
+    <U>
+      <T n="duration">0</T>
+      <L n="job_list">
+        <U>
+          <T n="job">16445278467295258743<!--LN_RM:job_Executee--></T>
+          <T n="role">16414905590273678754<!--LN_RM:role_Executee--></T>
+        </U>
+        <U>
+          <T n="job">17455623109396720508<!--LN_RM:job_Audience_Execution--></T>
+          <T n="role">16733229918622927515<!--LN_RM:Role_Execution_Audience--></T>
+        </U>
+        <U>
+          <T n="job">9737445894070228459<!--LN_RM:job_Execution_BurnAtStake_host--></T>
+          <T n="role">10038379751884174939<!--LN_RM:role_host_PublicExecution_BurnAtStake--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <T n="_resident_job">9737445894070228459<!--LN_RM:job_Execution_BurnAtStake_host--></T>
+  <T n="audio_sting_on_start" p="InGame\Audio\Bumper\bumper_event_start.propx">39b2aa4a:00000000:78b903461d47e4fc</T>
+  <T n="blocks_super_speed_three">True</T>
+  <T n="calendar_icon" p="InEP08\UI\Icons\Events\Holidays\holidays_kegParty.png">2f7d0004:00000000:632e51f43a7678cc</T>
+  <E n="category">Social Events</E>
+  <L n="compatible_venues">
+  <T>28614<!--venue_residential--></T>
+    <T>9279<!--venue_generic--></T>
+    <T>123132<!--venue_Ruins--></T>
+    <T>25847<!--venue_park--></T>
+    <T>173492<!--venue_Temple--></T>
+    <T>138380<!--venue_MyshunoMeadows--></T>
+    <T>98817<!--venue_VisitorsAllowed--></T>
+    <T>223944<!--venue_CommunityLot--></T>
+    <T>125223<!--venue_ChaletGardens--></T>
+</L>
+  <T n="duration">360</T>
+  <T n="force_invite_only">True</T>
+  <V n="job_display_ordering" t="enabled">
+    <L n="enabled">
+      <T>9737445894070228459<!--LN_RM:job_Execution_BurnAtStake_host--></T>
+      <T>17455623109396720508<!--LN_RM:job_Audience_Execution--></T>
+      <T>16445278467295258743<!--LN_RM:job_Executee--></T>
+    </L>
+  </V>
+  <T n="main_goal">13270539749462962856<!--LN_RM:goal_Execution_ExecuteSim--></T>
+  <T n="main_goal_audio_sting" p="InGame\Audio\Bumper\bumper_event_major_complete.propx">39b2aa4a:00000000:10b476550150a33f</T>
+  <T n="max_participants">50</T>
+  <U n="recommended_job_object_notification">
+    <E n="information_level">PLAYER</E>
+  </U>
+  <T n="recommended_job_object_text">0x7E73F37A<!--Some tips for a more successful event:\n{0.String}--></T>
+  <V n="screen_slam_bronze" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75362<!--EventOutcome_Bronze--></T>
+    </V>
+  </V>
+  <V n="screen_slam_gold" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75364<!--EventOutcome_Gold--></T>
+    </V>
+  </V>
+  <V n="screen_slam_no_medal" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75361<!--EventOutcome_Tin--></T>
+    </V>
+  </V>
+  <V n="screen_slam_silver" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">75363<!--EventOutcome_Silver--></T>
+    </V>
+  </V>
+  <T n="situation_description">0xDAE59242<!--A truly spectacular way to execute a sim! Who doesn't love a stake execution, especially in the middle of winter!--></T>
+  <V n="situation_end_time_string" t="show_end_time">
+    <T n="show_end_time">0xA3E17143<!--Work day ends at {0.TimeShort}--></T>
+  </V>
+  <L n="tags">
+    <E>Situation_PlayerFacing_CanHost</E>
+  </L>
+  <V n="travel_request_behavior" t="allow">
+    <U n="allow">
+      <V n="dialog" t="enabled">
+        <U n="enabled">
+          <V n="icon" t="enabled">
+            <V n="enabled" t="resource_key">
+              <U n="resource_key">
+                <T n="key" p="InEP08\UI\Icons\Headlines\headline_kegParty.png">2f7d0004:00000000:509c22ba28917ed9</T>
+              </U>
+            </V>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xE8A540E3<!--Are you sure that you would like to leave the current event and travel to another lot? All progress toward your goal will be lost.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xFECDCF71<!--Event In Progress!--></T>
+          </V>
+        </U>
+      </V>
+    </U>
+  </V>
+</I>

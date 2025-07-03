@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Peasant_Pickpocket_Reward_StealItem" s="12573280402552094175">
+  <L n="loot_actions">
+    <V t="object_rewards">
+      <U n="object_rewards">
+        <T n="make_sim_owner">False</T>
+        <V n="notification" t="disabled" />
+        <L n="object_rewards">
+          <U>
+            <T n="quantity">1</T>
+            <L n="reward_objects">
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">14746746507940080958<!--Apples--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">18137739526053432840<!--Tomatoes--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">11147953695271573600<!--Pears--></T>
+                    </U>
+                  </V>
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">17823567402296111023<!--Pomegranate--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">17</T>
+              </U>
+              <U>
+                <V n="quantity" t="specific_amount">
+                  <T n="specific_amount">1</T>
+                </V>
+                <L n="reward">
+                  <V t="specify_definition">
+                    <U n="specify_definition">
+                      <T n="definition">278719<!--White Meat--></T>
+                    </U>
+                  </V>
+                </L>
+                <T n="weight">6</T>
+              </U>
+            </L>
+          </U>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

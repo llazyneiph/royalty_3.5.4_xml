@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:Buff_Law_NoDairyForPeasants" s="11152089800076086314">
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="show_timeout">False</T>
+  <T n="visible">False</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="affordance_modifier">
+        <U n="affordance_modifier">
+          <L n="basic_extras">
+            <V t="buff">
+              <U n="buff">
+                <U n="buff_type">
+                  <T n="buff_type">15968414780735721529<!--LN_RM:buff_Dairy_Illegal--></T>
+                </U>
+                <L n="tests">
+                  <L>
+                    <V t="food_restriction_test">
+                      <U n="food_restriction_test">
+                        <V n="test" t="has_restrictions" />
+                      </U>
+                    </V>
+                  </L>
+                </L>
+              </U>
+            </V>
+          </L>
+          <L n="interaction_category_tags">
+            <E>Interaction_Consume</E>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

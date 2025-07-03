@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_Epitropos_Active" s="16099383336291425651">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>15972411847648728652<!--LN_RM:loot_Regent_Inactive_RemoveTrait--></T>
+      <T>11202572772111116721<!--LN_RM:loot_Notification_Epitropos_TemporaryThrone--></T>
+      <T>192942<!--Loot_Reputation_Huge--></T>
+      <T>5027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+      <T>15445389091246270704<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+      <T>13397651594771774141<!--LN_RM:Loot_AddRelBits_Regent_Heir--></T>
+    </L>
+  </V>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10276070051770937576<!--LN_RM:Buff_Trait_Regent_Active--></T>
+    </U>
+    <U>
+      <T n="buff_type">10961830869839130988</T>
+    </U>
+    <U>
+      <T n="buff_type">18103293151996973951</T>
+    </U>
+    <U>
+      <T n="buff_type">15613549783328555822</T>
+    </U>
+    <U>
+      <T n="buff_type">18185434074829592559</T>
+    </U>
+    <U>
+      <T n="buff_type">18085964642404697693</T>
+    </U>
+    <U>
+      <T n="buff_type">15663916965778764884</T>
+    </U>
+    <U>
+      <T n="buff_type">9827373745535276673</T>
+    </U>
+    <U>
+      <T n="buff_type">17231945427083467684</T>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <T>10568617749360924322<!--LN_RM:servant_Immediate_CallFor--></T>
+    <T>16537562873226135451<!--LN_RM:imin_ChangeLaw_Sim--></T>
+  </L>
+  <V n="plumbbob_override" t="enabled">
+    <U n="enabled">
+      <T n="active_sim_club_leader_plumbbob">plumbob_EP02CliqueCrown</T>
+      <T n="active_sim_plumbbob">llazyneiph:NewOccult_plumbobMonarch</T>
+      <E n="priority">OCCULT</E>
+    </U>
+  </V>
+  <L n="initial_commodities">
+    <T>12020082417360683608<!--LN_RM:StaticCommodity_RegentHeir_Relbits--></T>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Law_BrokenLaw_HasBeenCaught" s="17798131146193238417">
+  <L n="tests">
+    <L>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="species" t="specified">
+            <U n="specified">
+              <L n="species">
+                <E>HUMAN</E>
+              </L>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="buff">
+        <U n="buff">
+          <L n="blacklist">
+            <T>9907530269554360603<!--LN_RM:buff_HasAlreadyBeenCaught--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">15452149488653150899<!--LN_RM:buff_HasBrokenLaw_Notif--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9855110880599355240<!--LN_RM:buff_HasBrokenLaw_FineSchedule--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9907530269554360603<!--LN_RM:buff_HasAlreadyBeenCaught--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  </L>
+</I>

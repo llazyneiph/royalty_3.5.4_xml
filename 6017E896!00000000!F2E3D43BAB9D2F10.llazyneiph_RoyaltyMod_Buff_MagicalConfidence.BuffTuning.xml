@@ -1,0 +1,15 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17502065929639243536" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_MagicalConfidence">
+  <T n="buff_description">0xC810A70B<!--{0.SimFirstName} is overcome with a feeling of intense confidence, induced by magic!--></T>
+  <T n="buff_name">0xE31B7EBD<!--Magical Confidence --></T>
+  <T n="icon">2f7d0004:00000000:d85a6b995e9852c3</T>
+  <T n="mood_type">14634<!--Mood_Confident--></T>
+  <T n="mood_weight">3</T>
+  <V n="_temporary_commodity_info" t="enabled">
+    <U n="enabled">
+      <T n="max_duration">240</T>
+      <L n="categories">
+        <E>Confident_Buffs</E>
+      </L>
+    </U>
+  </V>
+</I>

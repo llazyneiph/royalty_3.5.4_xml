@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Ball" s="12178271506279124690">
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>12722144038275671733<!--SocialMixerInteraction: LN_RM:mixer_Social_Ball_InquireHealth_Friendly_NT--></T>
+        <T>10161052013657359745<!--SocialMixerInteraction: LN_RM:mixer_social_Ball_Gossip_targeted_friendly--></T>
+        <T>17783229286841137135<!--SocialMixerInteraction: LN_RM:mixer_social_InsultFamily_targeted_Mean_middleScore--></T>
+        <T>11182765215531377434<!--SocialMixerInteraction: LN_RM:mixer_social_Insult_BackhandedCompliment--></T>
+        <T>13579447575403740278<!--SocialMixerInteraction: LN_RM:mixer_social_Insult_ImplyInadequeteWeath--></T>
+        <T>13739485122913198217<!--SocialMixerInteraction: LN_RM:mixer_social_Insult_VeiledInsult--></T>
+        <T>13673055623915032333<!--SocialMixerInteraction: LN_RM:mixer_social_MockOutfit_targeted_Mean_middleScore--></T>
+        <T>12705577157889814072<!--SocialMixerInteraction: LN_RM:mixer_social_MockSocialStatus_Targeted_Mean_AlwaysOn--></T>
+        <T>17766709568957375668<!--SocialMixerInteraction: LN_RM:mixer_social_WhisperSweetNothings_targeted_romance_middleScore--></T>
+        <T>16977141449930900799<!--SocialMixerInteraction: LN_RM:sim_compliment_lineage--></T>
+        <T>13948118987392330524<!--SocialMixerInteraction: LN_RM:socials_Targeted_Friendly_ComplimentDress--></T>
+        <T>13999303933044510652<!--SocialMixerInteraction: LN_RM:socials_Targeted_Friendly_PoliteGreeting_Female--></T>
+        <T>15867349211312869819<!--SocialMixerInteraction: LN_RM:socials_Targeted_Friendly_PoliteGreeting_Male--></T>
+        <T>18167445242453958364<!--SocialMixerInteraction: LN_RM:socials_Targeted_Romance_AlwaysOn_Flirtation_CompliementElegance--></T>
+        <T>11937170268745513196<!--SocialMixerInteraction: LN_RM:socials_Targeted_Romance_AlwaysOn_Flirtation_CompliementEyes--></T>
+      </L>
+    </U>
+  </L>
+  <T n="audio_sting_on_add" p="InGame\Audio\Stings\sting_buff_gain.propx">39b2aa4a:00000000:8af8b916cf64c646</T>
+  <T n="audio_sting_on_remove" p="InGame\Audio\Stings\sting_buff_loss.propx">39b2aa4a:00000000:3bf33216a25546ea</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="visible">False</T>
+</I>

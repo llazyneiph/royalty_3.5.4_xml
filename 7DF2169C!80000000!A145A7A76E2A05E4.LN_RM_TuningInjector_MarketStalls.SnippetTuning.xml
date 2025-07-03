@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_MarketStalls" s="11620878751049057764">
+  <L n="inject_by_affordance">
+    <U>
+      <T n="query">133181<!--marketStalls_Open--></T>
+      <L n="affordances">
+        <T>15285274640128763009<!--LN_RM:Pickpocket_MarketStalls_Food--></T>
+      </L>
+    </U>
+  </L>
+</I>

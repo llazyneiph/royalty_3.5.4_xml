@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_PurpleCheck_Timer" s="14542311139674535730">
+  <L n="loot_actions">
+  <V t="statistics">
+      <V n="statistics" t="statistic_add">
+        <U n="statistic_add">
+          <T n="stat">11839062382904695937<!--LN_RM:commodity_PurpleCheck_Timer--></T>
+        </U>
+      </V>
+    </V>    
+  </L>
+  <L n="tests">
+    <L>
+        <V t="trait">
+            <U n="trait">
+                <L n="blacklist_traits">
+                    <T>12374707625592636310<!--LN_RM:trait_Hidden_isRoyal--></T>
+                </L>
+            </U>
+        </V>
+    </L>
+</L>
+</I>

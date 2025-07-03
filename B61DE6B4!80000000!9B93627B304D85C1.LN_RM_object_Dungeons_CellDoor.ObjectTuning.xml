@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="GameObject" i="object" m="objects.game_object" n="LN_RM:object_Dungeons_CellDoor" s="11210412178686182849">
+  <U n="_components">
+    <V n="focus" t="enabled">
+      <U n="enabled">
+        <V n="_focus_score" t="globally">
+          <U n="globally">
+            <E n="base">LOW</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V n="state" t="enabled">
+      <U n="enabled">
+        <L n="states">
+          <U>
+            <L n="client_states">
+              <U>
+                <T n="key">98745<!--GenericFX_On--></T>
+                <U n="value">
+                  <V n="glow" t="apply_new_value">
+                    <V n="apply_new_value" t="start_glow">
+                      <U n="start_glow">
+                        <V n="color" t="name" />
+                        <T n="pulse_frequency">0.3</T>
+                      </U>
+                    </V>
+                  </V>
+                </U>
+              </U>
+              <U>
+                <T n="key">98746<!--GenericFX_Off--></T>
+                <U n="value">
+                  <V n="glow" t="apply_new_value" />
+                  <V n="vfx_state" t="leave_unchanged" />
+                </U>
+              </U>
+            </L>
+            <V n="default_value" t="reference">
+              <T n="reference">98746<!--GenericFX_Off--></T>
+            </V>
+          </U>
+          <U>
+            <V n="default_value" t="reference">
+              <T n="reference">198749<!--state_Stage_Sound_Social_Off--></T>
+            </V>
+            <T n="reset_to_default">True</T>
+          </U>
+          <U>
+            <V n="default_value" t="reference">
+              <T n="reference">196866<!--state_StageObject_CoStar_Off--></T>
+            </V>
+          </U>
+        </L>
+      </U>
+    </V>
+  </U>
+  <L n="_part_data_map">
+    <U>
+      <T n="key">Officer</T>
+      <U n="value">
+        <T n="part_definition">17472416171670836764<!--LN_RM:objectPart_Dungeon_CellDoor_Officer--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">SuspectIn</T>
+      <U n="value">
+        <T n="part_definition">9396426823794376972<!--LN_RM:objectPart_Dungeon_CellDoor_SuspectIn--></T>
+        <V n="subroot_index" t="enabled">
+          <T n="enabled">2</T>
+        </V>
+      </U>
+    </U>
+    <U>
+      <T n="key">SuspectOut</T>
+      <U n="value">
+        <T n="part_definition">14691082997500930635<!--LN_RM:objectPart_Dungeon_CellDoor_SuspectOut--></T>
+        <V n="subroot_index" t="enabled">
+          <T n="enabled">1</T>
+        </V>
+      </U>
+    </U>
+  </L>
+  <L n="_super_affordances">
+    <T>13328<!--debug_Reset--></T>
+    <T>13326<!--debug_ObjectDestroy--></T>
+    <T>103888<!--cheat_set_as_head--></T>
+    <T>13983<!--sim-stand--></T>
+    <T>109803<!--generic_CellDoor--></T>
+    <T>15427646872425937294<!--LN_RM:Dungeon_Socials_Picker_LockUp--></T>
+    <T>12513273106025283943<!--LN_RM:Dungeon_Socials_Picker_Release--></T>
+    <T>9814576543105505894<!--LN_RM:Dungeon_Socials_Picker_NeedsSentencing_LockUp--></T>
+  </L>
+  <E n="posture_transition_target_tag">CELL_DOOR</E>
+  <U n="recycling_data">
+    <L n="recycling_values">
+      <U>
+        <E n="Bucks Type">RecycleBitsBucks</E>
+        <T n="Value">0.5</T>
+      </U>
+      <U>
+        <E n="Bucks Type">RecyclePiecesBucks</E>
+        <T n="Value">0.5</T>
+      </U>
+    </L>
+  </U>
+</I>

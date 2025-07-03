@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Notification" i="snippet" m="snippets" n="LN_RM:notification_Trader" s="10177754579550241199">
+  <U n="value">
+    <V n="icon" t="enabled">
+      <V n="enabled" t="participant" />
+    </V>
+    <V n="text" t="variation">
+      <U n="variation">
+        <L n="variations">
+          <T>0xD7AC0C1A<!--A trader is going past your house! You can take the chance to sell any goods you have.--></T>
+          <T>0xD7AC0C19<!--A trader is nearby, do you have anything to sell?--></T>
+        </L>
+      </U>
+    </V>
+    <E n="visual_type">SPEECH</E>
+  </U>
+</I>

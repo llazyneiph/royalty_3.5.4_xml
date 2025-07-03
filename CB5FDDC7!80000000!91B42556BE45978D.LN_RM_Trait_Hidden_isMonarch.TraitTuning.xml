@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:Trait_Hidden_isMonarch" s="10499057685797115789">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <E n="min_lod_value">FULL</E>
+  <L n="species">
+    <E />
+  </L>
+  <E n="trait_type">HIDDEN</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>192942<!--Loot_Reputation_Huge--></T>
+      <T>5027261355134666193<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+      <T>15445389091246270704<!--LN_RM:loot_trait_Hidden_isRoyal--></T>
+      <T>10005273242985664805<!--LN_RM:loot_AddStat_AddToTreasury--></T>
+    </L>
+  </V>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15663916965778764884</T>
+    </U>
+    <U>
+      <T n="buff_type">10961830869839130988<!--llazyneiph_RoyaltyMod_Buff_Monarch_MainBuff--></T>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <T>17861578445945449672<!--LN_RM:imin_Military_Sim--></T>
+    <T>16537562873226135451<!--LN_RM:imin_ChangeLaw_Sim--></T>
+    <T>16957177605256665471<!--LN_RM:si_AskPermissionToMarry_Royals--></T>
+    <T>10229122811832071220<!--LN_RM:si_AskPermissionToMarry_Nobles--></T>
+    <T>9368162123541144396<!--LN_RM:si_AskPermissionToMarry_Peasants--></T>
+    <!-- <T>10568617749360924322LN_RM:servant_Immediate_CallFor</T>-->
+  </L>
+<L n="target_super_affordances">
+  <U>
+      <T n="affordance">11262809924620093922<!--LN_RM:superInteraction_MakeRegent--></T>
+    </U>
+    <U>
+      <T n="affordance">12278903924237223869<!--LN_RM:superInteraction_MakeConcubine--></T>
+    </U>
+  </L>
+</I>

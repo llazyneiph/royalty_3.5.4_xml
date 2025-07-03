@@ -1,0 +1,63 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10002762336129823721" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Royal Partner">
+  <T n="buff_description">0xE77EEB40<!--{0.SimFirstName} is the partner of the current reigning Monarch--></T>
+  <T n="buff_name">0xCF4F3528<!--Royal Partner--></T>
+  <T n="icon">2f7d0004:00000000:D8D2AB186BA72410</T>
+  <T n="mood_type">14637<!--Mood_Fine--></T>
+  <T n="mood_weight">1</T>
+  <L n="_loot_on_instance">
+    <T>15027261355134666193</T>
+    <T>10982984109007018193<!--LN_RM:loot_WooHooExcl_RoyalPartner--></T>
+  </L>
+  <L n="_loot_on_removal">
+    <T>14297251877929983822</T>
+  </L>
+  <L n="_loot_on_addition">
+    <T>15027261355134666193</T>
+  </L>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="relationship_multipliers">
+            <U>
+              <T n="key">16650<!--LTR_Friendship_Main--></T>
+              <U n="value">
+                <E n="apply_direction">INCREASE</E>
+                <T n="multiplier">2</T>
+              </U>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="skill_tag_modifiers">
+            <U>
+              <E n="key">Skill_Social</E>
+              <T n="value">2</T>
+            </U>
+          </L>
+        </U>
+      </V>
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>29106<!--commodity_Trait_Autonomy_Romantic--></T>
+            <T>10215205605124761506<!--llazyneiph_RoyaltyModV2_Trait5/784344056--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>14295089746805880438<!--llazyneiph_INT_AnnounceIntentionsForCrown--></T>
+        <T>14301413906370749232<!--llazyneiph_INT_GushAboutMonarch--></T>
+        <T>14050490580719663151<!--llazyneiph_mixer_royalpartner_greet_female--></T>
+        <T>10395817045687702021<!--llazyneiph_mixer_royalpartner_greet_male--></T>
+      </L>
+    </U>
+  </L>
+</I>

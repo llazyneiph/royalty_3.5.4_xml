@@ -1,0 +1,35 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517940" i="trait" m="traits.traits" n="LN_RM_trait_Nobility_Marquis_Gameplay">
+  <T n="display_name">0xF207407F<!--Marquis--></T>
+  <T n="display_name_gender_neutral">0xF207407F<!--Marquis--></T>
+  <T n="icon">2f7d0004:00000000:a0877f63ca04cadc</T>
+  <T n="trait_description">0xE4615CDC<!--{0.SimFirstName} has worked hard for the highest of Noble titles - Marquis!--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17641793838242396457<!--llazyneiph_RoyaltyMod_Buff_Hidden_Marquis--></T>
+    </U>
+    <U>
+      <T n="buff_type">10537230540338507335<!--llazyneiph_RoyaltyModV2_Trait14/2213882521--></T>
+    </U>
+    <U>
+      <T n="buff_type">13908986131275916588<!--llazyneiph_RoyaltyModV2_Trait18/3377913691--></T>
+    </U>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>192941<!--loot_Reputation_Gain_Large--></T>
+      <T>16398504098490743418<!--llazyneiph_RoyaltyModV2_Trait18/408145780--></T>
+      <T>11702150607931975964</T>
+      <T>17229629295691455723</T>
+    </L>
+  </V>
+  <L n="super_affordances">
+    <T>10568617749360924322</T>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

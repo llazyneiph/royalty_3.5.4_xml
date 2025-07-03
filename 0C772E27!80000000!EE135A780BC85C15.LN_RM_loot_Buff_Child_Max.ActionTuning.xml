@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_Child_Max" s="17155154877224606741">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">13841272810561680888<!--LN_RM:Buff_Law_Children_Max--></T>
+        </U>
+        <L n="tests">
+          <L>
+          <V t="home_region">
+    <U n="home_region">
+        <E n="participant">Actor</E>
+    </U>
+</V>
+            <V t="relationship_bit_count">
+              <U n="relationship_bit_count">
+                <E n="comparison_operator">GREATER_OR_EQUAL</E>
+                <T n="rel_bit">195565<!--rbc_Child--></T>
+                <T n="relationship_count">1</T>
+              </U>
+            </V>
+            <V t="trait">
+    <U n="trait">
+        <L n="blacklist_traits">
+            <T>18039186452411584785<!--LN_RM:Trait_Hidden_HasAlreadyBrokenLaw_Child--></T>
+        </L>
+        <E n="subject">Actor</E>
+    </U>
+</V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

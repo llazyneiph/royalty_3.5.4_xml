@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="13298567919727929469" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait4/4099947759">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">15056040855061870368<!--llazyneiph_RoyaltyMod_Buff_RoyallyExcited--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0xC87764A0<!--(From Socializing)--></T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>15056040855061870368<!--llazyneiph_RoyaltyMod_Buff_RoyallyExcited--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

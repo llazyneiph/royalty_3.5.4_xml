@@ -1,0 +1,38 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="18375212824906575618" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_Near Nobility">
+  <T n="buff_description">0xA848FAF8<!--To live the lavish, easy life of a Noble... A Sim can dream....--></T>
+  <T n="buff_name">0x87AA2322<!--Near Nobility--></T>
+  <T n="icon">2f7d0004:00000000:82db0013fc21dca1</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+        <V t="trait">
+          <U n="trait">
+            <L n="blacklist_traits">
+              <T>16258617669891517949<!--LN_RM_trait_CourtWizard_Gameplay--></T>
+              <T>18164583978991418627</T>
+              <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+              <T>2522365735</T>
+              <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+              <T>18164583978991418630<!--LN_RM_trait_Nanny--></T>
+              <T>18164583978991418624</T>
+              <T>18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+              <T>16258617669891517948<!--LN_RM_trait_TrustedAdvisor_Gameplay--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+            </L>
+            <E n="subject">TargetSim</E>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+</I>

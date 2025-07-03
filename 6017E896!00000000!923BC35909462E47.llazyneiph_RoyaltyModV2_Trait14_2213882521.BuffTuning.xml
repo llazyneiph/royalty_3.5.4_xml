@@ -1,0 +1,21 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="10537230540338507335" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyModV2_Trait14/2213882521">
+  <T n="visible">False</T>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>10282735652125357067<!--llazyneiph_INT_LookDownOnPeasant--></T>
+        <T>9540290633077965875<!--llazyneiph_INT_GreetRoyal--></T>
+        <T>11384179208503010249<!--llazyneiph_INT_BoastAboutRiches--></T>
+        <T>18248251257417303146<!--llazyneiph_INT_GossipAboutBachelors--></T>
+        <T>14714328368136493116<!--llazyneiph_INT_GiveFavour--></T>
+        <T>17375504107959776415<!--llazyneiph_INT_GreetRoyal--></T>
+        <T>14965390442461939928<!--llazyneiph_INT_TalkAboutNewFashions--></T>
+        <T>17876032564644593010<!--llazyneiph_INT_LaughAtPeasants--></T>
+      </L>
+    </U>
+  </L>
+  <L n="_loot_on_addition">
+    <T>17883798475148855599<!--llazyneiph_RoyaltyModV2_Trait14/2384906141--></T>
+  </L>
+</I>

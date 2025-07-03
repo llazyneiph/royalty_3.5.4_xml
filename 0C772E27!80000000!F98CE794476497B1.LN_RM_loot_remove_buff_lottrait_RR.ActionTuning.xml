@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="17982002036222498737" i="action" m="interactions.utils.loot" n="LN_RM:loot_remove_buff_lottrait_RR">
+  <L n="loot_actions">
+    <V t="buff_removal">
+      <U n="buff_removal">
+        <L n="buffs_to_remove">
+          <T>15218700942648613733<!--LN_RM:buff_lottrait_RR--></T>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_RoyaltyMod_MasterTrait" s="11640211595627894978">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>16520306336676841659<!--LN_RM:loot_AutoClasses_ClassTraits--></T>
+    </L>
+  </V>
+ 
+  <L n="super_affordances">
+  <!--<T>9814953298928599458LN_RM:immediate_JoinOrLeave_Rebellion</T><-->
+  <T>15464393826669498624<!--LN_RM:simPicker_RoyaltyMod_TraitPicker--></T>
+  <T>10017118465346393395<!--LN_RM:superInteraction_Coronation_Crown--></T>
+  <T>11780489202194712170<!--LN_RM:superInteraction_Coronation_Crown_Korean--></T>
+  <T>14440045117170156445<!--LN_RM:superInteraction_Coronation_Crown_Egyptian--></T>
+  <T>10901797599757121198<!--LN_RM:superInteraction_Coronation_Crown_Byzantine--></T>
+  <T>17555398857850165621<!--LN_RM:superInteraction_Coronation_Crown_Aztec--></T>
+  <T>14528516302790237985<!--LN_RM:superInteraction_Coronation_Crown_Russian-->
+</T>
+</L>
+  <E n="trait_type">HIDDEN</E>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">12674319889565873972<!--LN_RM:Buff_Trait_MasterTrait--></T>
+    </U>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>12942694891514632764<!--LN_RM:mixer_social_Convince_Monarch_Targeted--></T>
+        <T>15277554503049636923<!--LN_RM:mixer_social_ShareGreekMyths_Targeted_Friendly_AlwaysOn--></T>
+        <T>12875966079972259661<!--LN_RM:mixer_social_Debate_targeted_Friendly_alwaysOn_skills--></T>
+      </L>
+    </U>
+  </L>
+</I>

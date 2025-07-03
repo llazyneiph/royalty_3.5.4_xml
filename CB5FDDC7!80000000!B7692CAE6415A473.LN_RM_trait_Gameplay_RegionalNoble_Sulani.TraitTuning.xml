@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Sulani" s="13216143709010502771">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x22D9E272<!--Sulani Noble--></T>
+  <T n="display_name_gender_neutral">0x22D9E272<!--Sulani Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:4B454A3FBF62E5FD</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0xE91D6B30<!--{0.SimFirstName} is apart of Sulani Nobility.--></T>
+  <T n="trait_origin_description">0xABFC011D<!--(From Belonging to Sulani Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

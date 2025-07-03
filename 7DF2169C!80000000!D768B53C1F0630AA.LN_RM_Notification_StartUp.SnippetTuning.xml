@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Notification" i="snippet" m="snippets" n="LN_RM:Notification_StartUp" s="15521855385555579050">
+  <U n="value">
+    <V n="icon" t="enabled">
+      <V n="enabled" t="resource_key">
+        <U n="resource_key">
+          <T n="key" p="InEP03\UI\Icons\Career\Career_Critic.png">2f7d0004:00000000:5237f4ee6bb1895e</T>
+        </U>
+      </V>
+    </V>
+    <V n="secondary_icon" t="enabled">
+      <V n="enabled" t="participant" />
+    </V>
+    <E n="dialog_bg_style">BG_DEFAULT</E>
+    <E n="dialog_style">DEFAULT</E>
+    <E n="expand_behavior">FORCE_EXPAND</E>
+    <E n="information_level">PLAYER</E>
+    <V n="text" t="single">
+      <T n="single">0xA56EBBF3<!--<b>Thank you for playing Royalty Mod!</b> \n Before playing, please take note of a few things: \n• Please make sure you have read the installation instructions in the link provided on the download page, and make sure you have chosen your preferred Auto-Traits file. \n• Please read the 'How to Play' document to learn about all the features this mod has to offer! \n• This mod requires a few other mods to work as intended;• XML Injector • Trait Tracker Injector • Frankk's Pack Test Script. \n• Please report and upload all Last Exceptions you think may be caused by RM to the discord server. \n• Questions, suggestions & help can be posted in the discord server. \nThanks & enjoy the mod! \n\nSebastian.--></T>
+    </V>
+    <V n="title" t="enabled">
+      <T n="enabled">0x1CB9564A<!--Royalty Mod--></T>
+    </V>
+    <L n="ui_responses">
+      <U>
+        <V n="response_command" t="enabled">
+          <V n="enabled" t="literal">
+            <U n="literal">
+              <T n="command">royalty.llazyneiph_discord</T>
+            </U>
+          </V>
+        </V>
+        <T n="text">0x6A1FB758<!--Open Discord--></T>
+        <E n="ui_request">SEND_COMMAND</E>
+      </U>
+      <U>
+        <V n="response_command" t="enabled">
+          <V n="enabled" t="literal">
+            <U n="literal">
+              <T n="command">royalty.llazyneiph_patreon</T>
+            </U>
+          </V>
+        </V>
+        <T n="text">0xFAB43CA0<!--Open Patreon--></T>
+        <E n="ui_request">SEND_COMMAND</E>
+      </U>
+      <U>
+        <V n="response_command" t="enabled">
+          <V n="enabled" t="literal">
+            <U n="literal">
+              <T n="command">royalty.llazyneiph_tutorials</T>
+            </U>
+          </V>
+        </V>
+        <T n="text">0xB24A249A<!--Open Tutorials--></T>
+        <E n="ui_request">SEND_COMMAND</E>
+      </U>
+    </L>
+  </U>
+</I>

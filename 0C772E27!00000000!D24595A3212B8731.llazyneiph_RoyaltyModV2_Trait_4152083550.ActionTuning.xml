@@ -1,0 +1,43 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="15151681049226610481" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait/4152083550">
+  <L n="loot_actions">
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">18164583978991418625<!--LN_RM_trait_Heir--></T>
+          </U>
+        </V>
+        <E n="subject">TargetSim</E>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12433464320959832038<!--LN_RM_trait_HasHeir--></T>
+          </U>
+        </V>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">14798792735883150941<!--llazyneiph_RoyaltyModV2_Trait/3640235631--></T>
+        </U>
+        <E n="subject">TargetSim</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>14798792735883150941<!--llazyneiph_RoyaltyModV2_Trait/3640235631--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

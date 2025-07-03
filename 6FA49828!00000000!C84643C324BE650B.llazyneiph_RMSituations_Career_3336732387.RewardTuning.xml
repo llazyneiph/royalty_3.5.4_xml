@@ -1,0 +1,17 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="SimReward" s="14431296561369474315" i="reward" m="rewards.reward" n="llazyneiph_RMSituations_Career/3336732387">
+  <T n="icon">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="random_in_range">
+            <U n="random_in_range">
+              <T n="lower_bound">1000</T>
+              <T n="upper_bound">2000</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

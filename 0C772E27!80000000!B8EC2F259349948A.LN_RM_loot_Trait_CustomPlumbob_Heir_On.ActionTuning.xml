@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Trait_CustomPlumbob_Heir_On" s="13325077235913823370">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">14180340514794941805<!--LN_RM:Trait_CustomPlumbob_Heir--></T>
+      </U>
+    </V>
+  </L>
+</I>

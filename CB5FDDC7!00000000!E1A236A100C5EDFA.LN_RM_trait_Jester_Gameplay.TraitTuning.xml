@@ -1,0 +1,27 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="16258617669891517946" i="trait" m="traits.traits" n="LN_RM_trait_Jester_Gameplay">
+  <T n="display_name">0xE4F561FC<!--Jester--></T>
+  <T n="display_name_gender_neutral">0xE4F561FC<!--Jester--></T>
+  <T n="icon">2f7d0004:00000000:9dd2db9aa97d829d</T>
+  <T n="trait_description">0x9FD6E486<!--{0.SimFirstName} has the great honour of being the royal familys' Jester!--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17331464171147027943<!--llazyneiph_RoyaltyMod_Buff_Hidden_Jester--></T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>14477132342419649471<!--llazyneiph_RoyaltyModV2_Trait16/4134008921--></T>
+      <T>11514842356370531690</T>
+    </L>
+  </V>
+  <V n="whim_set" t="enabled">
+    <T n="enabled">17793370118707880336<!--llazyneiph_RoyaltyModV2_Trait16/3933095113--></T>
+  </V>
+</I>

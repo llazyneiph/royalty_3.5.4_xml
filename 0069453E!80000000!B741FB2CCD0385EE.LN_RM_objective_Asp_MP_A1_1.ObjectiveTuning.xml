@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="LN_RM:objective_Asp_MP_A1_1" s="13205111752263697902">
+  <T n="display_text">0xB34E9A7D<!--Max the Royal Family Lore Skill (3 Levels)--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+    <V n="objective_test" t="statistic">
+        <U n="statistic">
+            <T n="must_have_stat">True</T>
+            <T n="stat">12616370087998356301<!--LN_RM:statistic_Skill_Hidden_RoyalFamily_Lore--></T>
+            <V n="threshold" t="value_threshold">
+                <U n="value_threshold">
+                    <E n="comparison">EQUAL</E>
+                    <T n="value">3</T>
+                </U>
+            </V>
+        </U>
+    </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">50</T>
+  <T n="tooltip">0x4F5F611F<!--Read the Royal Family Lore book to gain the skill.--></T>
+</I>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Baron" s="11768899367503572284">
+  <L n="loot_actions">
+    <V t="trait_add">
+      <U n="trait_add">
+        <T n="trait">16258617669891517944<!--LN_RM_trait_Nobility_Baron_Gameplay--></T>
+      </U>
+    </V>
+  </L>
+</I>

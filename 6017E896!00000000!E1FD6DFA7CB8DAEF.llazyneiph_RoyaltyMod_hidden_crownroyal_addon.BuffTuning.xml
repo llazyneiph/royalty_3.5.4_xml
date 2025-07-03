@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="16284292750243322607" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_hidden_crownroyal_addon">
+  <T n="visible">False</T>
+  <T n="buff_name">0x960EA888<!--hidden_crownroyal_addon--></T>
+  <T n="icon">2f7d0004:00000000:5a51080fda41e1f1</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>11123184277701766706<!--llazyneiph_crownroyaladdon_Trait/2389687234--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

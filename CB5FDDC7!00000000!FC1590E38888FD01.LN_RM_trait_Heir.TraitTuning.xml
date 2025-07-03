@@ -1,0 +1,34 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Trait" s="18164583978991418625" i="trait" m="traits.traits" n="LN_RM_trait_Heir">
+  <T n="display_name">0xB7C7CF68<!--Heir--></T>
+  <T n="display_name_gender_neutral">0xB7C7CF68<!--Heir--></T>
+  <T n="icon">2f7d0004:00000000:e0b242efef632ace</T>
+  <T n="trait_description">0x846F158C<!--{0.SimFirstName} is the next in the line to the throne.--></T>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">15823889967789349282<!--llazyneiph_RoyaltyMod_Buff_Hidden_Heir--></T>
+    </U>
+    <U>
+      <T n="buff_type">14372131851037050673</T>
+    </U>
+  </L>
+  <L n="ages">
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="trait_type">GAMEPLAY</E>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>192942<!--loot_Reputation_Gain_Huge--></T>
+      <T>18044577381765332150</T>
+    </L>
+  </V>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">12433464320959832038<!--LN_RM_trait_HasHeir--></T>
+    </U>
+  </L>
+</I>

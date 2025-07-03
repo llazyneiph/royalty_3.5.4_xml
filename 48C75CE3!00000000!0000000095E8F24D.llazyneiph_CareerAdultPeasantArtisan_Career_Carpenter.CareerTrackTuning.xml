@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableCareerTrack" i="career_track" m="careers.career_tuning" n="llazyneiph_CareerAdultPeasantArtisan_Career/Carpenter" s="2515071565">
+  <V n="goodbye_notification" t="reference">
+    <T n="reference">110655</T>
+  </V>
+  <V n="knowledge_notification" t="enabled">
+  <V n="enabled" t="reference">
+    <T n="reference">110279<!--notification_AskAboutCareer_Generic--></T>
+  </V>
+</V>
+  <T n="career_description">0xDDD30373</T>
+  <T n="career_name">0xD3CF53EB<!--Carpenter--></T>
+  <T n="career_name_gender_neutral">0xD3CF53EB</T>
+  <T n="icon">2f7d0004:00000000:83912599f2ae5f10</T>
+  <T n="icon_high_res">2f7d0004:00000000:E21F654919C73A5D</T>
+  <T n="image">2f7d0004:00000000:6665077284098fa2</T>
+  <L n="career_levels">
+    <T>4062067178</T>
+    <T>3950802404</T>
+    <T>2600350865</T>
+    <T>2709113219</T>
+  </L>
+</I>

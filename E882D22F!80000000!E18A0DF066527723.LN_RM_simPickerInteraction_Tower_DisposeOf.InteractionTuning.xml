@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimPickerInteraction" i="interaction" m="interactions.base.picker_interaction" n="LN_RM:simPickerInteraction_Tower_DisposeOf" s="16251817531479848739">
+  <V n="_saveable" t="disabled" />
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x395372CD<!--Make Sim 'Disappear'--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">PickedSim</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <V n="pie_menu_test_tooltip" t="enabled">
+    <T n="enabled">0xE0193908<!--There are no sims currently imprisoned.--></T>
+  </V>
+  <T n="include_uninstantiated_sims">False</T>
+  <L n="interaction_category_tags">
+    <E>INVALID</E>
+  </L>
+  <L n="picked_continuation">
+    <U>
+      <T n="affordance">15169261627740268821<!--LN_RM:superInteraction_Tower_PickedSim_DisposeOf_Continuation--></T>
+    </U>
+  </L>
+  <V n="picker_dialog" t="sim_picker">
+    <U n="sim_picker">
+      <V n="max_selectable" t="static_count">
+        <U n="static_count">
+          <T n="number_selectable">1</T>
+        </U>
+      </V>
+    </U>
+  </V>
+  <U n="progress_bar_enabled">
+    <T n="bar_enabled">False</T>
+  </U>
+  <L n="sim_tests">
+    <L>
+      <V t="distance">
+        <U n="distance">
+          <U n="distance_threshold">
+            <E n="comparison">LESS_OR_EQUAL</E>
+            <T n="value">10</T>
+          </U>
+          <V n="object_count_threshold" t="enabled">
+            <U n="enabled">
+              <E n="comparison">GREATER_OR_EQUAL</E>
+              <T n="value">1</T>
+            </U>
+          </V>
+          <E n="subject">PickedSim</E>
+          <V n="target" t="participant_type">
+            <U n="participant_type">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>17989846860659160675<!--LN_RM:trait_Hidden_IsImprisoned_Tower--></T>
+          </L>
+          <E n="subject">PickedSim</E>
+        </U>
+      </V>
+    </L>
+  </L>
+  <V n="single_choice_display_name" t="enabled">
+    <T n="enabled">0x395372CD<!--Make Sim 'Disappear'--></T>
+  </V>
+  <E n="target_type">OBJECT</E>
+  <L n="test_globals"> 
+    <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>2522365735<!--LN_RM_trait_Monarch--></T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+            <T>16816439335000103909<!--LN_RM:trait_Hidden_Regent_Active--></T>
+          </L>
+          <E n="subject">Actor</E>
+        </U>
+      </V>
+  </L>
+</I>

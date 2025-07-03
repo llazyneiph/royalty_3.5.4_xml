@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TuningInjector" i="snippet" m="lot51_core.snippets.injector" n="LN_RM:TuningInjector_Regents" s="12849301950012554331">
+  <L n="inject_to_loot">
+    <U>
+      <T n="loot">125749<!--loot_Buff_Add_RecentBirthday--></T>
+      <L n="ops">
+        <V t="actions">
+          <T n="actions">15931668572281458342<!--LN_RM:loot_HeirAgeUp_Regent--></T>
+        </V>
+      </L>
+    </U>
+  </L>
+</I>

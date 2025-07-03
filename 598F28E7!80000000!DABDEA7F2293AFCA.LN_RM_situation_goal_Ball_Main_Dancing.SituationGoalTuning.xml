@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="LN_RM:situation_goal_Ball_Main_Dancing" s="15762012102628454346">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGP01\UI\Icons\Events\EventRole_GoalCampfire.png">2f7d0004:00000000:859A1B21F6AF24C4</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x7D3C72CD<!--Have Four Sims Ball Dancing--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0xF5CBF685<!--Have four different sim engaging in Ball dancing.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_scenario_roles">
+    <T>14290880321767042052<!--LN_RM:role_guest_Dance--></T>
+  </L>
+  <T n="_iterations">8</T>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>13527412108067584152<!--LN_RM:autonomousSimPicker_Ball_DanceWith--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_score">50</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <L n="role_tags">
+    <E>Role_Guest</E>
+  </L>
+</I>

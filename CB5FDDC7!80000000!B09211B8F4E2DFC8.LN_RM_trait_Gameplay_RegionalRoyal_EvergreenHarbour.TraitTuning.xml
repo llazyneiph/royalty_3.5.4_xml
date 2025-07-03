@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalRoyal_EvergreenHarbour" s="12723251383355236296">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0xF7C525B9<!--Evergreen Harbour Royal--></T>
+  <T n="display_name_gender_neutral">0xF7C525B9<!--Evergreen Harbour Royal--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:813348C7AF417E73</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x6947BDF3<!--{0.SimFirstName} belongs to the ruling family of Evergreen Harbour.--></T>
+  <T n="trait_origin_description">0xF9785CDE<!--(From Ruling Over Evergreen Harbour)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

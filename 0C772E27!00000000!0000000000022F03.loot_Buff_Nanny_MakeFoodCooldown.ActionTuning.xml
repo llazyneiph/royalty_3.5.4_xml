@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="loot_Buff_Nanny_MakeFoodCooldown" s="143107">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">143105<!--buff_Role_ServiceNPC_Nanny_MakeFoodCooldown--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="situation_job_test">
+              <U n="situation_job_test">
+                <L n="situation_jobs">
+                  <T>141842<!--jobs_nanny--></T>
+                  <T>177648<!--situationJob_ServiceSkeleton--></T>
+                  <T>15238778876346739847<!--LN_RM:situationJob_Servant_Nanny--></T>
+                  <T>10460968236201576715<!--LN_RM:Servant_Cook_Job--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

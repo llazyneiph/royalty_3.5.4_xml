@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN:loot_trait_RemoveAllCR" s="12651944890092993347">
+  <L n="loot_actions">
+    <V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16749650935157260882<!--Trait: LN_RM:trait_Hidden_Prince--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16061442085815665068<!--Trait: LN_RM:trait_Hidden_Princess--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14813281179583026976<!--Trait: LN_RM:trait_Hidden_PrincessD--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15529301421419959156<!--Trait: LN_RM:trait_Hidden_Prinz--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">18091705340579174886<!--Trait: LN_RM:trait_Hidden_Tsarevich--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">11217529147669917549<!--Trait: LN_RM:trait_Hidden_Tsarevna--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15738919763295227770<!--Trait: LN_RM:trait_Hidden_Archon--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16998620950635617218<!--Trait: LN_RM:trait_Hidden_Augustus--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15210926673450622207<!--Trait: LN_RM:trait_Hidden_Autokrator--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">15776437934071848287<!--Trait: LN_RM:trait_Hidden_Basileus--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">13897043618040842082<!--Trait: LN_RM:trait_Hidden_Basilissa--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12701388312784331768<!--Trait: LN_RM:trait_Hidden_Caesar--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">14231110917919298168<!--Trait: LN_RM:trait_Hidden_Despotes--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">12467103901299026980<!--Trait: LN_RM:trait_Hidden_Praetor--></T>
+      </U>
+    </V>
+  </U>
+</V>
+<V t="trait_remove">
+  <U n="trait_remove">
+    <E n="subject">Actor</E>
+    <V n="trait" t="specific_trait">
+      <U n="specific_trait">
+        <T n="specific_trait">16138607680093707062<!--Trait: LN_RM:trait_Hidden_Rex--></T>
+      </U>
+    </V>
+  </U>
+</V>
+  </L>
+</I>

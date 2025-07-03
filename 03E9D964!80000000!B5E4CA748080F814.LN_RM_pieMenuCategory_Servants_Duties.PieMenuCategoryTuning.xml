@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="LN_RM:pieMenuCategory_Servants_Duties" s="13106823417275938836">
+  <T n="_display_name">0x6D745EEE<!--Duties--></T>
+  <T n="_icon" p="InGP07\UI\Icons\PieMenu\Careers\icon_piemenu_category_military.png">2f7d0004:00000000:E9AFBF81D2E4BAAA</T>
+  <T n="_parent">13799826509897344929<!--LN_RM:ServantCatagories_Order--></T>
+</I>

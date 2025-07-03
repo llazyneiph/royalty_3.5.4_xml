@@ -1,0 +1,54 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="17588713812482901404" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_NearTheMonarch!">
+  <T n="buff_description">0xB2587666<!--It's the Monarch! How exciting!--></T>
+  <T n="buff_name">0x8A53127E<!--Near the Monarch!--></T>
+  <T n="icon">2f7d0004:00000000:f25f05faf1155353</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>2522365735</T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+            </L>
+            <E n="subject">TargetSim</E>
+          </U>
+        </V>
+        <V t="trait">
+          <U n="trait">
+            <L n="blacklist_traits">
+              <T>16258617669891517949<!--LN_RM_trait_CourtWizard_Gameplay--></T>
+              <T>18164583978991418627</T>
+              <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+              <T>2522365735</T>
+              <T>18164583978991418630<!--LN_RM_trait_Nanny--></T>
+              <T>18164583978991418624</T>
+              <T>18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+              <T>16258617669891517948<!--LN_RM_trait_TrustedAdvisor_Gameplay--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+        <V t="buff">
+          <U n="buff">
+            <L n="blacklist">
+              <T>9859918240155417409<!--llazyneiph_RoyaltyMod_Buff_In the Presence of of Tyrant!--></T>
+              <T>9451937512087136040<!--llazyneiph_RoyaltyMod_Buff_Close to Greatness!--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+        <V t="relationship">
+          <U n="relationship">
+            <L n="subject">
+              <E>TargetSim</E>
+            </L>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+</I>

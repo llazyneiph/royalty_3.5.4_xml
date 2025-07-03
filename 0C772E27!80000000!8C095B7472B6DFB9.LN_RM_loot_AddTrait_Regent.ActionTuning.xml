@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_AddTrait_Regent" s="10090696995799228345">
+  <L n="loot_actions">
+  <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:32FB88DDCB5F1DCF</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xFF2E4F4A<!--{0.SimFirstName} has been entrusted with the highest honour of temporarily ruling in place if the unthinkable happens and the Monarch passes before their Heir comes of age.--></T>
+            </V>
+            <V n="title" t="enabled">
+              <T n="enabled">0x4BA9386A<!--Honorable Regent--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x8284A1C7<!--(From Naming a Regent)--></T>
+          </V>
+          <T n="buff_type">13789960016238701832<!--LN_RM:buff_Monarch_Heir_PeaceofMind--></T>
+        </U>
+        <E n="subject">Actor</E>
+      </U>
+    </V>
+  <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">9730910459891574270<!--LN_RM:trait_Hidden_HasRegent--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">17413983401286710296<!--LN_RM:trait_Hidden_Regent_Inactive--></T>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">TargetSim</E>
+        <T n="trait">16934527172051717879<!--LN_RM:Trait_Regent--></T>
+      </U>
+    </V>
+  </L>
+</I>

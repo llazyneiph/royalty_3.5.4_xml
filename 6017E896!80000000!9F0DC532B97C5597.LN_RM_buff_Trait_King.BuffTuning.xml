@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Buff" i="buff" m="buffs.buff" n="LN_RM:buff_Trait_King" s="11461033448378750359">
+<L n="_loot_on_instance">
+    <T>9509971337845619654<!--LN:loot_trait_King--></T>
+  </L>
+  <V n="auto_situation" t="enabled">
+    <U n="enabled">
+      <V n="actor_init_job" t="specify_job">
+        <T n="specify_job">15392026332250121965<!--LN_RM:situationJob_BasicTrait_King--></T>
+      </V>
+      <T n="situation">17882006901563080329<!--LN_RM:basicTraitSituation_King--></T>
+      <V n="situation_guest_info" t="enabled">
+        <U n="enabled">
+          <E n="request_spawning_option">CANNOT_SPAWN</E>
+        </U>
+      </V>
+      <T n="user_facing">False</T>
+    </U>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="refresh_on_add">True</T>
+  <T n="show_timeout">False</T>
+  <T n="success_modifier">0</T>
+  <T n="ui_sort_order">1</T>
+  <T n="visible">False</T>
+</I>

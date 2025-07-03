@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_BackFromButcher" s="16615211896018010492">
+  <L n="loot_actions">
+  <V t="create_object">
+      <U n="create_object">
+        <V n="creation_data" t="definition">
+          <U n="definition">
+            <T n="definition">278719<!--White Meat--></T>
+          </U>
+        </V>
+        <V n="location" t="inventory" />
+        <E n="owner_sim">Actor</E>
+        <T n="quantity">2</T>
+      </U>
+    </V>
+    <V t="create_object">
+      <U n="create_object">
+        <V n="creation_data" t="definition">
+          <U n="definition">
+            <T n="definition">278923<!--Red Meat--></T>
+          </U>
+        </V>
+        <V n="location" t="inventory" />
+        <E n="owner_sim">Actor</E>
+        <T n="quantity">2</T>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">9397442046930640831<!--LN_RM:Buff_Hidden_PeasantRabbitHoles_HasBeenToRecently_Cobbler--></T>
+        </U>
+      </U>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key" p="InGame\UI\Icons\Headlines\Final\headline_babyrattle.png">2f7d0004:00000000:7F7A671994D8E469</T>
+                </U>
+              </V>
+            </V>
+            <V n="secondary_icon" t="enabled">
+              <V n="enabled" t="participant">
+                <U n="participant">
+                  <L n="participant_type">
+                    <E>Actor</E>
+                  </L>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xE5344E6D<!--{0.SimFirstName} has returned home from the butcher with quality pieces of meat!--></T>
+            </V>
+            <V n="text_tokens" t="enabled">
+              <U n="enabled">
+                <L n="tokens">
+                  <V t="participant_type">
+                    <U n="participant_type">
+                      <V n="objects" t="from_participant">
+                        <U n="from_participant">
+                          <E n="participant">Actor</E>
+                        </U>
+                      </V>
+                    </U>
+                  </V>
+                </L>
+              </U>
+            </V>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

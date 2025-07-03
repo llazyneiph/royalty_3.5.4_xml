@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_LawEnforcer_AddLaw_PurpleForRoyalsOnly" s="11459381447674977478">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="radius">5000</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="loot">
+        <U n="loot">
+            <L n="loot_list">
+                <T>17439079255589094669<!--LN_RM:Loot_LawEnforcer_Law_PurpleForRoyals_AddTrait_Actor--></T>
+            </L>
+        </U>
+    </V>
+</L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">10</T>
+    </U>
+  </V>
+</I>

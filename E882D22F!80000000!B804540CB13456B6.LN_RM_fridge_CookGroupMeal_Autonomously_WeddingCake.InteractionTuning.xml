@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="StartCraftingAutonomouslySuperInteraction" i="interaction" m="crafting.crafting_interactions" n="LN_RM:fridge_CookGroupMeal_Autonomously_WeddingCake" s="13259815616374920886">
+  <L n="_false_advertisements">
+    <V t="statistic_change">
+      <U n="statistic_change">
+        <T n="amount">10</T>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="stat">16624<!--commodity_Motive_Role_Caterer--></T>
+      </U>
+    </V>
+    <V t="statistic_change">
+      <U n="statistic_change">
+        <T n="amount">10</T>
+        <T n="stat">16625<!--commodity_Motive_Role_DinnerParty-Host--></T>
+      </U>
+    </V>
+    <V t="statistic_set_max">
+      <U n="statistic_set_max">
+        <T n="stat">34123<!--commodity_Motive_MakeOneGroupMeal--></T>
+      </U>
+    </V>
+    <V t="statistic_set_max">
+      <U n="statistic_set_max">
+        <T n="stat">210673<!--commodity_RoommateNPC_Autonomy_Mealmaker--></T>
+      </U>
+    </V>
+  </L>
+  <V n="_icon" t="resource_key">
+        <U n="resource_key">
+            <T n="key">00B2D882:00000000:76661c8242453be1</T>
+        </U>
+    </V>
+  <V n="_saveable" t="enabled" />
+  <L n="_static_commodities">
+    <U>
+      <T n="static_commodity">16403<!--Crafting--></T>
+    </U>
+    <U>
+      <T n="desire">16</T>
+      <T n="static_commodity">12147952766995123249<!--LN_RM:StaticCommodity_RoleAutonomy_Servant_Cook_WeddingCake--></T>
+    </U>
+    <U>
+      <T n="desire">4</T>
+      <T n="static_commodity">137861<!--StaticCommodity_RoleAutonomy_Career_SocialMedia_PersuadedToCook--></T>
+    </U>
+    <U>
+      <T n="desire">4</T>
+      <T n="static_commodity">228423<!--commodity_RoleAutonomy_DebateSkill_ConvinceCook--></T>
+    </U>
+    <U>
+      <T n="static_commodity">26277<!--StaticCommodity_MakeGroupMeal--></T>
+    </U>
+    <U>
+      <T n="static_commodity">152516<!--StaticCommodity_MakeGroupMeal_Vegetarian--></T>
+    </U>
+    <U>
+      <T n="static_commodity">106184<!--staticCommodity_SimRay_MindControl_Eat--></T>
+    </U>
+    <U>
+      <T n="static_commodity">141997<!--staticCommodity_Nanny_FeedKids--></T>
+    </U>
+    <U>
+      <T n="static_commodity">145864<!--staticCommodity_Butler_CookFamilyMeal--></T>
+    </U>
+    <U>
+      <T n="static_commodity">177821<!--staticCommodity_ServiceSkeleton_FeedKids--></T>
+    </U>
+    <U>
+      <T n="static_commodity">234658<!--staticCommodity_CivicPolicy_HomeCooking--></T>
+    </U>
+  </L>
+  <T n="allow_autonomous">True</T>
+  <L n="appropriateness_tags">
+    <E>Appropriateness_Cooking</E>
+  </L>
+  <T n="attention_cost">0.75</T>
+  <V n="basic_content" t="one_shot" />
+  <V n="canonical_animation" t="enabled">
+    <U n="enabled">
+      <T n="factory">29356<!--Fridge_Create--></T>
+    </U>
+  </V>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x922C300A<!--Cook--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="loot_list">
+          <T>34127<!--loot_MakeOneGroupMeal--></T>
+          <T>39708<!--loot_Statistic_Breakage_Fridge--></T>
+          <T>143107<!--loot_Buff_Nanny_MakeFoodCooldown--></T>
+          <T>212504<!--loot_RoommateNPC_Mealmaker--></T>
+        </L>
+      </U>
+    </U>
+  </V>
+  <L n="recipes">
+    <T>278186<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set1--></T>
+    <T>278189<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set2--></T>
+    <T>278256<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set3--></T>
+    <T>278257<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set4--></T>
+    <T>278258<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set5--></T>
+    <T>278259<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set6--></T>
+    <T>278260<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set7--></T>
+    <T>278261<!--recipe_Food_Gourmet_WeddingCake_Multi_Floral_set8--></T>
+    <T>278360<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set1--></T>
+    <T>278361<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set2--></T>
+    <T>278362<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set3--></T>
+    <T>278364<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set4--></T>
+    <T>278365<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set5--></T>
+    <T>278363<!--recipe_Food_Gourmet_WeddingCake_Multi_Heart_set6--></T>
+    <T>278409<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set1--></T>
+    <T>278410<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set2--></T>
+    <T>278411<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set3--></T>
+    <T>278412<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set4--></T>
+    <T>278413<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set5--></T>
+    <T>278414<!--recipe_Food_Gourmet_WeddingCake_Multi_Hexagon_set6--></T>
+    <T>278372<!--recipe_Food_Gourmet_WeddingCake_Multi_Pillow_set1--></T>
+    <T>278373<!--recipe_Food_Gourmet_WeddingCake_Multi_Pillow_set2--></T>
+    <T>278374<!--recipe_Food_Gourmet_WeddingCake_Multi_Pillow_set3--></T>
+    <T>278375<!--recipe_Food_Gourmet_WeddingCake_Multi_Pillow_set4--></T>
+    <T>278376<!--recipe_Food_Gourmet_WeddingCake_Multi_Pillow_set5--></T>
+    <T>280224<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set1--></T>
+    <T>280225<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set2--></T>
+    <T>280226<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set3--></T>
+    <T>280227<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set4--></T>
+    <T>280228<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set5--></T>
+    <T>280229<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set6--></T>
+    <T>280230<!--recipe_Food_Gourmet_WeddingCake_Multi_Square_set7--></T>
+    <T>281616<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set1--></T>
+    <T>281634<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set10--></T>
+    <T>281635<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set11--></T>
+    <T>281617<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set2--></T>
+    <T>281618<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set3--></T>
+    <T>281619<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set4--></T>
+    <T>281620<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set5--></T>
+    <T>281621<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set6--></T>
+    <T>281622<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set7--></T>
+    <T>281623<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set8--></T>
+    <T>281624<!--recipe_Food_Gourmet_WeddingCake_Multi_4tierCyl_set9--></T>
+    <T>281650<!--recipe_Food_Gourmet_WeddingCake_Multi_Beachy_set1--></T>
+    <T>281651<!--recipe_Food_Gourmet_WeddingCake_Multi_Beachy_set2--></T>
+    <T>281652<!--recipe_Food_Gourmet_WeddingCake_Multi_Beachy_set3--></T>
+    <T>281653<!--recipe_Food_Gourmet_WeddingCake_Multi_Beachy_set4--></T>
+    <T>281654<!--recipe_Food_Gourmet_WeddingCake_Multi_Beachy_set5--></T>
+    <T>281662<!--recipe_Food_Gourmet_WeddingCake_Multi_Cupcake_set1--></T>
+    <T>281663<!--recipe_Food_Gourmet_WeddingCake_Multi_Cupcake_set2--></T>
+    <T>281664<!--recipe_Food_Gourmet_WeddingCake_Multi_Cupcake_set3--></T>
+    <T>281639<!--recipe_Food_Gourmet_WeddingCake_Multi_3dDesign_set1--></T>
+    <T>281640<!--recipe_Food_Gourmet_WeddingCake_Multi_3dDesign_set2--></T>
+    <T>281641<!--recipe_Food_Gourmet_WeddingCake_Multi_3dDesign_set3--></T>
+    <T>281642<!--recipe_Food_Gourmet_WeddingCake_Multi_3dDesign_set4--></T>
+    <T>281643<!--recipe_Food_Gourmet_WeddingCake_Multi_3dDesign_set5--></T>
+  </L>
+  <V n="route_start_balloon" t="enabled">
+    <U n="enabled">
+      <U n="balloon">
+        <L n="balloon_choices">
+          <U>
+            <V n="item" t="balloon_icon">
+              <U n="balloon_icon">
+                <V n="icon" t="participant">
+                  <U n="participant">
+                    <L n="participant_type">
+                      <E>Object</E>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </U>
+        </L>
+        <L n="balloon_target">
+          <E>Actor</E>
+        </L>
+      </U>
+    </U>
+  </V>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">OBJECT</E>
+  <T n="time_overhead">60</T>
+</I>

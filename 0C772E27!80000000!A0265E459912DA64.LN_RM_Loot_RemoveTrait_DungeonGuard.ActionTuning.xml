@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:Loot_RemoveTrait_DungeonGuard" s="11540014748197378660">
+  <L n="loot_actions">
+    <V n="trait_remove">
+      <E n="subject">TargetSim</E>
+      <V n="trait" t="specific_trait">
+        <U n="specific_trait">
+          <T n="specific_trait">11961114812858345264<!--LN_RM:trait_Hidden_DungeonGuard--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

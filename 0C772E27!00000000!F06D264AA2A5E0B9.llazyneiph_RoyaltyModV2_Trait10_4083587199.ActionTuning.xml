@@ -1,0 +1,26 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="17324545443562381497" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModV2_Trait10/4083587199">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">12799316296010223762<!--llazyneiph_RoyaltyMod_Buff_Trusted Adivsor_Visable--></T>
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x8DA9622D<!--(From Being Granted a Title)--></T>
+          </V>
+        </U>
+        <E n="subject">Actor</E>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <L n="blacklist">
+                  <T>12799316296010223762<!--llazyneiph_RoyaltyMod_Buff_Trusted Adivsor_Visable--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

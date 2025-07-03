@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RabbitHole" i="rabbit_hole" m="rabbit_hole.rabbit_hole" n="LN_RM:rabbitHole_Peasant_Butcher" s="18202189307070286090">
+  <T n="affordance">13388735850866710762<!--LN_RM:super_Peasant_Attend_Butcher--></T>
+  <V n="away_action" t="enabled">
+    <T n="enabled">16063417729985534896<!--LN_RM:awayAction_Peasant_Butcher--></T>
+  </V>
+  <L n="exit_conditions">
+    <U>
+      <L n="conditions">
+        <V t="stat_based">
+          <U n="stat_based">
+            <T n="stat">16652<!--motive_Bladder--></T>
+            <U n="threshold">
+              <E n="comparison">LESS_OR_EQUAL</E>
+              <T n="value">-50</T>
+            </U>
+          </U>
+        </V>
+      </L>
+    </U>
+    <U>
+      <L n="conditions">
+        <V t="stat_based">
+          <U n="stat_based">
+            <T n="stat">16656<!--motive_Hunger--></T>
+            <U n="threshold">
+              <E n="comparison">LESS_OR_EQUAL</E>
+              <T n="value">-50</T>
+            </U>
+          </U>
+        </V>
+      </L>
+    </U>
+  </L>
+</I>

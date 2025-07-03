@@ -1,0 +1,16 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="16435453921461417444" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_hidden_advisor_addon">
+  <T n="visible">False</T>
+  <T n="buff_name">0xE4F45BD9<!--hidden_advisor_addon--></T>
+  <T n="icon">2f7d0004:00000000:30f0846c783606f9</T>
+  <U n="game_effect_modifier">
+    <L n="_game_effect_modifiers">
+      <V t="autonomy_modifier">
+        <U n="autonomy_modifier">
+          <L n="commodities_to_add">
+            <T>17268595427171785291<!--llazyneiph_RoyaltyModUpdateV1_Trait10/3793517867--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </U>
+</I>

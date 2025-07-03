@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Buff_AddAwayFromPeasant" s="10893485508722134005">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x78E54A5F<!--(Away from peasant)--></T>
+          </V>
+          <T n="buff_type">17283566288962810148<!--LN_RM:Buff_Trait_AwayFromPeasant--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

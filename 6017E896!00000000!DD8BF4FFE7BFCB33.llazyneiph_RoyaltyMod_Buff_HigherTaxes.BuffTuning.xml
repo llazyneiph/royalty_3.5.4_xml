@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="15964122684086799155" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_HigherTaxes">
+  <T n="buff_description">0xBC8AF737<!--The Royal Treasury was looking a little empty... a slight raise in taxes should help out a bit!--></T>
+  <T n="buff_name">0x93F38EB2<!--Higher Taxes--></T>
+  <T n="icon">2f7d0004:00000000:b726464e81f93168</T>
+  <T n="mood_type">14640<!--Mood_Happy--></T>
+  <T n="mood_weight">1</T>
+  <T n="show_timeout">False</T>
+  <L n="_loot_on_addition">
+    <T>101279<!--loot_$1500_to_$2500--></T>
+  </L>
+</I>

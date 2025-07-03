@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_Law_NoPower" s="17904536788776125114">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>9765755223278514754<!--LN_RM:Loot_Law_NoPower_ShutOffPower--></T>
+    </L>
+  </V>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">16847182928306716650<!--LN_RM:Buff_LawMaker_NoPower_Instance--></T>
+    </U>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="species">
+    <E />
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Gameplay_RegionalNoble_Newcrest" s="10347643485507072274">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <T n="display_name">0x33B5E4AC<!--Newcrest Noble--></T>
+  <T n="display_name_gender_neutral">0x33B5E4AC<!--Newcrest Noble--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\RewardTraits\traitReward_SteelBladder.png">2f7d0004:00000000:82830FC95918BC17</T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x9057FC26<!--{0.SimFirstName} is apart of Newcrest Nobility.--></T>
+  <T n="trait_origin_description">0xB45F2CD7<!--(From Belonging to Newcrest Nobility)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

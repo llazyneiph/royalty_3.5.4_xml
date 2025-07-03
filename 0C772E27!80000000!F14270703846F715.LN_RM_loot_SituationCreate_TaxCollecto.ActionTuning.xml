@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_SituationCreate_TaxCollecto" s="17384581138886358805">
+  <L n="loot_actions">
+    <V t="create_situation">
+      <U n="create_situation">
+        <U n="create_situation">
+          <T n="invite_actor">False</T>
+          <T n="invite_picked_sims">False</T>
+          <T n="invite_target_sim">False</T>
+          <T n="situation">15606780180598867438<!--LN_RM:situation_taxCollector--></T>
+          <V n="target_init_job" t="specify_job">
+            <T n="specify_job">10358295831740245260<!--LN_RM:jobs_taxCollector--></T>
+          </V>
+          <T n="user_facing">False</T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="test_set_reference">
+              <T n="test_set_reference">36937<!--testSet_DayOfWeek_Friday--></T>
+            </V>
+            <V t="situation_running_test">
+              <U n="situation_running_test">
+                <V n="situation_blacklist" t="enabled">
+                  <L n="enabled">
+                    <T>15606780180598867438<!--LN_RM:situation_taxCollector--></T>
+                  </L>
+                </V>
+                <E n="test_event">SituationStarted</E>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="disabled" />
+          <T n="buff_type">17858517355523876293<!--LN_RM:buff_PayTaxes_Want--></T>
+        </U>
+      </U>
+    </V>
+  </L>
+</I>

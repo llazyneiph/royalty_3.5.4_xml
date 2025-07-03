@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Broadcaster" i="broadcaster" m="broadcasters.broadcaster" n="LN_RM:broadcaster_ScoldBridle_Follow" s="17629417309711344967">
+  <L n="constraints">
+    <V t="circle">
+      <U n="circle">
+        <T n="ideal_radius_width">3</T>
+        <T n="radius">1000</T>
+      </U>
+    </V>
+  </L>
+  <L n="effects">
+    <V t="affordance">
+      <U n="affordance">
+        <L n="affordances">
+          <U>
+            <T n="affordance">15436942774867516113<!--LN_RM:Following_ScoldsBridle_MasterSim--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="buff">
+              <U n="buff">
+                <E n="subject">Actor</E>
+                <V n="whitelist" t="enabled">
+                  <L n="enabled">
+                    <T>13459002594439380879<!--LN_RM:buff_ScoldsBridle_IsFollowing--></T>
+                  </L>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+  <V n="frequency" t="on_pulse">
+    <U n="on_pulse">
+      <T n="cooldown_time">1</T>
+    </U>
+  </V>
+</I>

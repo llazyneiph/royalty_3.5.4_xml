@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="LN_RM:loot_Heir_Regent_WonThrone" s="18309069975481181483">
+  <L n="loot_actions">
+      <V t="actions">
+    <T n="actions">15359921091956446848<!--LN_RM:loot_AdultMade_Heir--></T>
+    </V>
+    <V t="notification_and_dialog">
+      <U n="notification_and_dialog">
+        <V n="dialog" t="notification">
+          <U n="notification">
+            <V n="icon" t="enabled">
+              <V n="enabled" t="resource_key">
+                <U n="resource_key">
+                  <T n="key">2f7d0004:00000000:C8B8F31A61AC2C9D</T>
+                </U>
+              </V>
+            </V>
+            <V n="text" t="single">
+              <T n="single">0xB80D05AC<!--{0.SimFirstName} now has enough support from the Nobility that {0.SimPronounSubjective} can host a coronation without the approval of the Regent!--></T>
+            </V>
+            <E n="urgency">URGENT</E>
+            <E n="visual_type">SPECIAL_MOMENT</E>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="trait_add">
+      <U n="trait_add">
+        <E n="subject">Actor</E>
+        <T n="trait">16714445123849750783<!--LN_RM:trait_Hidden_Heir_Regent_RelinquishedThrone--></T>
+      </U>
+    </V>
+    <V t="trait_remove">
+      <U n="trait_remove">
+        <E n="subject">Actor</E>
+        <V n="trait" t="specific_trait">
+          <U n="specific_trait">
+            <T n="specific_trait">12985326292178063475<!--LN_RM:trait_Hidden_Heir_Regent_DeniedThrone--></T>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+</I>

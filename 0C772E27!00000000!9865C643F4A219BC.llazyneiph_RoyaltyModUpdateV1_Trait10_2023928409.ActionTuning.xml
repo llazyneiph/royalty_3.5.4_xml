@@ -1,0 +1,11 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="LootActions" s="10981401261582195132" i="action" m="interactions.utils.loot" n="llazyneiph_RoyaltyModUpdateV1_Trait10/2023928409">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_max">
+        <U n="statistic_set_max">
+          <T n="stat">17268595427171785291<!--llazyneiph_RoyaltyModUpdateV1_Trait10/3793517867--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

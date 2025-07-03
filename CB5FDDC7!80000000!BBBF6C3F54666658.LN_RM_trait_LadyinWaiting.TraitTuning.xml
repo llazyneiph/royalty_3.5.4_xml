@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_LadyinWaiting" s="13528650824898995800">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">17291030329095666200<!--LN_RM:Buff_Trait_LadyinWaiting--></T>
+    </U>
+  </L>
+  <L n="super_affordances">
+  </L>
+  <T n="display_name">0x79D695BB<!--Lady-In-Waiting--></T>
+  <T n="display_name_gender_neutral">0x79D695BB<!--Lady-In-Waiting--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\AspirationTraits\traitAspiration_WebMaster.png">2f7d0004:00000000:F5129DC6EEA3756D</T>
+  <L n="species">
+    <E />w
+  </L>
+  <T n="trait_description">0xD61F9CD9<!--Ladies-in-Waiting are the companions of Royals and Nobles alike.--></T>
+  <T n="trait_origin_description">0x84A7F0F4<!--(From Being a Lady-in-Waiting)--></T>
+  <E n="trait_type">GAMEPLAY</E>
+</I>

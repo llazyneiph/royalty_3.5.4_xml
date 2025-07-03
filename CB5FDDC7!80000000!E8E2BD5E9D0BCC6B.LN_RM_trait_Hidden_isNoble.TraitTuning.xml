@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="LN_RM:trait_Hidden_isNoble" s="16781183375595261035">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">10055250656026416978<!--LN_RM:buff_isNoble_Hidden--></T>
+    </U>
+  </L>
+  <L n="buffs_proximity">
+    <T>17562715050106822894<!--LN_RM:Buff_Trait_HatesPeasant(Hidden)--></T>
+    <T>11141906226653023171<!--LN_RM:Buff_Trait_LikesPeasant(Hidden)--></T>
+  </L>
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>17593980374103514109<!--LN_RM:mixer_social_AskToBeDungeonGuard--></T>
+        <T>13036866902894993172<!--LN_RM:mixer_social_RemoveDungeonGuard--></T>
+      </L>
+    </U>
+  </L>
+  <L n="super_affordances">
+    <!--Servants-->
+    <T>14078722774158765788<!--LN_RM:servant_CallForNew_Maid--></T>
+    <T>14342679544069265852<!--LN_RM:servant_CallForNew_Maid_InOtherRegion--></T>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>15160759727190315021<!--LN_RM:loot_Trait_RegionalNoble_WillowCreek--></T>
+      <T>17630869193870264498<!--LN_RM:loot_Trait_RegionalNoble_OasisSprings--></T>
+      <T>14819728083388403824<!--LN_RM:loot_Trait_RegionalNoble_Windenburg--></T>
+      <T>15382265942459132202<!--LN_RM:loot_Trait_RegionalNoble_SanMyshuno--></T>
+      <T>10799815975494560927<!--LN_RM:loot_Trait_RegionalNoble_MtKorembi--></T>
+      <T>10721477743054845459<!--LN_RM:loot_Trait_RegionalNoble_Sulani--></T>
+      <T>15379931896216308043<!--LN_RM:loot_Trait_RegionalNoble_EvergreenHarbour--></T>
+      <T>17142017064824588800<!--LN_RM:loot_Trait_RegionalNoble_BrindletonBay--></T>
+      <T>12727572882202448103<!--LN_RM:loot_Trait_RegionalNoble_Britechester--></T>
+      <T>12615525276852284419<!--LN_RM:loot_Trait_RegionalNoble_DelSolValley--></T>
+      <T>10144565343063949548<!--LN_RM:loot_Trait_RegionalNoble_MagProm--></T>
+      <T>13007580931723416498<!--LN_RM:loot_Trait_RegionalNoble_Newcrest--></T>
+      <T>10780796588227564322<!--LN_RM:loot_Trait_RegionalNoble_ForgottonHollow--></T>
+      <T>16968708597528183097<!--LN_RM:loot_Trait_RegionalNoble_StrangerVille--></T>
+      <T>18013523051584144286<!--LN_RM:loot_Trait_RegionalNoble_Henford-On-Bagley--></T>
+      <T>12407071800981745915<!--LN_RM:loot_Trait_RegionalNoble_GlimmerBrook--></T>
+      <T>17080070254982432141<!--LN_RM:trait_Gameplay_RegionalNoble_Tartosa--></T>
+      <T>14497593035210702134<!--LN_RM:loot_Trait_RegionalNoble_ChestnutRidge--></T>
+      <T>12096110971803254304<!--LN_RM:loot_Trait_RegionalNoble_SanSequoia--></T>
+      <T>13250367727136596983<!--LN_RM:loot_Trait_RegionalNoble_Enamorada--></T>
+      <T>10449497950755635038<!--LN_RM:loot_Trait_RegionalNoble_Ravenwood--></T>
+      <T>16055348746567220604<!--LN_RM:loot_Trait_RegionalNoble_Nodhaven--></T>
+    </L>
+  </V>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">13877060503877527392<!--LN_RN:social_Knighting_Command_Iniate--></T>
+    </U> 
+    <U>
+      <T n="affordance">9780394019576186743<!--LN_RN:social_LIW_Command_Iniate--></T>
+    </U>
+    <U>
+      <T n="affordance">12111068668127643521<!--LN_RN:social_LIW_Command_Remove--></T>
+    </U>
+    <U>
+      <T n="affordance">10323464365940031187<!--LN_RN:social_Knights_Command_Remove_PersonalGuard--></T>
+    </U>
+    <U>
+      <T n="affordance">14373889985501597201<!--LN_RN:social_Knights_Command_Remove_Knight--></T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

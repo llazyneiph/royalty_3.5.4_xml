@@ -1,0 +1,36 @@
+<I xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" c="Buff" s="9859918240155417409" i="buff" m="buffs.buff" n="llazyneiph_RoyaltyMod_Buff_In the Presence of of Tyrant!">
+  <T n="buff_description">0xACC7E5EA<!--{0.SimFirstName}'s hairs on the back of {0.SimPronounPossessiveDependent} neck are standing on end! {0.SimPronounSubjective|xxUpper}'s close to the tyrant, better hide!--></T>
+  <T n="buff_name">0xC790B1C6<!--In the Presence of of Tyrant!--></T>
+  <T n="icon">2f7d0004:00000000:eae3dc530a9e51bf</T>
+  <T n="mood_type">14645<!--Mood_Stressed--></T>
+  <T n="mood_weight">1</T>
+  <V n="proximity_detection_tests" t="proximity_tests">
+    <L n="proximity_tests">
+      <L>
+        <V t="trait">
+          <U n="trait">
+            <L n="whitelist_traits">
+              <T>18164583978991418626<!--LN_RM_trait_DepisedRoyal--></T>
+            </L>
+            <E n="subject">TargetSim</E>
+          </U>
+        </V>
+        <V t="trait">
+          <U n="trait">
+            <L n="blacklist_traits">
+              <T>18164583978991418627</T>
+              <T>18164583978991418625<!--LN_RM_trait_Heir--></T>
+              <T>18164583978991418636<!--LN_RM_trait_PassedDownCrown--></T>
+              <T>2522365735</T>
+              <T>18164583978991418630<!--LN_RM_trait_Nanny--></T>
+              <T>18164583978991418624</T>
+              <T>18164583978991418631<!--llazyneiph_RoyaltyMod_GameplayTrait_RoyalServant--></T>
+              <T>16258617669891517948<!--LN_RM_trait_TrustedAdvisor_Gameplay--></T>
+            </L>
+            <E n="subject">Actor</E>
+          </U>
+        </V>
+      </L>
+    </L>
+  </V>
+</I>

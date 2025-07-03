@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="LN_RM:Recite_Rulers_Oath" s="9956532752684576284">
+  <L n="_constraints">
+    <U>
+      <L n="constraints">
+        <U>
+          <V n="value" t="current_position">
+            <U n="current_position">
+              <T n="radius">0</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </U>
+  </L>
+  <V n="_icon" t="participant">
+    <U n="participant">
+      <L n="participant_type">
+        <E>Actor</E>
+      </L>
+    </U>
+  </V>
+  <V n="_saveable" t="enabled" />
+  <T n="attention_cost">0.5</T>
+  <V n="basic_content" t="flexible_length">
+    <U n="flexible_length">
+      <L n="conditional_actions">
+        <V t="literal">
+          <U n="literal">
+            <L n="conditions">
+              <V t="time_based">
+                <U n="time_based">
+                  <T n="max_time">15</T>
+                  <T n="min_time">5</T>
+                </U>
+              </V>
+            </L>
+          </U>
+        </V>
+      </L>
+      <V n="content" t="looping_content">
+        <U n="looping_content">
+          <U n="animation_ref">
+            <T n="factory">18277291612447959872<!--LN_RM:Monarch_Promise_Animation--></T>
+          </U>
+        </U>
+      </V>
+      <V n="periodic_stat_change" t="enabled">
+        <U n="enabled">
+          <L n="operations">
+            <V t="statistic_change">
+              <U n="statistic_change">
+                <T n="amount">5</T>
+                <T n="stat">16699<!--statistic_Skill_AdultMajor_Charisma--></T>
+              </U>
+            </V>
+          </L>
+        </U>
+      </V>
+    </U>
+  </V>
+  <L n="basic_extras">
+  <V t="notification">
+  <U n="notification">
+    <V n="dialog" t="single">
+      <V n="single" t="literal">
+        <U n="literal">
+          <V n="icon" t="enabled">
+            <V n="enabled" t="participant">
+              <U n="participant">
+                <L n="participant_type">
+                  <E>Actor</E>
+                </L>
+              </U>
+            </V>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x73121FE6<!--{0.SimFirstName} has taken the Ruler's oath and the Kingdom is feeling confident in {0.SimPronounPossessiveDependent} new reign!--></T>
+          </V>
+          <E n="visual_type">INFORMATION</E>
+        </U>
+      </V>
+    </V>
+    <V n="timing" t="at_end" />
+  </U>
+</V>
+    <V t="broadcaster">
+      <U n="broadcaster">
+        <L n="broadcaster_types">
+          <U>
+            <T n="item">12688626390772660885<!--LN_RM:broadcaster_Coronation_WatchReaction--></T>
+          </U>
+        </L>
+        <V n="offset_time" t="enabled" />
+        <E n="participant">Actor</E>
+      </U>
+    </V>
+    <V t="broadcaster">
+      <U n="broadcaster">
+        <L n="broadcaster_types">
+          <U>
+            <T n="item">11596126300857668991<!--LN_RM:broadcaster_Coronation_Oath--></T>
+          </U>
+        </L>
+        <E n="participant">Actor</E>
+      </U>
+    </V>
+  </L>
+  <T n="category">11948697865115328889<!--LN_RM:pieMenuCategory_Coronation--></T>
+  <V n="content_score" t="disabled" />
+  <T n="display_name">0x217FDCB6<!--Recite Ruler's Oath--></T>
+  <U n="display_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Actor</E>
+            </U>
+          </V>
+        </U>
+      </V>
+      <V t="participant_type">
+        <U n="participant_type">
+          <V n="objects" t="from_participant">
+            <U n="from_participant">
+              <E n="participant">Object</E>
+            </U>
+          </V>
+        </U>
+      </V>
+    </L>
+  </U>
+  <L n="interaction_category_tags">
+    <E>Interaction_Super</E>
+    <E>Interaction_All</E>
+  </L>
+  <E n="scoring_priority">NORMAL</E>
+  <T n="subaction_selection_weight">1</T>
+  <E n="target_type">ACTOR</E>
+  <L n="test_globals">
+    <V t="buff">
+      <U n="buff">
+        <E n="subject">Actor</E>
+        <V n="whitelist" t="enabled">
+          <L n="enabled">
+            <T>13470958406941229058<!--LN_RM:buff_Confidence_RecentlyCrowned--></T>
+          </L>
+        </V>
+      </U>
+    </V>
+    <V t="sim_info">
+      <U n="sim_info">
+        <V n="ages" t="specified">
+          <L n="specified">
+            <E>TEEN</E>
+            <E>YOUNGADULT</E>
+            <E>ADULT</E>
+            <E>ELDER</E>
+            <E>CHILD</E>
+          </L>
+        </V>
+        <V n="species" t="specified">
+          <U n="specified">
+            <L n="species">
+              <E />
+            </L>
+          </U>
+        </V>
+        <E n="who">Actor</E>
+      </U>
+    </V>
+    <V t="identity">
+      <U n="identity">
+        <T n="subjects_match">True</T>
+      </U>
+    </V>
+    <V t="swim_location">
+      <U n="swim_location">
+        <T n="invert">True</T>
+        <V n="test" t="swim_in_ocean" />
+      </U>
+    </V>
+  </L>
+  <T n="time_overhead">30</T>
+</I>
